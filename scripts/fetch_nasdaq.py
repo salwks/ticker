@@ -4,7 +4,6 @@ import json
 import os
 from datetime import datetime
 
-# Create data directory if it doesn't exist
 os.makedirs('data', exist_ok=True)
 
 url = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqtraded.txt"
@@ -18,13 +17,19 @@ tickers = []
 
 for line in lines[1:-1]:
     fields = line.split('|')
-    if len(fields) < 7 or fields[0].endswith('.TEST') or fields[0].startswith('$'):
+    if len(fields) < 7:
         continue
     
-    symbol = fields[0].strip()
-    name = fields[1].strip()
+    # FIXED: Correct field mapping
+    symbol = fields[1].strip()  # Symbol
+    name = fields[2].strip()    # Security Name
+    exchange_code = fields[3].strip()
+    etf = fields[6].strip() if len(fields) > 6 else 'N'
     
-    if not symbol or not name or name == 'N/A':
+    if symbol.endswith('.TEST') or symbol.startswith('$') or not symbol:
+        continue
+    
+    if not name or name == 'N/A':
         continue
     
     exchange_map = {'Q': 'NASDAQ', 'N': 'NYSE', 'A': 'AMEX', 'P': 'NYSE ARCA', 'Z': 'BATS'}
@@ -32,8 +37,8 @@ for line in lines[1:-1]:
     tickers.append({
         'symbol': symbol,
         'name': name,
-        'exchange': exchange_map.get(fields[2].strip(), 'OTHER'),
-        'isETF': fields[5].strip() == 'Y'
+        'exchange': exchange_map.get(exchange_code, 'OTHER'),
+        'isETF': etf == 'Y'
     })
 
 output = {
