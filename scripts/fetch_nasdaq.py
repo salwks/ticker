@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 import requests
 import json
+import os
 from datetime import datetime
+
+# Create data directory if it doesn't exist
+os.makedirs('data', exist_ok=True)
 
 url = "https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqtraded.txt"
 print(f"📡 Fetching from NASDAQ...")
