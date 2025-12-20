@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-Quarterly Fundamentals Crawler
-Crawls ROE, Debt/Equity, EPS, and other financial metrics from Yahoo Finance
+Quarterly Fundamentals Crawler (yfinance version)
+Crawls ROE, Debt/Equity, EPS, and other financial metrics using yfinance
 Runs quarterly: Feb 5, May 5, Aug 5, Nov 5
 """
 
-import requests
+import yfinance as yf
 import json
 import os
 from datetime import datetime
@@ -15,70 +15,38 @@ import sys
 
 # Configuration
 OUTPUT_FILE = 'data/fundamentals.json'
-USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-BASE_URL = 'https://query2.finance.yahoo.com/v10/finance/quoteSummary/{}'
 
 def get_fundamentals(symbol):
-    """Fetch fundamental data for a single symbol"""
-    url = BASE_URL.format(symbol)
-    params = {
-        'modules': 'defaultKeyStatistics,financialData,summaryDetail'
-    }
-    headers = {
-        'User-Agent': USER_AGENT
-    }
-    
+    """Fetch fundamental data for a single symbol using yfinance"""
     try:
-        response = requests.get(url, params=params, headers=headers, timeout=10)
+        ticker = yf.Ticker(symbol)
+        info = ticker.info
         
-        if response.status_code == 404:
-            print(f"  ⚠️  {symbol}: Not found (delisted?)")
+        # Check if ticker exists
+        if not info or 'symbol' not in info:
+            print(f"  ⚠️  {symbol}: Not found")
             return None
-            
-        if response.status_code == 429:
-            print(f"  ⏸️  Rate limited, waiting 60s...")
-            sleep(60)
-            return get_fundamentals(symbol)  # Retry
-            
-        response.raise_for_status()
-        data = response.json()
         
-        # Extract data
-        result = data.get('quoteSummary', {}).get('result', [])
-        if not result:
-            return None
-            
-        quote = result[0]
-        financial = quote.get('financialData', {})
-        stats = quote.get('defaultKeyStatistics', {})
-        summary = quote.get('summaryDetail', {})
-        
-        # Extract values (handle both dict and direct value)
-        def get_value(data, key):
-            val = data.get(key)
-            if isinstance(val, dict):
-                return val.get('raw')
-            return val
-        
+        # Extract fundamentals
         fundamentals = {
-            'roe': get_value(financial, 'returnOnEquity'),
-            'debtToEquity': get_value(financial, 'debtToEquity'),
-            'currentRatio': get_value(financial, 'currentRatio'),
-            'eps': get_value(stats, 'trailingEps'),
-            'dividendRate': get_value(summary, 'dividendRate'),
-            'dividendYield': get_value(summary, 'dividendYield'),
-            'profitMargin': get_value(financial, 'profitMargins'),
-            'bookValue': get_value(stats, 'bookValue')
+            'roe': info.get('returnOnEquity'),
+            'debtToEquity': info.get('debtToEquity'),
+            'currentRatio': info.get('currentRatio'),
+            'eps': info.get('trailingEps'),
+            'dividendRate': info.get('dividendRate'),
+            'dividendYield': info.get('dividendYield'),
+            'profitMargin': info.get('profitMargins'),
+            'bookValue': info.get('bookValue')
         }
         
-        # Convert percentages
+        # Convert percentages (yfinance returns decimals)
         if fundamentals['roe'] is not None:
             fundamentals['roe'] *= 100
         if fundamentals['dividendYield'] is not None:
             fundamentals['dividendYield'] *= 100
         if fundamentals['profitMargin'] is not None:
             fundamentals['profitMargin'] *= 100
-            
+        
         return fundamentals
         
     except Exception as e:
@@ -118,9 +86,9 @@ def crawl_all(symbols, limit=None):
         else:
             errors += 1
         
-        # Random delay to avoid rate limiting
+        # Random delay to be respectful
         if i < len(symbols):
-            delay = uniform(0.5, 2.0)
+            delay = uniform(0.3, 1.0)
             sleep(delay)
     
     print(f"\n✅ Completed: {len(results)} success, {errors} errors")
@@ -156,7 +124,7 @@ if __name__ == '__main__':
     if test_mode:
         # Test with 10 symbols
         test_symbols = ['AAPL', 'MSFT', 'NVDA', 'GOOGL', 'AMZN', 
-                       'META', 'TSLA', 'BRK.B', 'V', 'JPM']
+                       'META', 'TSLA', 'BRK-B', 'V', 'JPM']
         print("🧪 TEST MODE: Crawling 10 symbols only")
         symbols = test_symbols
     else:

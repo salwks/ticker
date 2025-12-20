@@ -1,10 +1,8 @@
 name: Update Quarterly Fundamentals
 
 on:
-  # 분기별: 2월, 5월, 8월, 11월 5일
   schedule:
     - cron: '0 2 5 2,5,8,11 *'
-  # 수동 실행 허용
   workflow_dispatch:
 
 permissions:
@@ -15,18 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      
       - name: Install dependencies
-        run: pip install requests
-      
+        run: pip install yfinance
       - name: Fetch fundamentals (test mode)
         run: python scripts/fetch_fundamentals.py --test
-      
       - name: Commit changes
         run: |
           git config user.name "GitHub Actions"
