@@ -1,0 +1,36 @@
+name: Update Quarterly Fundamentals
+
+on:
+  # 분기별: 2월, 5월, 8월, 11월 5일
+  schedule:
+    - cron: '0 2 5 2,5,8,11 *'
+  # 수동 실행 허용
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Fetch fundamentals (test mode)
+        run: python scripts/fetch_fundamentals.py --test
+      
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add data/fundamentals.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update fundamentals $(date +'%Y-%m-%d')"
+          git push
