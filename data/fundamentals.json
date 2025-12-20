@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-20T07:54:43.113751Z",
+  "lastUpdated": "2025-12-20T21:48:35.188192Z",
   "quarter": "2025-Q4",
   "count": 10,
   "data": {
@@ -73,7 +73,7 @@
       "profitMargin": 5.314,
       "bookValue": 24.058
     },
-    "BRK-B": {
+    "BRK.B": {
       "roe": 10.17,
       "debtToEquity": 18.166,
       "currentRatio": 2.722,
