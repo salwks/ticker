@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Quarterly Fundamentals Crawler (yfinance version)
+Quarterly Fundamentals Crawler (yfinance version with symbol normalization)
 Crawls ROE, Debt/Equity, EPS, and other financial metrics using yfinance
 Runs quarterly: Feb 5, May 5, Aug 5, Nov 5
 """
@@ -16,10 +16,21 @@ import sys
 # Configuration
 OUTPUT_FILE = 'data/fundamentals.json'
 
+def normalize_for_yfinance(symbol):
+    """Convert NASDAQ format (BRK.B) to yfinance format (BRK-B)"""
+    return symbol.replace('.', '-')
+
+def normalize_for_storage(symbol):
+    """Convert yfinance format back to NASDAQ format for consistency"""
+    return symbol.replace('-', '.')
+
 def get_fundamentals(symbol):
     """Fetch fundamental data for a single symbol using yfinance"""
+    # Convert symbol for yfinance API
+    yf_symbol = normalize_for_yfinance(symbol)
+    
     try:
-        ticker = yf.Ticker(symbol)
+        ticker = yf.Ticker(yf_symbol)
         info = ticker.info
         
         # Check if ticker exists
@@ -81,6 +92,7 @@ def crawl_all(symbols, limit=None):
         
         data = get_fundamentals(symbol)
         if data:
+            # Store with NASDAQ format (original symbol)
             results[symbol] = data
             print("✅")
         else:
@@ -92,6 +104,7 @@ def crawl_all(symbols, limit=None):
             sleep(delay)
     
     print(f"\n✅ Completed: {len(results)} success, {errors} errors")
+    print(f"📝 Note: Symbols stored in NASDAQ format (e.g., BRK.B)")
     return results
 
 def save_results(data):
@@ -122,10 +135,11 @@ if __name__ == '__main__':
     test_mode = '--test' in sys.argv
     
     if test_mode:
-        # Test with 10 symbols
+        # Test with 10 symbols (using NASDAQ format from tickers.json)
         test_symbols = ['AAPL', 'MSFT', 'NVDA', 'GOOGL', 'AMZN', 
-                       'META', 'TSLA', 'BRK-B', 'V', 'JPM']
+                       'META', 'TSLA', 'BRK.B', 'V', 'JPM']
         print("🧪 TEST MODE: Crawling 10 symbols only")
+        print("📝 Note: Using NASDAQ format (BRK.B), will convert to BRK-B for yfinance")
         symbols = test_symbols
     else:
         symbols = load_ticker_list()
