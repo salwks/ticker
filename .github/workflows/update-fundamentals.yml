@@ -11,16 +11,21 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v3
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+      
       - name: Install dependencies
         run: pip install yfinance
-      - name: Fetch fundamentals (test mode)
-        run: python scripts/fetch_fundamentals.py --test
+      
+      - name: Fetch fundamentals (FULL)
+        run: python scripts/fetch_fundamentals.py
+      
       - name: Commit changes
         run: |
           git config user.name "GitHub Actions"
