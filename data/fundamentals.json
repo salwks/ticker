@@ -1,0 +1,107 @@
+{
+  "lastUpdated": "2025-12-20T07:54:43.113751Z",
+  "quarter": "2025-Q4",
+  "count": 10,
+  "data": {
+    "AAPL": {
+      "roe": 171.42199,
+      "debtToEquity": 152.411,
+      "currentRatio": 0.893,
+      "eps": 7.47,
+      "dividendRate": 1.04,
+      "dividendYield": 38.0,
+      "profitMargin": 26.915001999999998,
+      "bookValue": 4.991
+    },
+    "MSFT": {
+      "roe": 32.241002,
+      "debtToEquity": 33.154,
+      "currentRatio": 1.401,
+      "eps": 14.04,
+      "dividendRate": 3.64,
+      "dividendYield": 75.0,
+      "profitMargin": 35.707,
+      "bookValue": 48.84
+    },
+    "NVDA": {
+      "roe": 107.35900000000001,
+      "debtToEquity": 9.102,
+      "currentRatio": 4.468,
+      "eps": 4.04,
+      "dividendRate": 0.04,
+      "dividendYield": 2.0,
+      "profitMargin": 53.007000000000005,
+      "bookValue": 4.892
+    },
+    "GOOGL": {
+      "roe": 35.449999999999996,
+      "debtToEquity": 11.424,
+      "currentRatio": 1.747,
+      "eps": 10.14,
+      "dividendRate": 0.84,
+      "dividendYield": 27.0,
+      "profitMargin": 32.233003,
+      "bookValue": 32.033
+    },
+    "AMZN": {
+      "roe": 24.326999999999998,
+      "debtToEquity": 43.405,
+      "currentRatio": 1.009,
+      "eps": 7.07,
+      "dividendRate": null,
+      "dividendYield": null,
+      "profitMargin": 11.063,
+      "bookValue": 34.587
+    },
+    "META": {
+      "roe": 32.643001999999996,
+      "debtToEquity": 26.311,
+      "currentRatio": 1.978,
+      "eps": 22.6,
+      "dividendRate": 2.1,
+      "dividendYield": 32.0,
+      "profitMargin": 30.891999999999996,
+      "bookValue": 76.98
+    },
+    "TSLA": {
+      "roe": 6.7909999999999995,
+      "debtToEquity": 17.082,
+      "currentRatio": 2.066,
+      "eps": 1.44,
+      "dividendRate": null,
+      "dividendYield": null,
+      "profitMargin": 5.314,
+      "bookValue": 24.058
+    },
+    "BRK-B": {
+      "roe": 10.17,
+      "debtToEquity": 18.166,
+      "currentRatio": 2.722,
+      "eps": 31.25,
+      "dividendRate": null,
+      "dividendYield": null,
+      "profitMargin": 18.129,
+      "bookValue": 485274.34
+    },
+    "V": {
+      "roe": 52.068000000000005,
+      "debtToEquity": 68.807,
+      "currentRatio": 1.078,
+      "eps": 10.2,
+      "dividendRate": 2.68,
+      "dividendYield": 77.0,
+      "profitMargin": 50.144999999999996,
+      "bookValue": 19.382
+    },
+    "JPM": {
+      "roe": 16.436999999999998,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "eps": 20.17,
+      "dividendRate": 6.0,
+      "dividendYield": 189.0,
+      "profitMargin": 34.699999999999996,
+      "bookValue": 124.957
+    }
+  }
+}
