@@ -38,7 +38,7 @@ def get_fundamentals(symbol):
             print(f"  ⚠️  {symbol}: Not found")
             return None
         
-        # Extract fundamentals
+        # Extract fundamentals (기존 필드)
         fundamentals = {
             'roe': info.get('returnOnEquity'),
             'debtToEquity': info.get('debtToEquity'),
@@ -47,9 +47,22 @@ def get_fundamentals(symbol):
             'dividendRate': info.get('dividendRate'),
             'dividendYield': info.get('dividendYield'),
             'profitMargin': info.get('profitMargins'),
-            'bookValue': info.get('bookValue')
+            'bookValue': info.get('bookValue'),
+            # 버핏 스코어용 추가 필드
+            'totalDebt': info.get('totalDebt'),
+            'netIncomeToCommon': info.get('netIncomeToCommon'),
+            'freeCashflow': info.get('freeCashflow'),
+            'operatingMargins': info.get('operatingMargins'),
+            'grossMargins': info.get('grossMargins'),
+            'totalCash': info.get('totalCash'),
+            'totalRevenue': info.get('totalRevenue'),
+            'operatingCashflow': info.get('operatingCashflow'),
+            'revenueGrowth': info.get('revenueGrowth'),
+            'earningsGrowth': info.get('earningsGrowth'),
+            'quickRatio': info.get('quickRatio'),
+            'returnOnAssets': info.get('returnOnAssets')
         }
-        
+
         # Convert percentages (yfinance returns decimals)
         if fundamentals['roe'] is not None:
             fundamentals['roe'] *= 100
@@ -57,6 +70,16 @@ def get_fundamentals(symbol):
             fundamentals['dividendYield'] *= 100
         if fundamentals['profitMargin'] is not None:
             fundamentals['profitMargin'] *= 100
+        if fundamentals['operatingMargins'] is not None:
+            fundamentals['operatingMargins'] *= 100
+        if fundamentals['grossMargins'] is not None:
+            fundamentals['grossMargins'] *= 100
+        if fundamentals['revenueGrowth'] is not None:
+            fundamentals['revenueGrowth'] *= 100
+        if fundamentals['earningsGrowth'] is not None:
+            fundamentals['earningsGrowth'] *= 100
+        if fundamentals['returnOnAssets'] is not None:
+            fundamentals['returnOnAssets'] *= 100
         
         return fundamentals
         
@@ -65,16 +88,16 @@ def get_fundamentals(symbol):
         return None
 
 def load_ticker_list():
-    """Load ticker symbols from tickers.json"""
-    ticker_file = 'data/tickers.json'
-    
-    if not os.path.exists(ticker_file):
-        print(f"❌ Ticker file not found: {ticker_file}")
+    """Load ticker symbols from sp500.json (S&P 500 only)"""
+    sp500_file = 'data/sp500.json'
+
+    if not os.path.exists(sp500_file):
+        print(f"❌ S&P 500 file not found: {sp500_file}")
         sys.exit(1)
-    
-    with open(ticker_file, 'r') as f:
+
+    with open(sp500_file, 'r') as f:
         data = json.load(f)
-        return [t['symbol'] for t in data['tickers']]
+        return data['symbols']
 
 def crawl_all(symbols, limit=None):
     """Crawl fundamentals for all symbols"""
