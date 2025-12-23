@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-22T02:40:00.312827Z",
-  "count": 12159,
+  "lastUpdated": "2025-12-23T02:36:41.776218Z",
+  "count": 12156,
   "tickers": [
     {
       "symbol": "A",
@@ -3689,13 +3689,13 @@
     {
       "symbol": "APRT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Apr ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
       "symbol": "APRW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Apr ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -4019,12 +4019,6 @@
     {
       "symbol": "ARKO",
       "name": "ARKO Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ARKOW",
-      "name": "ARKO Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -4991,7 +4985,7 @@
     {
       "symbol": "AUGT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Aug ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -5003,7 +4997,7 @@
     {
       "symbol": "AUGW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Aug ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16595,7 +16589,7 @@
     {
       "symbol": "DECT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Dec ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16607,7 +16601,7 @@
     {
       "symbol": "DECW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Dec ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -23141,7 +23135,7 @@
     {
       "symbol": "FEBT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Feb ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -23153,7 +23147,7 @@
     {
       "symbol": "FEBW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Feb ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -24023,7 +24017,7 @@
     {
       "symbol": "FLAO",
       "name": "AllianzIM U.S. Equity 6 Month Floor5 Apr/Oct ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -24227,7 +24221,7 @@
     {
       "symbol": "FLJJ",
       "name": "AllianzIM U.S. Equity 6 Month Floor5 Jan/Jul ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -26241,6 +26235,12 @@
       "isETF": false
     },
     {
+      "symbol": "GAID",
+      "name": "Guinness Atkinson International Dividend Builder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GAIN",
       "name": "Gladstone Investment Corporation - Business Development Company",
       "exchange": "NASDAQ",
@@ -26325,9 +26325,21 @@
       "isETF": false
     },
     {
+      "symbol": "GARA",
+      "name": "Guinness Atkinson Real Assets Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GARP",
       "name": "iShares MSCI USA Quality GARP ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "GARY",
+      "name": "Mango Growth ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -26346,6 +26358,12 @@
       "symbol": "GAU",
       "name": "Galiano Gold Inc.",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "GAUD",
+      "name": "Guinness Atkinson US Dividend Builder ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -29817,12 +29835,6 @@
       "isETF": false
     },
     {
-      "symbol": "HEAT",
-      "name": "Touchstone Climate Transition ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "HECA",
       "name": "Hedgeye Capital Allocation ETF",
       "exchange": "NYSE ARCA",
@@ -31038,6 +31050,12 @@
       "symbol": "HTRB",
       "name": "Hartford Total Return Bond ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HTT",
+      "name": "High Templar Tech Limited American depositary shares, each representing one Class A ordinary share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -32595,6 +32613,18 @@
       "isETF": false
     },
     {
+      "symbol": "IGAC",
+      "name": "Invest Green Acquisition Corporation - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IGACR",
+      "name": "Invest Green Acquisition Corporation - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IGACU",
       "name": "Invest Green Acquisition Corporation - Units",
       "exchange": "NASDAQ",
@@ -34125,12 +34155,6 @@
       "isETF": false
     },
     {
-      "symbol": "IRBT",
-      "name": "iRobot Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IRD",
       "name": "Opus Genetics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -35159,7 +35183,7 @@
     {
       "symbol": "JANT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Jan ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -35171,7 +35195,7 @@
     {
       "symbol": "JANW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Jan ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -36215,7 +36239,7 @@
     {
       "symbol": "JULT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Jul ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -36227,7 +36251,7 @@
     {
       "symbol": "JULW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Jul ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -36257,13 +36281,13 @@
     {
       "symbol": "JUNT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Jun ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
       "symbol": "JUNW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Jun ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40283,7 +40307,7 @@
     {
       "symbol": "MART",
       "name": "AllianzIM U.S. Large Cap Buffer10 Mar ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40295,7 +40319,7 @@
     {
       "symbol": "MARW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Mar ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40415,7 +40439,7 @@
     {
       "symbol": "MAYT",
       "name": "AllianzIM U.S. Large Cap Buffer10 May ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40427,7 +40451,7 @@
     {
       "symbol": "MAYW",
       "name": "AllianzIM U.S. Large Cap Buffer20 May ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -42591,12 +42615,6 @@
       "isETF": false
     },
     {
-      "symbol": "MPTI.W",
-      "name": "M-tron Industries, Inc. Warrants to Purchase Shares of Common Stock, Expiring on or before April 25, 2028",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "MPU",
       "name": "Mega Matrix Inc. Class A Ordinary Shares",
       "exchange": "AMEX",
@@ -43056,24 +43074,6 @@
       "symbol": "MSOX",
       "name": "AdvisorShares MSOS Daily Leveraged ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MSPR",
-      "name": "MSP Recovery, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MSPRW",
-      "name": "MSP Recovery, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MSPRZ",
-      "name": "MSP Recovery, Inc. - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -46355,7 +46355,7 @@
     {
       "symbol": "NVBT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Nov ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -46367,7 +46367,7 @@
     {
       "symbol": "NVBW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Nov ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -47207,7 +47207,7 @@
     {
       "symbol": "OCTT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Oct ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -47219,7 +47219,7 @@
     {
       "symbol": "OCTW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Oct ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -52881,12 +52881,6 @@
       "isETF": false
     },
     {
-      "symbol": "QD",
-      "name": "Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "QDEC",
       "name": "FT Vest Nasdaq-100 Buffer ETF - December",
       "exchange": "BATS",
@@ -53248,7 +53242,7 @@
     },
     {
       "symbol": "QQEW",
-      "name": "First Trust NASDAQ-100 Equal Weighted Index Fund",
+      "name": "First Trust Nasdaq-100 Select Equal Weight ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53946,18 +53940,6 @@
       "symbol": "RAYA",
       "name": "Erayak Power Solution Group Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RAYD",
-      "name": "Rayliant Quantitative Developed Market Equity ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "RAYE",
-      "name": "Rayliant Quantamental Emerging Market ex-China Equity ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -56331,6 +56313,12 @@
       "isETF": false
     },
     {
+      "symbol": "RWEM",
+      "name": "Rayliant Wilshire NxtGen Emerging Markets Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RWJ",
       "name": "Invesco S&P SmallCap 600 Revenue ETF",
       "exchange": "NYSE ARCA",
@@ -56345,6 +56333,12 @@
     {
       "symbol": "RWL",
       "name": "Invesco S&P 500 Revenue ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "RWLC",
+      "name": "Rayliant Wilshire NxtGen US Large Cap Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -57935,7 +57929,7 @@
     {
       "symbol": "SEPT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Sep ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -57947,7 +57941,7 @@
     {
       "symbol": "SEPW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Sep ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58763,13 +58757,13 @@
     {
       "symbol": "SIXD",
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Jun/Dec ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
       "symbol": "SIXF",
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58787,7 +58781,7 @@
     {
       "symbol": "SIXJ",
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Jan/Jul ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58799,13 +58793,13 @@
     {
       "symbol": "SIXO",
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Apr/Oct ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
       "symbol": "SIXP",
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Mar/Sep ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58817,7 +58811,7 @@
     {
       "symbol": "SIXZ",
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 May/Nov ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -60317,13 +60311,13 @@
     {
       "symbol": "SPBW",
       "name": "AllianzIM Buffer20 Allocation ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
       "symbol": "SPBX",
       "name": "AllianzIM 6 Month Buffer10 Allocation ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -67323,12 +67317,6 @@
       "isETF": false
     },
     {
-      "symbol": "UWMC.W",
-      "name": "UWM Holdings Corporation Warrant",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "UX",
       "name": "Roundhill Uranium ETF",
       "exchange": "BATS",
@@ -72672,12 +72660,6 @@
       "symbol": "ZJZZT",
       "name": "NASDAQ TEST STOCK",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ZK",
-      "name": "ZEEKR Intelligent Technology Holding Limited American Depositary Shares (each representing ten (10) Ordinary Shares)",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
