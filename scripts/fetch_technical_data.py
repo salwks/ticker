@@ -17,6 +17,10 @@ import sys
 OUTPUT_FILE = 'data/technical_data.json'
 HISTORY_PERIOD = '1y'  # 1 year for initial crawl
 
+def normalize_for_yfinance(symbol):
+    """Convert NASDAQ format (BRK.B) to yfinance format (BRK-B)"""
+    return symbol.replace('.', '-')
+
 def calculate_sma(prices, period=200):
     """Calculate Simple Moving Average"""
     if len(prices) < period:
@@ -61,8 +65,9 @@ def calculate_mdd(current_price, high_52w):
 
 def get_technical_data(symbol):
     """Fetch technical data for a single symbol"""
+    yf_symbol = normalize_for_yfinance(symbol)
     try:
-        ticker = yf.Ticker(symbol)
+        ticker = yf.Ticker(yf_symbol)
         
         # Fetch 1 year history
         history = ticker.history(period=HISTORY_PERIOD)
@@ -109,16 +114,16 @@ def get_technical_data(symbol):
         return None
 
 def load_ticker_list():
-    """Load ticker symbols from tickers.json"""
-    ticker_file = 'data/tickers.json'
-    
-    if not os.path.exists(ticker_file):
-        print(f"❌ Ticker file not found: {ticker_file}")
+    """Load ticker symbols from sp500.json (S&P 500 only)"""
+    sp500_file = 'data/sp500.json'
+
+    if not os.path.exists(sp500_file):
+        print(f"❌ S&P 500 file not found: {sp500_file}")
         sys.exit(1)
-    
-    with open(ticker_file, 'r') as f:
+
+    with open(sp500_file, 'r') as f:
         data = json.load(f)
-        return [t['symbol'] for t in data['tickers']]
+        return data['symbols']
 
 def crawl_all(symbols, limit=None):
     """Crawl technical data for all symbols"""
@@ -168,21 +173,12 @@ def save_results(data):
     print(f"📈 Symbols: {len(data)}")
 
 if __name__ == '__main__':
-    # Check for test mode
-    test_mode = '--test' in sys.argv
-    
-    if test_mode:
-        # Test with 10 symbols
-        test_symbols = ['AAPL', 'MSFT', 'NVDA', 'GOOGL', 'AMZN', 
-                       'META', 'TSLA', 'BRK.B', 'V', 'JPM']
-        print("🧪 TEST MODE: Crawling 10 symbols only")
-        symbols = test_symbols
-    else:
-        symbols = load_ticker_list()
-    
+    # Load S&P 500 symbols
+    symbols = load_ticker_list()
+
     # Crawl
-    results = crawl_all(symbols, limit=10 if test_mode else None)
-    
+    results = crawl_all(symbols)
+
     # Save
     if results:
         save_results(results)
