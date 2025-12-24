@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-24T02:34:56.916193Z",
-  "count": 12159,
+  "lastUpdated": "2025-12-24T23:05:24.703523Z",
+  "count": 12153,
   "tickers": [
     {
       "symbol": "A",
@@ -10191,6 +10191,12 @@
       "isETF": false
     },
     {
+      "symbol": "BVC",
+      "name": "BitVentures Limited - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BVFL",
       "name": "BV Financial, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -13804,7 +13810,7 @@
     },
     {
       "symbol": "COIN",
-      "name": "Coinbase Global, Inc. - Class A Common Stock",
+      "name": "Coinbase Global, Inc. - 3Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31623,12 +31629,6 @@
       "isETF": false
     },
     {
-      "symbol": "IAS",
-      "name": "Integral Ad Science Holding Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IAT",
       "name": "iShares U.S. Regional Banks ETF",
       "exchange": "NYSE ARCA",
@@ -36069,12 +36069,6 @@
       "isETF": false
     },
     {
-      "symbol": "JPX",
-      "name": "Defiance Daily Target 2X Long JPM ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "JPXN",
       "name": "iShares JPX-Nikkei 400 ETF",
       "exchange": "NYSE ARCA",
@@ -38028,12 +38022,6 @@
       "symbol": "LAZ",
       "name": "Lazard, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "LAZR",
-      "name": "Luminar Technologies, Inc.  - Class A Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -61419,12 +61407,6 @@
       "isETF": false
     },
     {
-      "symbol": "STEC",
-      "name": "Santech Holdings Limited - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "STEL",
       "name": "Stellar Bancorp, Inc. Common Stock",
       "exchange": "NYSE",
@@ -68229,12 +68211,6 @@
       "isETF": false
     },
     {
-      "symbol": "VIXI",
-      "name": "Defiance Enhanced Long Vol ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VIXM",
       "name": "VIX Mid-Term Futures ETF",
       "exchange": "BATS",
@@ -71565,12 +71541,6 @@
       "isETF": false
     },
     {
-      "symbol": "XPM",
-      "name": "Defiance Daily Target 2x Long PM ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "XPND",
       "name": "First Trust Expanded Technology ETF",
       "exchange": "NYSE ARCA",
@@ -72947,12 +72917,6 @@
     {
       "symbol": "ZYME",
       "name": "Zymeworks Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ZYXI",
-      "name": "Zynex, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     }
