@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-23T02:36:41.776218Z",
-  "count": 12156,
+  "lastUpdated": "2025-12-24T02:34:56.916193Z",
+  "count": 12159,
   "tickers": [
     {
       "symbol": "A",
@@ -3417,6 +3417,12 @@
       "isETF": false
     },
     {
+      "symbol": "AOTS",
+      "name": "AOT Software Platform ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AOUT",
       "name": "American Outdoor Brands, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -3486,12 +3492,6 @@
       "symbol": "APD",
       "name": "Air Products and Chemicals, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "APED",
-      "name": "STKd 100% MSTR & 100% COIN ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20883,12 +20883,6 @@
       "isETF": false
     },
     {
-      "symbol": "EPWK",
-      "name": "EPWK Holdings Ltd. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EQ",
       "name": "Equillium, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -27515,12 +27509,6 @@
     {
       "symbol": "GLBS",
       "name": "Globus Maritime Limited - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GLBZ",
-      "name": "Glen Burnie Bancorp - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36450,12 +36438,6 @@
       "symbol": "KAUG",
       "name": "Innovator US Small Cap Power Buffer ETF - August",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "KAVL",
-      "name": "Kaival Brands Innovations Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -50343,6 +50325,12 @@
       "isETF": false
     },
     {
+      "symbol": "PIEL",
+      "name": "Pacer International Export Leaders ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PIEQ",
       "name": "Principal International Equity ETF",
       "exchange": "BATS",
@@ -53416,8 +53404,8 @@
     },
     {
       "symbol": "QS",
-      "name": "QuantumScape Corporation Class A Common Stock",
-      "exchange": "NYSE",
+      "name": "QuantumScape Corporation - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -57465,6 +57453,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCPQU",
+      "name": "Social Commerce Partners Corporation - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCSC",
       "name": "ScanSource, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -60351,12 +60345,6 @@
       "isETF": false
     },
     {
-      "symbol": "SPCY",
-      "name": "STKd 100% SMCI & 100% NVDA ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SPCZ",
       "name": "RiverNorth Enhanced Pre-Merger SPAC ETF",
       "exchange": "BATS",
@@ -61407,6 +61395,12 @@
       "isETF": false
     },
     {
+      "symbol": "STBQ",
+      "name": "Amplify Stablecoin Technology ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "STC",
       "name": "Stewart Information Services Corporation Common Stock",
       "exchange": "NYSE",
@@ -61986,6 +61980,12 @@
       "symbol": "SVAL",
       "name": "iShares US Small Cap Value Factor ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SVAQU",
+      "name": "Silicon Valley Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -63963,6 +63963,12 @@
       "isETF": false
     },
     {
+      "symbol": "TKNQ",
+      "name": "Amplify Tokenization Technology ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TKO",
       "name": "TKO Group Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -64248,6 +64254,12 @@
       "symbol": "TMHC",
       "name": "Taylor Morrison Home Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TMLP",
+      "name": "Tortoise MLP ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -68001,6 +68013,12 @@
       "isETF": false
     },
     {
+      "symbol": "VGRO",
+      "name": "Virtus Silvant Growth Opportunities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "VGSH",
       "name": "Vanguard Short-Term Treasury ETF",
       "exchange": "NASDAQ",
@@ -70953,6 +70971,12 @@
       "isETF": false
     },
     {
+      "symbol": "XEML",
+      "name": "Xtrackers Europe Market Leaders ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XENE",
       "name": "Xenon Pharmaceuticals Inc. - Common Shares",
       "exchange": "NASDAQ",
@@ -72618,12 +72642,6 @@
       "symbol": "ZIP",
       "name": "ZipRecruiter, Inc. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ZIPP",
-      "name": "STKd 100% UBER & 100% TSLA ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
