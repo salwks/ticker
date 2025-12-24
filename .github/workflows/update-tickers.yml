@@ -2,7 +2,8 @@ name: Update Ticker Data
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    # 한국시간 오전 8시 (UTC 23시 전날) - 미국 장 마감 후 종가 수집
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 permissions:
