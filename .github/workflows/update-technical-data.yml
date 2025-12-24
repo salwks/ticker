@@ -20,8 +20,8 @@ jobs:
           python-version: '3.10'
       - name: Install dependencies
         run: pip install yfinance
-      - name: Fetch technical data (test mode)
-        run: python scripts/fetch_technical_data.py --test
+      - name: Fetch technical data
+        run: python scripts/fetch_technical_data.py
       - name: Commit changes
         run: |
           git config user.name "GitHub Actions"
