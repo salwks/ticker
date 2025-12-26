@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-25T23:05:30.634134Z",
-  "count": 12153,
+  "lastUpdated": "2025-12-26T23:05:36.284971Z",
+  "count": 12150,
   "tickers": [
     {
       "symbol": "A",
@@ -5471,12 +5471,6 @@
     {
       "symbol": "AWAY",
       "name": "Amplify Travel Tech ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "AWEG",
-      "name": "Alger Weatherbie Enduring Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -20118,12 +20112,6 @@
       "symbol": "ELOG",
       "name": "Eastern International Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ELP",
-      "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Class A Preferred Shares)",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -36405,12 +36393,6 @@
       "isETF": false
     },
     {
-      "symbol": "KAR",
-      "name": "OPENLANE, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "KARO",
       "name": "Karooooo Ltd. - Ordinary shares",
       "exchange": "NASDAQ",
@@ -41758,13 +41740,13 @@
     },
     {
       "symbol": "MITN",
-      "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
+      "name": "TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "MITP",
-      "name": "AG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
+      "name": "TPG Mortgage Investment Trust, Inc. 9.500% Senior Notes due 2029",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -41776,25 +41758,25 @@
     },
     {
       "symbol": "MITT",
-      "name": "AG Mortgage Investment Trust, Inc. Common Stock",
+      "name": "TPG Mortgage Investment Trust, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "MITT$A",
-      "name": "AG Mortgage Investment Trust, Inc. 8.25% Preferred Series A",
+      "name": "TPG Mortgage Investment Trust, Inc. 8.25% Series A Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "MITT$B",
-      "name": "AG Mortgage Investment Trust, Inc. Preferred Series B",
+      "name": "TPG Mortgage Investment Trust, Inc. 8.00% Series B Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "MITT$C",
-      "name": "AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
+      "name": "TPG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -47910,6 +47892,12 @@
       "symbol": "OPK",
       "name": "Opko Health, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OPLN",
+      "name": "OPENLANE, Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -68196,12 +68184,6 @@
       "symbol": "VIV",
       "name": "Telefonica Brasil S.A. American Depositary Shares (Each representing One Common Share)",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VIVK",
-      "name": "Vivakor, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
