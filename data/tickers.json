@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-28T23:05:30.981188Z",
-  "count": 12150,
+  "lastUpdated": "2025-12-29T23:05:26.479479Z",
+  "count": 12147,
   "tickers": [
     {
       "symbol": "A",
@@ -5542,7 +5542,7 @@
     },
     {
       "symbol": "AXIA$",
-      "name": "AXIA Energia American Depositary Shares (Each representing one Preferred Share)",
+      "name": "AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share)",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -12605,12 +12605,6 @@
     {
       "symbol": "CIFR",
       "name": "Cipher Mining Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CIFRW",
-      "name": "Cipher Mining Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -19895,12 +19889,6 @@
     {
       "symbol": "EICA",
       "name": "Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "EICB",
-      "name": "Eagle Point Income Company Inc. 7.75% Series B Term Preferred Stock Due 2028",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -46588,7 +46576,7 @@
     },
     {
       "symbol": "NWGL",
-      "name": "Nature Wood Group Limited - American Depositary Shares",
+      "name": "CL Workshop Group Limited - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -65417,12 +65405,6 @@
     {
       "symbol": "TTRX",
       "name": "Turn Therapeutics Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TTSH",
-      "name": "Tile Shop Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
