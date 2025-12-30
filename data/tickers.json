@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-29T23:05:26.479479Z",
-  "count": 12147,
+  "lastUpdated": "2025-12-30T23:05:16.749890Z",
+  "count": 12156,
   "tickers": [
     {
       "symbol": "A",
@@ -309,12 +309,6 @@
       "isETF": false
     },
     {
-      "symbol": "ABL",
-      "name": "Abacus Global Management, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ABLD",
       "name": "Abacus FCF Real Assets Leaders ETF",
       "exchange": "BATS",
@@ -324,12 +318,6 @@
       "symbol": "ABLG",
       "name": "Abacus FCF International Leaders ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "ABLLL",
-      "name": "Abacus Global Management, Inc. - 9.875% Fixed Rate Senior Notes due 2028",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -474,6 +462,12 @@
       "symbol": "ABVX",
       "name": "Abivax SA - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ABX",
+      "name": "Abacus Global Management, Inc. Class A Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -4233,6 +4227,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARWG",
+      "name": "Archer Growth ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ARWR",
       "name": "Arrowhead Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -5543,6 +5543,12 @@
     {
       "symbol": "AXIA$",
       "name": "AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share)",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AXIA$C",
+      "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -9801,6 +9807,12 @@
       "isETF": false
     },
     {
+      "symbol": "BTFL",
+      "name": "Defiance Daily Target 2X Long BITF ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BTG",
       "name": "B2Gold Corp Common shares (Canada)",
       "exchange": "AMEX",
@@ -12953,12 +12965,6 @@
     {
       "symbol": "CLNN",
       "name": "Clene Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CLNNW",
-      "name": "Clene Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -23007,6 +23013,12 @@
       "isETF": false
     },
     {
+      "symbol": "FDRS",
+      "name": "Founder-Led ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FDRV",
       "name": "Fidelity Electric Vehicles and Future Transportation ETF",
       "exchange": "BATS",
@@ -32979,18 +32991,6 @@
       "isETF": false
     },
     {
-      "symbol": "ILLR",
-      "name": "Triller Group Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ILLRW",
-      "name": "Triller Group Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ILMN",
       "name": "Illumina, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -38595,12 +38595,6 @@
       "isETF": false
     },
     {
-      "symbol": "LGL.W",
-      "name": "LGL Group, Inc. (The) Warrants",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "LGLV",
       "name": "State Street SPDR US Large Cap Low Volatility Index ETF",
       "exchange": "NYSE ARCA",
@@ -40104,6 +40098,12 @@
       "symbol": "MAGN",
       "name": "Magnera Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MAGO",
+      "name": "Tuttle Capital Magnificent 7 Income Blast ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -43630,61 +43630,61 @@
     },
     {
       "symbol": "MYCF",
-      "name": "SPDR SSGA My2026 Corporate Bond ETF",
+      "name": "State Street My2026 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCG",
-      "name": "SPDR SSGA My2027 Corporate Bond ETF",
+      "name": "State Street My2027 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCH",
-      "name": "SPDR SSGA My2028 Corporate Bond ETF",
+      "name": "State Street My2028 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCI",
-      "name": "SPDR SSGA My2029 Corporate Bond ETF",
+      "name": "State Street My2029 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCJ",
-      "name": "SPDR SSGA My2030 Corporate Bond ETF",
+      "name": "State Street My2030 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCK",
-      "name": "SPDR SSGA My2031 Corporate Bond ETF",
+      "name": "State Street My2031 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCL",
-      "name": "SPDR SSGA My2032 Corporate Bond ETF",
+      "name": "State Street My2032 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCM",
-      "name": "SPDR SSGA My2033 Corporate Bond ETF",
+      "name": "State Street My2033 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCN",
-      "name": "SPDR SSGA My2034 Corporate Bond ETF",
+      "name": "State Street My2034 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYCO",
-      "name": "SPDR SSGA My2035 Corporate Bond ETF",
+      "name": "State Street My2035 Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43726,37 +43726,37 @@
     },
     {
       "symbol": "MYMF",
-      "name": "SPDR SSGA My2026 Municipal Bond ETF",
+      "name": "State Street My2026 Municipal Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYMG",
-      "name": "SPDR SSGA My2027 Municipal Bond ETF",
+      "name": "State Street My2027 Municipal Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYMH",
-      "name": "SPDR SSGA My2028 Municipal Bond ETF",
+      "name": "State Street My2028 Municipal Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYMI",
-      "name": "SPDR SSGA My2029 Municipal Bond ETF",
+      "name": "State Street My2029 Municipal Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYMJ",
-      "name": "SPDR SSGA My2030 Municipal Bond ETF",
+      "name": "State Street My2030 Municipal Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYMK",
-      "name": "SPDR SSGA My2031 Municipal Bond ETF",
+      "name": "State Street My2031 Municipal Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47237,7 +47237,7 @@
     {
       "symbol": "OEFA",
       "name": "ALPS O'Shares International Developed Quality Dividend ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -47321,7 +47321,7 @@
     {
       "symbol": "OGIG",
       "name": "ALPS O'Shares Global Internet Giants ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -47652,6 +47652,12 @@
       "symbol": "OND",
       "name": "ProShares On-Demand ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ONDL",
+      "name": "Defiance Daily Target 2X Long ONDS ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48323,13 +48329,13 @@
     {
       "symbol": "OUSA",
       "name": "ALPS O'Shares U.S. Quality Dividend ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "OUSM",
       "name": "ALPS O'Shares U.S. Small-Cap Quality Dividend ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -48900,6 +48906,18 @@
       "symbol": "PAYC",
       "name": "Paycom Software, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PAYH",
+      "name": "TrueShares S&P Autocallable High Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PAYM",
+      "name": "TrueShares S&P Autocallable Defensive Income ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -65055,6 +65073,12 @@
       "isETF": false
     },
     {
+      "symbol": "TSCM",
+      "name": "TimesSquare Quality Mid Cap Growth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TSCO",
       "name": "Tractor Supply Company - Common Stock",
       "exchange": "NASDAQ",
@@ -65103,6 +65127,12 @@
       "isETF": false
     },
     {
+      "symbol": "TSES",
+      "name": "Truth Social American Energy Security ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TSHA",
       "name": "Taysha Gene Therapies, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -65112,6 +65142,12 @@
       "symbol": "TSI",
       "name": "TCW Strategic Income Fund, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TSIC",
+      "name": "Truth Social American Icons ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -65259,6 +65295,12 @@
       "isETF": false
     },
     {
+      "symbol": "TSNF",
+      "name": "Truth Social American Next Frontiers ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TSOL",
       "name": "21Shares Solana ETF",
       "exchange": "BATS",
@@ -65286,6 +65328,18 @@
       "symbol": "TSQ",
       "name": "Townsquare Media, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TSRS",
+      "name": "Truth Social American Red State REITs ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TSSD",
+      "name": "Truth Social American Security & Defense ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
