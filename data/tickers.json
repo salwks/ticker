@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-12-30T23:05:16.749890Z",
-  "count": 12156,
+  "lastUpdated": "2025-12-31T23:05:23.111519Z",
+  "count": 12158,
   "tickers": [
     {
       "symbol": "A",
@@ -474,6 +474,12 @@
       "symbol": "ABXB",
       "name": "Abacus Flexible Bond Leaders ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ABXL",
+      "name": "Abacus Global Management, Inc. 9.875% Fixed Rate Senior Notes due 2028",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -18051,12 +18057,6 @@
       "isETF": false
     },
     {
-      "symbol": "DRH$A",
-      "name": "Diamondrock Hospitality Company 8.250% Series A Cumulative Redeemable Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "DRI",
       "name": "Darden Restaurants, Inc. Common Stock",
       "exchange": "NYSE",
@@ -31521,6 +31521,12 @@
       "isETF": false
     },
     {
+      "symbol": "HYT.V",
+      "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "HYTI",
       "name": "FT Vest High Yield & Target Income ETF",
       "exchange": "NYSE ARCA",
@@ -42729,12 +42735,6 @@
       "isETF": false
     },
     {
-      "symbol": "MRUS",
-      "name": "Merus N.V. - Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MRVI",
       "name": "Maravai LifeSciences Holdings, Inc. - Class A common stock",
       "exchange": "NASDAQ",
@@ -49863,6 +49863,12 @@
       "isETF": false
     },
     {
+      "symbol": "PFDE",
+      "name": "Pathfinder Disciplined US Equity ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PFE",
       "name": "Pfizer, Inc. Common Stock",
       "exchange": "NYSE",
@@ -49986,6 +49992,12 @@
       "symbol": "PFO",
       "name": "Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PFOE",
+      "name": "Pathfinder Focused Opportunities ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -70251,12 +70263,6 @@
       "isETF": false
     },
     {
-      "symbol": "WOW",
-      "name": "WideOpenWest, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "WPAY",
       "name": "Roundhill WeeklyPay Universe ETF",
       "exchange": "BATS",
@@ -70449,8 +70455,14 @@
       "isETF": false
     },
     {
-      "symbol": "WSTNU",
-      "name": "Westin Acquisition Corp - Units",
+      "symbol": "WSTN",
+      "name": "Westin Acquisition Corp - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WSTNR",
+      "name": "Westin Acquisition Corp - Right",
       "exchange": "NASDAQ",
       "isETF": false
     },
