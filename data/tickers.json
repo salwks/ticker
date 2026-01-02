@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-01T23:05:38.248474Z",
-  "count": 12158,
+  "lastUpdated": "2026-01-02T23:05:19.052779Z",
+  "count": 12160,
   "tickers": [
     {
       "symbol": "A",
@@ -582,6 +582,12 @@
       "symbol": "ACGR",
       "name": "American Century Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ACH",
+      "name": "Accendra Health, Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -3999,6 +4005,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARKD",
+      "name": "ARK DIET Q1 Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ARKF",
       "name": "ARK Blockchain & Fintech Innovation ETF",
       "exchange": "BATS",
@@ -4594,7 +4606,7 @@
     },
     {
       "symbol": "ATAI",
-      "name": "Atai Beckley N.V - Common Shares",
+      "name": "AtaiBeckley Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10204,7 +10216,7 @@
     },
     {
       "symbol": "BVC",
-      "name": "BitVentures Limited - American Depositary Shares",
+      "name": "BitVentures Limited - Ordinary Share",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16425,6 +16437,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDFJ",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - January",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDFL",
       "name": "Innovator Equity Dual Directional 15 Buffer ETF - July",
       "exchange": "BATS",
@@ -16479,6 +16497,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDNQ",
+      "name": "Innovator Growth-100 Dual Directional 5 Buffer ETF - Quarterly",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDOG",
       "name": "Datadog, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -16491,6 +16515,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDSQ",
+      "name": "Innovator Equity Dual Directional 5 Buffer ETF - Quarterly",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDT",
       "name": "Dillard's Capital Trust I",
       "exchange": "NYSE",
@@ -16499,6 +16529,12 @@
     {
       "symbol": "DDTD",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - December",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DDTJ",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - January",
       "exchange": "BATS",
       "isETF": false
     },
@@ -28137,6 +28173,12 @@
       "isETF": false
     },
     {
+      "symbol": "GOLS",
+      "name": "Gabelli Opportunities in Live and Sports ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GOLY",
       "name": "Strategy Shares Gold Enhanced Yield ETF",
       "exchange": "BATS",
@@ -28650,12 +28692,6 @@
       "symbol": "GROZ",
       "name": "Zacks Focus Growth ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "GRP.U",
-      "name": "Granite Real Estate Inc. Units",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -29993,7 +30029,7 @@
     {
       "symbol": "HFEQ",
       "name": "Unlimited HFEQ Equity Long/Short ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -30017,7 +30053,7 @@
     {
       "symbol": "HFMF",
       "name": "Unlimited HFMF Managed Futures ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -30304,7 +30340,7 @@
     },
     {
       "symbol": "HKPD",
-      "name": "Hong Kong Pharma Digital Technology Holdings Limited - Ordinary shares",
+      "name": "Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33419,7 +33455,7 @@
     {
       "symbol": "INFO",
       "name": "Harbor PanAgora Dynamic Large Cap Core ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -42399,12 +42435,6 @@
       "isETF": false
     },
     {
-      "symbol": "MOGO",
-      "name": "Mogo Inc. - Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MOGU",
       "name": "MOGU Inc. American Depositary Shares (each  representing 25 Class A Ordinary Shares)",
       "exchange": "NYSE",
@@ -47523,12 +47553,6 @@
       "isETF": false
     },
     {
-      "symbol": "OMCC",
-      "name": "Old Market Capital Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "OMCL",
       "name": "Omnicell, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -47574,12 +47598,6 @@
       "symbol": "OMH",
       "name": "Ohmyhome Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OMI",
-      "name": "Owens & Minor, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -48065,6 +48083,12 @@
     {
       "symbol": "ORIC",
       "name": "Oric Pharmaceuticals, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ORIO",
+      "name": "Orion Digital Corp. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51064,14 +51088,26 @@
     },
     {
       "symbol": "PNFP",
-      "name": "Pinnacle Financial Partners, Inc. - Common Stock",
-      "exchange": "NASDAQ",
+      "name": "Pinnacle Financial Partners, Inc. Common stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
-      "symbol": "PNFPP",
-      "name": "Pinnacle Financial Partners, Inc. - Depositary shares of Pinnacle Financial Partners, Inc., each representing a 1/40th Interest in a share of its 6.75% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series B",
-      "exchange": "NASDAQ",
+      "symbol": "PNFP$A",
+      "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PNFP$B",
+      "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series B",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PNFP$C",
+      "name": "Pinnacle Financial Partners, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series C",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -55175,12 +55211,6 @@
     {
       "symbol": "RJF",
       "name": "Raymond James Financial, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RJF$B",
-      "name": "Raymond James Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -59868,24 +59898,6 @@
       "symbol": "SNTI",
       "name": "Senti Biosciences, Inc.  - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SNV",
-      "name": "Synovus Financial Corp. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SNV$D",
-      "name": "Synovus Financial Corp. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D Liquation Preference $25.00 per Share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SNV$E",
-      "name": "Synovus Financial Corp. 5.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -66010,7 +66022,7 @@
     },
     {
       "symbol": "UBND",
-      "name": "VictoryShares Core Plus Intermediate Bond ETF",
+      "name": "VictoryShares Core Plus Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71013,12 +71025,6 @@
       "isETF": false
     },
     {
-      "symbol": "XFIX",
-      "name": "F/m Opportunistic Income ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "XFLT",
       "name": "XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -72606,6 +72612,12 @@
       "symbol": "ZHDG",
       "name": "ZEGA Buy and Hedge ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ZHOG",
+      "name": "F/m Opportunistic Income ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
