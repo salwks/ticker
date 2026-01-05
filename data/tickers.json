@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-04T23:05:20.193620Z",
-  "count": 12160,
+  "lastUpdated": "2026-01-05T23:05:40.922628Z",
+  "count": 12153,
   "tickers": [
     {
       "symbol": "A",
@@ -7185,12 +7185,6 @@
       "isETF": false
     },
     {
-      "symbol": "BFIN",
-      "name": "BankFinancial Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BFIX",
       "name": "Build Bond Innovation ETF",
       "exchange": "NYSE ARCA",
@@ -9567,18 +9561,6 @@
       "isETF": false
     },
     {
-      "symbol": "BSLK",
-      "name": "Bolt Projects Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BSLKW",
-      "name": "Bolt Projects Holdings, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BSM",
       "name": "Black Stone Minerals, L.P. Common units representing limited partner interests",
       "exchange": "NYSE",
@@ -10750,7 +10732,7 @@
     },
     {
       "symbol": "CANF",
-      "name": "Can-Fite Biopharma Ltd Sponsored ADR (Israel)",
+      "name": "Can-Fite Biopharma Ltd American Depositary Shares, each representing two (2) Ordinary Shares",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -13217,12 +13199,6 @@
     {
       "symbol": "CMCSA",
       "name": "Comcast Corporation - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CMCSV",
-      "name": "Comcast Corporation - Class A Common Stock Ex-Distribution When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15864,12 +15840,6 @@
       "symbol": "CXW",
       "name": "CoreCivic, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CYBN",
-      "name": "Cybin Inc. Common Shares",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -29928,6 +29898,12 @@
       "symbol": "HELO",
       "name": "JPMorgan Hedged Equity Laddered Overlay ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HELP",
+      "name": "Cybin Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -51693,12 +51669,6 @@
       "isETF": false
     },
     {
-      "symbol": "PRPH",
-      "name": "ProPhase Labs, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PRPL",
       "name": "Purple Innovation, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -52349,18 +52319,6 @@
     {
       "symbol": "PTIR",
       "name": "GraniteShares 2x Long PLTR Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PTIX",
-      "name": "Protagenic Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PTIXW",
-      "name": "Protagenic Therapeutics, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68919,8 +68877,8 @@
       "isETF": false
     },
     {
-      "symbol": "VSNTV",
-      "name": "Versant Media Group, Inc. - Class A Common Stock When-Issued",
+      "symbol": "VSNT",
+      "name": "Versant Media Group, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
