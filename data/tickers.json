@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-05T23:05:40.922628Z",
-  "count": 12153,
+  "lastUpdated": "2026-01-06T23:05:37.432544Z",
+  "count": 12158,
   "tickers": [
     {
       "symbol": "A",
@@ -2170,7 +2170,7 @@
     },
     {
       "symbol": "AJAN",
-      "name": "Innovator Equity Defined Protection ETF - 2 Yr to January 2026",
+      "name": "Innovator Equity Defined Protection ETF - 2 Yr to January 2028",
       "exchange": "BATS",
       "isETF": false
     },
@@ -2643,8 +2643,20 @@
       "isETF": false
     },
     {
+      "symbol": "ALUB",
+      "name": "Alussa Energy Acquisition Corp. II Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "ALUB.U",
       "name": "Alussa Energy Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ALUB.W",
+      "name": "Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -4193,6 +4205,12 @@
     {
       "symbol": "ARRY",
       "name": "Array Technologies, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ARTCU",
+      "name": "Art Technology Acquisition Corp. - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7635,6 +7653,12 @@
       "isETF": false
     },
     {
+      "symbol": "BIII.U",
+      "name": "Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BIL",
       "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
       "exchange": "NYSE ARCA",
@@ -9036,6 +9060,18 @@
       "symbol": "BP",
       "name": "BP p.l.c. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BPAC",
+      "name": "Blueport Acquisition Ltd - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BPACR",
+      "name": "Blueport Acquisition Ltd - Rights",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -15525,12 +15561,6 @@
       "isETF": false
     },
     {
-      "symbol": "CVE.W",
-      "name": "Cenovus Energy Inc Warrants (each warrant entitles the holder to purchase one common share at an exercise price of C$6.54 per share)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CVEO",
       "name": "Civeo Corporation (Canada) Common Shares",
       "exchange": "NYSE",
@@ -20205,6 +20235,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMAT",
+      "name": "Evolution Metals & Technologies Corp. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EMB",
       "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
       "exchange": "NASDAQ",
@@ -21358,7 +21394,7 @@
     },
     {
       "symbol": "ETH",
-      "name": "Grayscale Ethereum Mini Trust (ETH)",
+      "name": "Grayscale Ethereum Staking Mini ETF Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -21376,7 +21412,7 @@
     },
     {
       "symbol": "ETHE",
-      "name": "Grayscale Ethereum Trust (ETH)",
+      "name": "Grayscale Ethereum Staking ETF Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -28906,7 +28942,7 @@
     },
     {
       "symbol": "GSOL",
-      "name": "Grayscale Solana Trust ETF",
+      "name": "Grayscale Solana Staking ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -29902,7 +29938,7 @@
     },
     {
       "symbol": "HELP",
-      "name": "Cybin Inc. - Common Shares",
+      "name": "Cybin Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -34852,7 +34888,7 @@
     },
     {
       "symbol": "IWMY",
-      "name": "Defiance R2000 Enhanced Options & 0DTE Income ETF",
+      "name": "Defiance R2000 Weekly Distribution ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -48966,12 +49002,6 @@
       "symbol": "PBAU",
       "name": "PGIM S&P 500 Buffer 20 ETF - August",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "PBBK",
-      "name": "PB Bankshares, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -63772,7 +63802,7 @@
     },
     {
       "symbol": "TIME",
-      "name": "Clockwise Core Equity & Innovation ETF",
+      "name": "Clockwise U.S. Core Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -64678,7 +64708,7 @@
     },
     {
       "symbol": "TPZ",
-      "name": "Tortoise Essential Energy Fund",
+      "name": "Tortoise Electrification Infrastructure ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -69616,7 +69646,7 @@
     },
     {
       "symbol": "WDTE",
-      "name": "Defiance S&P 500 Enhanced Options & 0DTE Income ETF",
+      "name": "Defiance S&P 500 Weekly Distribution ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
