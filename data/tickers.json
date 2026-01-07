@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-06T23:05:37.432544Z",
-  "count": 12158,
+  "lastUpdated": "2026-01-07T23:05:47.094885Z",
+  "count": 12163,
   "tickers": [
     {
       "symbol": "A",
@@ -4829,30 +4829,6 @@
     {
       "symbol": "ATLX",
       "name": "Atlas Lithium Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATMC",
-      "name": "AlphaTime Acquisition Corp - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATMCR",
-      "name": "AlphaTime Acquisition Corp - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATMCU",
-      "name": "AlphaTime Acquisition Corp - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATMCW",
-      "name": "AlphaTime Acquisition Corp - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15527,12 +15503,6 @@
     {
       "symbol": "CV",
       "name": "CapsoVision, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CVAC",
-      "name": "CureVac N.V. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36921,6 +36891,12 @@
       "isETF": false
     },
     {
+      "symbol": "KIQQ",
+      "name": "KraneShares InspereX Nasdaq Dynamic Buffered High Income Index ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KITT",
       "name": "Nauticus Robotics, Inc. - Common stock",
       "exchange": "NASDAQ",
@@ -42756,12 +42732,6 @@
       "symbol": "MRSK",
       "name": "Toews Agility Shares Managed Risk ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MRSN",
-      "name": "Mersana Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -50793,6 +50763,12 @@
       "isETF": false
     },
     {
+      "symbol": "PLU",
+      "name": "Defiance Daily Target 2x Long PL ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PLUG",
       "name": "Plug Power, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -55018,49 +54994,49 @@
     },
     {
       "symbol": "RILY",
-      "name": "B. Riley Financial, Inc. - Common Stock",
+      "name": "BRC Group Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RILYG",
-      "name": "B. Riley Financial, Inc. - 5.00% Senior Notes due 2026",
+      "name": "BRC Group Holdings, Inc. - 5.00% Senior Notes due 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RILYK",
-      "name": "B. Riley Financial, Inc. - 5.50% Senior Notes Due 2026",
+      "name": "BRC Group Holdings, Inc. - 5.50% Senior Notes Due 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RILYL",
-      "name": "B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",
+      "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RILYN",
-      "name": "B. Riley Financial, Inc. - 6.50% Senior Notes Due 2026",
+      "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RILYP",
-      "name": "B. Riley Financial, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",
+      "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RILYT",
-      "name": "B. Riley Financial, Inc. - 6.00% Senior Notes Due 2028",
+      "name": "BRC Group Holdings, Inc. - 6.00% Senior Notes Due 2028",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RILYZ",
-      "name": "B. Riley Financial, Inc. - 5.25% Senior Notes due 2028",
+      "name": "BRC Group Holdings, Inc. - 5.25% Senior Notes due 2028",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -60153,6 +60129,12 @@
       "isETF": false
     },
     {
+      "symbol": "SORNU",
+      "name": "Soren Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SOS",
       "name": "SOS Limited Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -62955,6 +62937,12 @@
       "isETF": false
     },
     {
+      "symbol": "TDAX",
+      "name": "TDAQ Lift ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TDAY",
       "name": "USA TODAY Co., Inc. Common Stock",
       "exchange": "NYSE",
@@ -65376,6 +65364,12 @@
       "symbol": "TSYW",
       "name": "Roundhill Treasury Bond WeeklyPay ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "TSYX",
+      "name": "TSPY Lift ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -72474,6 +72468,42 @@
       "symbol": "ZBZZT",
       "name": "Test Pilot Test Stock Class B Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZCBA",
+      "name": "Global X Zero Coupon Bond 2030 ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ZCBB",
+      "name": "Global X Zero Coupon Bond 2031 ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ZCBC",
+      "name": "Global X Zero Coupon Bond 2032 ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ZCBE",
+      "name": "Global X Zero Coupon Bond 2033 ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ZCBF",
+      "name": "Global X Zero Coupon Bond 2034 ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ZCBG",
+      "name": "Global X Zero Coupon Bond 2035 ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
