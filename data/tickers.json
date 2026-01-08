@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-07T23:05:47.094885Z",
-  "count": 12163,
+  "lastUpdated": "2026-01-08T23:05:24.414391Z",
+  "count": 12166,
   "tickers": [
     {
       "symbol": "A",
@@ -6249,6 +6249,12 @@
       "isETF": false
     },
     {
+      "symbol": "BBCQU",
+      "name": "Bleichroeder Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BBD",
       "name": "Banco Bradesco Sa American Depositary Shares",
       "exchange": "NYSE",
@@ -9969,6 +9975,12 @@
       "isETF": false
     },
     {
+      "symbol": "BUDA",
+      "name": "Buda Juice, Inc. Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "BUFB",
       "name": "Innovator Laddered Allocation Buffer ETF",
       "exchange": "BATS",
@@ -11627,12 +11639,6 @@
     {
       "symbol": "CDTTW",
       "name": "CDT Equity Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CDTX",
-      "name": "Cidara Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16359,6 +16365,12 @@
       "isETF": false
     },
     {
+      "symbol": "DCOY",
+      "name": "Decoy Therapeutics Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DCRE",
       "name": "DoubleLine Commercial Real Estate ETF",
       "exchange": "NYSE ARCA",
@@ -17069,12 +17081,6 @@
     {
       "symbol": "DGLO",
       "name": "First Trust RBA Deglobalization ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DGLY",
-      "name": "Digital Ally, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -23544,12 +23550,6 @@
       "symbol": "FGDL",
       "name": "Franklin Responsibly Sourced Gold ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "FGEN",
-      "name": "FibroGen, Inc - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -37671,6 +37671,12 @@
       "isETF": false
     },
     {
+      "symbol": "KUST",
+      "name": "Kustom Entertainment, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KVAC",
       "name": "Keen Vision Acquisition Corporation - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -37794,6 +37800,12 @@
       "symbol": "KYN",
       "name": "Kayne Anderson Energy Infrastructure Fund, Inc.",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "KYNB",
+      "name": "Kyntra Bio, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38178,6 +38190,12 @@
       "symbol": "LCNB",
       "name": "LCNB Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LCO",
+      "name": "LOGIQ Contrarian Opportunities ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -44790,6 +44808,12 @@
       "symbol": "NGD",
       "name": "New Gold Inc.",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "NGEN",
+      "name": "NervGen Pharma Corp. - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -59171,12 +59195,6 @@
     {
       "symbol": "SLRC",
       "name": "SLR Investment Corp. - Closed End Fund",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SLRX",
-      "name": "Salarius Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
