@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-08T23:05:24.414391Z",
-  "count": 12166,
+  "lastUpdated": "2026-01-09T23:05:35.738709Z",
+  "count": 12167,
   "tickers": [
     {
       "symbol": "A",
@@ -2238,6 +2238,12 @@
       "symbol": "AKRE",
       "name": "Akre Focus ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AKTS",
+      "name": "Aktis Oncology, Inc. - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -4638,6 +4644,12 @@
       "symbol": "ATCH",
       "name": "AtlasClear Holdings, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "ATCX",
+      "name": "Atlas Critical Minerals Corporation - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -12765,18 +12777,6 @@
       "isETF": false
     },
     {
-      "symbol": "CIO",
-      "name": "City Office REIT, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CIO$A",
-      "name": "City Office REIT, Inc. 6.625% Series A Cumulative Redeemable Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CION",
       "name": "CION Investment Corporation Common Stock",
       "exchange": "NYSE",
@@ -12864,12 +12864,6 @@
       "symbol": "CLCG",
       "name": "Crossmark Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "CLCO",
-      "name": "Cool Company Ltd. Common Shares",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -30639,12 +30633,6 @@
       "isETF": false
     },
     {
-      "symbol": "HOUS",
-      "name": "Anywhere Real Estate Inc. Common Stock,",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "HOV",
       "name": "Hovnanian Enterprises, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -40812,12 +40800,6 @@
       "symbol": "MCS",
       "name": "Marcus Corporation (The) Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MCSE",
-      "name": "Franklin Sustainable International Equity ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -55684,7 +55666,7 @@
     },
     {
       "symbol": "ROMA",
-      "name": "Roma Green Finance Limited - Ordinary Shares",
+      "name": "Roma Green Finance Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -65703,6 +65685,18 @@
       "isETF": false
     },
     {
+      "symbol": "TWLV",
+      "name": "Twelve Seas Investment Company III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TWLVR",
+      "name": "Twelve Seas Investment Company III - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TWLVU",
       "name": "Twelve Seas Investment Company III - Units",
       "exchange": "NASDAQ",
@@ -70479,6 +70473,12 @@
       "isETF": false
     },
     {
+      "symbol": "WSTNU",
+      "name": "Westin Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "WT",
       "name": "WisdomTree, Inc. Common Stock",
       "exchange": "NYSE",
@@ -72737,6 +72737,12 @@
     {
       "symbol": "ZKIN",
       "name": "ZK International Group Co., Ltd - Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZKPU",
+      "name": "Lafayette Digital Acquisition Corp. I - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
