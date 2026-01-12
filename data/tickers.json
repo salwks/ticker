@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-11T23:05:22.438003Z",
-  "count": 12167,
+  "lastUpdated": "2026-01-12T23:05:07.681672Z",
+  "count": 12171,
   "tickers": [
     {
       "symbol": "A",
@@ -4743,12 +4743,6 @@
       "isETF": false
     },
     {
-      "symbol": "ATHA",
-      "name": "Athira Pharma, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ATHE",
       "name": "Alterity Therapeutics Limited - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -6052,7 +6046,7 @@
     },
     {
       "symbol": "BANL",
-      "name": "CBL International Limited - Ordinary Shares",
+      "name": "CBL International Limited - Class B Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -6675,6 +6669,12 @@
       "isETF": false
     },
     {
+      "symbol": "BCPL",
+      "name": "BNY Mellon Core Plus ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BCRX",
       "name": "BioCryst Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -7199,6 +7199,12 @@
     {
       "symbol": "BFIX",
       "name": "Build Bond Innovation ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BFJA",
+      "name": "FT Vest Bitcoin Strategy Floor15 ETF - January",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -8031,6 +8037,12 @@
       "isETF": false
     },
     {
+      "symbol": "BKFI",
+      "name": "BNY Mellon Active Core Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BKGI",
       "name": "BNY Mellon Global Infrastructure Income ETF",
       "exchange": "BATS",
@@ -8100,6 +8112,18 @@
       "symbol": "BKMC",
       "name": "BNY Mellon US Mid Cap Core Equity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BKMI",
+      "name": "BNY Mellon Municipal Intermediate ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BKMS",
+      "name": "BNY Mellon Municipal Short Duration ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -8610,6 +8634,12 @@
       "symbol": "BMO",
       "name": "Bank Of Montreal Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BMOP",
+      "name": "BNY Mellon Municipal Opportunities ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -14514,6 +14544,18 @@
       "symbol": "CRAK",
       "name": "VanEck Oil Refiners ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CRAN",
+      "name": "Crane Harbor Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CRANR",
+      "name": "Crane Harbor Acquisition Corp. II - Rights",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -31527,8 +31569,8 @@
       "isETF": false
     },
     {
-      "symbol": "HYT.V",
-      "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights when issued",
+      "symbol": "HYT.R",
+      "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -39267,6 +39309,12 @@
       "isETF": false
     },
     {
+      "symbol": "LONA",
+      "name": "LeonaBio, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LONZ",
       "name": "PIMCO Senior Loan Active Exchange-Traded Fund",
       "exchange": "NYSE ARCA",
@@ -46653,12 +46701,6 @@
       "isETF": false
     },
     {
-      "symbol": "NXC",
-      "name": "Nuveen California Select Tax-Free Income Portfolio Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "NXDR",
       "name": "Nextdoor Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -46710,12 +46752,6 @@
       "symbol": "NXL",
       "name": "Nexalin Technology, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NXN",
-      "name": "Nuveen New York Select Tax-Free Income Portfolio Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -54723,12 +54759,6 @@
       "isETF": false
     },
     {
-      "symbol": "RFEU",
-      "name": "First Trust RiverFront Dynamic Europe ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RFFC",
       "name": "ALPS Active Equity Opportunity ETF",
       "exchange": "NYSE ARCA",
@@ -55182,12 +55212,6 @@
       "symbol": "RJF",
       "name": "Raymond James Financial, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RJMG",
-      "name": "FT Raymond James Multicap Growth Equity ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
