@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-12T23:05:07.681672Z",
-  "count": 12171,
+  "lastUpdated": "2026-01-13T23:05:41.550819Z",
+  "count": 12188,
   "tickers": [
     {
       "symbol": "A",
@@ -2286,6 +2286,12 @@
       "symbol": "ALB$A",
       "name": "Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ALBG",
+      "name": "Leverage Shares 2X Long ALB Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -14835,6 +14841,12 @@
       "isETF": false
     },
     {
+      "symbol": "CRMX",
+      "name": "Tradr 2X Long CRML Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CRNC",
       "name": "Cerence Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -25275,6 +25287,12 @@
       "isETF": false
     },
     {
+      "symbol": "FRWD",
+      "name": "Nomura Transformational Technologies ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FSBC",
       "name": "Five Star Bancorp - Common Stock",
       "exchange": "NASDAQ",
@@ -26550,6 +26568,12 @@
       "symbol": "GCC",
       "name": "WisdomTree EnhancedContinuous Commodity Index Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "GCDT",
+      "name": "Green Circle Decarbonize Technology Limited Ordinary Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -31221,6 +31245,12 @@
       "isETF": false
     },
     {
+      "symbol": "HUTG",
+      "name": "Leverage Shares 2X Long HUT Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HUYA",
       "name": "HUYA Inc. American depositary shares, each  representing one Class A ordinary share",
       "exchange": "NYSE",
@@ -34276,7 +34306,7 @@
     },
     {
       "symbol": "IRTC",
-      "name": "iRhythm Technologies, Inc. - Common Stock",
+      "name": "iRhythm Holdings, Inc.  - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -39711,6 +39741,12 @@
       "isETF": false
     },
     {
+      "symbol": "LTAX",
+      "name": "Nomura Tax-Free USA ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "LTBR",
       "name": "Lightbridge Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -39834,6 +39870,12 @@
       "symbol": "LUNG",
       "name": "Pulmonx Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LUNL",
+      "name": "Defiance Daily Target 2X Long LUNR ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41584,7 +41626,7 @@
     },
     {
       "symbol": "MGX",
-      "name": "Metagenomi, Inc. - Common Stock",
+      "name": "Metagenomi Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42292,7 +42334,7 @@
     },
     {
       "symbol": "MNMD",
-      "name": "Mind Medicine (MindMed) Inc. - Common Shares",
+      "name": "Denium Therapeutics, Inc - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47697,6 +47739,12 @@
       "isETF": false
     },
     {
+      "symbol": "ONDG",
+      "name": "Leverage Shares 2X Long ONDS Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ONDL",
       "name": "Defiance Daily Target 2X Long ONDS ETF",
       "exchange": "BATS",
@@ -47706,6 +47754,12 @@
       "symbol": "ONDS",
       "name": "Ondas Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ONDU",
+      "name": "Tradr 2X Long ONDS Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48900,6 +48954,12 @@
       "symbol": "PATN",
       "name": "Pacer Nasdaq International Patent Leaders ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PATX",
+      "name": "Tradr 2X Long PATH Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -50813,6 +50873,12 @@
     {
       "symbol": "PLUG",
       "name": "Plug Power, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PLUL",
+      "name": "Leverage Shares 2X Long PLUG Daily ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -52995,6 +53061,12 @@
       "isETF": false
     },
     {
+      "symbol": "QFHD",
+      "name": "Pacer S&P 500 Quality FCF High Dividend ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QFIN",
       "name": "Qfin Holdings, Inc.  - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -53004,6 +53076,12 @@
       "symbol": "QFLR",
       "name": "Innovator Nasdaq-100 Managed Floor ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "QFRD",
+      "name": "Pacer S&P 500 Quality FCF R&D Leaders",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -55254,6 +55332,12 @@
       "symbol": "RKT",
       "name": "Rocket Companies, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RKTL",
+      "name": "Defiance Daily Target 2X Long RKT ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -66903,6 +66987,12 @@
       "isETF": false
     },
     {
+      "symbol": "USAX",
+      "name": "Tradr 2X Long USAR Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "USB",
       "name": "U.S. Bancorp Common Stock",
       "exchange": "NYSE",
@@ -67044,6 +67134,12 @@
       "symbol": "USG",
       "name": "USCF Gold Strategy Plus Income Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "USGG",
+      "name": "Leverage Shares 2X Long USAR Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67326,6 +67422,12 @@
       "symbol": "UUU",
       "name": "Universal Safety Products, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "UUUG",
+      "name": "Leverage Shares 2X Long UUUU Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
