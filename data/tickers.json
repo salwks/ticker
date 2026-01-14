@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T23:05:41.550819Z",
-  "count": 12188,
+  "lastUpdated": "2026-01-14T23:05:28.124944Z",
+  "count": 12192,
   "tickers": [
     {
       "symbol": "A",
@@ -923,6 +923,12 @@
     {
       "symbol": "ADAMN",
       "name": "Adamas Trust, Inc. - 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ADAMO",
+      "name": "Adamas Trust, Inc. - 9.250% Senior Notes Due 2031",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -6735,8 +6741,14 @@
       "isETF": false
     },
     {
+      "symbol": "BCTXL",
+      "name": "BriaCell Therapeutics Corp. - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BCTXW",
-      "name": "BriaCell Therapeutics Corp. - Warrant",
+      "name": "BriaCell Therapeutics Corp. - Warrant expiring 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10617,6 +10629,12 @@
       "isETF": false
     },
     {
+      "symbol": "CABZ",
+      "name": "Roundhill Robotaxi, Autonomous Vehicles & Technology ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CAC",
       "name": "Camden National Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -13011,6 +13029,12 @@
       "isETF": false
     },
     {
+      "symbol": "CLNK",
+      "name": "Common Shares of Beneficial Interest of Bitwise Chainlink ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CLNN",
       "name": "Clene Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -13737,12 +13761,6 @@
       "isETF": false
     },
     {
-      "symbol": "CODX",
-      "name": "Co-Diagnostics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "COE",
       "name": "51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",
       "exchange": "AMEX",
@@ -13926,12 +13944,6 @@
       "symbol": "COMB",
       "name": "GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "COMM",
-      "name": "CommScope Holding Company, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20742,6 +20754,12 @@
       "symbol": "EOSE",
       "name": "Eos Energy Enterprises, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EOSU",
+      "name": "T-REX 2X Long EOSE Daily Target ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -38517,12 +38535,6 @@
       "isETF": false
     },
     {
-      "symbol": "LEXXW",
-      "name": "Lexaria Bioscience Corp. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LFACU",
       "name": "Leapfrog Acquisition Corporation - Units",
       "exchange": "NASDAQ",
@@ -42159,12 +42171,6 @@
       "isETF": false
     },
     {
-      "symbol": "MMC",
-      "name": "Marsh & McLennan Companies, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "MMCA",
       "name": "NYLI MacKay California Muni Intermediate ETF",
       "exchange": "NYSE ARCA",
@@ -42334,7 +42340,7 @@
     },
     {
       "symbol": "MNMD",
-      "name": "Denium Therapeutics, Inc - Common Shares",
+      "name": "Mind Medicine (MindMed) Inc. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42815,6 +42821,12 @@
     {
       "symbol": "MRP",
       "name": "Millrose Properties, Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MRSH",
+      "name": "Marsh Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -47490,6 +47502,12 @@
       "symbol": "OILU",
       "name": "MicroSectors Oil & Gas Exp. & Prod. 3x Leveraged ETN",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "OIMAU",
+      "name": "OneIM Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68346,6 +68364,12 @@
       "symbol": "VIS",
       "name": "Vanguard Industrials ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VISN",
+      "name": "Vistance Networks, Inc.  - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
