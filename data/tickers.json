@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-14T23:05:28.124944Z",
-  "count": 12192,
+  "lastUpdated": "2026-01-15T23:05:38.470008Z",
+  "count": 12194,
   "tickers": [
     {
       "symbol": "A",
@@ -7247,12 +7247,6 @@
     {
       "symbol": "BFLY",
       "name": "Butterfly Network, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BFLY.W",
-      "name": "Butterfly Network, Inc. Warrants",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -17079,6 +17073,12 @@
       "isETF": false
     },
     {
+      "symbol": "DFTX",
+      "name": "Definium Therapeutics, Inc.  - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DFUS",
       "name": "Dimensional U.S. Equity Market ETF",
       "exchange": "NYSE ARCA",
@@ -23106,6 +23106,12 @@
       "symbol": "FDRV",
       "name": "Fidelity Electric Vehicles and Future Transportation ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FDRX",
+      "name": "Founder-Led 2X Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -42339,12 +42345,6 @@
       "isETF": false
     },
     {
-      "symbol": "MNMD",
-      "name": "Mind Medicine (MindMed) Inc. - Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MNOV",
       "name": "MediciNova, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -48228,6 +48228,12 @@
       "symbol": "ORLA",
       "name": "Orla Mining Ltd. Common Shares",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "ORLG",
+      "name": "Leverage Shares 2X Long ORLY Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58379,6 +58385,12 @@
     {
       "symbol": "SGRT",
       "name": "SMART Earnings Growth 30 ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SGRW",
+      "name": "Harbor Active Small Cap Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -70125,12 +70137,6 @@
       "isETF": false
     },
     {
-      "symbol": "WILD",
-      "name": "VistaShares Animal Spirits Daily 2X Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "WIMI",
       "name": "WiMi Hologram Cloud Inc. - Class B Ordinary Shares",
       "exchange": "NASDAQ",
@@ -71694,6 +71700,12 @@
       "symbol": "XPAY",
       "name": "Roundhill S&P 500 Target 20 Managed Distribution ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XPEG",
+      "name": "Leverage Shares 2X Long XPEV Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
