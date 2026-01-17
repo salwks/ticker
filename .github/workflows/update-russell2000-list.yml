@@ -1,8 +1,9 @@
-name: Update Quarterly Fundamentals
+name: Update Russell 2000 List
 
 on:
   schedule:
-    - cron: '0 2 5 2,5,8,11 *'
+    # Quarterly: 10th of Feb, May, Aug, Nov (2 days before batch 1)
+    - cron: '0 2 10 2,5,8,11 *'
   workflow_dispatch:
 
 permissions:
@@ -11,26 +12,26 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      
+
       - name: Install dependencies
-        run: pip install yfinance
-      
-      - name: Fetch fundamentals (FULL)
-        run: python scripts/fetch_fundamentals.py
-      
+        run: pip install requests beautifulsoup4
+
+      - name: Fetch Russell 2000 list
+        run: python scripts/fetch_russell2000_list.py
+
       - name: Commit changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add data/fundamentals.json data/metadata.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update S&P 500 fundamentals $(date +'%Y-%m-%d')"
+          git add data/russell2000.json data/metadata.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Russell 2000 list $(date +'%Y-%m-%d')"
           git pull --rebase
           git push

@@ -12,6 +12,7 @@ from datetime import datetime
 from time import sleep
 from random import uniform
 import sys
+from metadata_utils import update_fundamentals_metadata
 
 # Configuration
 OUTPUT_FILE = 'data/fundamentals.json'
@@ -60,7 +61,8 @@ def get_fundamentals(symbol):
             'revenueGrowth': info.get('revenueGrowth'),
             'earningsGrowth': info.get('earningsGrowth'),
             'quickRatio': info.get('quickRatio'),
-            'returnOnAssets': info.get('returnOnAssets')
+            'returnOnAssets': info.get('returnOnAssets'),
+            'index': 'sp500'  # Mark as S&P 500
         }
 
         # Convert percentages (yfinance returns decimals)
@@ -133,22 +135,26 @@ def crawl_all(symbols, limit=None):
 def save_results(data):
     """Save results to JSON file"""
     os.makedirs('data', exist_ok=True)
-    
+
     # Determine quarter
     month = datetime.now().month
     quarter_map = {2: 'Q4', 5: 'Q1', 8: 'Q2', 11: 'Q3'}
     quarter = quarter_map.get(month, f'Q{(month-1)//3 + 1}')
-    
+    quarter_str = f"{datetime.now().year}-{quarter}"
+
     output = {
         'lastUpdated': datetime.utcnow().isoformat() + 'Z',
-        'quarter': f"{datetime.now().year}-{quarter}",
+        'quarter': quarter_str,
         'count': len(data),
         'data': data
     }
-    
+
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(output, f, indent=2)
-    
+
+    # Update metadata.json
+    update_fundamentals_metadata(count=len(data), quarter=quarter_str)
+
     print(f"💾 Saved to {OUTPUT_FILE}")
     print(f"📊 Quarter: {output['quarter']}")
     print(f"📈 Symbols: {len(data)}")

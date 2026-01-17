@@ -3,6 +3,7 @@ import requests
 import json
 import os
 from datetime import datetime
+from metadata_utils import update_tickers_metadata
 
 os.makedirs('data', exist_ok=True)
 
@@ -52,5 +53,8 @@ with open('data/tickers.json', 'w', encoding='utf-8') as f:
 
 with open('data/last_updated.txt', 'w') as f:
     f.write(output['lastUpdated'])
+
+# Update metadata.json
+update_tickers_metadata(count=len(tickers))
 
 print(f"✅ {len(tickers)} tickers processed")

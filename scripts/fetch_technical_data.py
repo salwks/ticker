@@ -12,6 +12,7 @@ from datetime import datetime
 from time import sleep
 from random import uniform
 import sys
+from metadata_utils import update_technical_metadata
 
 # Configuration
 OUTPUT_FILE = 'data/technical_data.json'
@@ -114,16 +115,36 @@ def get_technical_data(symbol):
         return None
 
 def load_ticker_list():
-    """Load ticker symbols from sp500.json (S&P 500 only)"""
+    """Load ticker symbols from S&P 500 and Russell 2000"""
     sp500_file = 'data/sp500.json'
+    russell_file = 'data/russell2000.json'
 
+    symbols = []
+
+    # Load S&P 500 (required)
     if not os.path.exists(sp500_file):
         print(f"❌ S&P 500 file not found: {sp500_file}")
         sys.exit(1)
 
     with open(sp500_file, 'r') as f:
         data = json.load(f)
-        return data['symbols']
+        sp500_symbols = data['symbols']
+        symbols.extend(sp500_symbols)
+        print(f"📊 Loaded {len(sp500_symbols)} S&P 500 symbols")
+
+    # Load Russell 2000 (optional)
+    if os.path.exists(russell_file):
+        with open(russell_file, 'r') as f:
+            data = json.load(f)
+            russell_symbols = data.get('symbols', [])
+            # Filter out any duplicates
+            new_symbols = [s for s in russell_symbols if s not in symbols]
+            symbols.extend(new_symbols)
+            print(f"📊 Loaded {len(new_symbols)} Russell 2000 symbols (after dedup)")
+    else:
+        print(f"⚠️ Russell 2000 file not found, skipping")
+
+    return symbols
 
 def crawl_all(symbols, limit=None):
     """Crawl technical data for all symbols"""
@@ -157,17 +178,21 @@ def crawl_all(symbols, limit=None):
 def save_results(data):
     """Save results to JSON file"""
     os.makedirs('data', exist_ok=True)
-    
+
+    date_str = datetime.now().strftime('%Y-%m-%d')
     output = {
         'lastUpdated': datetime.utcnow().isoformat() + 'Z',
-        'date': datetime.now().strftime('%Y-%m-%d'),
+        'date': date_str,
         'count': len(data),
         'data': data
     }
-    
+
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(output, f, indent=2)
-    
+
+    # Update metadata.json
+    update_technical_metadata(count=len(data), date=date_str)
+
     print(f"💾 Saved to {OUTPUT_FILE}")
     print(f"📅 Date: {output['date']}")
     print(f"📈 Symbols: {len(data)}")
