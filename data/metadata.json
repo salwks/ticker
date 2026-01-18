@@ -1,8 +1,8 @@
 {
   "fundamentals": {
-    "lastUpdated": "2025-12-22T06:59:38.044241Z",
-    "quarter": "2025-Q4",
-    "count": 502
+    "lastUpdated": "2026-01-18T07:53:29.916070Z",
+    "quarter": "2026-Q1",
+    "count": 2451
   },
   "technical": {
     "lastUpdated": "2026-01-17T23:36:57.412737Z",
@@ -14,7 +14,7 @@
     "count": 12197
   },
   "indices": {
-    "sp500": 503,
-    "russell2000": 1954
+    "sp500": 502,
+    "russell2000": 1949
   }
 }
