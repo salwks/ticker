@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T23:05:25.696374Z",
-  "count": 12197,
+  "lastUpdated": "2026-01-20T23:05:37.205952Z",
+  "count": 12198,
   "tickers": [
     {
       "symbol": "A",
@@ -16761,12 +16761,6 @@
       "isETF": false
     },
     {
-      "symbol": "DENN",
-      "name": "Denny's Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DEO",
       "name": "Diageo plc Common Stock",
       "exchange": "NYSE",
@@ -17142,6 +17136,12 @@
       "symbol": "DGIN",
       "name": "VanEck Digital India ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DGJA",
+      "name": "FT Vest U.S. Equity Buffer & Digital Return ETF - January",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -20237,12 +20237,6 @@
     {
       "symbol": "ELVR",
       "name": "Elevra Lithium Limited - American Depository Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ELWS",
-      "name": "Earlyworks Co., Ltd. - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -27354,12 +27348,6 @@
       "symbol": "GIC",
       "name": "Global Industrial Company Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GIFI",
-      "name": "Gulf Island Fabrication, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -34599,8 +34587,20 @@
       "isETF": false
     },
     {
+      "symbol": "ITHA",
+      "name": "ITHAX Acquisition Corp III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ITHAU",
       "name": "ITHAX Acquisition Corp III - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ITHAW",
+      "name": "ITHAX Acquisition Corp III - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41223,6 +41223,12 @@
       "isETF": false
     },
     {
+      "symbol": "MEMY",
+      "name": "Tuttle Capital Meme Stock Income Blast ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MENS",
       "name": "Jyong Biotech Ltd. - Ordinary shares",
       "exchange": "NASDAQ",
@@ -47782,7 +47788,7 @@
     },
     {
       "symbol": "ONDS",
-      "name": "Ondas Holdings Inc. - Common Stock",
+      "name": "Ondas Inc - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49649,6 +49655,12 @@
     {
       "symbol": "PDBC",
       "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PDC",
+      "name": "Perpetuals.com Ltd - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51646,7 +51658,7 @@
     },
     {
       "symbol": "PRFX",
-      "name": "PainReform Ltd. - Ordinary Shares",
+      "name": "PRF Technologies Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -57471,6 +57483,18 @@
       "isETF": false
     },
     {
+      "symbol": "SCII",
+      "name": "SC II Acquisition Corp. - Class A ordinary share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCIIR",
+      "name": "SC II Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCIIU",
       "name": "SC II Acquisition Corp. - Units",
       "exchange": "NASDAQ",
@@ -59604,12 +59628,6 @@
       "symbol": "SMLL",
       "name": "Harbor Active Small Cap ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "SMLR",
-      "name": "Semler Scientific, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -63318,12 +63336,6 @@
       "symbol": "TECX",
       "name": "Tectonic Therapeutic, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TEF",
-      "name": "Telefonica SA Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -69108,12 +69120,6 @@
       "symbol": "VSS",
       "name": "Vanguard FTSE All-Wld ex-US SmCp Idx ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "VSSYW",
-      "name": "Versus Systems Inc. - Class A Warrants",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
