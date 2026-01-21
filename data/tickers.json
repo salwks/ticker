@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-20T23:05:37.205952Z",
-  "count": 12198,
+  "lastUpdated": "2026-01-21T23:07:31.685082Z",
+  "count": 12204,
   "tickers": [
     {
       "symbol": "A",
@@ -26211,12 +26211,6 @@
       "isETF": false
     },
     {
-      "symbol": "FYBR",
-      "name": "Frontier Communications Parent, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FYC",
       "name": "First Trust Small Cap Growth AlphaDEX Fund",
       "exchange": "NASDAQ",
@@ -29517,6 +29511,12 @@
       "isETF": false
     },
     {
+      "symbol": "HAKY",
+      "name": "Amplify HACK Cybersecurity Covered Call ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "HAL",
       "name": "Halliburton Company Common Stock",
       "exchange": "NYSE",
@@ -29698,7 +29698,7 @@
     },
     {
       "symbol": "HBTC",
-      "name": "Fortuna Hedged Bitcoin Fund",
+      "name": "Fortuna Hedged Bitcoin ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -34353,6 +34353,12 @@
       "isETF": false
     },
     {
+      "symbol": "ISBG",
+      "name": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ISCB",
       "name": "iShares Morningstar Small-Cap ETF",
       "exchange": "NYSE ARCA",
@@ -34458,6 +34464,12 @@
       "symbol": "ISRG",
       "name": "Intuitive Surgical, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ISSB",
+      "name": "IncomeSTKd 1x US Stocks & 1x Bitcoin Premium ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -34782,12 +34794,6 @@
       "symbol": "IVOV",
       "name": "Vanguard S&P Mid-Cap 400 Value ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "IVP",
-      "name": "Inspire Veterinary Partners, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -39246,6 +39252,12 @@
       "symbol": "LNN",
       "name": "Lindsay Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LNOK",
+      "name": "Defiance Daily Target 2X Long NOK ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -50835,6 +50847,12 @@
       "isETF": false
     },
     {
+      "symbol": "PLSM",
+      "name": "Pulsenmore Ltd. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PLT",
       "name": "Defiance Leveraged Long Income PLTR ETF",
       "exchange": "NASDAQ",
@@ -53855,6 +53873,12 @@
     {
       "symbol": "QWLD",
       "name": "SPDR MSCI World StrategicFactors ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "QXAS",
+      "name": "Quantify 2X Daily Alt Season Crypto ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -57647,6 +57671,12 @@
     {
       "symbol": "SCZ",
       "name": "iShares MSCI EAFE Small-Cap ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCZM",
+      "name": "Santacruz Silver Mining Ltd. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62355,12 +62385,6 @@
       "isETF": false
     },
     {
-      "symbol": "SYBX",
-      "name": "Synlogic, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SYF",
       "name": "Synchrony Financial Common Stock",
       "exchange": "NYSE",
@@ -64122,6 +64146,12 @@
       "symbol": "TLCI",
       "name": "Touchstone International Equity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TLDR",
+      "name": "The Laddered T-Bill ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -71058,6 +71088,12 @@
       "symbol": "XC",
       "name": "WisdomTree True Emerging Markets Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XCBEU",
+      "name": "X3 Acquisition Corp. Ltd. - Unit",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
