@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-21T23:07:31.685082Z",
-  "count": 12204,
+  "lastUpdated": "2026-01-22T23:05:55.784059Z",
+  "count": 12217,
   "tickers": [
     {
       "symbol": "A",
@@ -502,7 +502,7 @@
     },
     {
       "symbol": "ACCL",
-      "name": "Acco Group Holdings Limited - Ordinary Shares",
+      "name": "Acco Group Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -2583,6 +2583,12 @@
       "isETF": false
     },
     {
+      "symbol": "ALOVU",
+      "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ALPS",
       "name": "ALPS Group Inc - Ordinary Share",
       "exchange": "NASDAQ",
@@ -3618,6 +3624,12 @@
       "symbol": "APLY",
       "name": "YieldMax AAPL Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "APLZ",
+      "name": "Tradr 2X Short APLD Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -5394,6 +5406,12 @@
       "symbol": "AVRE",
       "name": "Avantis Real Estate ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AVRY",
+      "name": "Avory Foundational ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -8098,13 +8116,13 @@
     },
     {
       "symbol": "BKKT",
-      "name": "Bakkt Holdings, Inc. Class A Common Stock",
+      "name": "Bakkt, Inc. Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "BKKT.W",
-      "name": "Bakkt Holdings, Inc. Warrant",
+      "name": "Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -9159,6 +9177,12 @@
       "isETF": false
     },
     {
+      "symbol": "BPRO",
+      "name": "Bitwise Proficio Currency Debasement ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BPYPM",
       "name": "Brookfield Property Partners L.P. - 6.25% Class A Cumulative Redeemable Preferred Units, Series 1",
       "exchange": "NASDAQ",
@@ -9894,6 +9918,12 @@
       "symbol": "BTGD",
       "name": "STKd 100% Bitcoin & 100% Gold ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BTGO",
+      "name": "BitGo Holdings, Inc. Class A Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -26781,6 +26811,12 @@
       "isETF": false
     },
     {
+      "symbol": "GDT",
+      "name": "WisdomTree Efficient TIPS Plus Gold Fund",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GDTC",
       "name": "CytoMed Therapeutics Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -34263,6 +34299,12 @@
       "isETF": false
     },
     {
+      "symbol": "IREZ",
+      "name": "Tradr 2X Short IREN Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "IRHOU",
       "name": "Iron Horse Acquisitions II Corp. - Units",
       "exchange": "NASDAQ",
@@ -38286,6 +38328,12 @@
       "symbol": "LCII",
       "name": "LCI Industries",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LCIZ",
+      "name": "Tradr 2X Short LCID Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -44044,7 +44092,7 @@
     },
     {
       "symbol": "NAKA",
-      "name": "Kindly MD, Inc. - Common Stock",
+      "name": "Nakamoto Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44256,6 +44304,12 @@
       "symbol": "NBIX",
       "name": "Neurocrine Biosciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NBIZ",
+      "name": "Tradr 2X Short NBIS Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -47628,6 +47682,12 @@
       "symbol": "OLN",
       "name": "Olin Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OLOX",
+      "name": "Olenox Industries Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -55389,6 +55449,12 @@
       "isETF": false
     },
     {
+      "symbol": "RKNG",
+      "name": "Defiance Retail Kings ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RKT",
       "name": "Rocket Companies, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -58337,12 +58403,6 @@
     {
       "symbol": "SGA",
       "name": "Saga Communications, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SGBX",
-      "name": "Safe & Green Holdings Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63189,6 +63249,12 @@
       "isETF": false
     },
     {
+      "symbol": "TDOG",
+      "name": "21shares Dogecoin ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TDS",
       "name": "Telephone and Data Systems, Inc. Common Shares",
       "exchange": "NYSE",
@@ -63411,6 +63477,12 @@
       "isETF": false
     },
     {
+      "symbol": "TEMD",
+      "name": "Templeton Emerging Markets Debt ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TEMT",
       "name": "Tradr 2X Long TEM Daily ETF",
       "exchange": "BATS",
@@ -63540,6 +63612,12 @@
       "symbol": "TEXU",
       "name": "Direxion Daily Energy Top 5 Bull 2X ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TEXX",
+      "name": "Horizon Kinetics Texas ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -65201,12 +65279,6 @@
     {
       "symbol": "TRUD",
       "name": "VanEck Consumer Discretionary TruSector ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TRUE",
-      "name": "TrueCar, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70779,6 +70851,12 @@
       "isETF": false
     },
     {
+      "symbol": "WTLS",
+      "name": "WisdomTree Efficient Long/Short U.S. Equity Fund",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "WTM",
       "name": "White Mountains Insurance Group, Ltd. Common Stock",
       "exchange": "NYSE",
@@ -72766,7 +72844,7 @@
     },
     {
       "symbol": "ZDAI",
-      "name": "DirectBooking Technology Co., Ltd. - Ordinary Shares",
+      "name": "DirectBooking Technology Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
