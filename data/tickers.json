@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-22T23:05:55.784059Z",
-  "count": 12217,
+  "lastUpdated": "2026-01-23T23:05:40.095634Z",
+  "count": 12224,
   "tickers": [
     {
       "symbol": "A",
@@ -3923,6 +3923,12 @@
     {
       "symbol": "ARCC",
       "name": "Ares Capital Corporation - Closed End Fund",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ARCIU",
+      "name": "Archimedes Tech SPAC Partners III Co. - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -13377,12 +13383,6 @@
       "isETF": false
     },
     {
-      "symbol": "CMPO",
-      "name": "CompoSecure, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CMPR",
       "name": "Cimpress plc - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -21039,6 +21039,12 @@
       "isETF": false
     },
     {
+      "symbol": "EQPT",
+      "name": "EquipmentShare.com Inc - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EQR",
       "name": "Equity Residential Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -27069,12 +27075,6 @@
       "isETF": false
     },
     {
-      "symbol": "GES",
-      "name": "Guess?, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "GETY",
       "name": "Getty Images Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -28383,8 +28383,20 @@
       "isETF": false
     },
     {
+      "symbol": "GPAC",
+      "name": "General Purpose Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GPACU",
       "name": "General Purpose Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GPACW",
+      "name": "General Purpose Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -28416,6 +28428,12 @@
       "symbol": "GPCR",
       "name": "Structure Therapeutics Inc. - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GPGI",
+      "name": "GPGI, Inc. Class A Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -30522,6 +30540,12 @@
       "symbol": "HLX",
       "name": "Helix Energy Solutions Group, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HLXC",
+      "name": "Helix Acquisition Corp. III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -33552,12 +33576,6 @@
       "symbol": "INFO",
       "name": "Harbor PanAgora Dynamic Large Cap Core ETF",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "INFR",
-      "name": "ClearBridge Sustainable Infrastructure ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38520,6 +38538,12 @@
       "symbol": "LEGN",
       "name": "Legend Biotech Corporation - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LEGO.U",
+      "name": "Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -52605,6 +52629,12 @@
       "isETF": false
     },
     {
+      "symbol": "PTORU",
+      "name": "Praetorian Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PTRB",
       "name": "PGIM Total Return Bond ETF",
       "exchange": "NYSE ARCA",
@@ -57291,8 +57321,20 @@
       "isETF": false
     },
     {
+      "symbol": "SBXE",
+      "name": "SilverBox Corp V Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SBXE.U",
       "name": "SilverBox Corp V Units, each consisting of one Class A Ordinary Share and one-third of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SBXE.W",
+      "name": "SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
