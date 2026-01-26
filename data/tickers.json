@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-25T23:05:30.816431Z",
-  "count": 12224,
+  "lastUpdated": "2026-01-26T23:05:55.911957Z",
+  "count": 12230,
   "tickers": [
     {
       "symbol": "A",
@@ -1125,8 +1125,20 @@
       "isETF": false
     },
     {
+      "symbol": "AEAQ",
+      "name": "Activate Energy Acquisition Corp. - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AEAQU",
       "name": "Activate Energy Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AEAQW",
+      "name": "Activate Energy Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -4965,12 +4977,6 @@
       "isETF": false
     },
     {
-      "symbol": "ATXS",
-      "name": "Astria Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ATYR",
       "name": "aTyr Pharma, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -8634,6 +8640,12 @@
       "symbol": "BML$L",
       "name": "Bank of America Corporation Depositary Shares (Each representing a 1/1200th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 5)",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BMM",
+      "name": "Blue Moon Metals Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -14136,12 +14148,6 @@
       "symbol": "CORT",
       "name": "Corcept Therapeutics Incorporated - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CORX",
-      "name": "2x Corn ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -21040,7 +21046,7 @@
     },
     {
       "symbol": "EQPT",
-      "name": "EquipmentShare.com Inc - Common Stock",
+      "name": "EquipmentShare.com Inc - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -21484,7 +21490,7 @@
     },
     {
       "symbol": "ETHI",
-      "name": "Defiance Leveraged Long Income Ethereum ETF",
+      "name": "Defiance Leveraged Long + Income Ethereum ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -22398,6 +22404,18 @@
       "symbol": "EZPZ",
       "name": "Franklin Crypto Index ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "EZRA",
+      "name": "Reliance Global Group, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EZRAW",
+      "name": "Reliance Global Group, Inc. - Series A Warrants",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -30352,7 +30370,7 @@
     },
     {
       "symbol": "HIMY",
-      "name": "Defiance Leveraged Long Income HIMS ETF",
+      "name": "Defiance Leveraged Long + Income HIMS ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30724,7 +30742,7 @@
     },
     {
       "symbol": "HOOI",
-      "name": "Defiance Leveraged Long Income HOOD ETF",
+      "name": "Defiance Leveraged Long + Income HOOD ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31667,12 +31685,6 @@
     {
       "symbol": "HYT",
       "name": "Blackrock Corporate High Yield Fund, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "HYT.R",
-      "name": "Blackrock Corporate High Yield Fund, Inc. Rights (expiring January 26, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -33544,7 +33556,7 @@
     },
     {
       "symbol": "INDV",
-      "name": "Indivior PLC - Ordinary Shares",
+      "name": "Indivior Pharmaceuticals, Inc.  - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -37366,7 +37378,7 @@
     },
     {
       "symbol": "KNSA",
-      "name": "Kiniksa Pharmaceuticals, Ltd. - Class A Ordinary Shares",
+      "name": "Kiniksa Pharmaceuticals International, plc - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38637,8 +38649,20 @@
       "isETF": false
     },
     {
+      "symbol": "LFAC",
+      "name": "Leapfrog Acquisition Corporation - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LFACU",
       "name": "Leapfrog Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LFACW",
+      "name": "Leapfrog Acquisition Corporation - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -40686,6 +40710,12 @@
       "symbol": "MBB",
       "name": "iShares MBS ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MBBA",
+      "name": "iShares Mortgage-Backed Securities Active ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -46773,8 +46803,20 @@
       "isETF": false
     },
     {
+      "symbol": "NWAX",
+      "name": "New America Acquisition I Corp. Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "NWAX.U",
       "name": "New America Acquisition I Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NWAX.W",
+      "name": "New America Acquisition I Corp. Warrants, each whole warrant is exercisable to purchase one share of Class A common stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -46818,12 +46860,6 @@
       "symbol": "NWLG",
       "name": "Nuveen Winslow Large-Cap Growth ESG ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NWMX",
-      "name": "Tradr 2X Long NEM Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -47658,12 +47694,6 @@
       "symbol": "OKTG",
       "name": "Leverage Shares 2X Long OKTA Daily ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OKTX",
-      "name": "Tradr 2X Long OKTA Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -50938,7 +50968,7 @@
     },
     {
       "symbol": "PLT",
-      "name": "Defiance Leveraged Long Income PLTR ETF",
+      "name": "Defiance Leveraged Long + Income PLTR ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53739,12 +53769,6 @@
       "isETF": false
     },
     {
-      "symbol": "QSX",
-      "name": "Tradr 2X Long QS Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "QTAC",
       "name": "Q3 All-Season Tactical Advantage ETF",
       "exchange": "BATS",
@@ -54741,18 +54765,6 @@
       "isETF": false
     },
     {
-      "symbol": "RELI",
-      "name": "Reliance Global Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RELIW",
-      "name": "Reliance Global Group, Inc. - Series A Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RELL",
       "name": "Richardson Electronics, Ltd. - Common Stock",
       "exchange": "NASDAQ",
@@ -55397,6 +55409,12 @@
     {
       "symbol": "RITM$E",
       "name": "Rithm Capital Corp. 8.75% Series E Fixed-Rate Cumulative Redeemable Preferred Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RITM$F",
+      "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -56859,8 +56877,20 @@
       "isETF": false
     },
     {
+      "symbol": "SAC",
+      "name": "Safeguard Acquisition Corp. Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SAC.U",
       "name": "Safeguard Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SAC.W",
+      "name": "Safeguard Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -58019,6 +58049,12 @@
     {
       "symbol": "SECT",
       "name": "Main Sector Rotation ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SECU",
+      "name": "iShares Securitized Income Active ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -61156,7 +61192,7 @@
     },
     {
       "symbol": "SPY",
-      "name": "SPDR S&P 500",
+      "name": "State Street SPDR S&P 500 ETF Trust",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -67905,6 +67941,12 @@
       "isETF": false
     },
     {
+      "symbol": "VAVX",
+      "name": "VanEck Avalanche ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VAW",
       "name": "Vanguard Materials ETF",
       "exchange": "NYSE ARCA",
@@ -70278,12 +70320,6 @@
       "symbol": "WHR",
       "name": "Whirlpool Corporation Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WHTX",
-      "name": "2x Wheat ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
