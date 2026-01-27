@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-26T23:05:55.911957Z",
-  "count": 12230,
+  "lastUpdated": "2026-01-27T23:05:43.297040Z",
+  "count": 12235,
   "tickers": [
     {
       "symbol": "A",
@@ -2843,12 +2843,6 @@
     {
       "symbol": "AMDL",
       "name": "GraniteShares 2x Long AMD Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AMDU",
-      "name": "Defiance Leveraged Long + Income AMD ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -11550,6 +11544,12 @@
       "symbol": "CCOI",
       "name": "Cogent Communications Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCOM",
+      "name": "Simplify Chinese Commodities Strategy No K-1 ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -21489,12 +21489,6 @@
       "isETF": false
     },
     {
-      "symbol": "ETHI",
-      "name": "Defiance Leveraged Long + Income Ethereum ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ETHM",
       "name": "Dynamix Corporation - Class A Ordinary Share",
       "exchange": "NASDAQ",
@@ -23346,6 +23340,12 @@
       "symbol": "FEMB",
       "name": "First Trust Emerging Markets Local Currency Bond ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FEMD",
+      "name": "First Eagle Mid Cap Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -27531,6 +27531,12 @@
       "isETF": false
     },
     {
+      "symbol": "GIXXU",
+      "name": "GigCapital9 Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GJAN",
       "name": "FT Vest U.S. Equity Moderate Buffer ETF - January",
       "exchange": "BATS",
@@ -29781,6 +29787,18 @@
       "isETF": false
     },
     {
+      "symbol": "HCAC",
+      "name": "Hall Chadwick Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HCACR",
+      "name": "Hall Chadwick Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HCACU",
       "name": "Hall Chadwick Acquisition Corp. - Unit",
       "exchange": "NASDAQ",
@@ -30369,12 +30387,6 @@
       "isETF": false
     },
     {
-      "symbol": "HIMY",
-      "name": "Defiance Leveraged Long + Income HIMS ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HIMZ",
       "name": "Defiance Daily Target 2X Long HIMS ETF",
       "exchange": "NASDAQ",
@@ -30737,12 +30749,6 @@
     {
       "symbol": "HOOG",
       "name": "Leverage Shares 2X Long HOOD Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HOOI",
-      "name": "Defiance Leveraged Long + Income HOOD ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36651,8 +36657,20 @@
       "isETF": false
     },
     {
+      "symbol": "KBON",
+      "name": "Karbon Capital Partners Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KBONU",
       "name": "Karbon Capital Partners Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KBONW",
+      "name": "Karbon Capital Partners Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -39105,6 +39123,12 @@
       "isETF": false
     },
     {
+      "symbol": "LITX",
+      "name": "Tradr 2X Long LITE Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LIVE",
       "name": "Live Ventures Incorporated - Common Stock",
       "exchange": "NASDAQ",
@@ -39204,12 +39228,6 @@
       "symbol": "LLYX",
       "name": "Defiance Daily Target 2X Long LLY ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LLYZ",
-      "name": "Defiance Daily Target 2X Short LLY ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -41943,6 +41961,12 @@
       "isETF": false
     },
     {
+      "symbol": "MINE",
+      "name": "Mayfair Gold Corp. Common Shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "MINN",
       "name": "Mairs & Power Minnesota Municipal Bond ETF",
       "exchange": "BATS",
@@ -42149,6 +42173,12 @@
     {
       "symbol": "MKZR",
       "name": "MacKenzie Realty Capital, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MLAAU",
+      "name": "Mountain Lake Acquisition Corp. II - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44548,7 +44578,7 @@
     },
     {
       "symbol": "NCT",
-      "name": "Intercont (Cayman) Limited - Ordinary shares",
+      "name": "Intercont (Cayman) Limited - Class A Ordinary shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50967,12 +50997,6 @@
       "isETF": false
     },
     {
-      "symbol": "PLT",
-      "name": "Defiance Leveraged Long + Income PLTR ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PLTA",
       "name": "ProShares Ultra PLTR",
       "exchange": "NYSE ARCA",
@@ -51090,12 +51114,6 @@
       "symbol": "PLXS",
       "name": "Plexus Corp. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PLYM",
-      "name": "Plymouth Industrial REIT, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -59655,12 +59673,6 @@
       "isETF": false
     },
     {
-      "symbol": "SMCC",
-      "name": "Defiance Leveraged Long + Income SMCI ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SMCF",
       "name": "Themes US Small Cap Cash Flow Champions ETF",
       "exchange": "NASDAQ",
@@ -60198,6 +60210,12 @@
       "symbol": "SNX",
       "name": "TD SYNNEX Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SNXX",
+      "name": "Tradr 2X Long SNDK Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -65139,12 +65157,6 @@
       "isETF": false
     },
     {
-      "symbol": "TRIL",
-      "name": "Defiance Trillion Dollar Club Index ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TRIN",
       "name": "Trinity Capital Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -67359,6 +67371,12 @@
       "isETF": false
     },
     {
+      "symbol": "USFE",
+      "name": "First Eagle US Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "USFI",
       "name": "BrandywineGLOBAL - U.S. Fixed Income ETF",
       "exchange": "NASDAQ",
@@ -69429,6 +69447,12 @@
       "isETF": false
     },
     {
+      "symbol": "VTIX",
+      "name": "Virtuix Holdings Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VTMX",
       "name": "Corporacion Inmobiliaria Vesta, S.A.B de C.V. American Depositary Shares, each representing ten (10) Common Shares",
       "exchange": "NYSE",
@@ -69972,6 +69996,12 @@
       "symbol": "WDC",
       "name": "Western Digital Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WDCX",
+      "name": "Tradr 2X Long WDC Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
