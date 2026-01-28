@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-27T23:05:43.297040Z",
-  "count": 12235,
+  "lastUpdated": "2026-01-28T23:08:16.438705Z",
+  "count": 12245,
   "tickers": [
     {
       "symbol": "A",
@@ -6099,6 +6099,12 @@
       "isETF": false
     },
     {
+      "symbol": "BANXR",
+      "name": "ArrowMark Financial Corp. - Right",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BAOS",
       "name": "Baosheng Media Group Holdings Limited - Ordinary shares",
       "exchange": "NASDAQ",
@@ -6291,8 +6297,20 @@
       "isETF": false
     },
     {
+      "symbol": "BBCQ",
+      "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BBCQU",
       "name": "Bleichroeder Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BBCQW",
+      "name": "Bleichroeder Acquisition Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15587,6 +15605,12 @@
     {
       "symbol": "CURX",
       "name": "Curanex Pharmaceuticals Inc - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CUSD",
+      "name": "CrossingBridge Ultra-Short Duration ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -28227,6 +28251,12 @@
       "isETF": false
     },
     {
+      "symbol": "GOAI",
+      "name": "Eva Live Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GOAU",
       "name": "US Global GO Gold and Precious Metal Miners ETF",
       "exchange": "NYSE ARCA",
@@ -35859,6 +35889,12 @@
       "isETF": false
     },
     {
+      "symbol": "JIDE",
+      "name": "JPMorgan International Dynamic ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "JIG",
       "name": "JPMorgan International Growth ETF",
       "exchange": "NYSE ARCA",
@@ -37596,6 +37632,12 @@
       "symbol": "KR",
       "name": "Kroger Company (The) Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "KRAQU",
+      "name": "KRAKacquisition Corp - Unit",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -41236,7 +41278,7 @@
     },
     {
       "symbol": "MDY",
-      "name": "SPDR S&P MidCap 400 ETF Trust",
+      "name": "State Street SPDR S&P MIDCAP 400 ETF Trust",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44638,7 +44680,7 @@
     },
     {
       "symbol": "NDIV",
-      "name": "Amplify Natural Resources Dividend Income ETF",
+      "name": "Amplify Energy & Natural Resources Covered Call ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -51627,6 +51669,12 @@
       "isETF": false
     },
     {
+      "symbol": "PPHC",
+      "name": "Public Policy Holding Company, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PPI",
       "name": "Astoria Real Assets ETF",
       "exchange": "NASDAQ",
@@ -53801,6 +53849,12 @@
     {
       "symbol": "QTEC",
       "name": "First Trust NASDAQ-100-Technology Sector Index Fund",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QTI",
+      "name": "QT Imaging Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56868,6 +56922,12 @@
       "symbol": "SAA",
       "name": "ProShares Ultra SmallCap600",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SAAQU",
+      "name": "Space Asset Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -60630,12 +60690,6 @@
       "symbol": "SPBX",
       "name": "AllianzIM 6 Month Buffer10 Allocation ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "SPC",
-      "name": "CrossingBridge Pre-Merger SPAC ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -64878,6 +64932,12 @@
       "symbol": "TORO",
       "name": "Toro Corp. - Common stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TOS",
+      "name": "Twin Oak Strategic Solutions ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
