@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T23:08:16.438705Z",
-  "count": 12245,
+  "lastUpdated": "2026-01-29T23:08:25.309256Z",
+  "count": 12255,
   "tickers": [
     {
       "symbol": "A",
@@ -7707,8 +7707,20 @@
       "isETF": false
     },
     {
+      "symbol": "BIII",
+      "name": "Black Spade Acquisition III Co Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BIII.U",
       "name": "Black Spade Acquisition III Co Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BIII.W",
+      "name": "Black Spade Acquisition III Co Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -8278,7 +8290,7 @@
     },
     {
       "symbol": "BLCN",
-      "name": "Siren Nasdaq NexGen Economy ETF",
+      "name": "Siren NexGen Economy ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -18303,8 +18315,20 @@
       "isETF": false
     },
     {
+      "symbol": "DSAC",
+      "name": "Daedalus Special Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DSACU",
       "name": "Daedalus Special Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DSACW",
+      "name": "Daedalus Special Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24312,12 +24336,6 @@
       "symbol": "FLGB",
       "name": "Franklin FTSE United Kingdom ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "FLGC",
-      "name": "Flora Growth Corp. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -37893,6 +37911,12 @@
       "isETF": false
     },
     {
+      "symbol": "KTWOU",
+      "name": "K2 Capital Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KULR",
       "name": "KULR Technology Group, Inc. Common Stock",
       "exchange": "AMEX",
@@ -39029,6 +39053,12 @@
     {
       "symbol": "LIF",
       "name": "Life360, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LIFE",
+      "name": "Ethos Technologies Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44955,6 +44985,12 @@
       "isETF": false
     },
     {
+      "symbol": "NEWTO",
+      "name": "NewtekOne, Inc. - 8.50% Fixed Rate Senior Notes due 2031",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NEWTP",
       "name": "NewtekOne, Inc. - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.500% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
       "exchange": "NASDAQ",
@@ -48003,6 +48039,12 @@
       "isETF": false
     },
     {
+      "symbol": "ONEH",
+      "name": "TrueShares Equity Hedge ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ONEO",
       "name": "State Street SPDR Russell 1000 Momentum Focus ETF",
       "exchange": "NYSE ARCA",
@@ -50652,6 +50694,12 @@
       "symbol": "PICK",
       "name": "iShares MSCI Global Select Metals & Mining Producers Fund",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PICS",
+      "name": "Picpay Holdings Netherlands N.V. - Class A Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -56139,12 +56187,6 @@
       "isETF": false
     },
     {
-      "symbol": "RPTX",
-      "name": "Repare Therapeutics Inc. - Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RPV",
       "name": "Invesco S&P 500 Pure Value ETF",
       "exchange": "NYSE ARCA",
@@ -58710,12 +58752,6 @@
       "symbol": "SHC",
       "name": "Sotera Health Company - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SHCO",
-      "name": "Soho House & Co Inc. Class A Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -64815,6 +64851,12 @@
       "isETF": false
     },
     {
+      "symbol": "TNXT",
+      "name": "T. Rowe Price Innovation Leaders ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TNYA",
       "name": "Tenaya Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -66366,6 +66408,12 @@
       "symbol": "UAA",
       "name": "Under Armour, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "UAC.U",
+      "name": "United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -69393,12 +69441,6 @@
       "isETF": false
     },
     {
-      "symbol": "VSTA",
-      "name": "Vasta Platform Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VSTD",
       "name": "Vestand Inc.  - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -72213,6 +72255,12 @@
       "isETF": false
     },
     {
+      "symbol": "XSLLU",
+      "name": "Xsolla SPAC 1 - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XSLV",
       "name": "Invesco S&P SmallCap Low Volatility ETF",
       "exchange": "NYSE ARCA",
@@ -72825,6 +72873,12 @@
       "isETF": false
     },
     {
+      "symbol": "YSS",
+      "name": "York Space Systems Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "YSXT",
       "name": "YSX Tech. Co., Ltd  - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -73325,6 +73379,12 @@
     {
       "symbol": "ZSPC",
       "name": "zSpace, Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZSTK",
+      "name": "ZeroStack Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
