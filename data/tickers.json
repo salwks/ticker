@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-29T23:08:25.309256Z",
-  "count": 12255,
+  "lastUpdated": "2026-01-30T23:08:07.534258Z",
+  "count": 12259,
   "tickers": [
     {
       "symbol": "A",
@@ -8595,12 +8595,6 @@
       "isETF": false
     },
     {
-      "symbol": "BMDL",
-      "name": "VictoryShares WestEnd Economic Cycle Bond ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BME",
       "name": "Blackrock Health Sciences Trust",
       "exchange": "NYSE",
@@ -12831,12 +12825,6 @@
       "isETF": false
     },
     {
-      "symbol": "CIL",
-      "name": "VictoryShares International Volatility Wtd ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CIM",
       "name": "Chimera Investment Corporation Common Stock",
       "exchange": "NYSE",
@@ -12936,12 +12924,6 @@
       "symbol": "CIVB",
       "name": "Civista Bancshares, Inc.  - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CIVI",
-      "name": "Civitas Resources, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -19335,12 +19317,6 @@
       "isETF": false
     },
     {
-      "symbol": "ECCF",
-      "name": "Eagle Point Credit Company Inc. 8.00% Series F Term Preferred Stock due 2029",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "ECCU",
       "name": "Eagle Point Credit Company Inc. 7.75% Notes due 2030",
       "exchange": "NYSE",
@@ -19620,6 +19596,12 @@
       "symbol": "EEA",
       "name": "The European Equity Fund, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "EEE",
+      "name": "CYBER HORNET S&P 500 and Ethereum 75/25 Strategy ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -30099,12 +30081,6 @@
       "isETF": false
     },
     {
-      "symbol": "HEJD",
-      "name": "VictoryShares Hedged Equity Income ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HELE",
       "name": "Helen of Troy Limited - Common Stock",
       "exchange": "NASDAQ",
@@ -38193,12 +38169,6 @@
       "isETF": false
     },
     {
-      "symbol": "LANDM",
-      "name": "Gladstone Land Corporation - 5.00% Series D Cumulative Term Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LANDO",
       "name": "Gladstone Land Corporation - 6.00% Series B Cumulative Redeemable Preferred Stock",
       "exchange": "NASDAQ",
@@ -39916,7 +39886,7 @@
     },
     {
       "symbol": "LSE",
-      "name": "Leishen Energy Holding Co., Ltd. - Ordinary Shares",
+      "name": "Leishen Energy Holding Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41457,8 +41427,20 @@
       "isETF": false
     },
     {
+      "symbol": "MESH",
+      "name": "Meshflow Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MESHU",
       "name": "Meshflow Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MESHW",
+      "name": "Meshflow Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41550,6 +41532,12 @@
       "symbol": "METW",
       "name": "Roundhill META WeeklyPay ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "MEVOU",
+      "name": "M Evo Global Acquisition Corp II - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -43827,6 +43815,12 @@
       "isETF": false
     },
     {
+      "symbol": "MUZEU",
+      "name": "Muzero Acquisition Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MVAL",
       "name": "VanEck Morningstar Wide Moat Value ETF",
       "exchange": "BATS",
@@ -44499,6 +44493,12 @@
       "isETF": false
     },
     {
+      "symbol": "NBRGU",
+      "name": "Newbridge Acquisition Limited - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NBSD",
       "name": "Neuberger Berman Short Duration Income ETF",
       "exchange": "NYSE ARCA",
@@ -44997,12 +44997,6 @@
       "isETF": false
     },
     {
-      "symbol": "NEWTZ",
-      "name": "NewtekOne, Inc. - 5.50% Notes Due 2026",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NEWZ",
       "name": "StockSnips AI-Powered Sentiment US All Cap ETF",
       "exchange": "NASDAQ",
@@ -45108,6 +45102,12 @@
       "symbol": "NFRA",
       "name": "FlexShares STOXX Global Broad Infrastructure Index Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "NFRX",
+      "name": "Harrison Street Infrastructure Active ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -49468,7 +49468,7 @@
     },
     {
       "symbol": "PBM",
-      "name": "Psyence Biomedical Ltd. - Ordinary Shares",
+      "name": "Psyence Biomedical Ltd. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50698,7 +50698,7 @@
     },
     {
       "symbol": "PICS",
-      "name": "Picpay Holdings Netherlands N.V. - Class A Common Shares",
+      "name": "PicS N.V. - Class A Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54726,6 +54726,12 @@
       "symbol": "RDWR",
       "name": "Radware Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RDWU",
+      "name": "T-REX 2X Long RDW Daily Target ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -61719,6 +61725,12 @@
       "isETF": false
     },
     {
+      "symbol": "SSS",
+      "name": "CYBER HORNET S&P 500 and Solana 75/25 Strategy ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SSSS",
       "name": "SuRo Capital Corp. - Closed End Fund",
       "exchange": "NASDAQ",
@@ -68601,6 +68613,12 @@
       "isETF": false
     },
     {
+      "symbol": "VHUB",
+      "name": "VenHub Global, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VIA",
       "name": "Via Transportation, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -72456,6 +72474,12 @@
       "symbol": "XXV",
       "name": "Simplify Ancorato Target 25 Distribution ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XXX",
+      "name": "CYBER HORNET S&P 500 and XRP 75/25 Strategy ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
