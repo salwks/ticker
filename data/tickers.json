@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-01T23:07:31.388142Z",
-  "count": 12259,
+  "lastUpdated": "2026-02-02T23:08:43.430787Z",
+  "count": 12265,
   "tickers": [
     {
       "symbol": "A",
@@ -5463,6 +5463,12 @@
       "isETF": false
     },
     {
+      "symbol": "AVTM",
+      "name": "Avantis Total Equity Markets ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AVTR",
       "name": "Avantor, Inc. Common Stock",
       "exchange": "NYSE",
@@ -5716,14 +5722,8 @@
     },
     {
       "symbol": "AZN",
-      "name": "AstraZeneca PLC - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AZNH",
-      "name": "AstraZeneca PLC ADRhedged",
-      "exchange": "NYSE ARCA",
+      "name": "AstraZeneca PLC Ordinary Shares",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -8337,6 +8337,12 @@
       "isETF": false
     },
     {
+      "symbol": "BLDX",
+      "name": "Impax Global Infrastructure ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BLE",
       "name": "BlackRock Municipal Income Trust II",
       "exchange": "NYSE",
@@ -8439,8 +8445,20 @@
       "isETF": false
     },
     {
+      "symbol": "BLRK",
+      "name": "Bluerock Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BLRKU",
       "name": "Bluerock Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BLRKW",
+      "name": "Bluerock Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10709,18 +10727,6 @@
     {
       "symbol": "CACI",
       "name": "CACI International, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CADE",
-      "name": "Cadence Bank Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CADE$A",
-      "name": "Cadence Bank 5.50% Series A",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -13263,18 +13269,6 @@
       "isETF": false
     },
     {
-      "symbol": "CMA",
-      "name": "Comerica Incorporated Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CMA$B",
-      "name": "Comerica Incorporated Depositary Shares, each representing a 1/40th interest in a share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CMBM",
       "name": "Cambium Networks Corporation - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -13505,6 +13499,12 @@
     {
       "symbol": "CMTL",
       "name": "Comtech Telecommunications Corp. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CMTV",
+      "name": "Community Bancorp.  - Common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15856,7 +15856,7 @@
     },
     {
       "symbol": "CWI",
-      "name": "SPDR MSCI ACWI ex-US ETF",
+      "name": "State Street SPDR MSCI ACWI ex-US ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -16486,7 +16486,7 @@
     },
     {
       "symbol": "DCRE",
-      "name": "DoubleLine Commercial Real Estate ETF",
+      "name": "DoubleLine Commercial Real Estate Debt ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -16529,6 +16529,12 @@
     {
       "symbol": "DDFD",
       "name": "Innovator Equity Dual Directional 15 Buffer ETF - December",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DDFF",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - February",
       "exchange": "BATS",
       "isETF": false
     },
@@ -16625,6 +16631,12 @@
     {
       "symbol": "DDTD",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - December",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DDTF",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - February",
       "exchange": "BATS",
       "isETF": false
     },
@@ -18315,6 +18327,12 @@
       "isETF": false
     },
     {
+      "symbol": "DSCO",
+      "name": "DoubleLine Securitized Credit ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DSEP",
       "name": "FT Vest U.S. Equity Deep Buffer ETF - September",
       "exchange": "BATS",
@@ -18928,7 +18946,7 @@
     },
     {
       "symbol": "DWX",
-      "name": "SPDR S&P International Dividend ETF",
+      "name": "State Street SPDR S&P International Dividend ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19522,7 +19540,7 @@
     },
     {
       "symbol": "EDIV",
-      "name": "SPDR S&P Emerging Markets Dividend ETF",
+      "name": "State Street SPDR S&P Emerging Markets Dividend ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19654,7 +19672,7 @@
     },
     {
       "symbol": "EEMX",
-      "name": "SPDR MSCI Emerging Markets Fuel Reserves Free ETF",
+      "name": "State Street SPDR MSCI Emerging Markets Fossil Fuel Reserves Free ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19720,7 +19738,7 @@
     },
     {
       "symbol": "EFAX",
-      "name": "SPDR MSCI EAFE Fossil Fuel Reserves Free ETF",
+      "name": "State Street SPDR MSCI EAFE Fossil Fuel Reserves Free ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -22198,7 +22216,7 @@
     },
     {
       "symbol": "EWX",
-      "name": "SPDR S&P Emerging Markets Small Cap ETF",
+      "name": "State Street SPDR S&P Emerging Markets Small Cap ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -23506,7 +23524,7 @@
     },
     {
       "symbol": "FEZ",
-      "name": "SPDR DJ Euro STOXX 50 Etf",
+      "name": "State Street SPDR EURO STOXX 50 ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -24035,6 +24053,12 @@
     {
       "symbol": "FITBI",
       "name": "Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FITBM",
+      "name": "Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26625,12 +26649,6 @@
       "isETF": false
     },
     {
-      "symbol": "GBXB",
-      "name": "Goldman Sachs U.S. Large Cap Buffer 2 ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "GBXC",
       "name": "Goldman Sachs U.S. Large Cap Buffer 3 ETF",
       "exchange": "BATS",
@@ -27466,7 +27484,7 @@
     },
     {
       "symbol": "GII",
-      "name": "SPDR S&P Global Infrastructure ETF",
+      "name": "State Street SPDR S&P Global Infrastructure ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -28012,7 +28030,7 @@
     },
     {
       "symbol": "GMF",
-      "name": "SPDR S&P Emerging Asia Pacific ETF",
+      "name": "State Street SPDR S&P Emerging Asia Pacific ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -28192,7 +28210,7 @@
     },
     {
       "symbol": "GNR",
-      "name": "SPDR S&P Global Natural Resources ETF",
+      "name": "State Street SPDR S&P Global Natural Resources ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -29476,7 +29494,7 @@
     },
     {
       "symbol": "GWX",
-      "name": "SPDR S&P International SmallCap ETF",
+      "name": "State Street SPDR S&P International Small Cap ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -29488,7 +29506,7 @@
     },
     {
       "symbol": "GXC",
-      "name": "SPDR S&P China ETF",
+      "name": "State Street SPDR S&P China ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -29741,6 +29759,12 @@
     {
       "symbol": "HBANP",
       "name": "Huntington Bancshares Incorporated - Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HBANZ",
+      "name": "Huntington Bancshares Incorporated - Depositary Shares, Each Representing a 1/1000th Interest in a Share of 5.50% Series L Non-Cumulative Perpetual Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -35337,12 +35361,6 @@
       "isETF": false
     },
     {
-      "symbol": "JAMF",
-      "name": "Jamf Holding Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "JANB",
       "name": "Aptus January Buffer ETF",
       "exchange": "BATS",
@@ -35351,6 +35369,12 @@
     {
       "symbol": "JANH",
       "name": "Innovator Premium Income 20 Barrier ETF - January",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "JANI",
+      "name": "AllianzIM International Equity Buffer15 Uncapped Jan ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -38544,12 +38568,6 @@
       "symbol": "LDUR",
       "name": "PIMCO Enhanced Low Duration Active Exchange-Traded Fund",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LDWY",
-      "name": "Lendway, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -42273,6 +42291,12 @@
       "isETF": false
     },
     {
+      "symbol": "MLCIL",
+      "name": "Mount Logan Capital Inc. - 8.00% Notes Due 2031",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MLCO",
       "name": "Melco Resorts & Entertainment Limited - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -42891,6 +42915,12 @@
       "isETF": false
     },
     {
+      "symbol": "MPT",
+      "name": "Medical Properties Trust, Inc. common stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MPTI",
       "name": "M-tron Industries, Inc. Common Stock",
       "exchange": "AMEX",
@@ -42905,12 +42935,6 @@
     {
       "symbol": "MPV",
       "name": "Barings Participation Investors Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MPW",
-      "name": "Medical Properties Trust, Inc. common stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -44290,7 +44314,7 @@
     },
     {
       "symbol": "NANR",
-      "name": "SPDR S&P North American Natural Resources ETF",
+      "name": "State Street SPDR S&P North American Natural Resources ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -47182,7 +47206,7 @@
     },
     {
       "symbol": "NZAC",
-      "name": "SPDR MSCI ACWI Climate Paris Aligned ETF",
+      "name": "State Street SPDR MSCI ACWI Climate Paris Aligned ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51207,6 +51231,12 @@
       "isETF": false
     },
     {
+      "symbol": "PLYX",
+      "name": "Polaryx Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PLYY",
       "name": "GraniteShares YieldBOOST PLTR ETF",
       "exchange": "NASDAQ",
@@ -53314,13 +53344,13 @@
     },
     {
       "symbol": "QEFA",
-      "name": "SPDR MSCI EAFE StrategicFactors ETF",
+      "name": "State Street SPDR MSCI EAFE StrategicFactors ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "QEMM",
-      "name": "SPDR MSCI Emerging Markets StrategicFactors ETF",
+      "name": "State Street SPDR MSCI Emerging Markets StrategicFactors ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -54106,7 +54136,7 @@
     },
     {
       "symbol": "QWLD",
-      "name": "SPDR MSCI World StrategicFactors ETF",
+      "name": "State Street SPDR MSCI World StrategicFactors ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -54996,12 +55026,6 @@
       "symbol": "REVBW",
       "name": "Revelation Biosciences, Inc. - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "REVG",
-      "name": "REV Group, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -56734,7 +56758,7 @@
     },
     {
       "symbol": "RWO",
-      "name": "SPDR DJ Wilshire Global Real Estate ETF",
+      "name": "State Street SPDR Dow Jones Global Real Estate ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -56782,7 +56806,7 @@
     },
     {
       "symbol": "RWX",
-      "name": "SPDR DJ Wilshire Intl Real Estate",
+      "name": "State Street SPDR Dow Jones International Real Estate ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -60790,7 +60814,7 @@
     },
     {
       "symbol": "SPDW",
-      "name": "SPDR Portfolio Developed World ex-US ETF",
+      "name": "State Street SPDR Portfolio Developed World ex-US ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -60826,13 +60850,13 @@
     },
     {
       "symbol": "SPEM",
-      "name": "SPDR Portfolio Emerging Markets ETF",
+      "name": "State Street SPDR Portfolio Emerging Markets ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "SPEU",
-      "name": "SPDR Portfolio Europe ETF",
+      "name": "State Street SPDR Portfolio Europe ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -60868,7 +60892,7 @@
     },
     {
       "symbol": "SPGM",
-      "name": "SPDR Portfolio MSCI Global Stock Market ETF",
+      "name": "State Street SPDR Portfolio MSCI Global Stock Market ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -62926,7 +62950,7 @@
     },
     {
       "symbol": "TANH",
-      "name": "Tantech Holdings Ltd. - Common Shares",
+      "name": "Tantech Holdings Ltd. - Class A Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -65987,6 +66011,12 @@
     {
       "symbol": "TUGN",
       "name": "STF Tactical Growth & Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TULP",
+      "name": "Bloomia Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70156,7 +70186,7 @@
     },
     {
       "symbol": "WDIV",
-      "name": "SPDR S&P Global Dividend",
+      "name": "State Street SPDR S&P Global Dividend ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -70776,6 +70806,12 @@
       "symbol": "WORX",
       "name": "SCWorx Corp. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WPAC.U",
+      "name": "White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one-fifth (1/5) of one Class A ordinary share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -71434,7 +71470,7 @@
     },
     {
       "symbol": "XCNY",
-      "name": "SPDR S&P Emerging Markets ex-China ETF",
+      "name": "State Street SPDR S&P Emerging Markets ex-China ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
