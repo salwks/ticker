@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-02T23:08:43.430787Z",
-  "count": 12265,
+  "lastUpdated": "2026-02-03T23:09:42.748315Z",
+  "count": 12269,
   "tickers": [
     {
       "symbol": "A",
@@ -84,24 +84,6 @@
       "symbol": "AALG",
       "name": "Leverage Shares 2X Long AAL Daily ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AAM",
-      "name": "AA Mission Acquisition Corp. Class A Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AAM.U",
-      "name": "AA Mission Acquisition Corp. Units, each consisting of one Class A Ordinary Share and one-half of one redeemable warrant",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AAM.W",
-      "name": "AA Mission Acquisition Corp. Warrants, each whole warrant entitles the holder to purchase one Class A ordinary share at a price of $11.50 per share",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -2967,8 +2949,20 @@
       "isETF": false
     },
     {
+      "symbol": "AMPGR",
+      "name": "Amplitech Group, Inc. - Series A Right",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AMPGW",
       "name": "Amplitech Group, Inc. - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMPGZ",
+      "name": "Amplitech Group, Inc. - Series B Right",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3359,6 +3353,12 @@
     {
       "symbol": "ANTX",
       "name": "AN2 Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ANV",
+      "name": "GraniteShares Autocallable NVDA ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10086,6 +10086,12 @@
       "symbol": "BTX",
       "name": "BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BTYB",
+      "name": "VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -25461,12 +25467,6 @@
       "isETF": false
     },
     {
-      "symbol": "FSFG",
-      "name": "First Savings Financial Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FSGS",
       "name": "First Trust SMID Growth Strength ETF",
       "exchange": "NASDAQ",
@@ -34337,6 +34337,12 @@
     {
       "symbol": "IR",
       "name": "Ingersoll Rand Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "IRAB.U",
+      "name": "Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one-half of one redeemable Warrant",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -45327,12 +45333,6 @@
       "isETF": false
     },
     {
-      "symbol": "NINE",
-      "name": "Nine Energy Service, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "NIO",
       "name": "NIO Inc. American depositary shares, each  representing one Class A ordinary share",
       "exchange": "NYSE",
@@ -49740,12 +49740,6 @@
       "symbol": "PCGG",
       "name": "Polen Capital Global Growth ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "PCH",
-      "name": "PotlatchDeltic Corporation - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -54491,6 +54485,12 @@
     {
       "symbol": "RCAT",
       "name": "Red Cat Holdings, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RCAX",
+      "name": "Defiance Daily Target 2x Long RCAT ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64443,6 +64443,12 @@
       "isETF": false
     },
     {
+      "symbol": "TLA",
+      "name": "GraniteShares Autocallable TSLA ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TLCI",
       "name": "Touchstone International Equity ETF",
       "exchange": "NYSE ARCA",
@@ -71367,6 +71373,12 @@
       "isETF": false
     },
     {
+      "symbol": "XBCI",
+      "name": "NEOS Boosted Bitcoin High Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XBI",
       "name": "State Street SPDR S&P Biotech ETF",
       "exchange": "NYSE ARCA",
@@ -72177,6 +72189,12 @@
       "isETF": false
     },
     {
+      "symbol": "XQQI",
+      "name": "NEOS Boosted Nasdaq-100 High Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XRAY",
       "name": "DENTSPLY SIRONA Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -72330,6 +72348,12 @@
       "symbol": "XSOE",
       "name": "WisdomTree Emerging Markets Ex-State Owned Enterprises Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XSPI",
+      "name": "NEOS Boosted S&P 500 High Income ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
