@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-03T23:09:42.748315Z",
-  "count": 12269,
+  "lastUpdated": "2026-02-04T23:08:03.553711Z",
+  "count": 12270,
   "tickers": [
     {
       "symbol": "A",
@@ -3605,12 +3605,6 @@
     {
       "symbol": "APLS",
       "name": "Apellis Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "APLT",
-      "name": "Applied Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -12981,6 +12975,12 @@
       "isETF": false
     },
     {
+      "symbol": "CLBR.U",
+      "name": "Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "CLBT",
       "name": "Cellebrite DI Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -16254,12 +16254,6 @@
       "symbol": "DAX",
       "name": "Global X DAX Germany ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DAY",
-      "name": "Dayforce, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -22607,24 +22601,6 @@
     {
       "symbol": "FAST",
       "name": "Fastenal Company - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FAT",
-      "name": "FAT Brands Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FATBB",
-      "name": "FAT Brands Inc. - Class B Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FATBP",
-      "name": "FAT Brands Inc. - 8.25% Series B Cumulative Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31185,12 +31161,6 @@
       "isETF": false
     },
     {
-      "symbol": "HTFB",
-      "name": "Horizon Technology Finance Corporation 4.875% Notes due 2026",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "HTFC",
       "name": "Horizon Technology Finance Corporation 6.25% Notes due 2027",
       "exchange": "NYSE",
@@ -34563,18 +34533,6 @@
       "isETF": false
     },
     {
-      "symbol": "ISPO",
-      "name": "Inspirato Incorporated - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ISPOW",
-      "name": "Inspirato Incorporated - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ISPR",
       "name": "Ispire Technology Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -37797,6 +37755,12 @@
       "isETF": false
     },
     {
+      "symbol": "KRYP",
+      "name": "ProShares CoinDesk 20 Crypto ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "KRYS",
       "name": "Krystal Biotech, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -40527,6 +40491,12 @@
       "isETF": false
     },
     {
+      "symbol": "MANE",
+      "name": "Veradermics, Incorporated Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MANH",
       "name": "Manhattan Associates, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -43062,6 +43032,12 @@
       "symbol": "MRNOW",
       "name": "Murano Global Investments PLC - Warrants",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MRNX",
+      "name": "Defiance Daily Target 2X Long MRNA ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -47351,6 +47327,12 @@
     {
       "symbol": "OBA",
       "name": "Oxley Bridge Acquisition Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OBAI",
+      "name": "TG-17, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56709,6 +56691,12 @@
       "isETF": false
     },
     {
+      "symbol": "RWAYI",
+      "name": "Runway Growth Finance Corp. - 7.25% Notes due 2031",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RWAYL",
       "name": "Runway Growth Finance Corp. - 7.50% Notes due 2027",
       "exchange": "NASDAQ",
@@ -57352,7 +57340,7 @@
     },
     {
       "symbol": "SBET",
-      "name": "SharpLink Gaming, Inc. - Common Stock",
+      "name": "SharpLink, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66225,12 +66213,6 @@
       "isETF": false
     },
     {
-      "symbol": "TWNP",
-      "name": "Twin Hospitality Group Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TWO",
       "name": "Two Harbors Investment Corp",
       "exchange": "NYSE",
@@ -68370,6 +68352,12 @@
       "symbol": "VELO",
       "name": "Velo3D, Inc. - Common stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VEM",
+      "name": "Virtus Emerging Markets Dividend ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -73209,6 +73197,12 @@
       "isETF": false
     },
     {
+      "symbol": "ZETX",
+      "name": "Defiance Daily Target 2x Long ZETA ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "ZEUS",
       "name": "Olympic Steel, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -73347,8 +73341,20 @@
       "isETF": false
     },
     {
+      "symbol": "ZKP",
+      "name": "Lafayette Digital Acquisition Corp. I - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ZKPU",
       "name": "Lafayette Digital Acquisition Corp. I - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZKPW",
+      "name": "Lafayette Digital Acquisition Corp. I - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
