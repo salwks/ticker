@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-04T23:08:03.553711Z",
-  "count": 12270,
+  "lastUpdated": "2026-02-05T23:07:37.575423Z",
+  "count": 12280,
   "tickers": [
     {
       "symbol": "A",
@@ -5631,12 +5631,6 @@
       "isETF": false
     },
     {
-      "symbol": "AXL",
-      "name": "American Axle & Manufacturing Holdings, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "AXON",
       "name": "Axon Enterprise, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -8979,6 +8973,12 @@
       "isETF": false
     },
     {
+      "symbol": "BOBS",
+      "name": "Bob's Discount Furniture, Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BOC",
       "name": "Boston Omaha Corporation Class A Common Stock",
       "exchange": "NYSE",
@@ -9323,6 +9323,12 @@
     {
       "symbol": "BREM",
       "name": "iShares Emerging Markets Bond Active ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRES",
+      "name": "Burney U.S. Equity Select ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10665,6 +10671,12 @@
       "isETF": false
     },
     {
+      "symbol": "C$R",
+      "name": "Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "CA",
       "name": "Xtrackers California Municipal Bonds ETF",
       "exchange": "NASDAQ",
@@ -11963,6 +11975,12 @@
     {
       "symbol": "CEPO",
       "name": "Cantor Equity Partners I, Inc. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CEPS",
+      "name": "Cantor Equity Partners VI, Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16437,6 +16455,12 @@
       "isETF": false
     },
     {
+      "symbol": "DCH",
+      "name": "Dauch Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "DCI",
       "name": "Donaldson Company, Inc. Common Stock",
       "exchange": "NYSE",
@@ -20073,6 +20097,12 @@
       "isETF": false
     },
     {
+      "symbol": "EIKN",
+      "name": "Eikon Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EIM",
       "name": "Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest, $.01 par value",
       "exchange": "AMEX",
@@ -22558,7 +22588,7 @@
     },
     {
       "symbol": "FAMI",
-      "name": "Farmmi, INC. - Ordinary Shares",
+      "name": "Farmmi, INC. - Class A Ordinary Share",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25182,6 +25212,12 @@
       "symbol": "FPRO",
       "name": "Fidelity Real Estate Investment ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FPS",
+      "name": "Forgent Power Solutions, Inc. Class A Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -27819,12 +27855,6 @@
       "isETF": false
     },
     {
-      "symbol": "GLOV",
-      "name": "Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "GLOW",
       "name": "VictoryShares WestEnd Global Equity ETF",
       "exchange": "NASDAQ",
@@ -29122,13 +29152,19 @@
     },
     {
       "symbol": "GSUN",
-      "name": "Golden Sun Health Technology Group Limited - Class A Ordinary Shares",
+      "name": "Golden Sun Technology Group Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "GSUS",
       "name": "Goldman Sachs MarketBeta U.S. Equity ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "GSWO",
+      "name": "Goldman Sachs ActiveBeta World Equity ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -29862,6 +29898,12 @@
       "symbol": "HCI",
       "name": "HCI Group, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HCICU",
+      "name": "Hennessy Capital Investment Corp. VIII - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36305,6 +36347,12 @@
     {
       "symbol": "JRI",
       "name": "Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "JRI.V",
+      "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -57340,7 +57388,7 @@
     },
     {
       "symbol": "SBET",
-      "name": "SharpLink, Inc. - Common Stock",
+      "name": "Sharplink, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66735,6 +66783,12 @@
       "isETF": false
     },
     {
+      "symbol": "UFOD",
+      "name": "Tuttle Capital UFO Disclosure ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "UFPI",
       "name": "UFP Industries, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -69407,6 +69461,12 @@
     {
       "symbol": "VSEC",
       "name": "VSE Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VSECU",
+      "name": "VSE Corporation - Tangible Equity Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
