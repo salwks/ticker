@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-05T23:07:37.575423Z",
-  "count": 12280,
+  "lastUpdated": "2026-02-06T23:07:44.403069Z",
+  "count": 12294,
   "tickers": [
     {
       "symbol": "A",
@@ -1611,6 +1611,12 @@
       "isETF": false
     },
     {
+      "symbol": "AGMB",
+      "name": "AgomAb Therapeutics NV - ADRs representing one common share.",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AGMH",
       "name": "AGM Group Holdings Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -1983,6 +1989,12 @@
       "isETF": false
     },
     {
+      "symbol": "AINT",
+      "name": "FINQ DOLLAR NEUTRAL U.S. Large Cap AI-Managed Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AIO",
       "name": "Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -2112,6 +2124,12 @@
       "symbol": "AIT",
       "name": "Applied Industrial Technologies, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AIUP",
+      "name": "FINQ FIRST U.S. Large Cap AI-Managed Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -4629,6 +4647,12 @@
       "isETF": false
     },
     {
+      "symbol": "ASTN",
+      "name": "Defiance Daily Target 2X Short ASTS ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -6999,8 +7023,20 @@
       "isETF": false
     },
     {
+      "symbol": "BEBE",
+      "name": "TGE Value Creative Solutions Corp Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BEBE.U",
       "name": "TGE Value Creative Solutions Corp Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BEBE.W",
+      "name": "TGE Value Creative Solutions Corp Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -10979,6 +11015,12 @@
     {
       "symbol": "CAPTW",
       "name": "Captivision Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CAQUU",
+      "name": "Cambridge Acquisition Corp. - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -21215,6 +21257,12 @@
     {
       "symbol": "ERNA",
       "name": "Ernexa Therapeutics Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ERNAW",
+      "name": "Ernexa Therapeutics Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -34407,6 +34455,18 @@
       "isETF": false
     },
     {
+      "symbol": "IRHO",
+      "name": "Iron Horse Acquisitions II Corp. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IRHOR",
+      "name": "Iron Horse Acquisitions II Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IRHOU",
       "name": "Iron Horse Acquisitions II Corp. - Units",
       "exchange": "NASDAQ",
@@ -39345,12 +39405,6 @@
       "isETF": false
     },
     {
-      "symbol": "LMND.W",
-      "name": "Lemonade, Inc. Warrants",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "LMNR",
       "name": "Limoneira Co - Common Stock",
       "exchange": "NASDAQ",
@@ -43368,6 +43422,12 @@
       "symbol": "MSLC",
       "name": "Morgan Stanley Pathway Large Cap Equity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MSLE",
+      "name": "Satellos Bioscience Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -47688,6 +47748,12 @@
       "symbol": "OFLX",
       "name": "Omega Flex, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OFRM",
+      "name": "Once Upon a Farm, PBC Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -58755,6 +58821,12 @@
       "isETF": false
     },
     {
+      "symbol": "SGP",
+      "name": "SpyGlass Pharma, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SGRP",
       "name": "SPAR Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -61673,6 +61745,12 @@
     {
       "symbol": "SRZNW",
       "name": "Surrozen, Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SSACU",
+      "name": "SPACSphere Acquisition Corp. - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67644,6 +67722,12 @@
       "symbol": "USMC",
       "name": "Principal U.S. Mega-Cap ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "USMD",
+      "name": "CoreValues America First Technology ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
