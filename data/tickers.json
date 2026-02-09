@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-08T23:09:20.039755Z",
-  "count": 12294,
+  "lastUpdated": "2026-02-09T23:14:30.366084Z",
+  "count": 12291,
   "tickers": [
     {
       "symbol": "A",
@@ -855,8 +855,20 @@
       "isETF": false
     },
     {
+      "symbol": "ADAC",
+      "name": "American Drive Acquisition Company - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ADACU",
       "name": "American Drive Acquisition Company - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ADACW",
+      "name": "American Drive Acquisition Company - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7299,12 +7311,6 @@
       "isETF": false
     },
     {
-      "symbol": "BFK",
-      "name": "BlackRock Municipal Income Trust",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BFLB",
       "name": "BufferLABS US Equity Dynamic Buffer ETF",
       "exchange": "BATS",
@@ -7386,12 +7392,6 @@
       "symbol": "BFST",
       "name": "Business First Bancshares, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BFZ",
-      "name": "BlackRock California Municipal Income Trust",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -8367,12 +8367,6 @@
       "isETF": false
     },
     {
-      "symbol": "BLE",
-      "name": "BlackRock Municipal Income Trust II",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BLES",
       "name": "Inspire Global Hope ETF",
       "exchange": "NYSE ARCA",
@@ -8976,12 +8970,6 @@
       "symbol": "BNTX",
       "name": "BioNTech SE - American Depositary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BNY",
-      "name": "BlackRock New York Municipal Income Trust",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -10617,12 +10605,6 @@
       "isETF": false
     },
     {
-      "symbol": "BYM",
-      "name": "Blackrock Municipal Income Quality Trust Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BYND",
       "name": "Beyond Meat, Inc. - Common stock",
       "exchange": "NASDAQ",
@@ -11697,8 +11679,20 @@
       "isETF": false
     },
     {
+      "symbol": "CCXI",
+      "name": "Churchill Capital Corp XI - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CCXIU",
       "name": "Churchill Capital Corp XI - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCXIW",
+      "name": "Churchill Capital Corp XI - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -14859,18 +14853,6 @@
       "isETF": false
     },
     {
-      "symbol": "CREV",
-      "name": "Carbon Revolution Public Limited Company - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CREVW",
-      "name": "Carbon Revolution Public Limited Company - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CREX",
       "name": "Creative Realities, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -17145,6 +17127,18 @@
       "isETF": false
     },
     {
+      "symbol": "DFNS",
+      "name": "T3 Defense Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DFNSW",
+      "name": "T3 Defense Inc. - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DFP",
       "name": "Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock",
       "exchange": "NYSE",
@@ -17626,7 +17620,7 @@
     },
     {
       "symbol": "DIVZ",
-      "name": "Opal Dividend Income ETF",
+      "name": "Polen Dividend Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -22335,24 +22329,6 @@
       "isETF": false
     },
     {
-      "symbol": "EXEEL",
-      "name": "Expand Energy Corporation - Class C Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EXEEW",
-      "name": "Expand Energy Corporation - Class A Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EXEEZ",
-      "name": "Expand Energy Corporation - Class B Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EXEL",
       "name": "Exelixis, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -22973,6 +22949,12 @@
     {
       "symbol": "FCNCA",
       "name": "First Citizens BancShares, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FCNCN",
+      "name": "First Citizens BancShares, Inc. - Depositary Shares, each representing a 1/40th interest in a share of 6.625% Non-Cumulative Perpetual Preferred Stock, Series E",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32662,7 +32644,7 @@
     },
     {
       "symbol": "IDVZ",
-      "name": "The Opal International Dividend Income ETF",
+      "name": "Polen International Dividend Income Fund",
       "exchange": "BATS",
       "isETF": false
     },
@@ -39753,8 +39735,20 @@
       "isETF": false
     },
     {
+      "symbol": "LPCV",
+      "name": "Launchpad Cadenza Acquisition Corp I - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LPCVU",
       "name": "Launchpad Cadenza Acquisition Corp I - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LPCVW",
+      "name": "Launchpad Cadenza Acquisition Corp I - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -40096,7 +40090,7 @@
     },
     {
       "symbol": "LTRYW",
-      "name": "Lottery.com, Inc. - Warrant",
+      "name": "Sports Entertainment Gaming Global Corporation  - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42009,12 +42003,6 @@
       "isETF": false
     },
     {
-      "symbol": "MHN",
-      "name": "Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "MHNC",
       "name": "Maiden Holdings North America, Ltd. 7.75% Notes due 2043",
       "exchange": "NYSE",
@@ -43809,12 +43797,6 @@
       "isETF": false
     },
     {
-      "symbol": "MUE",
-      "name": "Blackrock MuniHoldings Quality Fund II, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "MUFG",
       "name": "Mitsubishi UFJ Financial Group, Inc. Common Stock",
       "exchange": "NYSE",
@@ -44692,7 +44674,7 @@
     },
     {
       "symbol": "NCIQ",
-      "name": "Hashdex Nasdaq Crypto Index US ETF",
+      "name": "Hashdex Nasdaq CME Crypto Index ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -46614,18 +46596,6 @@
       "symbol": "NUHY",
       "name": "Nuveen ESG High Yield Corporate Bond ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NUKK",
-      "name": "Nukkleus Inc. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NUKKW",
-      "name": "Nukkleus Inc. - Warrants",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58354,7 +58324,7 @@
     },
     {
       "symbol": "SEGG",
-      "name": "Lottery.com, Inc. - Common Stock",
+      "name": "Sports Entertainment Gaming Global Corporation  - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68529,12 +68499,6 @@
       "isETF": false
     },
     {
-      "symbol": "VERO",
-      "name": "Venus Concept Inc.  - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VERS",
       "name": "ProShares Metaverse ETF",
       "exchange": "NYSE ARCA",
@@ -68757,8 +68721,20 @@
       "isETF": false
     },
     {
+      "symbol": "VHCP",
+      "name": "Vine Hill Capital Investment Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VHCPU",
       "name": "Vine Hill Capital Investment Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VHCPW",
+      "name": "Vine Hill Capital Investment Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70050,6 +70026,12 @@
       "symbol": "WAFU",
       "name": "Wah Fu Education Group Limited - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WAGN",
+      "name": "Pabrai Wagons ETF",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
