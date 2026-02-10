@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-09T23:14:30.366084Z",
-  "count": 12291,
+  "lastUpdated": "2026-02-10T23:16:08.109435Z",
+  "count": 12294,
   "tickers": [
     {
       "symbol": "A",
@@ -1985,6 +1985,12 @@
     {
       "symbol": "AIMDW",
       "name": "Ainos, Inc. - warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AIMS",
+      "name": "Acuitas Small Cap Active ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -14949,6 +14955,12 @@
       "isETF": false
     },
     {
+      "symbol": "CRMU",
+      "name": "Leverage Shares 2x Long CRML Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CRMX",
       "name": "Tradr 2X Long CRML Daily ETF",
       "exchange": "BATS",
@@ -18006,6 +18018,12 @@
       "symbol": "DNN",
       "name": "Denison Mines Corp Ordinary Shares (Canada)",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "DNNG",
+      "name": "Leverage Shares 2x Long DNN Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -22509,12 +22527,6 @@
       "isETF": false
     },
     {
-      "symbol": "EZRAW",
-      "name": "Reliance Global Group, Inc. - Series A Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EZRO",
       "name": "AlphaDroid Defensive Sector Rotation ETF",
       "exchange": "NASDAQ",
@@ -26631,12 +26643,6 @@
       "isETF": false
     },
     {
-      "symbol": "GBIO",
-      "name": "Generation Bio Co. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GBLD",
       "name": "Invesco MSCI Green Building ETF",
       "exchange": "NYSE ARCA",
@@ -30396,12 +30402,6 @@
       "symbol": "HHS",
       "name": "Harte Hanks, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HI",
-      "name": "Hillenbrand Inc Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -35391,6 +35391,12 @@
       "isETF": false
     },
     {
+      "symbol": "JAGU",
+      "name": "Jaguar Uranium Corp. Class A Common Shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "JAGX",
       "name": "Jaguar Health, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -36393,8 +36399,8 @@
       "isETF": false
     },
     {
-      "symbol": "JRI.V",
-      "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights when issued",
+      "symbol": "JRI.R",
+      "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -48479,6 +48485,12 @@
     {
       "symbol": "ORCL",
       "name": "Oracle Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ORCL$D",
+      "name": "Oracle Corporation Depositary Shares, each representing a 1/2,000th interest in a sh of 6.50% Series D Mandatory Convertible Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -61905,12 +61917,6 @@
       "isETF": false
     },
     {
-      "symbol": "STAI",
-      "name": "ScanTech AI Systems Inc. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "STAK",
       "name": "STAK Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -62549,6 +62555,12 @@
     {
       "symbol": "SVCO",
       "name": "Silvaco Group, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SVIVU",
+      "name": "Spring Valley Acquisition Corp. IV - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66780,6 +66792,12 @@
       "symbol": "UEC",
       "name": "Uranium Energy Corp. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "UECG",
+      "name": "Leverage Shares 2x Long UEC Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
