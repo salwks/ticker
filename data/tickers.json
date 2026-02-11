@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-10T23:16:08.109435Z",
-  "count": 12294,
+  "lastUpdated": "2026-02-11T23:11:09.273424Z",
+  "count": 12311,
   "tickers": [
     {
       "symbol": "A",
@@ -1476,6 +1476,12 @@
       "symbol": "AGAE",
       "name": "Allied Gaming & Entertainment Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AGBK",
+      "name": "AGI Inc Class A Common Shares",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -4539,6 +4545,12 @@
       "isETF": false
     },
     {
+      "symbol": "ASMU",
+      "name": "Direxion Daily ASML Bull 2X ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ASND",
       "name": "Ascendis Pharma A/S - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -5826,6 +5838,12 @@
       "symbol": "BABO",
       "name": "YieldMax BABA Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BABU",
+      "name": "Direxion Daily BABA Bull 2X ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7247,6 +7265,12 @@
     {
       "symbol": "BEX",
       "name": "Tradr 2X Long BE Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BEZ",
+      "name": "Tradr 2X Short BE Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -13449,6 +13473,12 @@
       "isETF": false
     },
     {
+      "symbol": "CMIIU",
+      "name": "Columbus Circle Capital Corp II - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CMMB",
       "name": "Chemomab Therapeutics Ltd.  - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -14064,6 +14094,12 @@
       "symbol": "COMB",
       "name": "GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "COMD",
+      "name": "Global X Commodity Strategy ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16338,6 +16374,12 @@
       "symbol": "DBC",
       "name": "Invesco DB Commodity Index Tracking Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DBCAU",
+      "name": "D. Boral Acquisition I Corp. - Unit",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -18815,12 +18857,6 @@
     {
       "symbol": "DVAL",
       "name": "BrandywineGLOBAL-Dynamic US Large Cap Value ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVAX",
-      "name": "Dynavax Technologies Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31827,6 +31863,12 @@
       "isETF": false
     },
     {
+      "symbol": "IACOU",
+      "name": "Idea Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IAE",
       "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -32640,6 +32682,12 @@
       "symbol": "IDVO",
       "name": "Amplify CWP International Enhanced Dividend Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IDVY",
+      "name": "First Trust International Rising Dividend Achievers ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -43185,6 +43233,12 @@
       "isETF": false
     },
     {
+      "symbol": "MRVU",
+      "name": "Direxion Daily MRVL Bull 2X ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MRX",
       "name": "Marex Group plc - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -44022,6 +44076,12 @@
       "symbol": "MWG",
       "name": "Multi Ways Holdings Limited Class A Ordinary Shares",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "MWH",
+      "name": "SOLV Energy, Inc. - Class A common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -53049,12 +53109,6 @@
       "isETF": false
     },
     {
-      "symbol": "PX",
-      "name": "P10, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "PXE",
       "name": "Invesco Energy Exploration & Production ETF",
       "exchange": "NYSE ARCA",
@@ -54291,8 +54345,20 @@
       "isETF": false
     },
     {
+      "symbol": "RAAR",
+      "name": "Reckoner Yield Enhanced AAA CLO Reinvesting ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RAAX",
       "name": "VanEck Real Assets ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "RAAY",
+      "name": "Reckoner Yield Enhanced AAA CLO Annual ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -54641,6 +54707,18 @@
     {
       "symbol": "RCLO",
       "name": "Reckoner BBB-B CLO ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "RCLR",
+      "name": "Reckoner BBB-B CLO Reinvesting ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "RCLY",
+      "name": "Reckoner BBB-B CLO Annual ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -56241,6 +56319,12 @@
       "isETF": false
     },
     {
+      "symbol": "RPC",
+      "name": "Ridgepost Capital, Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "RPD",
       "name": "Rapid7, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -57342,6 +57426,12 @@
       "symbol": "SAUG",
       "name": "FT Vest U.S. Small Cap Moderate Buffer ETF - August",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SAV",
+      "name": "Saratoga Investment Corp 7.50% Notes due 2031",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -60201,6 +60291,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMZ",
+      "name": "Tradr 2X Short SMR Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SN",
       "name": "SharkNinja, Inc. Ordinary Shares",
       "exchange": "NYSE",
@@ -60504,6 +60600,12 @@
       "symbol": "SOEZ",
       "name": "Franklin Solana ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SOFA",
+      "name": "Direxion Daily SOFI Bull 2X ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -64269,12 +64371,6 @@
       "isETF": false
     },
     {
-      "symbol": "THS",
-      "name": "Treehouse Foods, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "THTA",
       "name": "SoFi Enhanced Yield ETF",
       "exchange": "NYSE ARCA",
@@ -64872,6 +64968,12 @@
       "symbol": "TMSL",
       "name": "T. Rowe Price Small-Mid Cap ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TMTSU",
+      "name": "Spartacus Acquisition Corp. II - Unit",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
