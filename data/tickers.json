@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-11T23:11:09.273424Z",
-  "count": 12311,
+  "lastUpdated": "2026-02-12T23:09:09.642887Z",
+  "count": 12322,
   "tickers": [
     {
       "symbol": "A",
@@ -2031,6 +2031,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIOS",
+      "name": "AIOS Tech Inc. - Class A Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AIOT",
       "name": "PowerFleet, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -3570,6 +3576,12 @@
       "symbol": "APAM",
       "name": "Artisan Partners Asset Management Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "APC",
+      "name": "ARKO Petroleum Corp. - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -9327,6 +9339,12 @@
       "isETF": false
     },
     {
+      "symbol": "BRAI",
+      "name": "Braiin Limited - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BRAZ",
       "name": "Global X Brazil Active ETF",
       "exchange": "NYSE ARCA",
@@ -12843,6 +12861,12 @@
       "isETF": false
     },
     {
+      "symbol": "CICC",
+      "name": "CION Investment Corporation 7.50% Notes due 2031",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "CIEN",
       "name": "Ciena Corporation Common Stock",
       "exchange": "NYSE",
@@ -16059,12 +16083,6 @@
       "isETF": false
     },
     {
-      "symbol": "CYBR",
-      "name": "CyberArk Software Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CYCN",
       "name": "Cyclerion Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -18562,7 +18580,7 @@
     },
     {
       "symbol": "DSY",
-      "name": "Big Tree Cloud Holdings Limited - Ordinary Shares",
+      "name": "Big Tree Cloud Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -21052,7 +21070,7 @@
     },
     {
       "symbol": "EPOW",
-      "name": "Sunrise New Energy Co., Ltd - Class A Ordinary Shares",
+      "name": "E-Power Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -22605,6 +22623,12 @@
       "isETF": false
     },
     {
+      "symbol": "FAAA",
+      "name": "Fidelity AAA CLO ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FAAR",
       "name": "First Trust Alternative Absolute Return Strategy ETF",
       "exchange": "NASDAQ",
@@ -22986,6 +23010,12 @@
       "symbol": "FCLD",
       "name": "Fidelity Cloud Computing ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FCLO",
+      "name": "Fidelity CLO ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -29134,7 +29164,7 @@
     },
     {
       "symbol": "GSIW",
-      "name": "Garden Stage Limited - Ordinary Shares",
+      "name": "Garden Stage Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -29688,6 +29718,12 @@
       "symbol": "HACK",
       "name": "Amplify Cybersecurity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HACQU",
+      "name": "HCM IV Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -42585,6 +42621,12 @@
       "isETF": false
     },
     {
+      "symbol": "MMK",
+      "name": "State Street Prime Money Market ETF",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MMKT",
       "name": "Texas Capital Government Money Market ETF",
       "exchange": "NYSE",
@@ -45495,12 +45537,6 @@
       "isETF": false
     },
     {
-      "symbol": "NISN",
-      "name": "NiSun Intl Enterprise Development Group Co, Ltd - Class A Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NITE",
       "name": "The Nightview Fund NITE",
       "exchange": "NYSE ARCA",
@@ -46757,12 +46793,6 @@
     {
       "symbol": "NUVB",
       "name": "Nuvation Bio Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NUVB.W",
-      "name": "Nuvation Bio Inc. Warrants",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -49146,6 +49176,12 @@
       "symbol": "PAAA",
       "name": "PGIM AAA CLO ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "PAACU",
+      "name": "Proem Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58089,8 +58125,20 @@
       "isETF": false
     },
     {
+      "symbol": "SCPQ",
+      "name": "Social Commerce Partners Corporation - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCPQU",
       "name": "Social Commerce Partners Corporation - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCPQW",
+      "name": "Social Commerce Partners Corporation - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62625,8 +62673,20 @@
       "isETF": false
     },
     {
+      "symbol": "SVAQ",
+      "name": "Silicon Valley Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SVAQU",
       "name": "Silicon Valley Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SVAQW",
+      "name": "Silicon Valley Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63352,7 +63412,7 @@
     },
     {
       "symbol": "TBIL",
-      "name": "US Treasury 3 Month Bill ETF",
+      "name": "F/m US Treasury 3 Month Bill Fund",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71826,6 +71886,12 @@
       "symbol": "XFIV",
       "name": "BondBloxx Bloomberg Five Year Target Duration US Treasury ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XFLH.U",
+      "name": "XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
