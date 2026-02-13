@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-12T23:09:09.642887Z",
-  "count": 12322,
+  "lastUpdated": "2026-02-13T23:11:11.373599Z",
+  "count": 12323,
   "tickers": [
     {
       "symbol": "A",
@@ -5262,12 +5262,6 @@
       "symbol": "AVDE",
       "name": "Avantis International Equity ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "AVDL",
-      "name": "Avadel Pharmaceuticals plc - Ordinary Share",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20577,6 +20571,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMET",
+      "name": "VanEck Copper and Green Metals ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "EMF",
       "name": "Templeton Emerging Markets Fund Common Stock",
       "exchange": "NYSE",
@@ -22404,6 +22404,12 @@
       "symbol": "EXEL",
       "name": "Exelixis, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EXEQ",
+      "name": "Wedbush ReturnOnLeadership U.S. Large-Cap ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -28116,12 +28122,6 @@
       "symbol": "GMED",
       "name": "Globus Medical, Inc. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GMET",
-      "name": "VanEck Green Metals ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36963,6 +36963,12 @@
       "isETF": false
     },
     {
+      "symbol": "KCOP",
+      "name": "Kurv Copper & Mining Enhanced Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "KCSH",
       "name": "KraneShares Sustainable Ultra Short Duration Index ETF",
       "exchange": "NYSE ARCA",
@@ -41950,7 +41956,7 @@
     },
     {
       "symbol": "MGN",
-      "name": "Megan Holdings Limited - Ordinary shares.",
+      "name": "Megan Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -60681,12 +60687,6 @@
       "isETF": false
     },
     {
-      "symbol": "SOHO",
-      "name": "Sotherly Hotels Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SOHOB",
       "name": "Sotherly Hotels Inc. - 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock",
       "exchange": "NASDAQ",
@@ -61697,12 +61697,6 @@
     {
       "symbol": "SR",
       "name": "Spire Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SR$A",
-      "name": "Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cumulative Redeemable Perpetual Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -67450,7 +67444,7 @@
     },
     {
       "symbol": "UPC",
-      "name": "Universe Pharmaceuticals Inc - Ordinary Shares",
+      "name": "Universe Pharmaceuticals Inc - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70959,6 +70953,12 @@
       "isETF": false
     },
     {
+      "symbol": "WLIIU",
+      "name": "Willow Lane Acquisition Corp. II - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "WLK",
       "name": "Westlake Corporation Common Stock",
       "exchange": "NYSE",
@@ -72599,6 +72599,12 @@
     {
       "symbol": "XRX",
       "name": "Xerox Holdings Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XRXDW",
+      "name": "Xerox Holdings Corporation - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
