@@ -62,6 +62,7 @@ def get_fundamentals(symbol):
             'earningsGrowth': info.get('earningsGrowth'),
             'quickRatio': info.get('quickRatio'),
             'returnOnAssets': info.get('returnOnAssets'),
+            'sector': info.get('sector'),  # GICS sector (e.g., "Technology", "Financial Services")
             'index': 'sp500'  # Mark as S&P 500
         }
 

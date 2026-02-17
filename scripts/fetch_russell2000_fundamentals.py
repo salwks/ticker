@@ -63,6 +63,7 @@ def get_fundamentals(symbol):
             'earningsGrowth': info.get('earningsGrowth'),
             'quickRatio': info.get('quickRatio'),
             'returnOnAssets': info.get('returnOnAssets'),
+            'sector': info.get('sector'),  # GICS sector (e.g., "Technology", "Financial Services")
             'index': 'russell2000'  # Mark as Russell 2000
         }
 
