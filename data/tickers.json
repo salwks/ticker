@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-16T23:09:14.449140Z",
-  "count": 12323,
+  "lastUpdated": "2026-02-17T23:09:20.390420Z",
+  "count": 12318,
   "tickers": [
     {
       "symbol": "A",
@@ -11463,24 +11463,6 @@
       "isETF": false
     },
     {
-      "symbol": "CCCX",
-      "name": "Churchill Capital Corp X - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCCXU",
-      "name": "Churchill Capital Corp X - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCCXW",
-      "name": "Churchill Capital Corp X - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CCD",
       "name": "Calamos Dynamic Convertible & Income Fund - Closed End Fund",
       "exchange": "NASDAQ",
@@ -13024,7 +13006,7 @@
     },
     {
       "symbol": "CITR",
-      "name": "General Enterprise Ventures, Inc. Common Stock",
+      "name": "CitroTech Inc. Common Stock",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -33771,6 +33753,18 @@
       "isETF": false
     },
     {
+      "symbol": "INFQ",
+      "name": "Infleqtion, Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "INFQ.W",
+      "name": "Infleqtion, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise price of $11.50 per share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "INFU",
       "name": "InfuSystems Holdings, Inc. Common Stock",
       "exchange": "AMEX",
@@ -42915,12 +42909,6 @@
       "isETF": false
     },
     {
-      "symbol": "MOFG",
-      "name": "MidWestOne Financial Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MOG.A",
       "name": "Moog Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -44926,7 +44914,7 @@
     },
     {
       "symbol": "NDLS",
-      "name": "Noodles & Company - Common Stock",
+      "name": "Noodles & Company - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54687,12 +54675,6 @@
       "isETF": false
     },
     {
-      "symbol": "RCC",
-      "name": "Ready Capital Corporation 5.75% Senior Notes due 2026",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "RCD",
       "name": "Ready Capital Corporation 9.00% Senior Notes due 2029",
       "exchange": "NYSE",
@@ -55319,6 +55301,12 @@
     {
       "symbol": "RFAIU",
       "name": "RF Acquisition Corp II - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RFAMU",
+      "name": "RF Acquisition Corp III - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -60393,12 +60381,6 @@
       "isETF": false
     },
     {
-      "symbol": "SNCR",
-      "name": "Synchronoss Technologies, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SNCY",
       "name": "Sun Country Airlines Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -63888,12 +63870,6 @@
       "symbol": "TECS",
       "name": "Direxion Technology Bear 3X Shares",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "TECTP",
-      "name": "Tectonic Financial, Inc. - 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -73518,12 +73494,6 @@
       "symbol": "ZETX",
       "name": "Defiance Daily Target 2x Long ZETA ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ZEUS",
-      "name": "Olympic Steel, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
