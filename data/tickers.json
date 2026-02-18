@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-17T23:09:20.390420Z",
-  "count": 12318,
+  "lastUpdated": "2026-02-18T23:09:48.084785Z",
+  "count": 12333,
   "tickers": [
     {
       "symbol": "A",
@@ -59,6 +59,12 @@
     {
       "symbol": "AACG",
       "name": "ATA Creativity Global - American Depositary Shares, each representing two common shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AACIU",
+      "name": "Armada Acquisition Corp. III - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3621,6 +3627,12 @@
       "isETF": false
     },
     {
+      "symbol": "APHU",
+      "name": "T-REX 2X Long APH Daily Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "API",
       "name": "Agora, Inc. - ADS",
       "exchange": "NASDAQ",
@@ -4740,6 +4752,12 @@
       "symbol": "ATCH",
       "name": "AtlasClear Holdings, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "ATCL",
+      "name": "REX Autocallable Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -13803,6 +13821,12 @@
       "isETF": false
     },
     {
+      "symbol": "CNTN",
+      "name": "Canton Strategic Holdings, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CNTX",
       "name": "Context Therapeutics Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -14219,6 +14243,12 @@
     {
       "symbol": "COPY",
       "name": "Tweedy, Browne Insider + Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "COPZ",
+      "name": "Defiance Daily Target 2x Long Copper ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -17961,12 +17991,6 @@
       "isETF": false
     },
     {
-      "symbol": "DMCY",
-      "name": "Democracy International Fund",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "DMII",
       "name": "Drugs Made In America Acquisition II Corp. - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -19629,8 +19653,20 @@
       "isETF": false
     },
     {
+      "symbol": "EDGQ",
+      "name": "Global X Nasdaq-100 Income Edge ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "EDGU",
       "name": "3EDGE Dynamic US Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "EDGX",
+      "name": "Global X U.S. 500 Income Edge ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -23889,6 +23925,12 @@
       "isETF": false
     },
     {
+      "symbol": "FGRU",
+      "name": "T-REX 2X Long FIGR Daily Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "FGSI",
       "name": "FT Vest Growth Strength & Target Income ETF",
       "exchange": "NASDAQ",
@@ -27831,6 +27873,12 @@
       "isETF": false
     },
     {
+      "symbol": "GLDN",
+      "name": "Nicholas Gold Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GLDW",
       "name": "Roundhill Gold WeeklyPay ETF",
       "exchange": "BATS",
@@ -29232,6 +29280,12 @@
       "symbol": "GSST",
       "name": "Goldman Sachs Ultra Short Bond ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "GSUI",
+      "name": "Grayscale Sui Staking ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -47500,7 +47554,7 @@
     },
     {
       "symbol": "OBAI",
-      "name": "TG-17, Inc. - Common Stock",
+      "name": "Our Bond, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -58995,6 +59049,12 @@
       "isETF": false
     },
     {
+      "symbol": "SHAZ",
+      "name": "SharonAI Holdings, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SHBI",
       "name": "Shore Bancshares, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -59928,6 +59988,12 @@
       "symbol": "SLVR",
       "name": "Sprott Silver Miners & Physical Silver ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SLVX",
+      "name": "Nicholas Silver Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -62511,6 +62577,12 @@
       "isETF": false
     },
     {
+      "symbol": "SUIS",
+      "name": "Canary Staked SUIS ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SUN",
       "name": "Sunoco LP Common Units representing limited partner interests",
       "exchange": "NYSE",
@@ -64275,12 +64347,6 @@
       "isETF": false
     },
     {
-      "symbol": "THAR",
-      "name": "Tharimmune, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "THC",
       "name": "Tenet Healthcare Corporation Common Stock",
       "exchange": "NYSE",
@@ -65319,6 +65385,12 @@
       "isETF": false
     },
     {
+      "symbol": "TPAY",
+      "name": "Roundhill S&P 500 Target 10 Managed Distribution ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TPB",
       "name": "Turning Point Brands, Inc. Common Stock",
       "exchange": "NYSE",
@@ -65873,6 +65945,12 @@
     {
       "symbol": "TSI",
       "name": "TCW Strategic Income Fund, Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TSI.V",
+      "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -66681,8 +66759,20 @@
       "isETF": false
     },
     {
+      "symbol": "UAC",
+      "name": "United Acquisition Corp. I Class A Ordinary Shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "UAC.U",
       "name": "United Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "UAC.W",
+      "name": "United Acquisition Corp. I Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "AMEX",
       "isETF": false
     },
