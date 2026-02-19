@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-18T23:09:48.084785Z",
-  "count": 12333,
+  "lastUpdated": "2026-02-19T23:10:38.534923Z",
+  "count": 12347,
   "tickers": [
     {
       "symbol": "A",
@@ -65,6 +65,12 @@
     {
       "symbol": "AACIU",
       "name": "Armada Acquisition Corp. III - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AACOU",
+      "name": "Abony Acquisition Corp. I - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -474,6 +480,12 @@
       "symbol": "ACA",
       "name": "Arcosa, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ACAAU",
+      "name": "Averin Capital Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -1911,6 +1923,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIDX",
+      "name": "20/20 Biolabs, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AIEQ",
       "name": "Amplify AI Powered Equity ETF",
       "exchange": "NYSE ARCA",
@@ -3005,12 +3023,6 @@
     {
       "symbol": "AMPGR",
       "name": "Amplitech Group, Inc. - Series A Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AMPGW",
-      "name": "Amplitech Group, Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -4113,6 +4125,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARIS",
+      "name": "Aris Mining Corporation Common Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "ARKB",
       "name": "ARK 21Shares Bitcoin ETF",
       "exchange": "BATS",
@@ -4224,12 +4242,6 @@
       "symbol": "ARMK",
       "name": "Aramark Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ARMN",
-      "name": "Aris Mining Corporation Common Shares",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -5217,12 +5229,6 @@
       "isETF": false
     },
     {
-      "symbol": "AUUDW",
-      "name": "Auddia Inc. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "AVA",
       "name": "Avista Corporation Common Stock",
       "exchange": "NYSE",
@@ -5721,6 +5727,12 @@
       "isETF": false
     },
     {
+      "symbol": "AXPG",
+      "name": "Leverage Shares 2x Long AXP Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AXR",
       "name": "AMREP Corporation Common Stock",
       "exchange": "NYSE",
@@ -6167,12 +6179,6 @@
     {
       "symbol": "BANX",
       "name": "ArrowMark Financial Corp. - Closed End Fund",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BANXR",
-      "name": "ArrowMark Financial Corp. - Right",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10642,7 +10648,7 @@
     },
     {
       "symbol": "BYAH",
-      "name": "Park Ha Biological Technology Co., Ltd. - ordinary shares",
+      "name": "Park Ha Biological Technology Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -13341,6 +13347,12 @@
       "isETF": false
     },
     {
+      "symbol": "CLSZ",
+      "name": "Tradr 2X Short CLSK Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CLVT",
       "name": "Clarivate Plc Ordinary Shares",
       "exchange": "NYSE",
@@ -14016,6 +14028,12 @@
       "symbol": "COHU",
       "name": "Cohu, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "COHX",
+      "name": "Tradr 2X Long COHR Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -23175,6 +23193,12 @@
       "isETF": false
     },
     {
+      "symbol": "FCXG",
+      "name": "Leverage Shares 2x Long FCX Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FDAT",
       "name": "Tactical Advantage ETF",
       "exchange": "NYSE ARCA",
@@ -26565,6 +26589,12 @@
       "isETF": false
     },
     {
+      "symbol": "GAING",
+      "name": "Gladstone Investment Corporation - 7.125% Notes due 2031",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GAINI",
       "name": "Gladstone Investment Corporation - 7.875% Notes due 2030",
       "exchange": "NASDAQ",
@@ -27449,6 +27479,12 @@
     {
       "symbol": "GGROW",
       "name": "Gogoro Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GGRP",
+      "name": "The Glimpse Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33783,6 +33819,12 @@
       "isETF": false
     },
     {
+      "symbol": "INDZ",
+      "name": "VanEck India Select ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "INEO",
       "name": "INNEOVA Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -34390,7 +34432,7 @@
     },
     {
       "symbol": "IPST",
-      "name": "Heritage Distilling Holding Company, Inc. - Common Stock",
+      "name": "IP Strategy Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -34458,6 +34500,12 @@
       "symbol": "IQM",
       "name": "Franklin Intelligent Machines ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "IQMM",
+      "name": "ProShares GENIUS Money Market ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -35478,6 +35526,12 @@
       "symbol": "J",
       "name": "Jacobs Solutions Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "JA",
+      "name": "Janus Henderson AA-A CLO ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -38907,6 +38961,12 @@
       "isETF": false
     },
     {
+      "symbol": "LEUX",
+      "name": "Tradr 2X Long LEU Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LEVI",
       "name": "Levi Strauss & Co Class A Common Stock",
       "exchange": "NYSE",
@@ -41769,8 +41829,20 @@
       "isETF": false
     },
     {
+      "symbol": "MEVO",
+      "name": "M Evo Global Acquisition Corp II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MEVOU",
       "name": "M Evo Global Acquisition Corp II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MEVOW",
+      "name": "M Evo Global Acquisition Corp II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44818,7 +44890,7 @@
     },
     {
       "symbol": "NCEW",
-      "name": "New Century Logistics Limited - Ordinary Shares",
+      "name": "New Century Logistics (BVI) Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49374,6 +49446,12 @@
       "symbol": "PALL",
       "name": "abrdn Physical Palladium Shares ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "PALOU",
+      "name": "Paloma Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58341,6 +58419,12 @@
       "isETF": false
     },
     {
+      "symbol": "SDMF",
+      "name": "Simplify DBi CTA Managed Futures Index ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SDOG",
       "name": "ALPS Sector Dividend Dogs ETF",
       "exchange": "NYSE ARCA",
@@ -58883,12 +58967,6 @@
     {
       "symbol": "SFYF",
       "name": "SoFi Social 50 ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "SFYX",
-      "name": "SoFi Next 500 ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -60306,6 +60384,12 @@
       "symbol": "SMR",
       "name": "NuScale Power Corporation Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SMRF",
+      "name": "ALPS Nautilus SMR, Nuclear & Technology ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -61986,12 +62070,6 @@
       "symbol": "SSK",
       "name": "REX-Osprey SOL + Staking ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "SSKN",
-      "name": "Strata Skin Sciences, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -65811,6 +65889,12 @@
       "isETF": false
     },
     {
+      "symbol": "TRUC",
+      "name": "VanEck Communication Services TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TRUD",
       "name": "VanEck Consumer Discretionary TruSector ETF",
       "exchange": "NASDAQ",
@@ -69609,12 +69693,6 @@
       "isETF": false
     },
     {
-      "symbol": "VRAR",
-      "name": "The Glimpse Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VRAX",
       "name": "Virax Biolabs Group Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -71868,6 +71946,12 @@
       "symbol": "XDEC",
       "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - December",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XDEF",
+      "name": "Xtrackers Europe Defense Technologies ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
