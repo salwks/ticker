@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-19T23:10:38.534923Z",
-  "count": 12347,
+  "lastUpdated": "2026-02-20T23:09:28.086415Z",
+  "count": 12346,
   "tickers": [
     {
       "symbol": "A",
@@ -4059,12 +4059,6 @@
       "isETF": false
     },
     {
-      "symbol": "AREA",
-      "name": "Harbor AlphaEdge Next Generation REITs ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "AREB",
       "name": "American Rebel Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -5190,12 +5184,6 @@
       "symbol": "AUROW",
       "name": "Aurora Innovation, Inc.  - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AURU",
-      "name": "Tradr 2X Long AUR Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -7254,6 +7242,18 @@
       "symbol": "BESF",
       "name": "Bastion Energy ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BESS",
+      "name": "Bimergen Energy Corporation Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "BESS.W",
+      "name": "Bimergen Energy Corporation Warrants, each share exercisable to purchase one share of Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -29343,12 +29343,6 @@
       "isETF": false
     },
     {
-      "symbol": "GSX",
-      "name": "Tradr 2X Long GS Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "GSY",
       "name": "Invesco Ultra Short Duration ETF",
       "exchange": "NYSE ARCA",
@@ -35187,6 +35181,12 @@
       "isETF": false
     },
     {
+      "symbol": "IVSX",
+      "name": "Applied Finance IVS International SMID ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IVT",
       "name": "InvenTrust Properties Corp. Common Stock",
       "exchange": "NYSE",
@@ -40557,12 +40557,6 @@
       "isETF": false
     },
     {
-      "symbol": "LYFX",
-      "name": "Tradr 2X Long LYFT Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "LYG",
       "name": "Lloyds Banking Group Plc American Depositary Shares",
       "exchange": "NYSE",
@@ -45258,12 +45252,6 @@
       "symbol": "NETL",
       "name": "Colterpoint Net Lease Real Estate ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NETX",
-      "name": "Tradr 2X Long NET Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -56345,6 +56333,12 @@
     {
       "symbol": "ROBT",
       "name": "First Trust Nasdaq Artificial Intelligence and Robotics ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ROC",
+      "name": "Rank One Computing Corporation - Common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
