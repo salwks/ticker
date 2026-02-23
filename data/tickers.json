@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-22T23:07:28.741404Z",
-  "count": 12346,
+  "lastUpdated": "2026-02-23T23:14:45.281981Z",
+  "count": 12340,
   "tickers": [
     {
       "symbol": "A",
@@ -366,18 +366,6 @@
       "symbol": "ABOT",
       "name": "Abacus FCF Innovation Leaders ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "ABP",
-      "name": "Abpro Holdings, Inc - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ABPWW",
-      "name": "Abpro Holdings, Inc - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -8277,12 +8265,6 @@
       "isETF": false
     },
     {
-      "symbol": "BKN",
-      "name": "BlackRock Investment Quality Municipal Trust Inc. (The)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BKNG",
       "name": "Booking Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -9936,12 +9918,6 @@
       "symbol": "BSY",
       "name": "Bentley Systems, Incorporated - Class B Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BTA",
-      "name": "BlackRock Long-Term Municipal Advantage Trust Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -17835,6 +17811,12 @@
       "isETF": false
     },
     {
+      "symbol": "DLFE",
+      "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - February",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DLHC",
       "name": "DLH Holdings Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -23271,6 +23253,12 @@
       "isETF": false
     },
     {
+      "symbol": "FDIQ",
+      "name": "Invesco Bloomberg Financial Data Providers ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FDIS",
       "name": "Fidelity MSCI Consumer Discretionary Index ETF",
       "exchange": "NYSE ARCA",
@@ -28235,7 +28223,7 @@
     {
       "symbol": "GMMF",
       "name": "iShares Government Money Market ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -28272,24 +28260,6 @@
       "symbol": "GMOV",
       "name": "GMO US Value ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "GMRE",
-      "name": "Global Medical REIT Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GMRE$A",
-      "name": "Global Medical REIT Inc. Series A Cumulative Redeemable Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GMRE$B",
-      "name": "Global Medical REIT Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -29481,8 +29451,20 @@
       "isETF": false
     },
     {
+      "symbol": "GTOH",
+      "name": "Invesco Short Duration High Yield ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GTOP",
       "name": "Goldman Sachs Technology Opportunities ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GTOQ",
+      "name": "Invesco High Yield Systematic Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30684,12 +30666,6 @@
       "symbol": "HIX",
       "name": "Western Asset High Income Fund II Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "HIYS",
-      "name": "Invesco High Yield Select ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -32955,6 +32931,12 @@
       "isETF": false
     },
     {
+      "symbol": "IFLN",
+      "name": "Invesco Bloomberg Enhanced Fallen Angels ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "IFLO",
       "name": "VictoryShares International Free Cash Flow ETF",
       "exchange": "NASDAQ",
@@ -33240,12 +33222,6 @@
       "symbol": "IHY",
       "name": "VanEck International High Yield Bond ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "IHYF",
-      "name": "Invesco High Yield Bond Factor ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -33648,6 +33624,12 @@
       "symbol": "IMUX",
       "name": "Immunic, Inc.  - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IMVP",
+      "name": "Invesco India ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -37007,12 +36989,6 @@
     {
       "symbol": "KBWP",
       "name": "Invesco KBW Property & Casualty Insurance ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KBWR",
-      "name": "Invesco KBW Regional Banking ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42285,6 +42261,12 @@
       "isETF": false
     },
     {
+      "symbol": "MIGO",
+      "name": "MIG Core ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MILK",
       "name": "Pacer US Cash Cows Bond ETF",
       "exchange": "BATS",
@@ -43239,12 +43221,6 @@
       "isETF": false
     },
     {
-      "symbol": "MQT",
-      "name": "Blackrock MuniYield Quality Fund II, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "MQY",
       "name": "Blackrock MuniYield Quality Fund, Inc. Common Stock",
       "exchange": "NYSE",
@@ -44145,12 +44121,6 @@
       "isETF": false
     },
     {
-      "symbol": "MVF",
-      "name": "Blackrock MuniVest Fund, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "MVFD",
       "name": "Monarch Volume Factor Dividend Tree Index ETF",
       "exchange": "BATS",
@@ -44208,12 +44178,6 @@
       "symbol": "MVSTW",
       "name": "Microvast Holdings, Inc. - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MVT",
-      "name": "Blackrock MuniVest Fund II, Inc.  Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -44346,12 +44310,6 @@
       "symbol": "MYCO",
       "name": "State Street My2035 Corporate Bond ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MYD",
-      "name": "Blackrock MuniYield Fund, Inc.  Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -50871,12 +50829,6 @@
       "isETF": false
     },
     {
-      "symbol": "PHB",
-      "name": "Invesco Fundamental High Yield Corporate Bond ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "PHDG",
       "name": "Invesco S&P 500 Downside Hedged ETF",
       "exchange": "NYSE ARCA",
@@ -51066,12 +51018,6 @@
       "symbol": "PIM",
       "name": "Putnam Master Intermediate Income Trust Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PIN",
-      "name": "Invesco India ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -51635,7 +51581,7 @@
     {
       "symbol": "PMMF",
       "name": "iShares Prime Money Market ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -54401,6 +54347,12 @@
     {
       "symbol": "QVMS",
       "name": "Invesco S&P SmallCap 600 QVM Multi-factor ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "QVMT",
+      "name": "Invesco S&P 500 Concentrated QVM ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -59057,7 +59009,7 @@
     {
       "symbol": "SGOV",
       "name": "iShares 0-3 Month Treasury Bond ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -59315,7 +59267,7 @@
     {
       "symbol": "SHV",
       "name": "iShares 0-1 Year Treasury Bond ETF",
-      "exchange": "NASDAQ",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -61601,12 +61553,6 @@
     {
       "symbol": "SPVM",
       "name": "Invesco S&P 500 Value with Momentum ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "SPVU",
-      "name": "Invesco S&P 500 Enhanced Value ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -72660,6 +72606,24 @@
       "symbol": "XRMI",
       "name": "Global X S&P 500 Risk Managed Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XRN",
+      "name": "Chiron Real Estate Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "XRN$A",
+      "name": "Chiron Real Estate Inc. Series A Cumulative Redeemable Preferred Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "XRN$B",
+      "name": "Chiron Real Estate Inc. 8.00% Series B Cumulative Redeemable Preferred Stock, $0.001 par value per share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
