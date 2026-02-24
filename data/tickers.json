@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-23T23:14:45.281981Z",
-  "count": 12340,
+  "lastUpdated": "2026-02-24T23:10:42.516412Z",
+  "count": 12344,
   "tickers": [
     {
       "symbol": "A",
@@ -1799,12 +1799,6 @@
     {
       "symbol": "AHH$A",
       "name": "Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AHL",
-      "name": "Aspen Insurance Holdings Limited Class A Ordinary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -4812,12 +4806,6 @@
       "symbol": "ATFV",
       "name": "Alger 35 ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ATGE",
-      "name": "Adtalem Global Education Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -8454,12 +8442,6 @@
       "symbol": "BLKB",
       "name": "Blackbaud, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BLKC",
-      "name": "Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -15387,6 +15369,12 @@
       "isETF": false
     },
     {
+      "symbol": "CTAAU",
+      "name": "ClearThink 1 Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CTAP",
       "name": "Simplify US Equity PLUS Managed Futures Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -15881,6 +15869,12 @@
     {
       "symbol": "CVS",
       "name": "CVS Health Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CVSA",
+      "name": "Covista Inc. Common Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -17512,7 +17506,7 @@
     },
     {
       "symbol": "DIA",
-      "name": "SPDR Dow Jones Industrial Average ETF",
+      "name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -20830,7 +20824,7 @@
     },
     {
       "symbol": "ENLV",
-      "name": "Enlivex Therapeutics Ltd. - Ordinary Shares",
+      "name": "Enlivex Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26757,12 +26751,6 @@
       "isETF": false
     },
     {
-      "symbol": "GBLD",
-      "name": "Invesco MSCI Green Building ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "GBLI",
       "name": "Global Indemnity Group, LLC - Class A Common Shares",
       "exchange": "NASDAQ",
@@ -29338,7 +29326,7 @@
     },
     {
       "symbol": "GTEC",
-      "name": "Greenland Technologies Holding Corporation - Ordinary Shares",
+      "name": "Greenland Technologies Holding Corporation - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32151,6 +32139,12 @@
       "isETF": false
     },
     {
+      "symbol": "IBFR",
+      "name": "Innovator International Developed Managed 10 Buffer ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "IBG",
       "name": "Innovation Beverage Group Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -34539,8 +34533,20 @@
       "isETF": false
     },
     {
+      "symbol": "IRAB",
+      "name": "Iris Acquisition Corp II Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "IRAB.U",
       "name": "Iris Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one-half of one redeemable Warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "IRAB.W",
+      "name": "Iris Acquisition Corp II Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -35136,12 +35142,6 @@
       "symbol": "IVR$C",
       "name": "INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "IVRA",
-      "name": "Invesco Real Assets ESG ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -36929,6 +36929,12 @@
     {
       "symbol": "KBE",
       "name": "State Street SPDR S&P Bank ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "KBFR",
+      "name": "Innovator U.S. Small Cap Managed 10 Buffer ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -40397,18 +40403,6 @@
     {
       "symbol": "LVO",
       "name": "LiveOne, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LVRO",
-      "name": "Lavoro Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LVROW",
-      "name": "Lavoro Limited - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44687,6 +44681,12 @@
     {
       "symbol": "NBFC",
       "name": "Neuberger Berman Flexible Credit Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "NBFR",
+      "name": "Innovator Nasdaq-100 Managed 10 Buffer ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -53823,6 +53823,12 @@
       "isETF": false
     },
     {
+      "symbol": "QNC",
+      "name": "Quantum eMotion Corp. Common Shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "QNCX",
       "name": "Quince Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -53897,12 +53903,6 @@
     {
       "symbol": "QQHG",
       "name": "Invesco QQQ Hedged Advantage ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "QQJG",
-      "name": "Invesco ESG NASDAQ Next Gen 100 ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56097,6 +56097,12 @@
       "isETF": false
     },
     {
+      "symbol": "RMRC",
+      "name": "ARMOR Core Risk-Managed ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RMSG",
       "name": "Real Messenger Corporation - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -57165,12 +57171,6 @@
       "isETF": false
     },
     {
-      "symbol": "RYI",
-      "name": "Ryerson Holding Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "RYLD",
       "name": "Global X Russell 2000 Covered Call ETF",
       "exchange": "NYSE ARCA",
@@ -57210,6 +57210,12 @@
       "symbol": "RYTM",
       "name": "Rhythm Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RYZ",
+      "name": "Ryerson Holding Corporation Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -60874,7 +60880,7 @@
     },
     {
       "symbol": "SONM",
-      "name": "Sonim Technologies, Inc. - Common Stock",
+      "name": "DNA X, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61362,12 +61368,6 @@
       "symbol": "SPMO",
       "name": "Invesco S&P 500 Momentum ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "SPMV",
-      "name": "Invesco S&P 500 Minimum Variance ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -64185,6 +64185,12 @@
       "isETF": false
     },
     {
+      "symbol": "TFFI",
+      "name": "Chesapeake Trend-Following Fixed Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TFI",
       "name": "State Street SPDR Nuveen ICE Municipal Bond ETF",
       "exchange": "NYSE ARCA",
@@ -66179,6 +66185,12 @@
     {
       "symbol": "TSSI",
       "name": "TSS, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TSUI",
+      "name": "21Shares Sui ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71193,6 +71205,18 @@
       "isETF": false
     },
     {
+      "symbol": "WPAC",
+      "name": "White Pearl Acquisition Corp. Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WPAC.R",
+      "name": "White Pearl Acquisition Corp. Rights, each right entitles the holder to receive one-fifth of one Class A ordinary share upon consummation of the initial business combination",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "WPAC.U",
       "name": "White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one-fifth (1/5) of one Class A ordinary share",
       "exchange": "NYSE",
@@ -71754,6 +71778,12 @@
       "symbol": "XBCI",
       "name": "NEOS Boosted Bitcoin High Income ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XBFR",
+      "name": "Innovator Equity Managed 10 Buffer ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -72588,12 +72618,6 @@
       "symbol": "XRAY",
       "name": "DENTSPLY SIRONA Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "XRLV",
-      "name": "Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
