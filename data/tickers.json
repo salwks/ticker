@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-24T23:10:42.516412Z",
-  "count": 12344,
+  "lastUpdated": "2026-02-25T23:11:00.018832Z",
+  "count": 12356,
   "tickers": [
     {
       "symbol": "A",
@@ -852,6 +852,12 @@
       "symbol": "ACXP",
       "name": "Acurx Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACYN",
+      "name": "FT Vest Laddered Autocallable Barrier & Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -2633,6 +2639,12 @@
     {
       "symbol": "ALOVU",
       "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ALOY",
+      "name": "REalloys Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -8337,12 +8349,6 @@
       "isETF": false
     },
     {
-      "symbol": "BLBX",
-      "name": "Blackboxstocks Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BLCN",
       "name": "Siren NexGen Economy ETF",
       "exchange": "NASDAQ",
@@ -12844,7 +12850,7 @@
     },
     {
       "symbol": "CIFR",
-      "name": "Cipher Mining Inc. - Common Stock",
+      "name": "Cipher Digital Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16389,8 +16395,20 @@
       "isETF": false
     },
     {
+      "symbol": "DBCA",
+      "name": "D. Boral Acquisition I Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DBCAU",
       "name": "D. Boral Acquisition I Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DBCAW",
+      "name": "D. Boral Acquisition I Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24759,6 +24777,12 @@
       "isETF": false
     },
     {
+      "symbol": "FLXI",
+      "name": "Invesco Flexible Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "FLXN",
       "name": "Horizon Flexible Income ETF",
       "exchange": "BATS",
@@ -29973,6 +29997,12 @@
       "isETF": false
     },
     {
+      "symbol": "HBRD",
+      "name": "Invesco U.S. Hybrid Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "HBT",
       "name": "HBT Financial, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -33600,6 +33630,12 @@
       "symbol": "IMTE",
       "name": "Integrated Media Technology Limited - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IMTG",
+      "name": "Invesco Agency MBS ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -38151,6 +38187,18 @@
       "isETF": false
     },
     {
+      "symbol": "KTWO",
+      "name": "K2 Capital Acquisition Corporation - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KTWOR",
+      "name": "K2 Capital Acquisition Corporation - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KTWOU",
       "name": "K2 Capital Acquisition Corporation - Units",
       "exchange": "NASDAQ",
@@ -42003,12 +42051,6 @@
       "isETF": false
     },
     {
-      "symbol": "MGIC",
-      "name": "Magic Software Enterprises Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MGIH",
       "name": "Millennium Group International Holdings Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -44445,6 +44487,12 @@
       "isETF": false
     },
     {
+      "symbol": "MZYX.U",
+      "name": "MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MZZ",
       "name": "ProShares UltraShort MidCap400",
       "exchange": "NYSE ARCA",
@@ -46710,6 +46758,18 @@
       "symbol": "NUBD",
       "name": "Nuveen ESG U.S. Aggregate Bond ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "NUCL",
+      "name": "Eagle Nuclear Energy Corp. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NUCLW",
+      "name": "Eagle Nuclear Energy Corp. - Warrants",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -65553,6 +65613,12 @@
       "isETF": false
     },
     {
+      "symbol": "TRAD.U",
+      "name": "APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "TRAK",
       "name": "ReposiTrak, Inc. Common Stock",
       "exchange": "NYSE",
@@ -65712,6 +65778,12 @@
       "symbol": "TROO",
       "name": "TROOPS, Inc.  - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TROT",
+      "name": "Invesco MSCI Treasury Duration Rotation ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -65979,8 +66051,8 @@
       "isETF": false
     },
     {
-      "symbol": "TSI.V",
-      "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights when issued",
+      "symbol": "TSI.R",
+      "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
