@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-25T23:11:00.018832Z",
-  "count": 12356,
+  "lastUpdated": "2026-02-26T23:10:20.448041Z",
+  "count": 12368,
   "tickers": [
     {
       "symbol": "A",
@@ -6021,6 +6021,12 @@
       "isETF": false
     },
     {
+      "symbol": "BAIV",
+      "name": "Brown Advisory International Value Select ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BAK",
       "name": "Braskem SA ADR",
       "exchange": "NYSE",
@@ -6720,6 +6726,12 @@
       "symbol": "BCHP",
       "name": "Principal Focused Blue Chip ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BCHT",
+      "name": "Birchtech Corp. Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -11117,12 +11129,6 @@
     {
       "symbol": "CASH",
       "name": "Pathward Financial, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CASI",
-      "name": "CASI Pharmaceuticals, Inc. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26295,6 +26301,12 @@
       "isETF": false
     },
     {
+      "symbol": "FVAV",
+      "name": "Fortress Value Acquisition Corp. V - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FVC",
       "name": "First Trust Dorsey Wright Dynamic Focus 5 ETF",
       "exchange": "NASDAQ",
@@ -27618,6 +27630,12 @@
       "symbol": "GIC",
       "name": "Global Industrial Company Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GIF",
+      "name": "REX Growth & Income Universe ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -44367,6 +44385,36 @@
       "isETF": false
     },
     {
+      "symbol": "MYHA",
+      "name": "State Street My2027 High Yield Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYHB",
+      "name": "State Street My2028 High Yield Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYHC",
+      "name": "State Street My2029 High Yield Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYHD",
+      "name": "State Street My2030 High Yield Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYHE",
+      "name": "State Street My2031 High Yield Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MYI",
       "name": "Blackrock MuniYield Quality Fund III, Inc Common Stock",
       "exchange": "NYSE",
@@ -45654,12 +45702,6 @@
       "symbol": "NITE",
       "name": "The Nightview Fund NITE",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NITO",
-      "name": "N2OFF, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -47424,6 +47466,12 @@
       "symbol": "NXTI",
       "name": "Simplify Next Intangible Core Index ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "NXTS",
+      "name": "Nexentis Technologies Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52131,6 +52179,12 @@
       "isETF": false
     },
     {
+      "symbol": "PQUS",
+      "name": "Pictet AI Enhanced US Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PR",
       "name": "Permian Resources Corporation Class A Common Stock",
       "exchange": "NYSE",
@@ -55437,6 +55491,18 @@
       "isETF": false
     },
     {
+      "symbol": "RFAM",
+      "name": "RF Acquisition Corp III - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RFAMR",
+      "name": "RF Acquisition Corp III - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RFAMU",
       "name": "RF Acquisition Corp III - Units",
       "exchange": "NASDAQ",
@@ -56187,14 +56253,14 @@
       "isETF": false
     },
     {
-      "symbol": "RNA",
-      "name": "Avidity Biosciences, Inc. - Common Stock",
+      "symbol": "RNAC",
+      "name": "Cartesian Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
-      "symbol": "RNAC",
-      "name": "Cartesian Therapeutics, Inc. - Common Stock",
+      "symbol": "RNAM",
+      "name": "Avidity Biosciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61437,12 +61503,6 @@
       "isETF": false
     },
     {
-      "symbol": "SPNT$B",
-      "name": "SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation preference per share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "SPOG",
       "name": "Leverage Shares 2X Long SPOT Daily ETF",
       "exchange": "NASDAQ",
@@ -65559,6 +65619,12 @@
       "isETF": false
     },
     {
+      "symbol": "TPRY",
+      "name": "VistaShares Target 15 TEPRTantrum Contrarian Distribution ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TPSC",
       "name": "Timothy Plan US Small Cap Core ETF",
       "exchange": "NYSE ARCA",
@@ -65676,6 +65742,12 @@
       "symbol": "TRGP",
       "name": "Targa Resources, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TRGSU",
+      "name": "TRG Latin America Acquisitions Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
