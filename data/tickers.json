@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-26T23:10:20.448041Z",
-  "count": 12368,
+  "lastUpdated": "2026-02-27T23:07:10.102636Z",
+  "count": 12380,
   "tickers": [
     {
       "symbol": "A",
@@ -4311,8 +4311,20 @@
       "isETF": false
     },
     {
+      "symbol": "ARTC",
+      "name": "Art Technology Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ARTCU",
       "name": "Art Technology Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ARTCW",
+      "name": "Art Technology Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -6851,12 +6863,6 @@
     {
       "symbol": "BCTXL",
       "name": "BriaCell Therapeutics Corp. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BCTXW",
-      "name": "BriaCell Therapeutics Corp. - Warrant expiring 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -13473,8 +13479,20 @@
       "isETF": false
     },
     {
+      "symbol": "CMII",
+      "name": "Columbus Circle Capital Corp II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CMIIU",
       "name": "Columbus Circle Capital Corp II - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CMIIW",
+      "name": "Columbus Circle Capital Corp II - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -19907,12 +19925,6 @@
     {
       "symbol": "EFC",
       "name": "Ellington Financial Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "EFC$A",
-      "name": "Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -26571,6 +26583,12 @@
       "isETF": false
     },
     {
+      "symbol": "GAB.V",
+      "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "GABC",
       "name": "German American Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -27245,6 +27263,12 @@
     {
       "symbol": "GEN",
       "name": "Gen Digital Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GENB",
+      "name": "Generate Biomedicines, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33425,6 +33449,12 @@
     {
       "symbol": "ILIT",
       "name": "iShares Lithium Miners and Producers ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ILLUU",
+      "name": "Illumination Acquisition Corp I - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42377,6 +42407,12 @@
     {
       "symbol": "MINV",
       "name": "Matthews Asia Innovators Active ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MINY",
+      "name": "YieldMax Strategic Metals & Mining Portfolio Option Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -56253,6 +56289,12 @@
       "isETF": false
     },
     {
+      "symbol": "RNA",
+      "name": "Atrium Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RNAC",
       "name": "Cartesian Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -61047,8 +61089,20 @@
       "isETF": false
     },
     {
+      "symbol": "SORN",
+      "name": "Soren Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SORNU",
       "name": "Soren Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SORNW",
+      "name": "Soren Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62067,8 +62121,26 @@
       "isETF": false
     },
     {
+      "symbol": "SSAC",
+      "name": "SPACSphere Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SSACR",
+      "name": "SPACSphere Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SSACU",
       "name": "SPACSphere Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SSACW",
+      "name": "SPACSphere Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
