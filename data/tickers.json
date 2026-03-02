@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-01T23:06:18.044699Z",
-  "count": 12380,
+  "lastUpdated": "2026-03-02T23:07:10.156855Z",
+  "count": 12379,
   "tickers": [
     {
       "symbol": "A",
@@ -1797,18 +1797,6 @@
       "isETF": false
     },
     {
-      "symbol": "AHH",
-      "name": "Armada Hoffler Properties, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AHH$A",
-      "name": "Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "AHL$D",
       "name": "Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares",
       "exchange": "NYSE",
@@ -1841,6 +1829,18 @@
     {
       "symbol": "AHR",
       "name": "American Healthcare REIT, Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AHRT",
+      "name": "AH Realty Trust, Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AHRT$A",
+      "name": "AH Realty Trust, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -2590,7 +2590,7 @@
     },
     {
       "symbol": "ALLW",
-      "name": "SPDR Bridgewater All Weather ETF",
+      "name": "State Street Bridgewater All Weather ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3258,12 +3258,6 @@
       "symbol": "ANDG",
       "name": "Andersen Group Inc. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ANEB",
-      "name": "Anebulo Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7397,12 +7391,6 @@
     {
       "symbol": "BFOR",
       "name": "Barron's 400 ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "BFRE",
-      "name": "Westwood LBRTY Global Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -12076,7 +12064,7 @@
     },
     {
       "symbol": "CERY",
-      "name": "SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF",
+      "name": "State Street SPDR Bloomberg Enhanced Roll Yield Commodity Strategy No K-1 ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -16707,6 +16695,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDFM",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - March",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDFN",
       "name": "Innovator Equity Dual Directional 15 Buffer ETF - November",
       "exchange": "BATS",
@@ -16809,6 +16803,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDTM",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - March",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDTN",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - November",
       "exchange": "BATS",
@@ -16882,7 +16882,7 @@
     },
     {
       "symbol": "DECO",
-      "name": "SPDR Galaxy Digital Asset Ecosystem ETF",
+      "name": "State Street Galaxy Digital Asset Ecosystem ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17152,7 +17152,7 @@
     },
     {
       "symbol": "DFGX",
-      "name": "Dimensional Global ex US Core Fixed Income ETF",
+      "name": "Dimensional International Core Fixed Income ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17994,12 +17994,6 @@
       "symbol": "DMAR",
       "name": "FT Vest U.S. Equity Deep Buffer ETF - March",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "DMAT",
-      "name": "Global X Disruptive Materials ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -19368,6 +19362,12 @@
       "symbol": "EARN",
       "name": "Ellington Credit Company Common Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "EART",
+      "name": "Global X Rare Earth & Critical Materials ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -21774,12 +21774,6 @@
       "symbol": "ETHW",
       "name": "Bitwise Ethereum ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ETHZ",
-      "name": "ETHZilla Corporation - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -25491,12 +25485,6 @@
       "isETF": false
     },
     {
-      "symbol": "FRGE",
-      "name": "Forge Global Holdings, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "FRGN",
       "name": "Horizon International Equity ETF",
       "exchange": "NYSE ARCA",
@@ -25541,6 +25529,12 @@
     {
       "symbol": "FRMI",
       "name": "Fermi Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FRMM",
+      "name": "Forum Markets, Incorporated - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26247,12 +26241,6 @@
       "isETF": false
     },
     {
-      "symbol": "FUNL",
-      "name": "CornerCap Fundametrics Large-Cap ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "FURY",
       "name": "Fury Gold Mines Limited Common Shares",
       "exchange": "AMEX",
@@ -26849,12 +26837,6 @@
     {
       "symbol": "GBXA",
       "name": "Goldman Sachs U.S. Large Cap Buffer 1 ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "GBXC",
-      "name": "Goldman Sachs U.S. Large Cap Buffer 3 ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -30286,7 +30268,7 @@
     },
     {
       "symbol": "HECO",
-      "name": "SPDR Galaxy Hedged Digital Asset Ecosystem ETF",
+      "name": "State Street Galaxy Hedged Digital Asset Ecosystem ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33016,7 +32998,7 @@
     },
     {
       "symbol": "IFN",
-      "name": "India Fund, Inc. (The) Common Stock",
+      "name": "Aberdeen India Fund, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -36579,8 +36561,8 @@
       "isETF": false
     },
     {
-      "symbol": "JPMO",
-      "name": "YieldMax JPM Option Income Strategy ETF",
+      "symbol": "JPO",
+      "name": "YieldMax JP Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44806,13 +44788,13 @@
     },
     {
       "symbol": "NBET",
-      "name": "Neuberger Berman Energy Transition & Infrastructure ETF",
+      "name": "Neuberger Energy Transition & Infrastructure ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "NBFC",
-      "name": "Neuberger Berman Flexible Credit Income ETF",
+      "name": "Neuberger Flexible Credit Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44908,7 +44890,7 @@
     },
     {
       "symbol": "NBSD",
-      "name": "Neuberger Berman Short Duration Income ETF",
+      "name": "Neuberger Short Duration Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44926,7 +44908,7 @@
     },
     {
       "symbol": "NBTR",
-      "name": "Neuberger Berman Total Return Bond ETF",
+      "name": "Neuberger Total Return Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -45256,7 +45238,7 @@
     },
     {
       "symbol": "NEMD",
-      "name": "Neuberger Berman Emerging Markets Debt Hard Currency ETF",
+      "name": "Neuberger Emerging Markets Debt Hard Currency ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -52396,7 +52378,7 @@
     },
     {
       "symbol": "PRIV",
-      "name": "SPDR SSGA IG Public & Private Credit ETF",
+      "name": "State Street IG Public & Private Credit ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -56301,12 +56283,6 @@
       "isETF": false
     },
     {
-      "symbol": "RNAM",
-      "name": "Avidity Biosciences, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RNAZ",
       "name": "TransCode Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -59518,7 +59494,7 @@
     },
     {
       "symbol": "SIFI",
-      "name": "Harbor Scientific Alpha Income ETF",
+      "name": "Harbor Ares Systematic Multi-Sector Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -59554,7 +59530,7 @@
     },
     {
       "symbol": "SIHY",
-      "name": "Harbor Scientific Alpha High-Yield ETF",
+      "name": "Harbor Ares Systematic High Yield ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -59836,7 +59812,7 @@
     },
     {
       "symbol": "SKK",
-      "name": "SKK Holdings Limited - Ordinary Shares",
+      "name": "SKK Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -60034,7 +60010,7 @@
     },
     {
       "symbol": "SLJY",
-      "name": "Amplify SILJ Covered Call ETF",
+      "name": "Amplify SILJ Junior Silver Miners Covered Call ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -62799,6 +62775,12 @@
       "isETF": false
     },
     {
+      "symbol": "SUNB",
+      "name": "Sunbelt Rentals Holdings, Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SUNC",
       "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
       "exchange": "NYSE",
@@ -62979,8 +62961,20 @@
       "isETF": false
     },
     {
+      "symbol": "SVIV",
+      "name": "Spring Valley Acquisition Corp. IV - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SVIVU",
       "name": "Spring Valley Acquisition Corp. IV - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SVIVW",
+      "name": "Spring Valley Acquisition Corp. IV - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64174,7 +64168,7 @@
     },
     {
       "symbol": "TEKX",
-      "name": "SPDR Galaxy Transformative Tech Accelerators ETF",
+      "name": "State Street Galaxy Transformative Tech Accelerators ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67948,7 +67942,7 @@
     },
     {
       "symbol": "USAI",
-      "name": "Pacer American Energy Independence ETF",
+      "name": "Pacer American Energy Infrastructure ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -72892,7 +72886,7 @@
     },
     {
       "symbol": "XRPM",
-      "name": "Amplify XRP 3% Monthly Premium Income ETF",
+      "name": "Amplify XRP 3% Monthly Option Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
