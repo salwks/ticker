@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-02T23:07:10.156855Z",
-  "count": 12379,
+  "lastUpdated": "2026-03-03T23:07:24.056585Z",
+  "count": 12381,
   "tickers": [
     {
       "symbol": "A",
@@ -18423,6 +18423,12 @@
       "isETF": false
     },
     {
+      "symbol": "DRNL",
+      "name": "Defiance 2X Daily Long Pure Drone and Aerial Automation ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DRNZ",
       "name": "REX Drone ETF",
       "exchange": "NASDAQ",
@@ -28230,12 +28236,6 @@
       "symbol": "GMF",
       "name": "State Street SPDR S&P Emerging Asia Pacific ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "GMGI",
-      "name": "Golden Matrix Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -41139,12 +41139,6 @@
       "isETF": false
     },
     {
-      "symbol": "MBCN",
-      "name": "Middlefield Banc Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MBI",
       "name": "MBIA Inc. Common Stock",
       "exchange": "NYSE",
@@ -41560,7 +41554,7 @@
     },
     {
       "symbol": "MDRR",
-      "name": "Medalist Diversified REIT, Inc. - Common Stock",
+      "name": "Medalist Diversified, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43331,6 +43325,12 @@
     {
       "symbol": "MRCY",
       "name": "Mercury Systems Inc - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MRDN",
+      "name": "Meridian Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -46883,6 +46883,12 @@
     {
       "symbol": "NUHY",
       "name": "Nuveen ESG High Yield Corporate Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "NUKX",
+      "name": "Nicholas Nuclear Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -66141,12 +66147,6 @@
       "isETF": false
     },
     {
-      "symbol": "TSE",
-      "name": "Trinseo PLC Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "TSEC",
       "name": "Touchstone Securitized Income ETF",
       "exchange": "NYSE ARCA",
@@ -70899,6 +70899,12 @@
       "isETF": false
     },
     {
+      "symbol": "WEPN",
+      "name": "Nicholas Defense and Rare Earth Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "WERN",
       "name": "Werner Enterprises, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -71099,6 +71105,12 @@
     {
       "symbol": "WHR",
       "name": "Whirlpool Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WHR$A",
+      "name": "Whirlpool Corporation Depositary Shares, each representing a 1/20th interest in a share of 8.50% Series A Mandatory Convertible Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
