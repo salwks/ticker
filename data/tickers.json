@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-03T23:07:24.056585Z",
-  "count": 12381,
+  "lastUpdated": "2026-03-04T23:09:54.171882Z",
+  "count": 12384,
   "tickers": [
     {
       "symbol": "A",
@@ -27963,6 +27963,12 @@
       "isETF": false
     },
     {
+      "symbol": "GLED.U",
+      "name": "GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "GLGG",
       "name": "Leverage Shares 2X Long GLXY Daily ETF",
       "exchange": "NASDAQ",
@@ -37074,6 +37080,12 @@
       "symbol": "KC",
       "name": "Kingsoft Cloud Holdings Limited - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KCAC.U",
+      "name": "Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -52137,6 +52149,12 @@
       "isETF": false
     },
     {
+      "symbol": "PPLC",
+      "name": "PPL Corporation Corporate Units",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "PPLT",
       "name": "abrdn Physical Platinum Shares ETF",
       "exchange": "NYSE ARCA",
@@ -54705,12 +54723,6 @@
       "isETF": false
     },
     {
-      "symbol": "RAPT",
-      "name": "RAPT Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RARE",
       "name": "Ultragenyx Pharmaceutical Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -54828,12 +54840,6 @@
       "symbol": "RBNE",
       "name": "Robin Energy Ltd. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RBOT",
-      "name": "Vicarious Surgical Inc. Class A Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -57642,6 +57648,12 @@
       "symbol": "SARO",
       "name": "StandardAero, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SASS",
+      "name": "M.D. Sass Concentrated Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -68172,6 +68184,12 @@
       "symbol": "USLM",
       "name": "United States Lime & Minerals, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "USLN",
+      "name": "iShares Broad USD Floating Rate Loan ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
