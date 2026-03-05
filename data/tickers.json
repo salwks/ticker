@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T23:09:54.171882Z",
+  "lastUpdated": "2026-03-05T23:26:35.264400Z",
   "count": 12384,
   "tickers": [
     {
@@ -136,7 +136,7 @@
     },
     {
       "symbol": "AAPD",
-      "name": "Direxion Daily AAPL Bear 1X Shares",
+      "name": "Direxion Daily AAPL Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -160,7 +160,7 @@
     },
     {
       "symbol": "AAPU",
-      "name": "Direxion Daily AAPL Bull 2X Shares",
+      "name": "Direxion Daily AAPL Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -2878,7 +2878,7 @@
     },
     {
       "symbol": "AMDD",
-      "name": "Direxion Daily AMD Bear 1X Shares",
+      "name": "Direxion Daily AMD Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3154,7 +3154,7 @@
     },
     {
       "symbol": "AMUU",
-      "name": "Direxion Daily AMD Bull 2X Shares",
+      "name": "Direxion Daily AMD Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3190,7 +3190,7 @@
     },
     {
       "symbol": "AMZD",
-      "name": "Direxion Daily AMZN Bear 1X Shares",
+      "name": "Direxion Daily AMZN Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3214,7 +3214,7 @@
     },
     {
       "symbol": "AMZU",
-      "name": "Direxion Daily AMZN Bull 2X Shares",
+      "name": "Direxion Daily AMZN Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5380,7 +5380,7 @@
     },
     {
       "symbol": "AVL",
-      "name": "Direxion Daily AVGO Bull 2X Shares",
+      "name": "Direxion Daily AVGO Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5482,7 +5482,7 @@
     },
     {
       "symbol": "AVS",
-      "name": "Direxion Daily AVGO Bear 1X Shares",
+      "name": "Direxion Daily AVGO Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -9064,7 +9064,7 @@
     },
     {
       "symbol": "BOED",
-      "name": "Direxion Daily BA Bear 1X Shares",
+      "name": "Direxion Daily BA Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -9076,7 +9076,7 @@
     },
     {
       "symbol": "BOEU",
-      "name": "Direxion Daily BA Bull 2X Shares",
+      "name": "Direxion Daily BA Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -9387,6 +9387,12 @@
       "isETF": false
     },
     {
+      "symbol": "BREE",
+      "name": "MFS Blended Research Emerging Markets Equity ETF",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BREM",
       "name": "iShares Emerging Markets Bond Active ETF",
       "exchange": "NASDAQ",
@@ -9460,7 +9466,7 @@
     },
     {
       "symbol": "BRKD",
-      "name": "Direxion Daily BRKB Bear 1X Shares",
+      "name": "Direxion Daily BRKB Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -9478,7 +9484,7 @@
     },
     {
       "symbol": "BRKU",
-      "name": "Direxion Daily BRKB Bull 2X Shares",
+      "name": "Direxion Daily BRKB Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -20404,13 +20410,13 @@
     },
     {
       "symbol": "ELIL",
-      "name": "Direxion Daily LLY Bull 2X Shares",
+      "name": "Direxion Daily LLY Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "ELIS",
-      "name": "Direxion Daily LLY Bear 1X Shares",
+      "name": "Direxion Daily LLY Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -22169,6 +22175,12 @@
     {
       "symbol": "EVOXW",
       "name": "Evolution Global Acquisition Corp - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EVPF",
+      "name": "Eaton Vance Preferred Securities and Income ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26122,19 +26134,13 @@
     },
     {
       "symbol": "FTW",
-      "name": "EQV Ventures Acquisition Corp. Class A Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "FTW.U",
-      "name": "EQV Ventures Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "name": "Presidio Production Company Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "FTW.W",
-      "name": "EQV Ventures Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+      "name": "Presidio Production Company Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -26577,8 +26583,8 @@
       "isETF": false
     },
     {
-      "symbol": "GAB.V",
-      "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights when issued",
+      "symbol": "GAB.R",
+      "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -27454,13 +27460,13 @@
     },
     {
       "symbol": "GGLL",
-      "name": "Direxion Daily GOOGL Bull 2X Shares",
+      "name": "Direxion Daily GOOGL Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "GGLS",
-      "name": "Direxion Daily GOOGL Bear 1X Shares",
+      "name": "Direxion Daily GOOGL Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -40923,6 +40929,12 @@
       "isETF": false
     },
     {
+      "symbol": "MARS",
+      "name": "Roundhill Space & Technology ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MART",
       "name": "AllianzIM U.S. Large Cap Buffer10 Mar ETF",
       "exchange": "BATS",
@@ -41848,7 +41860,7 @@
     },
     {
       "symbol": "METD",
-      "name": "Direxion Daily META Bear 1X Shares",
+      "name": "Direxion Daily META Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41860,7 +41872,7 @@
     },
     {
       "symbol": "METU",
-      "name": "Direxion Daily META Bull 2X Shares",
+      "name": "Direxion Daily META Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43594,7 +43606,7 @@
     },
     {
       "symbol": "MSFD",
-      "name": "Direxion Daily MSFT Bear 1X Shares",
+      "name": "Direxion Daily MSFT Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43618,7 +43630,7 @@
     },
     {
       "symbol": "MSFU",
-      "name": "Direxion Daily MSFT Bull 2X Shares",
+      "name": "Direxion Daily MSFT Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44068,7 +44080,7 @@
     },
     {
       "symbol": "MUD",
-      "name": "Direxion Daily MU Bear 1X Shares",
+      "name": "Direxion Daily MU Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44176,7 +44188,7 @@
     },
     {
       "symbol": "MUU",
-      "name": "Direxion Daily MU Bull 2X Shares",
+      "name": "Direxion Daily MU Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45225,6 +45237,12 @@
       "isETF": false
     },
     {
+      "symbol": "NEE$V",
+      "name": "NextEra Energy, Inc. 7.375% Corporate Units",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "NEGG",
       "name": "Newegg Commerce, Inc. - Common Shares",
       "exchange": "NASDAQ",
@@ -45514,13 +45532,13 @@
     },
     {
       "symbol": "NFXL",
-      "name": "Direxion Daily NFLX Bull 2X Shares",
+      "name": "Direxion Daily NFLX Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "NFXS",
-      "name": "Direxion Daily NFLX Bear 1X Shares",
+      "name": "Direxion Daily NFLX Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47086,7 +47104,7 @@
     },
     {
       "symbol": "NVDD",
-      "name": "Direxion Daily NVDA Bear 1X Shares",
+      "name": "Direxion Daily NVDA Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47122,7 +47140,7 @@
     },
     {
       "symbol": "NVDU",
-      "name": "Direxion Daily NVDA Bull 2X Shares",
+      "name": "Direxion Daily NVDA Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49522,7 +49540,7 @@
     },
     {
       "symbol": "PALD",
-      "name": "Direxion Daily PANW Bear 1X Shares",
+      "name": "Direxion Daily PANW Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49546,7 +49564,7 @@
     },
     {
       "symbol": "PALU",
-      "name": "Direxion Daily PANW Bull 2X Shares",
+      "name": "Direxion Daily PANW Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51490,7 +51508,7 @@
     },
     {
       "symbol": "PLTD",
-      "name": "Direxion Daily PLTR Bear 1X Shares",
+      "name": "Direxion Daily PLTR Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51532,7 +51550,7 @@
     },
     {
       "symbol": "PLTU",
-      "name": "Direxion Daily PLTR Bull 2X Shares",
+      "name": "Direxion Daily PLTR Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53020,7 +53038,7 @@
     },
     {
       "symbol": "PSTG",
-      "name": "Pure Storage, Inc. Class A Common Stock",
+      "name": "Everpure, Inc. Class A common stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -54094,7 +54112,7 @@
     },
     {
       "symbol": "QQQE",
-      "name": "Direxion NASDAQ-100 Equal Weighted Index Shares",
+      "name": "Direxion NASDAQ-100 Equal Weighted Index ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -57149,12 +57167,6 @@
     {
       "symbol": "RWAYL",
       "name": "Runway Growth Finance Corp. - 7.50% Notes due 2027",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RWAYZ",
-      "name": "Runway Growth Finance Corp. - 8.00% Notes due 2027",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64863,12 +64875,6 @@
       "isETF": false
     },
     {
-      "symbol": "TIRX",
-      "name": "TIAN RUIXIANG Holdings Ltd - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TISI",
       "name": "Team, Inc. Common Stock",
       "exchange": "NYSE",
@@ -66244,7 +66250,7 @@
     },
     {
       "symbol": "TSLL",
-      "name": "Direxion Daily TSLA Bull 2X Shares",
+      "name": "Direxion Daily TSLA Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66274,7 +66280,7 @@
     },
     {
       "symbol": "TSLS",
-      "name": "Direxion Daily TSLA Bear 1X Shares",
+      "name": "Direxion Daily TSLA Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66334,7 +66340,7 @@
     },
     {
       "symbol": "TSMX",
-      "name": "Direxion Daily TSM Bull 2X Shares",
+      "name": "Direxion Daily TSM Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66346,7 +66352,7 @@
     },
     {
       "symbol": "TSMZ",
-      "name": "Direxion Daily TSM Bear 1X Shares",
+      "name": "Direxion Daily TSM Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70293,12 +70299,6 @@
       "isETF": false
     },
     {
-      "symbol": "VTYX",
-      "name": "Ventyx Biosciences, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VUG",
       "name": "Vanguard Growth ETF",
       "exchange": "NYSE ARCA",
@@ -72724,13 +72724,13 @@
     },
     {
       "symbol": "XOMX",
-      "name": "Direxion Daily XOM Bull 2X Shares",
+      "name": "Direxion Daily XOM Bull 2X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "XOMZ",
-      "name": "Direxion Daily XOM Bear 1X Shares",
+      "name": "Direxion Daily XOM Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
