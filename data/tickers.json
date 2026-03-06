@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-05T23:26:35.264400Z",
-  "count": 12384,
+  "lastUpdated": "2026-03-06T23:08:20.706474Z",
+  "count": 12391,
   "tickers": [
     {
       "symbol": "A",
@@ -5457,6 +5457,12 @@
       "isETF": false
     },
     {
+      "symbol": "AVOS",
+      "name": "Avos Global Equities ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AVPT",
       "name": "AvePoint, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -10295,6 +10301,12 @@
     {
       "symbol": "BUI",
       "name": "BlackRock Utility, Infrastructure & Power Opportunities Trust",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BUI.V",
+      "name": "BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights when issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -15688,8 +15700,8 @@
     },
     {
       "symbol": "CULP",
-      "name": "Culp, Inc. Common Stock",
-      "exchange": "NYSE",
+      "name": "Culp, Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -33555,12 +33567,6 @@
       "isETF": false
     },
     {
-      "symbol": "IMG",
-      "name": "CIMG Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IMKTA",
       "name": "Ingles Markets, Incorporated - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -42789,6 +42795,12 @@
       "isETF": false
     },
     {
+      "symbol": "MMED",
+      "name": "MiniMed Group, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MMI",
       "name": "Marcus & Millichap, Inc. Common Stock",
       "exchange": "NYSE",
@@ -48171,8 +48183,20 @@
       "isETF": false
     },
     {
+      "symbol": "OIM",
+      "name": "OneIM Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "OIMAU",
       "name": "OneIM Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OIMAW",
+      "name": "OneIM Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -57063,6 +57087,12 @@
       "isETF": false
     },
     {
+      "symbol": "RVI",
+      "name": "Robinhood Ventures Fund I Common Shares of Beneficial Interest",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "RVLV",
       "name": "Revolve Group, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -62794,7 +62824,7 @@
     },
     {
       "symbol": "SUIS",
-      "name": "Canary Staked SUIS ETF",
+      "name": "Canary Staked SUI ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64013,6 +64043,12 @@
     {
       "symbol": "TDOG",
       "name": "21shares Dogecoin ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TDOT",
+      "name": "21shares Polkadot ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69557,6 +69593,12 @@
     {
       "symbol": "VMD",
       "name": "Viemed Healthcare, Inc. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VMET",
+      "name": "Versamet Royalties Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
