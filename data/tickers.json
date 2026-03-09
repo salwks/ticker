@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-08T23:06:25.455888Z",
-  "count": 12391,
+  "lastUpdated": "2026-03-09T23:08:17.307701Z",
+  "count": 12392,
   "tickers": [
     {
       "symbol": "A",
@@ -1900,13 +1900,13 @@
     },
     {
       "symbol": "AIBD",
-      "name": "Direxion Daily AI and Big Data Bear 2X Shares",
+      "name": "Direxion Daily AI and Big Data Bear 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "AIBU",
-      "name": "Direxion Daily AI and Big Data Bull 2X Shares",
+      "name": "Direxion Daily AI and Big Data Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -2741,18 +2741,6 @@
     {
       "symbol": "ALUB.W",
       "name": "Alussa Energy Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ALUR",
-      "name": "Allurion Technologies, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ALUR.W",
-      "name": "Allurion Technologies, Inc. Warrants, each whole warrant exercisable to purchase 1.420455 shares of common stock at an exercise price of $8.10 per share of common stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -6346,7 +6334,7 @@
     },
     {
       "symbol": "BBC",
-      "name": "Virtus LifeSci Biotech Clinical Trials ETF",
+      "name": "Virtus Biotech Clinical Trials ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -6520,7 +6508,7 @@
     },
     {
       "symbol": "BBP",
-      "name": "Virtus LifeSci Biotech Products ETF",
+      "name": "Virtus Biotech ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -6714,6 +6702,12 @@
       "symbol": "BCGD",
       "name": "Baron Global Durable Advantage ETF",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BCGS",
+      "name": "Bancreek Global Select ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -9622,7 +9616,7 @@
     },
     {
       "symbol": "BRZU",
-      "name": "Direxion Daily Brazil Bull 2X Shares",
+      "name": "Direxion Daily Brazil Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -12532,7 +12526,7 @@
     },
     {
       "symbol": "CHAU",
-      "name": "Direxion Daily CSI 300 China A Share Bull 2X Shares",
+      "name": "Direxion Daily CSI 300 China A Share Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -15718,7 +15712,7 @@
     },
     {
       "symbol": "CURE",
-      "name": "Direxion Daily Healthcare Bull 3X Shares",
+      "name": "Direxion Daily Healthcare Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -15982,7 +15976,7 @@
     },
     {
       "symbol": "CWEB",
-      "name": "Direxion Daily CSI China Internet Index Bull 2X Shares",
+      "name": "Direxion Daily CSI China Internet Index Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -17146,7 +17140,7 @@
     },
     {
       "symbol": "DFEN",
-      "name": "Direxion Daily Aerospace & Defense Bull 3X Shares",
+      "name": "Direxion Daily Aerospace & Defense Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18310,7 +18304,7 @@
     },
     {
       "symbol": "DPST",
-      "name": "Direxion Daily Regional Banks Bull 3X Shares",
+      "name": "Direxion Daily Regional Banks Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18400,7 +18394,7 @@
     },
     {
       "symbol": "DRIP",
-      "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares",
+      "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18436,7 +18430,7 @@
     },
     {
       "symbol": "DRN",
-      "name": "Direxion Daily Real Estate Bull 3X Shares",
+      "name": "Direxion Daily Real Estate Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18490,7 +18484,7 @@
     },
     {
       "symbol": "DRV",
-      "name": "Direxion Daily Real Estate Bear 3X Shares",
+      "name": "Direxion Daily Real Estate Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18904,13 +18898,13 @@
     },
     {
       "symbol": "DUSL",
-      "name": "Direxion Daily Industrials Bull 3X Shares",
+      "name": "Direxion Daily Industrials Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "DUST",
-      "name": "Direxion Daily Gold Miners Index Bear 2X Shares",
+      "name": "Direxion Daily Gold Miners Index Bear 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19666,7 +19660,7 @@
     },
     {
       "symbol": "EDC",
-      "name": "Direxion Emerging Markets Bull 3X Shares",
+      "name": "Direxion Emerging Markets Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19804,7 +19798,7 @@
     },
     {
       "symbol": "EDZ",
-      "name": "Direxion Emerging Markets Bear 3X Shares",
+      "name": "Direxion Emerging Markets Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -21424,13 +21418,13 @@
     },
     {
       "symbol": "ERX",
-      "name": "Direxion Energy Bull 2X Shares",
+      "name": "Direxion Energy Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "ERY",
-      "name": "Direxion Daily Energy Bear 2X Shares",
+      "name": "Direxion Daily Energy Bear 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -21988,7 +21982,7 @@
     },
     {
       "symbol": "EURL",
-      "name": "Direxion Daily FTSE Europe Bull 3X Shares",
+      "name": "Direxion Daily FTSE Europe Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -22798,7 +22792,7 @@
     },
     {
       "symbol": "FAS",
-      "name": "Direxion Financial Bull 3X Shares",
+      "name": "Direxion Financial Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -22834,7 +22828,7 @@
     },
     {
       "symbol": "FAZ",
-      "name": "Direxion Financial Bear 3X Shares",
+      "name": "Direxion Financial Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -25144,7 +25138,7 @@
     },
     {
       "symbol": "FNGG",
-      "name": "Direxion Daily NYSE FANG+ Bull 2X Shares",
+      "name": "Direxion Daily NYSE FANG+ Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -29602,7 +29596,7 @@
     },
     {
       "symbol": "GUSH",
-      "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares",
+      "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -30592,13 +30586,13 @@
     },
     {
       "symbol": "HIBL",
-      "name": "Direxion Daily S&P 500 High Beta Bull 3X Shares",
+      "name": "Direxion Daily S&P 500 High Beta Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "HIBS",
-      "name": "Direxion Daily S&P 500 High Beta Bear 3X Shares",
+      "name": "Direxion Daily S&P 500 High Beta Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -33838,7 +33832,7 @@
     },
     {
       "symbol": "INDL",
-      "name": "Direxion Daily MSCI India Bull 2X Shares",
+      "name": "Direxion Daily MSCI India Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -35896,7 +35890,7 @@
     },
     {
       "symbol": "JDST",
-      "name": "Direxion Daily Junior Gold Miners Index Bear 2X Shares",
+      "name": "Direxion Daily Junior Gold Miners Index Bear 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -36400,7 +36394,7 @@
     },
     {
       "symbol": "JNUG",
-      "name": "Direxion Daily Junior Gold Miners Index Bull 2X Shares",
+      "name": "Direxion Daily Junior Gold Miners Index Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -36647,12 +36641,6 @@
     {
       "symbol": "JRI",
       "name": "Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "JRI.R",
-      "name": "Nuveen Real Asset Income and Growth Fund Rights (expiring March 9, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -37888,7 +37876,7 @@
     },
     {
       "symbol": "KORU",
-      "name": "Direxion Daily South Korea Bull 3X Shares",
+      "name": "Direxion Daily South Korea Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -38446,13 +38434,13 @@
     },
     {
       "symbol": "LABD",
-      "name": "Direxion Daily S&P Biotech Bear 3X Shares",
+      "name": "Direxion Daily S&P Biotech Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "LABU",
-      "name": "Direxion Daily S&P Biotech Bull 3X Shares",
+      "name": "Direxion Daily S&P Biotech Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -39652,7 +39640,7 @@
     },
     {
       "symbol": "LMBO",
-      "name": "Direxion Daily Crypto Industry Bull 2X Shares",
+      "name": "Direxion Daily Crypto Industry Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -41914,7 +41902,7 @@
     },
     {
       "symbol": "MEXX",
-      "name": "Direxion Daily MSCI Mexico Bull 3X Shares",
+      "name": "Direxion Daily MSCI Mexico Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -42334,7 +42322,7 @@
     },
     {
       "symbol": "MIDU",
-      "name": "Direxion Mid Cap Bull 3X Shares",
+      "name": "Direxion Mid Cap Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44650,7 +44638,7 @@
     },
     {
       "symbol": "NAIL",
-      "name": "Direxion Daily Homebuilders & Supplies Bull 3X Shares",
+      "name": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44856,6 +44844,12 @@
       "symbol": "NBHC",
       "name": "National Bank Holdings Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NBIE",
+      "name": "Neuberger International Core Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -46912,7 +46906,7 @@
     },
     {
       "symbol": "NUGT",
-      "name": "Direxion Daily Gold Miners Index Bull 2XShares",
+      "name": "Direxion Daily Gold Miners Index Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -51196,7 +51190,7 @@
     },
     {
       "symbol": "PILL",
-      "name": "Direxion Daily Pharmaceutical & Medical Bull 3X Shares",
+      "name": "Direxion Daily Pharmaceutical & Medical Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -54130,7 +54124,7 @@
     },
     {
       "symbol": "QQQD",
-      "name": "Direxion Daily Magnificent 7 Bear 1X Shares",
+      "name": "Direxion Daily Magnificent 7 Bear 1X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -54190,7 +54184,7 @@
     },
     {
       "symbol": "QQQU",
-      "name": "Direxion Daily Magnificent 7 Bull 2X Shares",
+      "name": "Direxion Daily Magnificent 7 Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -55354,7 +55348,7 @@
     },
     {
       "symbol": "REKT",
-      "name": "Direxion Daily Crypto Industry Bear 1X Shares",
+      "name": "Direxion Daily Crypto Industry Bear 1X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -55444,7 +55438,7 @@
     },
     {
       "symbol": "RETL",
-      "name": "Direxion Daily Retail Bull 3X Shares ETF",
+      "name": "Direxion Daily Retail Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61204,7 +61198,7 @@
     },
     {
       "symbol": "SOXL",
-      "name": "Direxion Daily Semiconductor Bull 3X Shares",
+      "name": "Direxion Daily Semiconductor Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61216,7 +61210,7 @@
     },
     {
       "symbol": "SOXS",
-      "name": "Direxion Daily Semiconductor Bear 3X Shares",
+      "name": "Direxion Daily Semiconductor Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61342,7 +61336,7 @@
     },
     {
       "symbol": "SPDN",
-      "name": "Direxion Daily S&P 500 Bear 1X Shares",
+      "name": "Direxion Daily S&P 500 Bear 1X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61756,7 +61750,7 @@
     },
     {
       "symbol": "SPUU",
-      "name": "Direxion Daily S&P 500 Bull 2X Shares",
+      "name": "Direxion Daily S&P 500 Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61810,7 +61804,7 @@
     },
     {
       "symbol": "SPXL",
-      "name": "Direxion Daily S&P 500 Bull 3X Shares",
+      "name": "Direxion Daily S&P 500 Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61822,7 +61816,7 @@
     },
     {
       "symbol": "SPXS",
-      "name": "Direxion Daily S&P 500 Bear 3X",
+      "name": "Direxion Daily S&P 500 Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -64204,13 +64198,13 @@
     },
     {
       "symbol": "TECL",
-      "name": "Direxion Technology Bull 3X Shares",
+      "name": "Direxion Daily S&P 500 Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "TECS",
-      "name": "Direxion Technology Bear 3X Shares",
+      "name": "Direxion Technology Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65380,7 +65374,7 @@
     },
     {
       "symbol": "TNA",
-      "name": "Direxion Small Cap Bull 3X Shares",
+      "name": "Direxion Small Cap Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65734,7 +65728,7 @@
     },
     {
       "symbol": "TPOR",
-      "name": "Direxion Daily Transportation Bull 3X Shares",
+      "name": "Direxion Daily Transportation Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -67030,7 +67024,7 @@
     },
     {
       "symbol": "TZA",
-      "name": "Direxion Small Cap Bear 3X Shares",
+      "name": "Direxion Small Cap Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -67150,7 +67144,7 @@
     },
     {
       "symbol": "UBOT",
-      "name": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",
+      "name": "Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -67900,7 +67894,7 @@
     },
     {
       "symbol": "URAA",
-      "name": "Direxion Daily Uranium Industry Bull 2X Shares",
+      "name": "Direxion Daily Uranium Industry Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -68440,7 +68434,7 @@
     },
     {
       "symbol": "UTSL",
-      "name": "Direxion Daily Utilities Bull 3X Shares",
+      "name": "Direxion Daily Utilities Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -70606,7 +70600,7 @@
     },
     {
       "symbol": "WANT",
-      "name": "Direxion Daily Consumer Discretionary Bull 3X Shares",
+      "name": "Direxion Daily Consumer Discretionary Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -70888,13 +70882,13 @@
     },
     {
       "symbol": "WEBL",
-      "name": "Direxion Daily Dow Jones Internet Bull 3X Shares",
+      "name": "Direxion Daily Dow Jones Internet Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "WEBS",
-      "name": "Direxion Daily Dow Jones Internet Bear 3X Shares",
+      "name": "Direxion Daily Dow Jones Internet Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -72291,6 +72285,18 @@
       "isETF": false
     },
     {
+      "symbol": "XFLH",
+      "name": "XFLH Capital Corporation Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "XFLH.R",
+      "name": "XFLH Capital Corporation Rights to receive one-seventh (1/7) of one Ordinary Share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "XFLH.U",
       "name": "XFLH Capital Corporation Units, each consisting of one Ordinary Share and one Right",
       "exchange": "NYSE",
@@ -73330,7 +73336,7 @@
     },
     {
       "symbol": "YANG",
-      "name": "Direxion Daily FTSE China Bear 3X Shares",
+      "name": "Direxion Daily FTSE China Bear 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -73528,7 +73534,7 @@
     },
     {
       "symbol": "YINN",
-      "name": "Direxion Daily FTSE China Bull 3X Shares",
+      "name": "Direxion Daily FTSE China Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
