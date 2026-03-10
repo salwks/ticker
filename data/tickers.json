@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-09T23:08:17.307701Z",
-  "count": 12392,
+  "lastUpdated": "2026-03-10T23:08:28.196590Z",
+  "count": 12399,
   "tickers": [
     {
       "symbol": "A",
@@ -11145,6 +11145,12 @@
       "isETF": false
     },
     {
+      "symbol": "CAST",
+      "name": "FreeCast, Inc. - Class A common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CASY",
       "name": "Caseys General Stores, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -14919,12 +14925,6 @@
       "isETF": false
     },
     {
-      "symbol": "CRESW",
-      "name": "Cresud S.A.C.I.F. y A. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CRESY",
       "name": "Cresud S.A.C.I.F. y A. - American Depositary Shares, each representing ten shares of Common Stock",
       "exchange": "NASDAQ",
@@ -18063,6 +18063,12 @@
       "isETF": false
     },
     {
+      "symbol": "DMRA",
+      "name": "Damora Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DMRC",
       "name": "Digimarc Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -19410,12 +19416,6 @@
       "symbol": "EATZ",
       "name": "AdvisorShares Restaurant ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "EB",
-      "name": "Eventbrite, Inc. Class A Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -21492,18 +21492,6 @@
       "symbol": "ESGG",
       "name": "FlexShares STOXX Global ESG Select Index Fund",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "ESGL",
-      "name": "ESGL Holdings Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ESGLW",
-      "name": "ESGL Holdings Limited - Warrants",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -23925,8 +23913,20 @@
       "isETF": false
     },
     {
+      "symbol": "FGII",
+      "name": "FG Imperii Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FGIIU",
       "name": "FG Imperii Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FGIIW",
+      "name": "FG Imperii Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -28131,12 +28131,6 @@
       "isETF": false
     },
     {
-      "symbol": "GLTO",
-      "name": "Galecto, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GLTR",
       "name": "abrdn Physical Precious Metals Basket Shares ETF",
       "exchange": "NYSE ARCA",
@@ -28176,6 +28170,12 @@
       "symbol": "GLW",
       "name": "Corning Incorporated Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GLWG",
+      "name": "Leverage Shares 2X Long GLW Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -32868,6 +32868,18 @@
       "symbol": "IE",
       "name": "Ivanhoe Electric Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "IEAG",
+      "name": "Infinite Eagle Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IEAGR",
+      "name": "Infinite Eagle Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -40476,6 +40488,12 @@
       "symbol": "LVHI",
       "name": "Franklin International Low Volatility High Dividend Index ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "LVIG",
+      "name": "Longview Advantage Fixed Income ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -48191,6 +48209,18 @@
     {
       "symbol": "OIMAW",
       "name": "OneIM Acquisition Corp. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OIO",
+      "name": "OIO Group - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OIOWW",
+      "name": "OIO Group - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71319,6 +71349,12 @@
       "isETF": false
     },
     {
+      "symbol": "WLDU",
+      "name": "Leverage Shares 2x Long World Stock Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "WLFC",
       "name": "Willis Lease Finance Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -73743,6 +73779,12 @@
       "isETF": false
     },
     {
+      "symbol": "YYYM",
+      "name": "Amplify Municipal CEF High Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "Z",
       "name": "Zillow Group, Inc. - Class C Capital Stock",
       "exchange": "NASDAQ",
@@ -73960,7 +74002,7 @@
     },
     {
       "symbol": "ZGM",
-      "name": "Zenta Group Company Limited - Ordinary Shares",
+      "name": "Zenta Group Company Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
