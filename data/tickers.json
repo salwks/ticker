@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-10T23:08:28.196590Z",
-  "count": 12399,
+  "lastUpdated": "2026-03-11T23:07:12.531617Z",
+  "count": 12404,
   "tickers": [
     {
       "symbol": "A",
@@ -13941,6 +13941,12 @@
       "isETF": false
     },
     {
+      "symbol": "CODX",
+      "name": "Co-Diagnostics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "COE",
       "name": "51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",
       "exchange": "AMEX",
@@ -24651,6 +24657,12 @@
       "isETF": false
     },
     {
+      "symbol": "FLNA",
+      "name": "Filana Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FLNC",
       "name": "Fluence Energy, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -31314,6 +31326,12 @@
       "symbol": "HSIC",
       "name": "Henry Schein, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HSLV",
+      "name": "Highlander Silver Corp. Common Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -46371,6 +46389,12 @@
       "isETF": false
     },
     {
+      "symbol": "NPFE",
+      "name": "NPF Core Equity ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "NPFI",
       "name": "Nuveen Preferred and Income ETF",
       "exchange": "NASDAQ",
@@ -52311,6 +52335,12 @@
       "isETF": false
     },
     {
+      "symbol": "PRAB",
+      "name": "State Street IG Public & Private ABS ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PRAE",
       "name": "PlanRock Alternative Growth ETF",
       "exchange": "NYSE ARCA",
@@ -57777,12 +57807,6 @@
       "isETF": false
     },
     {
-      "symbol": "SAVA",
-      "name": "Cassava Sciences, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SAWG",
       "name": "AAM Sawgrass US Large Cap Quality Growth ETF",
       "exchange": "NYSE ARCA",
@@ -62853,6 +62877,12 @@
       "isETF": false
     },
     {
+      "symbol": "SUMAU",
+      "name": "SUMA Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SUN",
       "name": "Sunoco LP Common Units representing limited partner interests",
       "exchange": "NYSE",
@@ -67115,7 +67145,7 @@
     {
       "symbol": "UAMY",
       "name": "United States Antimony Corporation Common Stock",
-      "exchange": "AMEX",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
