@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-12T23:08:29.951444Z",
-  "count": 12417,
+  "lastUpdated": "2026-03-13T23:08:11.695790Z",
+  "count": 12418,
   "tickers": [
     {
       "symbol": "A",
@@ -2412,12 +2412,6 @@
       "symbol": "ALEC",
       "name": "Alector, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALEX",
-      "name": "Alexander & Baldwin, Inc. Common Stock REIT Holding Company",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -16575,12 +16569,6 @@
       "isETF": false
     },
     {
-      "symbol": "DC.W",
-      "name": "Dakota Gold Corp. Warrants, each warrant exercisable for one Common Share at an exercise price of $2.08",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "DCBO",
       "name": "Docebo Inc. - Common Shares",
       "exchange": "NASDAQ",
@@ -26794,7 +26782,7 @@
     },
     {
       "symbol": "GAVA",
-      "name": "Grayscale Avalanche Trust ETF",
+      "name": "Grayscale Avalanche Staking ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -52131,6 +52119,12 @@
       "isETF": false
     },
     {
+      "symbol": "PONOU",
+      "name": "Pono Capital Four, Inc. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PONX",
       "name": "Tradr 2X Long PONY Daily ETF",
       "exchange": "BATS",
@@ -72273,8 +72267,20 @@
       "isETF": false
     },
     {
+      "symbol": "XCBE",
+      "name": "X3 Acquisition Corp. Ltd. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XCBEU",
       "name": "X3 Acquisition Corp. Ltd. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XCBEW",
+      "name": "X3 Acquisition Corp. Ltd. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -74200,7 +74206,7 @@
     },
     {
       "symbol": "ZJYL",
-      "name": "JIN MEDICAL INTERNATIONAL LTD. - Ordinary Shares",
+      "name": "JIN MEDICAL INTERNATIONAL LTD. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
