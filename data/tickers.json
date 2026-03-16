@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-15T23:09:09.583362Z",
-  "count": 12418,
+  "lastUpdated": "2026-03-16T23:09:32.044029Z",
+  "count": 12422,
   "tickers": [
     {
       "symbol": "A",
@@ -2625,8 +2625,20 @@
       "isETF": false
     },
     {
+      "symbol": "ALOV",
+      "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ALOVU",
       "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ALOVW",
+      "name": "Aldabra 4 Liquidity Opportunity Vehicle, Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3969,8 +3981,20 @@
       "isETF": false
     },
     {
+      "symbol": "ARCI",
+      "name": "Archimedes Tech SPAC Partners III Co. - Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ARCIU",
       "name": "Archimedes Tech SPAC Partners III Co. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ARCIW",
+      "name": "Archimedes Tech SPAC Partners III Co. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7593,12 +7617,6 @@
       "isETF": false
     },
     {
-      "symbol": "BHAT",
-      "name": "Blue Hat Interactive Entertainment Technology - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BHB",
       "name": "Bar Harbor Bankshares, Inc. Common Stock",
       "exchange": "AMEX",
@@ -8526,12 +8544,6 @@
       "symbol": "BLST",
       "name": "Bluemonte Short Term Bond ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "BLSX",
-      "name": "Tradr 2X Long BLSH Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -10287,8 +10299,8 @@
       "isETF": false
     },
     {
-      "symbol": "BUI.V",
-      "name": "BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights when issued",
+      "symbol": "BUI.R",
+      "name": "BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -11958,12 +11970,6 @@
       "symbol": "CELH",
       "name": "Celsius Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CELT",
-      "name": "Tradr 2X Long CELH Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -14050,7 +14056,7 @@
     },
     {
       "symbol": "COIN",
-      "name": "Coinbase Global, Inc. - 3Class A Common Stock",
+      "name": "Coinbase Global, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15120,6 +15126,12 @@
       "symbol": "CRUS",
       "name": "Cirrus Logic, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CRUX",
+      "name": "Columbia Core Bond ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -16338,12 +16350,6 @@
       "symbol": "DASH",
       "name": "DoorDash, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DASX",
-      "name": "Tradr 2X Long DASH Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -25206,6 +25212,12 @@
       "symbol": "FNOV",
       "name": "FT Vest U.S. Equity Buffer ETF - November",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FNUC",
+      "name": "Frontier Nuclear and Minerals Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -34779,12 +34791,6 @@
       "isETF": false
     },
     {
-      "symbol": "IROQ",
-      "name": "IF Bancorp, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IRS",
       "name": "IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)",
       "exchange": "NYSE",
@@ -37293,12 +37299,6 @@
       "isETF": false
     },
     {
-      "symbol": "KEUA",
-      "name": "KraneShares European Carbon Allowance Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "KEX",
       "name": "Kirby Corporation Common Stock",
       "exchange": "NYSE",
@@ -37638,12 +37638,6 @@
       "symbol": "KLXE",
       "name": "KLX Energy Services Holdings, Inc.  - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KLXY",
-      "name": "KraneShares Global Luxury Index ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -38811,12 +38805,6 @@
       "isETF": false
     },
     {
-      "symbol": "LCIZ",
-      "name": "Tradr 2X Short LCID Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "LCLG",
       "name": "Logan Capital Broad Innovative Growth ETF",
       "exchange": "NYSE ARCA",
@@ -38997,8 +38985,20 @@
       "isETF": false
     },
     {
+      "symbol": "LEGO",
+      "name": "Legato Merger Corp. IV Ordinary Shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "LEGO.U",
       "name": "Legato Merger Corp. IV Units, each consisting of one ordinary share and one-third of one redeemable warrant",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "LEGO.W",
+      "name": "Legato Merger Corp. IV Redeemable Warrants, each whole warrant exercisable to purchase one ordinary share at an exercise price of $11.50 per share",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -39540,12 +39540,6 @@
       "symbol": "LITL",
       "name": "Simplify Piper Sandler US Small-Cap PLUS Income ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LITM",
-      "name": "Snow Lake Resources Ltd. - Common Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -53313,8 +53307,20 @@
       "isETF": false
     },
     {
+      "symbol": "PTOR",
+      "name": "Praetorian Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PTORU",
       "name": "Praetorian Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PTORW",
+      "name": "Praetorian Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -55416,6 +55422,12 @@
       "symbol": "REGN",
       "name": "Regeneron Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "REGS",
+      "name": "Columbia Large Cap Growth ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -62073,6 +62085,12 @@
       "isETF": false
     },
     {
+      "symbol": "SQS",
+      "name": "Sapient Quality Select ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SR",
       "name": "Spire Inc. Common Stock",
       "exchange": "NYSE",
@@ -65129,6 +65147,12 @@
     {
       "symbol": "TLF",
       "name": "Tandy Leather Factory, Inc. - common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TLG",
+      "name": "Touchstone Large Company Growth ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69555,6 +69579,12 @@
       "isETF": false
     },
     {
+      "symbol": "VIVO",
+      "name": "VivoPower PLC - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VIVS",
       "name": "VivoSim Labs, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -70511,12 +70541,6 @@
     {
       "symbol": "VVOS",
       "name": "Vivos Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VVPR",
-      "name": "VivoPower International PLC - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
