@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-16T23:09:32.044029Z",
-  "count": 12422,
+  "lastUpdated": "2026-03-17T23:11:07.509600Z",
+  "count": 12412,
   "tickers": [
     {
       "symbol": "A",
@@ -1890,6 +1890,12 @@
       "symbol": "AIA",
       "name": "iShares Asia 50 ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AIB",
+      "name": "BlockchAIn Digital Infrastructure, Inc Common Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -4233,12 +4239,6 @@
       "isETF": false
     },
     {
-      "symbol": "ARMU",
-      "name": "T-REX 2X Long ARM Daily Target ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "ARMW",
       "name": "Roundhill ARM WeeklyPay ETF",
       "exchange": "BATS",
@@ -5757,12 +5757,6 @@
       "isETF": false
     },
     {
-      "symbol": "AXUP",
-      "name": "T-REX 2X Long AXON Daily Target ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "AYI",
       "name": "Acuity Inc. Common Stock",
       "exchange": "NYSE",
@@ -5963,24 +5957,6 @@
     {
       "symbol": "BACCU",
       "name": "Blue Acquisition Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BACQ",
-      "name": "Inflection Point Acquisition Corp. IV - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BACQR",
-      "name": "Inflection Point Acquisition Corp. IV - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BACQU",
-      "name": "Inflection Point Acquisition Corp. IV - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -8283,12 +8259,6 @@
       "isETF": false
     },
     {
-      "symbol": "BKNU",
-      "name": "T-REX 2X Long BKNG Daily Target ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "BKR",
       "name": "Baker Hughes Company - Common Stock",
       "exchange": "NASDAQ",
@@ -10332,12 +10302,6 @@
       "symbol": "BULLW",
       "name": "Webull Corporation - Warrants",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BULU",
-      "name": "T-REX 2X Long BULL Daily Target ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -17847,12 +17811,6 @@
       "isETF": false
     },
     {
-      "symbol": "DKUP",
-      "name": "T-REX 2X Long DKNG Daily Target ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "DLAG",
       "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - August",
       "exchange": "BATS",
@@ -21837,12 +21795,6 @@
       "isETF": false
     },
     {
-      "symbol": "ETQ",
-      "name": "T-Rex 2X Inverse Ether Daily Target ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "ETR",
       "name": "Entergy Corporation Common Stock",
       "exchange": "NYSE",
@@ -24077,6 +24029,12 @@
     {
       "symbol": "FHN$F",
       "name": "First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-Cumulative Perpetual Preferred Stock, Series F",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FHN$H",
+      "name": "First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series H",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -40671,12 +40629,6 @@
       "isETF": false
     },
     {
-      "symbol": "LYRA",
-      "name": "Lyra Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LYTS",
       "name": "LSI Industries Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -43427,6 +43379,12 @@
     {
       "symbol": "MRKR",
       "name": "Marker Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MRLN",
+      "name": "Merlin, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50157,12 +50115,6 @@
       "isETF": false
     },
     {
-      "symbol": "PCEM",
-      "name": "Polen Capital Emerging Markets ex China Growth ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "PCF",
       "name": "High Income Securities Fund Common Stock",
       "exchange": "NYSE",
@@ -53523,12 +53475,6 @@
       "isETF": false
     },
     {
-      "symbol": "PXIU",
-      "name": "T-REX 2X Long UPXI Daily Target ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "PXJ",
       "name": "Invesco Oil & Gas Services ETF",
       "exchange": "NYSE ARCA",
@@ -53976,12 +53922,6 @@
       "symbol": "QINT",
       "name": "American Century Quality Diversified International ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "QIPT",
-      "name": "Quipt Home Medical Corp. - Common Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -59301,12 +59241,6 @@
       "isETF": false
     },
     {
-      "symbol": "SGN",
-      "name": "Signing Day Sports, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "SGOL",
       "name": "abrdn Physical Gold Shares ETF",
       "exchange": "NYSE ARCA",
@@ -62920,7 +62854,7 @@
     },
     {
       "symbol": "SUGP",
-      "name": "SU Group Holdings Limited - Ordinary Shares",
+      "name": "SU Group Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63269,6 +63203,12 @@
     {
       "symbol": "SWKS",
       "name": "Skyworks Solutions, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SWMR",
+      "name": "Swarmer, Inc - common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71134,7 +71074,7 @@
     },
     {
       "symbol": "WETO",
-      "name": "Webus International Limited - Ordinary Shares",
+      "name": "Wetour Robotics Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -74212,7 +74152,7 @@
     },
     {
       "symbol": "ZJK",
-      "name": "ZJK Industrial Co., Ltd. - Ordinary Shares",
+      "name": "ZJK Industrial Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
