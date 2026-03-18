@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-17T23:11:07.509600Z",
-  "count": 12412,
+  "lastUpdated": "2026-03-18T23:10:03.982850Z",
+  "count": 12415,
   "tickers": [
     {
       "symbol": "A",
@@ -7605,6 +7605,12 @@
       "isETF": false
     },
     {
+      "symbol": "BHDG",
+      "name": "Nicholas Bitcoin Tail ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BHE",
       "name": "Benchmark Electronics, Inc. Common Stock",
       "exchange": "NYSE",
@@ -12138,12 +12144,6 @@
       "symbol": "CFIT",
       "name": "Cambria Fixed Income Trend ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "CFLT",
-      "name": "Confluent, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -18972,6 +18972,12 @@
       "symbol": "DVUT",
       "name": "WEBs Utilities XLU Defined Volatility ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DVVY",
+      "name": "Invesco Diversified Dividend Opportunities ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -43029,6 +43035,12 @@
       "isETF": false
     },
     {
+      "symbol": "MNVT",
+      "name": "Moonvest ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MNY",
       "name": "MoneyHero Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -53835,6 +53847,12 @@
       "isETF": false
     },
     {
+      "symbol": "QEW",
+      "name": "Invesco QQQ Equal Weight ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QFHD",
       "name": "Pacer S&P 500 Quality FCF High Dividend ETF",
       "exchange": "BATS",
@@ -58133,12 +58151,6 @@
     {
       "symbol": "SCE$G",
       "name": "SCE Trust II Trust Preferred Securities",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SCE$K",
-      "name": "Southern California Edison Company 5.45% Fixed-to-Floating Rate Trust Preference Securities",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -66315,12 +66327,6 @@
       "isETF": false
     },
     {
-      "symbol": "TSI.R",
-      "name": "TCW Strategic Income Fund, Inc. Rights (expiring March 18, 2026) Rights",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "TSIC",
       "name": "Truth Social American Icons ETF",
       "exchange": "NYSE ARCA",
@@ -67655,12 +67661,6 @@
     {
       "symbol": "ULVM",
       "name": "VictoryShares US Value Momentum ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ULY",
-      "name": "Urgent.ly Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -72207,6 +72207,12 @@
       "isETF": false
     },
     {
+      "symbol": "XBOX",
+      "name": "Roundhill Ultra Short Duration No Dividend Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XBP",
       "name": "XBP Global Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -73167,8 +73173,20 @@
       "isETF": false
     },
     {
+      "symbol": "XSLL",
+      "name": "Xsolla SPAC 1 - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XSLLU",
       "name": "Xsolla SPAC 1 - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XSLLW",
+      "name": "Xsolla SPAC 1 - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
