@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-18T23:10:03.982850Z",
-  "count": 12415,
+  "lastUpdated": "2026-03-19T23:09:22.109130Z",
+  "count": 12426,
   "tickers": [
     {
       "symbol": "A",
@@ -192,6 +192,12 @@
       "symbol": "AAT",
       "name": "American Assets Trust, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AAUA",
+      "name": "Alpha Architect US Equity 3 ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -792,6 +798,12 @@
       "symbol": "ACTG",
       "name": "Acacia Research Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACTS",
+      "name": "FIS Tactical Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -7593,6 +7605,12 @@
       "isETF": false
     },
     {
+      "symbol": "BHAVU",
+      "name": "BHAV Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BHB",
       "name": "Bar Harbor Bankshares, Inc. Common Stock",
       "exchange": "AMEX",
@@ -9402,6 +9420,12 @@
       "symbol": "BRIA",
       "name": "BrilliA Inc Class A Ordinary Shares",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "BRIB",
+      "name": "FIS Bright Portfolios Core Bond ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -17926,7 +17950,7 @@
     },
     {
       "symbol": "DLXY",
-      "name": "Delixy Holdings Limited - Ordinary Shares",
+      "name": "Delixy Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25947,6 +25971,12 @@
       "isETF": false
     },
     {
+      "symbol": "FTHB",
+      "name": "FIS Faith Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FTHF",
       "name": "First Trust Emerging Markets Human Flourishing ETF",
       "exchange": "NYSE ARCA",
@@ -27785,6 +27815,18 @@
     {
       "symbol": "GIWWU",
       "name": "GigCapital8 Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GIX",
+      "name": "GigCapital9 Corp. - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GIXXR",
+      "name": "GigCapital9 Corp. - Rights",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42603,8 +42645,20 @@
       "isETF": false
     },
     {
+      "symbol": "MLAA",
+      "name": "Mountain Lake Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MLAAU",
       "name": "Mountain Lake Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MLAAW",
+      "name": "Mountain Lake Acquisition Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -46791,6 +46845,12 @@
       "isETF": false
     },
     {
+      "symbol": "NTSD",
+      "name": "WisdomTree Efficient U.S. Plus International Equity Fund",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NTSE",
       "name": "WisdomTree Emerging Markets Efficient Core Fund",
       "exchange": "NYSE ARCA",
@@ -47315,12 +47375,6 @@
     {
       "symbol": "NVVE",
       "name": "Nuvve Holding Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NVVEW",
-      "name": "Nuvve Holding Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56561,6 +56615,18 @@
     {
       "symbol": "ROCK",
       "name": "Gibraltar Industries, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ROCQ",
+      "name": "JPMorgan Nasdaq Equity Premium Yield ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ROCY",
+      "name": "JPMorgan Equity Premium Yield ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68985,6 +69051,12 @@
       "isETF": false
     },
     {
+      "symbol": "VCX",
+      "name": "Fundrise Innovation Fund, LLC Common Shares of Limited Liability Company Interests",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "VCYT",
       "name": "Veracyte, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -74039,12 +74111,6 @@
     {
       "symbol": "ZENA",
       "name": "ZenaTech, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ZENV",
-      "name": "Zenvia Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
