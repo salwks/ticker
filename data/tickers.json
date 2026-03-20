@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-19T23:09:22.109130Z",
-  "count": 12426,
+  "lastUpdated": "2026-03-20T23:09:03.364980Z",
+  "count": 12435,
   "tickers": [
     {
       "symbol": "A",
@@ -10527,6 +10527,12 @@
       "isETF": false
     },
     {
+      "symbol": "BWIV.U",
+      "name": "Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BWLP",
       "name": "BW LPG Limited Common Shares",
       "exchange": "NYSE",
@@ -17225,6 +17231,12 @@
     {
       "symbol": "DFLV",
       "name": "Dimensional US Large Cap Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DFMC",
+      "name": "U.S. Micro Cap Portfolio: ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -28359,6 +28371,12 @@
       "isETF": false
     },
     {
+      "symbol": "GMTL.V",
+      "name": "Guardian Metal Resources PLC ADS When-Issued",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "GMUB",
       "name": "Goldman Sachs Municipal Income ETF",
       "exchange": "NYSE ARCA",
@@ -31227,6 +31245,12 @@
       "isETF": false
     },
     {
+      "symbol": "HQ",
+      "name": "Horizon Quantum Holdings Ltd. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HQGO",
       "name": "Hartford US Quality Growth ETF",
       "exchange": "NASDAQ",
@@ -31248,6 +31272,12 @@
       "symbol": "HQL",
       "name": "abrdn Life Sciences Investors Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HQWWW",
+      "name": "Horizon Quantum Holdings Ltd. - Warrant",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -35727,6 +35757,12 @@
       "isETF": false
     },
     {
+      "symbol": "JAN",
+      "name": "Janus Living, Inc. Class A-1 Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "JANB",
       "name": "Aptus January Buffer ETF",
       "exchange": "BATS",
@@ -38007,8 +38043,20 @@
       "isETF": false
     },
     {
+      "symbol": "KRAQ",
+      "name": "KRAKacquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KRAQU",
       "name": "KRAKacquisition Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KRAQW",
+      "name": "KRAKacquisition Corp - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45627,12 +45675,6 @@
       "isETF": false
     },
     {
-      "symbol": "NGD",
-      "name": "New Gold Inc.",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "NGEN",
       "name": "NervGen Pharma Corp. - Common stock",
       "exchange": "NASDAQ",
@@ -45731,6 +45773,12 @@
     {
       "symbol": "NHS",
       "name": "Neuberger High Yield Strategies Fund Inc. Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "NHS.V",
+      "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -57603,8 +57651,20 @@
       "isETF": false
     },
     {
+      "symbol": "SAAQ",
+      "name": "Space Asset Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SAAQU",
       "name": "Space Asset Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SAAQW",
+      "name": "Space Asset Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67902,12 +67962,6 @@
       "symbol": "UOCT",
       "name": "Innovator U.S. Equity Ultra Buffer ETF - October",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "UOKA",
-      "name": "MDJM LTD - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
