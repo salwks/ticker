@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-22T23:08:21.836927Z",
-  "count": 12435,
+  "lastUpdated": "2026-03-23T23:10:47.641095Z",
+  "count": 12438,
   "tickers": [
     {
       "symbol": "A",
@@ -7533,12 +7533,6 @@
       "isETF": false
     },
     {
-      "symbol": "BGMSP",
-      "name": "Bio Green Med Solution, Inc. - 6% Convertible Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BGR",
       "name": "BlackRock Energy and Resources Trust",
       "exchange": "NYSE",
@@ -14260,7 +14254,7 @@
     },
     {
       "symbol": "COPZ",
-      "name": "Defiance Daily Target 2x Long Copper ETF",
+      "name": "Defiance Daily Target 2X Long Copper Miners ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -28371,8 +28365,8 @@
       "isETF": false
     },
     {
-      "symbol": "GMTL.V",
-      "name": "Guardian Metal Resources PLC ADS When-Issued",
+      "symbol": "GMTL",
+      "name": "Guardian Metal Resources PLC ADS",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -43306,7 +43300,7 @@
     },
     {
       "symbol": "MOVE",
-      "name": "Movano Inc. - Common Stock",
+      "name": "Corvex, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44325,8 +44319,20 @@
       "isETF": false
     },
     {
+      "symbol": "MUZE",
+      "name": "Muzero Acquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MUZEU",
       "name": "Muzero Acquisition Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MUZEW",
+      "name": "Muzero Acquisition Corp - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45030,6 +45036,18 @@
       "symbol": "NBR",
       "name": "Nabors Industries Ltd.",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NBRG",
+      "name": "Newbridge Acquisition Limited - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NBRGR",
+      "name": "Newbridge Acquisition Limited - Rights",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -46320,6 +46338,12 @@
       "symbol": "NOEMW",
       "name": "CO2 Energy Transition Corp. - Warrant",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NOEQ",
+      "name": "Northern Trust US Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -64785,12 +64809,6 @@
       "isETF": false
     },
     {
-      "symbol": "TGNA",
-      "name": "TEGNA Inc",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "TGRT",
       "name": "T. Rowe Price Growth ETF",
       "exchange": "NYSE ARCA",
@@ -65784,6 +65802,12 @@
       "symbol": "TOPT",
       "name": "iShares Top 20 U.S. Stocks ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TOPW",
+      "name": "Roundhill Top WeeklyPay ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -71724,12 +71748,6 @@
       "symbol": "WPAC.U",
       "name": "White Pearl Acquisition Corp. Units, each consisting of one Class A ordinary share and one right to receive one-fifth (1/5) of one Class A ordinary share",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WPAY",
-      "name": "Roundhill WeeklyPay Universe ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
