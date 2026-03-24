@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-23T23:10:47.641095Z",
-  "count": 12438,
+  "lastUpdated": "2026-03-24T23:10:21.587922Z",
+  "count": 12441,
   "tickers": [
     {
       "symbol": "A",
@@ -120,6 +120,12 @@
       "symbol": "AAON",
       "name": "AAON, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AAOX",
+      "name": "Tradr 2X Long AAOI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -3210,6 +3216,12 @@
       "symbol": "AMZN",
       "name": "Amazon.com, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMZO",
+      "name": "Tradr 2X Short AMZN Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -22443,12 +22455,6 @@
       "isETF": false
     },
     {
-      "symbol": "EXAS",
-      "name": "Exact Sciences Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EXC",
       "name": "Exelon Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -30915,6 +30921,12 @@
       "isETF": false
     },
     {
+      "symbol": "HLXX",
+      "name": "Tradr 2X Long HL Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HMC",
       "name": "Honda Motor Company, Ltd. Common Stock",
       "exchange": "NYSE",
@@ -32622,6 +32634,12 @@
       "symbol": "IBUY",
       "name": "Amplify Online Retail ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IBX",
+      "name": "Tradr 2X Long IBM Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40211,12 +40229,6 @@
     {
       "symbol": "LQIG",
       "name": "State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LQPE",
-      "name": "PEO AlphaQuest Thematic PE ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -49463,6 +49475,12 @@
     {
       "symbol": "OXLCL",
       "name": "Oxford Lane Capital Corp. - 6.75% Notes due 2031",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OXLCM",
+      "name": "Oxford Lane Capital Corp. - Preferred Stock Shares, 8.25% Series 2031",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63430,7 +63448,7 @@
     },
     {
       "symbol": "SXTC",
-      "name": "China SXT Pharmaceuticals, Inc. - Common Stock",
+      "name": "China SXT Pharmaceuticals, Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
