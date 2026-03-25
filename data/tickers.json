@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-24T23:10:21.587922Z",
-  "count": 12441,
+  "lastUpdated": "2026-03-25T23:12:36.563217Z",
+  "count": 12443,
   "tickers": [
     {
       "symbol": "A",
@@ -972,6 +972,12 @@
       "symbol": "ADBG",
       "name": "Leverage Shares 2X Long ADBE Daily ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ADBU",
+      "name": "Direxion Daily ADBE Bull 2X ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -18669,12 +18675,6 @@
       "isETF": false
     },
     {
-      "symbol": "DTCK",
-      "name": "Davis Commodities Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DTCR",
       "name": "Global X Data Center & Digital Infrastructure ETF",
       "exchange": "NASDAQ",
@@ -21413,12 +21413,6 @@
     {
       "symbol": "ERNAW",
       "name": "Ernexa Therapeutics Inc. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ERNZ",
-      "name": "TrueShares Active Yield ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36843,6 +36837,12 @@
       "isETF": false
     },
     {
+      "symbol": "JUDO",
+      "name": "Janus Henderson U.S. Equity Enhanced Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "JULB",
       "name": "Aptus July Buffer ETF",
       "exchange": "BATS",
@@ -41553,6 +41553,12 @@
       "isETF": false
     },
     {
+      "symbol": "MCVT",
+      "name": "Miller Convertible Total Return ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MCW",
       "name": "Mister Car Wash, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -45370,7 +45376,7 @@
     },
     {
       "symbol": "NEE$N",
-      "name": "NextEra Energy, Inc. Series N Junior Subordinated Debentures due March 1, 2079",
+      "name": "NextEra Energy Capital Holdings Inc. Series N Junior Subordinated Debentures due March 1, 2079",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -45395,6 +45401,12 @@
     {
       "symbol": "NEE$V",
       "name": "NextEra Energy, Inc. 7.375% Corporate Units",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NEE$W",
+      "name": "NextEra Energy Capital Holdings Inc. Series Z Junior Subordinated Debentures due April 15, 2086",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -47850,30 +47862,6 @@
       "symbol": "OAKM",
       "name": "Oakmark U.S. Large Cap ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "OAKU",
-      "name": "Oak Woods Acquisition Corporation - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OAKUR",
-      "name": "Oak Woods Acquisition Corporation - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OAKUU",
-      "name": "Oak Woods Acquisition Corporation - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OAKUW",
-      "name": "Oak Woods Acquisition Corporation - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52785,6 +52773,12 @@
       "isETF": false
     },
     {
+      "symbol": "PRTO",
+      "name": "RCN Pareto Strategic Allocation ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PRTS",
       "name": "CarParts.com, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -53676,6 +53670,12 @@
       "symbol": "PYPL",
       "name": "PayPal Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PYPU",
+      "name": "Direxion Daily PYPL Bull 2X ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -67155,6 +67155,12 @@
       "isETF": false
     },
     {
+      "symbol": "TXNU",
+      "name": "Direxion Daily TXN Bull 2X ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TXO",
       "name": "TXO Partners, L.P. Common Units Representing Limited Partner Interests",
       "exchange": "NYSE",
@@ -67938,6 +67944,12 @@
       "symbol": "UNHG",
       "name": "Leverage Shares 2X Long UNH Daily ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "UNHU",
+      "name": "Direxion Daily UNH Bull 2X ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
