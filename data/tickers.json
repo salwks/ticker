@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-25T23:12:36.563217Z",
-  "count": 12443,
+  "lastUpdated": "2026-03-26T23:08:56.317799Z",
+  "count": 12459,
   "tickers": [
     {
       "symbol": "A",
@@ -28065,6 +28065,12 @@
       "isETF": false
     },
     {
+      "symbol": "GLND",
+      "name": "Greenland Energy Company - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GLNG",
       "name": "Golar LNG Limited - Common Shares",
       "exchange": "NASDAQ",
@@ -32229,6 +32235,12 @@
       "isETF": false
     },
     {
+      "symbol": "IBCB",
+      "name": "iShares iBonds Dec 2036 Term Corporate ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "IBCP",
       "name": "Independent Bank Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -32325,6 +32337,12 @@
       "isETF": false
     },
     {
+      "symbol": "IBGC",
+      "name": "iShares iBonds Dec 2046 Term Treasury ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IBGK",
       "name": "iShares iBonds Dec 2054 Term Treasury ETF",
       "exchange": "NASDAQ",
@@ -32333,6 +32351,12 @@
     {
       "symbol": "IBGL",
       "name": "iShares iBonds Dec 2055 Term Treasury ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IBGM",
+      "name": "iShares iBonds Dec 2056 Term Treasury ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32375,6 +32399,12 @@
     {
       "symbol": "IBHL",
       "name": "iShares iBonds 2032 Term High Yield and Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "IBHM",
+      "name": "iShares iBonds 2033 Term High Yield and Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -32435,6 +32465,12 @@
     {
       "symbol": "IBIL",
       "name": "iShares iBonds Oct 2035 Term TIPS ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IBIM",
+      "name": "iShares iBonds Oct 2036 Term TIPS ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -32501,6 +32537,18 @@
     {
       "symbol": "IBMT",
       "name": "iShares iBonds Dec 2031 Term Muni Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "IBMU",
+      "name": "iShares iBonds Dec 2032 Term Muni Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "IBMV",
+      "name": "iShares iBonds Dec 2033 Term Muni Bond ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -32615,6 +32663,12 @@
     {
       "symbol": "IBTQ",
       "name": "iShares iBonds Dec 2035 Term Treasury ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IBTR",
+      "name": "iShares iBonds Dec 2036 Term Treasury ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43401,6 +43455,12 @@
       "isETF": false
     },
     {
+      "symbol": "MPTI.V",
+      "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "MPU",
       "name": "Mega Matrix Inc. Class A Ordinary Shares",
       "exchange": "AMEX",
@@ -45819,8 +45879,8 @@
       "isETF": false
     },
     {
-      "symbol": "NHS.V",
-      "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights when issued",
+      "symbol": "NHS.R",
+      "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -46404,18 +46464,6 @@
       "symbol": "NORW",
       "name": "Global X MSCI Norway ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NOTE",
-      "name": "FiscalNote Holdings, Inc. Class A common stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NOTE.W",
-      "name": "FiscalNote Holdings, Inc. Warrants to purchase one share of Class A common stock, each at an exercise price of $11.50 per share",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -47747,6 +47795,12 @@
     {
       "symbol": "NYM",
       "name": "AB New York Intermediate Municipal ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "NYSX",
+      "name": "Global X NYSE 100 ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -50700,24 +50754,6 @@
       "symbol": "PEJ",
       "name": "Invesco Leisure and Entertainment ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "PELI",
-      "name": "Pelican Acquisition Corporation - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PELIR",
-      "name": "Pelican Acquisition Corporation - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PELIU",
-      "name": "Pelican Acquisition Corporation - Unit",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69012,6 +69048,66 @@
       "symbol": "VB",
       "name": "Vanguard Small-Cap ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCA",
+      "name": "Vanguard Target Maturity 2027 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCB",
+      "name": "Vanguard Target Maturity 2028 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCC",
+      "name": "Vanguard Target Maturity 2029 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCD",
+      "name": "Vanguard Target Maturity 2030 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCE",
+      "name": "Vanguard Target Maturity 2031 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCF",
+      "name": "Vanguard Target Maturity 2032 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCG",
+      "name": "Vanguard Target Maturity 2033 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCH",
+      "name": "Vanguard Target Maturity 2034 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCI",
+      "name": "Vanguard Target Maturity 2035 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VBCJ",
+      "name": "Vanguard Target Maturity 2036 Corporate Bond ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
