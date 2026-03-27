@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-26T23:08:56.317799Z",
-  "count": 12459,
+  "lastUpdated": "2026-03-27T23:11:15.929970Z",
+  "count": 12461,
   "tickers": [
     {
       "symbol": "A",
@@ -63,8 +63,20 @@
       "isETF": false
     },
     {
+      "symbol": "AACI",
+      "name": "Armada Acquisition Corp. III - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AACIU",
       "name": "Armada Acquisition Corp. III - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AACIW",
+      "name": "Armada Acquisition Corp. III - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3851,6 +3863,12 @@
     {
       "symbol": "APTV",
       "name": "Aptiv PLC Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "APTV.V",
+      "name": "Aptiv PLC Ordinary Shares When-Issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -12483,24 +12501,6 @@
       "isETF": false
     },
     {
-      "symbol": "CHAC",
-      "name": "Crane Harbor Acquisition Corp. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CHACR",
-      "name": "Crane Harbor Acquisition Corp. - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CHACU",
-      "name": "Crane Harbor Acquisition Corp. - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CHAI",
       "name": "Core AI Holdings, Inc. - Common Shares",
       "exchange": "NASDAQ",
@@ -13065,8 +13065,20 @@
       "isETF": false
     },
     {
+      "symbol": "CLBR",
+      "name": "Colombier Acquisition Corp. III Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "CLBR.U",
       "name": "Colombier Acquisition Corp. III Units, each consisting of one Class A ordinary share and one-eighth of one warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CLBR.W",
+      "name": "Colombier Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -13374,12 +13386,6 @@
       "symbol": "CM",
       "name": "Canadian Imperial Bank of Commerce Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CMBM",
-      "name": "Cambium Networks Corporation - Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -15520,7 +15526,7 @@
     },
     {
       "symbol": "CTGO",
-      "name": "Contango ORE, Inc. Common Stock",
+      "name": "Contango Silver & Gold Inc. Common Stock",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -16122,6 +16128,12 @@
       "symbol": "CXW",
       "name": "CoreCivic, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CYAB",
+      "name": "Cyabra, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -18996,12 +19008,6 @@
       "symbol": "DVRE",
       "name": "WEBs Real Estate XLRE Defined Volatility ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVS",
-      "name": "Dolly Varden Silver Corporation Common Shares",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -24900,6 +24906,12 @@
       "symbol": "FLYX.W",
       "name": "flyExclusive, Inc. Redeemable warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50 per share",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "FMACU",
+      "name": "Future Money Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -34571,6 +34583,12 @@
     {
       "symbol": "IPEXU",
       "name": "Inflection Point Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IPFXU",
+      "name": "Inflection Point Acquisition Corp. VI - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53775,6 +53793,12 @@
       "isETF": false
     },
     {
+      "symbol": "QADRU",
+      "name": "QDRO Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QAI",
       "name": "NYLI Hedge Multi-Strategy Tracker ETF",
       "exchange": "NYSE ARCA",
@@ -57384,12 +57408,6 @@
       "symbol": "RVPH",
       "name": "Reviva Pharmaceuticals Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RVRB",
-      "name": "Reverb ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -63015,20 +63033,8 @@
       "isETF": false
     },
     {
-      "symbol": "STXI",
-      "name": "Strive International Developed Markets ETF",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "STXK",
       "name": "Strive Small-Cap ETF",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "STXM",
-      "name": "Strive Mid-Cap ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -64038,18 +64044,6 @@
       "symbol": "TBLU",
       "name": "Tortoise Global Water Fund",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "TBMC",
-      "name": "Trailblazer Merger Corporation I - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TBMCR",
-      "name": "Trailblazer Merger Corporation I - Rights",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69567,6 +69561,12 @@
       "isETF": false
     },
     {
+      "symbol": "VGNT.V",
+      "name": "Versigent PLC Ordinary Shares When-Issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "VGRO",
       "name": "Virtus Silvant Growth Opportunities ETF",
       "exchange": "NYSE ARCA",
@@ -70194,6 +70194,12 @@
       "symbol": "VOX",
       "name": "Vanguard Communication Services  ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VOXP",
+      "name": "Vox Populi ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -73091,6 +73097,12 @@
     {
       "symbol": "XNCR",
       "name": "Xencor, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XNDU",
+      "name": "Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
