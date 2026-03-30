@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-29T23:10:35.314966Z",
-  "count": 12461,
+  "lastUpdated": "2026-03-30T23:13:00.092414Z",
+  "count": 12463,
   "tickers": [
     {
       "symbol": "A",
@@ -10635,12 +10635,6 @@
       "isETF": false
     },
     {
-      "symbol": "BXMX",
-      "name": "Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BXP",
       "name": "BXP, Inc. Common Stock",
       "exchange": "NYSE",
@@ -11079,8 +11073,20 @@
       "isETF": false
     },
     {
+      "symbol": "CAQ",
+      "name": "Cambridge Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CAQUU",
       "name": "Cambridge Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CAQUW",
+      "name": "Cambridge Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17598,12 +17604,6 @@
       "symbol": "DIAL",
       "name": "Columbia Diversified Fixed Income Allocation ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "DIAX",
-      "name": "Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -30201,6 +30201,18 @@
       "isETF": false
     },
     {
+      "symbol": "HCIC",
+      "name": "Hennessy Capital Investment Corp. VIII - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HCICR",
+      "name": "Hennessy Capital Investment Corp. VIII - Share Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HCICU",
       "name": "Hennessy Capital Investment Corp. VIII - Units",
       "exchange": "NASDAQ",
@@ -31973,12 +31985,6 @@
     {
       "symbol": "HYIN",
       "name": "WisdomTree Private Credit and Alternative Income Fund",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "HYKE",
-      "name": "Vest 2 Year Interest Rate Hedge ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -40974,6 +40980,12 @@
       "symbol": "MAIN",
       "name": "Main Street Capital Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MAKO",
+      "name": "Mako Mining Corp - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -56151,12 +56163,6 @@
       "isETF": false
     },
     {
-      "symbol": "RILYK",
-      "name": "BRC Group Holdings, Inc. - 5.50% Senior Notes Due 2026",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RILYL",
       "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series B Cumulative Perpetual Preferred Stock",
       "exchange": "NASDAQ",
@@ -57669,12 +57675,6 @@
       "isETF": false
     },
     {
-      "symbol": "RYSE",
-      "name": "Vest 10 Year Interest Rate Hedge ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "RYTM",
       "name": "Rhythm Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -58695,9 +58695,21 @@
       "isETF": false
     },
     {
+      "symbol": "SCSB",
+      "name": "Sterling Capital Short Duration Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SCSC",
       "name": "ScanSource, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCUB",
+      "name": "Sterling Capital Ultra Short Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -64042,7 +64054,7 @@
     },
     {
       "symbol": "TBLU",
-      "name": "Tortoise Global Water Fund",
+      "name": "Tortoise Global Water ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -65686,7 +65698,7 @@
     },
     {
       "symbol": "TNGY",
-      "name": "Tortoise Energy Fund",
+      "name": "Tortoise Energy ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -66058,7 +66070,7 @@
     },
     {
       "symbol": "TPYP",
-      "name": "Tortoise North American Pipeline Fund",
+      "name": "Tortoise North American Pipeline ETF",
       "exchange": "NYSE",
       "isETF": false
     },
