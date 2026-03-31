@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-30T23:13:00.092414Z",
-  "count": 12463,
+  "lastUpdated": "2026-03-31T23:11:01.129181Z",
+  "count": 12465,
   "tickers": [
     {
       "symbol": "A",
@@ -438,6 +438,12 @@
       "symbol": "ABTS",
       "name": "Abits Group Inc - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ABUF",
+      "name": "Aptus Laddered Buffer ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -4293,6 +4299,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARMY",
+      "name": "Tema International Defense ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AROC",
       "name": "Archrock, Inc. Common Stock",
       "exchange": "NYSE",
@@ -6579,14 +6591,8 @@
       "isETF": false
     },
     {
-      "symbol": "BBU",
-      "name": "Brookfield Business Partners L.P. Limited Partnership Units",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BBUC",
-      "name": "Brookfield Business Corporation Class A Exchangeable Subordinate Voting Shares",
+      "name": "Brookfield Business Corporation Class A Subordinate Voting Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -27045,12 +27051,6 @@
       "isETF": false
     },
     {
-      "symbol": "GDFN",
-      "name": "Tema International Defense Innovation ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GDHG",
       "name": "Golden Heaven Group Holdings Ltd.  - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -36195,18 +36195,6 @@
       "isETF": false
     },
     {
-      "symbol": "JFBR",
-      "name": "Jeffs' Brands Ltd - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "JFBRW",
-      "name": "Jeffs' Brands Ltd - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "JFIN",
       "name": "Jiayin Group Inc. - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -38082,6 +38070,12 @@
       "symbol": "KPDD",
       "name": "KraneShares 2x Long PDD Daily ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KPET.U",
+      "name": "KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -43126,7 +43120,7 @@
     },
     {
       "symbol": "MNBD",
-      "name": "ALPS Intermediate Municipal Bond ETF",
+      "name": "ALPS BBH Intermediate Municipal Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -43485,8 +43479,8 @@
       "isETF": false
     },
     {
-      "symbol": "MPTI.V",
-      "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights when issued",
+      "symbol": "MPTI.R",
+      "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -44943,6 +44937,12 @@
       "isETF": false
     },
     {
+      "symbol": "NASA",
+      "name": "Tema Space Innovators ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NAT",
       "name": "Nordic American Tankers Limited Common Stock",
       "exchange": "NYSE",
@@ -45693,6 +45693,18 @@
       "isETF": false
     },
     {
+      "symbol": "NEXR",
+      "name": "Nexera Technologies Ltd - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NEXRW",
+      "name": "Nexera Technologies Ltd - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NEXT",
       "name": "NextDecade Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -45972,6 +45984,12 @@
       "symbol": "NIM",
       "name": "Nuveen Select Maturities Municipal Fund Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NINE",
+      "name": "Nine Energy Service, Inc. Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -55858,13 +55876,13 @@
     },
     {
       "symbol": "RFCI",
-      "name": "RiverFront Dynamic Core Income ETF",
+      "name": "ALPS Dynamic Core Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "RFDA",
-      "name": "RiverFront Dynamic US Dividend Advantage ETF",
+      "name": "ALPS Dynamic US Dividend Advantage ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -64788,12 +64806,6 @@
       "symbol": "TFPN",
       "name": "Blueprint Chesapeake Multi-Asset Trend ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "TFSA",
-      "name": "Terra Income Fund 6, LLC 7.00% Notes due 2026",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
