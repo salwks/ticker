@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-31T23:11:01.129181Z",
-  "count": 12465,
+  "lastUpdated": "2026-04-01T23:13:50.610042Z",
+  "count": 12485,
   "tickers": [
     {
       "symbol": "A",
@@ -172,7 +172,7 @@
     },
     {
       "symbol": "AAPR",
-      "name": "Innovator Equity Defined Protection ETF - 2 Yr to April 2026",
+      "name": "Innovator Equity Defined Protection ETF - 2 Yr to April 2028",
       "exchange": "BATS",
       "isETF": false
     },
@@ -3873,12 +3873,6 @@
       "isETF": false
     },
     {
-      "symbol": "APTV.V",
-      "name": "Aptiv PLC Ordinary Shares When-Issued",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "APUE",
       "name": "ActivePassive U.S. Equity ETF",
       "exchange": "NYSE ARCA",
@@ -4197,6 +4191,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARKI",
+      "name": "ARK DIET Q2 Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ARKK",
       "name": "ARK Innovation ETF",
       "exchange": "BATS",
@@ -4242,6 +4242,12 @@
       "symbol": "ARL",
       "name": "American Realty Investors, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ARLI",
+      "name": "AllianzIM International Equity Buffer15 Uncapped Apr ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -12669,9 +12675,21 @@
       "isETF": false
     },
     {
+      "symbol": "CHNL",
+      "name": "Chainlink ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CHNR",
       "name": "China Natural Resources, Inc. - Common Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CHNU",
+      "name": "2x Chainlink ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -14907,6 +14925,12 @@
       "isETF": false
     },
     {
+      "symbol": "CRDD",
+      "name": "Cardano ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CRDF",
       "name": "Cardiff Oncology, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -14933,6 +14957,12 @@
     {
       "symbol": "CRDU",
       "name": "Tradr 2X Long CRDO Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "CRDX",
+      "name": "2x Cardano ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -15297,6 +15327,18 @@
       "isETF": false
     },
     {
+      "symbol": "CSHR",
+      "name": "CoinShares PLC - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CSHRW",
+      "name": "CoinShares PLC - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CSIO",
       "name": "Cohen & Steers Infrastructure Opportunities Active ETF",
       "exchange": "NYSE ARCA",
@@ -15472,7 +15514,7 @@
     },
     {
       "symbol": "CTEC",
-      "name": "Global X CleanTech ETF",
+      "name": "Global X ClimateTech ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16719,6 +16761,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDFA",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - April",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDFD",
       "name": "Innovator Equity Dual Directional 15 Buffer ETF - December",
       "exchange": "BATS",
@@ -16824,6 +16872,12 @@
       "symbol": "DDT",
       "name": "Dillard's Capital Trust I",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "DDTA",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - April",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -17982,6 +18036,12 @@
       "symbol": "DLTR",
       "name": "Dollar Tree, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DLUX",
+      "name": "DoubleLine Ultrashort Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -23889,12 +23949,6 @@
       "isETF": false
     },
     {
-      "symbol": "FFWM",
-      "name": "First Foundation Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "FG",
       "name": "F&G Annuities & Life, Inc. Common Stock",
       "exchange": "NYSE",
@@ -26898,12 +26952,6 @@
       "symbol": "GBX",
       "name": "Greenbrier Companies, Inc. (The) Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GBXA",
-      "name": "Goldman Sachs U.S. Large Cap Buffer 1 ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -30957,6 +31005,12 @@
       "isETF": false
     },
     {
+      "symbol": "HMH",
+      "name": "HMH Holding Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HMN",
       "name": "Horace Mann Educators Corporation Common Stock",
       "exchange": "NYSE",
@@ -34029,6 +34083,12 @@
       "isETF": false
     },
     {
+      "symbol": "INDQ",
+      "name": "Pacer ActiveAlpha India Quality ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "INDS",
       "name": "Pacer Industrial Real Estate ETF",
       "exchange": "NYSE ARCA",
@@ -35255,12 +35315,6 @@
     {
       "symbol": "ITRI",
       "name": "Itron, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ITRM",
-      "name": "Iterum Therapeutics plc - Ordinary Share",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48694,7 +48748,7 @@
     },
     {
       "symbol": "ONCY",
-      "name": "Oncolytics Biotech Inc. - Common Shares",
+      "name": "Oncolytics Biotech Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48827,12 +48881,6 @@
     {
       "symbol": "ONON",
       "name": "On Holding AG Class A Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ONTF",
-      "name": "ON24, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -53799,6 +53847,18 @@
       "isETF": false
     },
     {
+      "symbol": "PZIV",
+      "name": "Pzena International Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "PZLV",
+      "name": "Pzena U.S. Large Cap Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PZT",
       "name": "Invesco New York AMT-Free Municipal Bond ETF",
       "exchange": "NYSE ARCA",
@@ -53871,14 +53931,56 @@
       "isETF": false
     },
     {
+      "symbol": "QBIF",
+      "name": "AllianzIM International Equity Buffer15 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QBIG",
       "name": "Invesco Top QQQ ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
+      "symbol": "QBIV",
+      "name": "AllianzIM International Equity Buffer5 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "QBKF",
+      "name": "AllianzIM U.S. Small Cap Buffer15 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "QBKV",
+      "name": "AllianzIM U.S. Small Cap Buffer5 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "QBQF",
+      "name": "AllianzIM Growth-100 Buffer15 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "QBQV",
+      "name": "AllianzIM Growth-100 Buffer5 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QBSF",
       "name": "AllianzIM U.S. Equity Buffer15 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "QBSV",
+      "name": "AllianzIM U.S Equity Buffer5 ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -62253,6 +62355,12 @@
       "isETF": false
     },
     {
+      "symbol": "SQLT",
+      "name": "iShares MSCI USA Small-Cap Quality Factor ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SQLV",
       "name": "Royce Quant Small-Cap Quality Value ETF",
       "exchange": "NASDAQ",
@@ -62838,6 +62946,18 @@
       "symbol": "STLD",
       "name": "Steel Dynamics, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "STLR",
+      "name": "Stellar ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "STLU",
+      "name": "2x Stellar ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -63849,6 +63969,12 @@
       "isETF": false
     },
     {
+      "symbol": "TAOZ",
+      "name": "Thornburg American Opportunities Fund",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TAP",
       "name": "Molson Coors Beverage Company Class B Common Stock",
       "exchange": "NYSE",
@@ -64746,6 +64872,12 @@
       "symbol": "TFFI",
       "name": "Chesapeake Trend-Following Fixed Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TFGZ",
+      "name": "Thornburg Focus Growth Fund",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69189,24 +69321,6 @@
       "isETF": false
     },
     {
-      "symbol": "VCIC",
-      "name": "Vine Hill Capital Investment Corp. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VCICU",
-      "name": "Vine Hill Capital Investment Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VCICW",
-      "name": "Vine Hill Capital Investment Corp. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VCIG",
       "name": "VCI Global Limited - Ordinary Share",
       "exchange": "NASDAQ",
@@ -69585,8 +69699,8 @@
       "isETF": false
     },
     {
-      "symbol": "VGNT.V",
-      "name": "Versigent PLC Ordinary Shares When-Issued",
+      "symbol": "VGNT",
+      "name": "Versigent PLC Ordinary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -72036,6 +72150,12 @@
       "symbol": "WSC",
       "name": "WillScot Holdings Corporation - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WSDB",
+      "name": "Weitz Short Duration Bond ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
