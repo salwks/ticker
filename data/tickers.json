@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-01T23:13:50.610042Z",
-  "count": 12485,
+  "lastUpdated": "2026-04-02T23:11:22.542275Z",
+  "count": 12488,
   "tickers": [
     {
       "symbol": "A",
@@ -8463,12 +8463,6 @@
       "isETF": false
     },
     {
-      "symbol": "BLFY",
-      "name": "Blue Foundry Bancorp - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BLGR",
       "name": "Bluemonte Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
@@ -10337,12 +10331,6 @@
     {
       "symbol": "BUI",
       "name": "BlackRock Utility, Infrastructure & Power Opportunities Trust",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BUI.R",
-      "name": "BlackRock Utility, Infrastructure & Power Opportun Rights (expiring April 2, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -18423,6 +18411,12 @@
       "isETF": false
     },
     {
+      "symbol": "DRAM",
+      "name": "Roundhill Memory ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DRAY",
       "name": "YieldMax DKNG Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -20274,6 +20268,12 @@
       "symbol": "EHC",
       "name": "Encompass Health Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "EHCC",
+      "name": "Global X Ethereum Covered Call ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -28025,12 +28025,6 @@
     {
       "symbol": "GLDB",
       "name": "IDX Alternative FIAT ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GLDD",
-      "name": "Great Lakes Dredge & Dock Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47763,6 +47757,12 @@
       "isETF": false
     },
     {
+      "symbol": "NXG.V",
+      "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "NXGL",
       "name": "NexGel, Inc - Common Stock",
       "exchange": "NASDAQ",
@@ -48282,6 +48282,12 @@
       "symbol": "ODHY",
       "name": "Obra Defensive High Yield ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ODTE",
+      "name": "VegaShares SPX NDX RTY Premium Income ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -49277,12 +49283,6 @@
     {
       "symbol": "ORRF",
       "name": "Orrstown Financial Services, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OS",
-      "name": "OneStream, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -65769,8 +65769,20 @@
       "isETF": false
     },
     {
+      "symbol": "TMTS",
+      "name": "Spartacus Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TMTSU",
       "name": "Spartacus Acquisition Corp. II - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TMTSW",
+      "name": "Spartacus Acquisition Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66555,8 +66567,20 @@
       "isETF": false
     },
     {
+      "symbol": "TRUF",
+      "name": "VanEck Financials TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TRUG",
       "name": "TruGolf Holdings, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRUH",
+      "name": "VanEck Healthcare TruSector ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67572,12 +67596,6 @@
       "symbol": "UBEW",
       "name": "Roundhill UBER WeeklyPay ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "UBFO",
-      "name": "United Security Bancshares - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69456,6 +69474,12 @@
       "symbol": "VEEV",
       "name": "Veeva Systems Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "VEFA",
+      "name": "VanEck MSCI EAFE Analyst Sentiment ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -73558,7 +73582,7 @@
     },
     {
       "symbol": "XRTX",
-      "name": "XORTX Therapeutics Inc. - Common Stock",
+      "name": "XORTX Therapeutics Inc. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -73692,12 +73716,6 @@
       "symbol": "XTJL",
       "name": "Innovator U.S. Equity Accelerated Plus ETF - July",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "XTKG",
-      "name": "X3 Holdings Co., Ltd. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
