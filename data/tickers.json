@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-05T23:11:05.398140Z",
-  "count": 12488,
+  "lastUpdated": "2026-04-06T23:13:15.323222Z",
+  "count": 12495,
   "tickers": [
     {
       "symbol": "A",
@@ -3287,6 +3287,12 @@
     {
       "symbol": "ANAB",
       "name": "AnaptysBio, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ANABV",
+      "name": "AnaptysBio, Inc. - Common Stock When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -8010,12 +8016,6 @@
       "symbol": "BITC",
       "name": "Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "BITF",
-      "name": "Bitfarms Ltd. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20325,12 +20325,6 @@
       "isETF": false
     },
     {
-      "symbol": "EICC",
-      "name": "Eagle Point Income Company Inc. 8.00% Series C Term Preferred Stock due 2029",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "EIDO",
       "name": "iShares MSCI Indonesia ETF",
       "exchange": "NYSE ARCA",
@@ -29949,8 +29943,20 @@
       "isETF": false
     },
     {
+      "symbol": "HACQ",
+      "name": "HCM IV Acquisition Corp. - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HACQU",
       "name": "HCM IV Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HACQW",
+      "name": "HCM IV Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32163,8 +32169,20 @@
       "isETF": false
     },
     {
+      "symbol": "IACO",
+      "name": "Idea Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IACOU",
       "name": "Idea Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IACOW",
+      "name": "Idea Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -37421,6 +37439,12 @@
     {
       "symbol": "KEAT",
       "name": "Keating Active ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KEEL",
+      "name": "Keel Infrastructure Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45249,12 +45273,6 @@
       "isETF": false
     },
     {
-      "symbol": "NBY",
-      "name": "NovaBay Pharmaceuticals, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "NC",
       "name": "NACCO Industries, Inc. Common Stock",
       "exchange": "NYSE",
@@ -49737,8 +49755,20 @@
       "isETF": false
     },
     {
+      "symbol": "PAAC",
+      "name": "Proem Acquisition Corp I - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PAACU",
       "name": "Proem Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PAACW",
+      "name": "Proem Acquisition Corp I - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50556,6 +50586,12 @@
       "symbol": "PCOR",
       "name": "Procore Technologies, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PCPI",
+      "name": "PIMCO Inflation PLUS Active Exchange-Traded Fund",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -54234,12 +54270,6 @@
       "symbol": "QGRW",
       "name": "WisdomTree U.S. Quality Growth Fund",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "QH",
-      "name": "Quhuo Limited - American Depository Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58233,12 +58263,6 @@
       "isETF": false
     },
     {
-      "symbol": "SBDS",
-      "name": "Solo Brands, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "SBET",
       "name": "Sharplink, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -58914,6 +58938,12 @@
       "symbol": "SDEM",
       "name": "Global X MSCI SuperDividend Emerging Markets ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SDEV",
+      "name": "Stablecoin Development Corporation Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -64149,12 +64179,6 @@
       "isETF": false
     },
     {
-      "symbol": "TBHC",
-      "name": "The Brand House Collective, Inc - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TBI",
       "name": "TrueBlue, Inc. Common Stock",
       "exchange": "NYSE",
@@ -66269,6 +66293,12 @@
     {
       "symbol": "TRAW",
       "name": "Traws Pharma, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRAXV",
+      "name": "First Tracks Biotherapeutics, Inc. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71871,8 +71901,20 @@
       "isETF": false
     },
     {
+      "symbol": "WLII",
+      "name": "Willow Lane Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "WLIIU",
       "name": "Willow Lane Acquisition Corp. II - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WLIIW",
+      "name": "Willow Lane Acquisition Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
