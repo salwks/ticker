@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-06T23:13:15.323222Z",
-  "count": 12495,
+  "lastUpdated": "2026-04-07T23:14:57.686302Z",
+  "count": 12493,
   "tickers": [
     {
       "symbol": "A",
@@ -83,6 +83,12 @@
     {
       "symbol": "AACOU",
       "name": "Abony Acquisition Corp. I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AACPU",
+      "name": "Apogee Acquisition Corp - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16635,6 +16641,12 @@
       "isETF": false
     },
     {
+      "symbol": "DCBG",
+      "name": "Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "DCBO",
       "name": "Docebo Inc. - Common Shares",
       "exchange": "NASDAQ",
@@ -16672,20 +16684,14 @@
     },
     {
       "symbol": "DCOM",
-      "name": "Dime Community Bancshares, Inc. - Common Stock",
-      "exchange": "NASDAQ",
+      "name": "Dime Community Bancshares, Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
-      "symbol": "DCOMG",
-      "name": "Dime Community Bancshares, Inc. - 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DCOMP",
-      "name": "Dime Community Bancshares, Inc. - Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
-      "exchange": "NASDAQ",
+      "symbol": "DCOM$",
+      "name": "Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -20502,6 +20508,12 @@
       "symbol": "ELIS",
       "name": "Direxion Daily LLY Bear 1X ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ELLA",
+      "name": "Ellington Credit Company 8.50% Notes due 2031",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -34473,18 +34485,6 @@
       "isETF": false
     },
     {
-      "symbol": "INVZW",
-      "name": "Innoviz Technologies Ltd. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IOBT",
-      "name": "IO Biotech, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IOCT",
       "name": "Innovator International Developed Power Buffer ETF - October",
       "exchange": "NYSE ARCA",
@@ -45477,12 +45477,6 @@
       "isETF": false
     },
     {
-      "symbol": "NDVG",
-      "name": "Nuveen Dividend Growth ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "NE",
       "name": "Noble Corporation plc A Ordinary Shares",
       "exchange": "NYSE",
@@ -46911,12 +46905,6 @@
       "isETF": false
     },
     {
-      "symbol": "NSCR",
-      "name": "Nuveen Sustainable Core ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NSEP",
       "name": "Innovator Growth-100 Power Buffer ETF - September",
       "exchange": "BATS",
@@ -47703,12 +47691,6 @@
       "isETF": false
     },
     {
-      "symbol": "NWLG",
-      "name": "Nuveen Winslow Large-Cap Growth ESG ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "NWN",
       "name": "Northwest Natural Holding Company Common Stock",
       "exchange": "NYSE",
@@ -47775,8 +47757,8 @@
       "isETF": false
     },
     {
-      "symbol": "NXG.V",
-      "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights when issued",
+      "symbol": "NXG.R",
+      "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -48402,6 +48384,12 @@
       "symbol": "OFSSO",
       "name": "OFS Capital Corporation - 7.50% Notes due 2028",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OGC",
+      "name": "OceanaGold Corporation Common Shares",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -56529,6 +56517,12 @@
       "isETF": false
     },
     {
+      "symbol": "RKSG",
+      "name": "Ruk Strategic Growth ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RKT",
       "name": "Rocket Companies, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -61749,14 +61743,14 @@
       "isETF": false
     },
     {
-      "symbol": "SPCT",
-      "name": "Liberty One Spectrum ETF",
+      "symbol": "SPCK",
+      "name": "SPAC and New Issue ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
-      "symbol": "SPCX",
-      "name": "SPAC and New Issue ETF",
+      "symbol": "SPCT",
+      "name": "Liberty One Spectrum ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63588,12 +63582,6 @@
       "symbol": "SWK",
       "name": "Stanley Black & Decker, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SWKH",
-      "name": "SWK Holdings Corporation - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -74962,7 +74950,7 @@
     },
     {
       "symbol": "ZYBT",
-      "name": "Zhengye Biotechnology Holding Limited - Ordinary Shares",
+      "name": "Zhengye Biotechnology Holding Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
