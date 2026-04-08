@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-07T23:14:57.686302Z",
-  "count": 12493,
+  "lastUpdated": "2026-04-08T23:15:46.686752Z",
+  "count": 12505,
   "tickers": [
     {
       "symbol": "A",
@@ -581,6 +581,12 @@
     {
       "symbol": "ACFN",
       "name": "Acorn Energy, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACGCU",
+      "name": "ACP Holdings Acquisition Corp. - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7401,6 +7407,12 @@
       "isETF": false
     },
     {
+      "symbol": "BFEW",
+      "name": "FT Vest Laddered U.S. Equity Equal Weight Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BFH",
       "name": "Bread Financial Holdings, Inc. Common Stock",
       "exchange": "NYSE",
@@ -7506,6 +7518,12 @@
       "symbol": "BFST",
       "name": "Business First Bancshares, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BFXU",
+      "name": "FT Vest Laddered U.S. Equity Uncapped Accelerator ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -10247,6 +10265,12 @@
     {
       "symbol": "BUFD",
       "name": "FT Vest Laddered Deep Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BUFE",
+      "name": "FT Vest Laddered Emerging Markets Buffer ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -18999,6 +19023,12 @@
       "isETF": false
     },
     {
+      "symbol": "DUTY",
+      "name": "U.S. Defense ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DV",
       "name": "DoubleVerify Holdings, Inc. Common Stock",
       "exchange": "NYSE",
@@ -20926,13 +20956,13 @@
     },
     {
       "symbol": "ENGN",
-      "name": "enGene Holdings Inc. - Common Stock",
+      "name": "enGene Therapeutics Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "ENGNW",
-      "name": "enGene Holdings Inc. - Warrants",
+      "name": "enGene Therapeutics Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31155,12 +31185,6 @@
       "isETF": false
     },
     {
-      "symbol": "HOLX",
-      "name": "Hologic, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HOMB",
       "name": "Home BancShares, Inc. Common Stock",
       "exchange": "NYSE",
@@ -32645,6 +32669,12 @@
     {
       "symbol": "IBMV",
       "name": "iShares iBonds Dec 2033 Term Muni Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "IBMW",
+      "name": "iShares iBonds Dec 2034 Term Muni Bond ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -35415,6 +35445,12 @@
       "isETF": false
     },
     {
+      "symbol": "IVEP",
+      "name": "Dan IVES Wedbush AI Power & Infrastructure ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "IVES",
       "name": "Dan IVES Wedbush AI Revolution ETF",
       "exchange": "NYSE ARCA",
@@ -36347,6 +36383,12 @@
     {
       "symbol": "JHCR",
       "name": "John Hancock Core Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "JHDG",
+      "name": "John Hancock Hedged Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -43857,6 +43899,12 @@
       "isETF": false
     },
     {
+      "symbol": "MSBT",
+      "name": "Common Units of Beneficial Interest of Morgan Stanley Bitcoin Trust",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MSC",
       "name": "Studio City International Holdings Limited American depositary shares, each representing four  Class A ordinary shares",
       "exchange": "NYSE",
@@ -45888,6 +45936,12 @@
       "symbol": "NGG",
       "name": "National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NGHT",
+      "name": "Nicholas Bitcoin and Treasuries AfterDark ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -57627,6 +57681,12 @@
       "isETF": false
     },
     {
+      "symbol": "RWIN",
+      "name": "Rayliant NxtGen Multifactor International Equity ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RWJ",
       "name": "Invesco S&P SmallCap 600 Revenue ETF",
       "exchange": "NYSE ARCA",
@@ -65637,6 +65697,12 @@
       "isETF": false
     },
     {
+      "symbol": "TMCR",
+      "name": "The Metals Royalty Company Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TMCWW",
       "name": "TMC the metals company Inc. - Warrant",
       "exchange": "NASDAQ",
@@ -72576,6 +72642,12 @@
       "symbol": "XAGG",
       "name": "Eaton Vance Income Opportunities ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XAIL",
+      "name": "Defiance Pure Space Daily 2X Strategy ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
