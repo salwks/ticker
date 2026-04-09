@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-08T23:15:46.686752Z",
-  "count": 12505,
+  "lastUpdated": "2026-04-09T23:17:30.917313Z",
+  "count": 12502,
   "tickers": [
     {
       "symbol": "A",
@@ -2364,12 +2364,6 @@
       "symbol": "AKTX",
       "name": "Akari Therapeutics Plc - American Depositary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AL",
-      "name": "Air Lease Corporation Class A Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -6753,6 +6747,12 @@
       "isETF": false
     },
     {
+      "symbol": "BCEM",
+      "name": "Baron Emerging Markets Select ETF",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BCFN",
       "name": "Baron Financials ETF",
       "exchange": "NASDAQ",
@@ -8163,12 +8163,6 @@
       "isETF": false
     },
     {
-      "symbol": "BJK",
-      "name": "VanEck Gaming ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BJRI",
       "name": "BJ's Restaurants, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -8807,7 +8801,7 @@
     {
       "symbol": "BMNR",
       "name": "BitMine Immersion Technologies, Inc. Common Stock",
-      "exchange": "AMEX",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -11091,18 +11085,6 @@
       "isETF": false
     },
     {
-      "symbol": "CAPT",
-      "name": "Captivision Inc. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CAPTW",
-      "name": "Captivision Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CAQ",
       "name": "Cambridge Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -12263,6 +12245,12 @@
     {
       "symbol": "CFR$B",
       "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CFTR$A",
+      "name": "Cantor Fitzgerald Income Trust, Inc. 9.50% Series A Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -27447,6 +27435,12 @@
       "isETF": false
     },
     {
+      "symbol": "GENZ",
+      "name": "VanEck Digital Native Economy ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GEO",
       "name": "Geo Group Inc (The) REIT",
       "exchange": "NYSE",
@@ -31943,24 +31937,6 @@
     {
       "symbol": "HY",
       "name": "Hyster-Yale, Inc. Class A common stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "HYAC",
-      "name": "Haymaker Acquisition Corp. 4 Class A Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "HYAC.U",
-      "name": "Haymaker Acquisition Corp. 4 Units, each consisting one Class A Ordinary Share and one-half of one redeemable Warrant",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "HYAC.W",
-      "name": "Haymaker Acquisition Corp. 4 Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -54687,6 +54663,12 @@
       "isETF": false
     },
     {
+      "symbol": "QRED.U",
+      "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "QRFT",
       "name": "QRAFT AI-Enhanced U.S. Large Cap ETF",
       "exchange": "NYSE ARCA",
@@ -56718,6 +56700,12 @@
       "symbol": "RMIF",
       "name": "LHA Risk-Managed Income ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "RMIX",
+      "name": "Suncrete, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -59208,12 +59196,6 @@
       "symbol": "SEDG",
       "name": "SolarEdge Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SEE",
-      "name": "Sealed Air Corporation Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -65181,6 +65163,12 @@
       "isETF": false
     },
     {
+      "symbol": "THMR",
+      "name": "THOR AdaptiveRisk Dynamic ETF",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "THMZ",
       "name": "Lazard Equity Megatrends ETF",
       "exchange": "NASDAQ",
@@ -71040,12 +71028,6 @@
       "symbol": "VWAVW",
       "name": "VisionWave Holdings, Inc. - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VWID",
-      "name": "Virtus WMC International Dividend ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
