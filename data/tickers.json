@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-09T23:17:30.917313Z",
-  "count": 12502,
+  "lastUpdated": "2026-04-10T23:13:30.890432Z",
+  "count": 12503,
   "tickers": [
     {
       "symbol": "A",
@@ -507,8 +507,20 @@
       "isETF": false
     },
     {
+      "symbol": "ACAA",
+      "name": "Averin Capital Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ACAAU",
       "name": "Averin Capital Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACAAW",
+      "name": "Averin Capital Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -4661,12 +4673,6 @@
     {
       "symbol": "ASND",
       "name": "Ascendis Pharma A/S - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ASNS",
-      "name": "Actelis Networks, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -52240,7 +52246,7 @@
     },
     {
       "symbol": "PN",
-      "name": "Skycorp Solar Group Limited - Ordinary Shares",
+      "name": "Skycorp Solar Group Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
