@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-12T23:12:09.343680Z",
-  "count": 12503,
+  "lastUpdated": "2026-04-13T23:18:43.919704Z",
+  "count": 12495,
   "tickers": [
     {
       "symbol": "A",
@@ -81,8 +81,20 @@
       "isETF": false
     },
     {
+      "symbol": "AACO",
+      "name": "Abony Acquisition Corp. I - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AACOU",
       "name": "Abony Acquisition Corp. I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AACOW",
+      "name": "Abony Acquisition Corp. I - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -9117,12 +9129,6 @@
       "isETF": false
     },
     {
-      "symbol": "BOED",
-      "name": "Direxion Daily BA Bear 1X ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BOEG",
       "name": "Leverage Shares 2X Long BA Daily ETF",
       "exchange": "NASDAQ",
@@ -9522,12 +9528,6 @@
       "symbol": "BRKC",
       "name": "YieldMax BRK.B Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "BRKD",
-      "name": "Direxion Daily BRKB Bear 1X ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -12935,12 +12935,6 @@
     {
       "symbol": "CIGI",
       "name": "Colliers International Group Inc.  - Subordinate Voting Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CIGL",
-      "name": "Concorde International Group Ltd - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -20529,12 +20523,6 @@
       "isETF": false
     },
     {
-      "symbol": "ELIS",
-      "name": "Direxion Daily LLY Bear 1X ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ELLA",
       "name": "Ellington Credit Company 8.50% Notes due 2031",
       "exchange": "NYSE",
@@ -22852,7 +22840,7 @@
     },
     {
       "symbol": "FAMI",
-      "name": "Farmmi, INC. - Class A Ordinary Share",
+      "name": "Farmmi, Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25611,21 +25599,9 @@
       "isETF": false
     },
     {
-      "symbol": "FRDD",
-      "name": "Direxion Daily F Bear 1X ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FRDM",
       "name": "Freedom 100 Emerging Markets ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "FRDU",
-      "name": "Direxion Daily F Bull 2X ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -39909,12 +39885,6 @@
       "isETF": false
     },
     {
-      "symbol": "LMBO",
-      "name": "Direxion Daily Crypto Industry Bull 2X ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "LMBS",
       "name": "First Trust Low Duration Opportunities ETF",
       "exchange": "NASDAQ",
@@ -39959,12 +39929,6 @@
     {
       "symbol": "LMTL",
       "name": "Direxion Daily LMT Bull 2X ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LMTS",
-      "name": "Direxion Daily LMT Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48945,18 +48909,6 @@
       "isETF": false
     },
     {
-      "symbol": "OOQB",
-      "name": "One One Nasdaq-100 and Bitcoin ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OOSB",
-      "name": "One One S&P 500 and Bitcoin ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "OOSP",
       "name": "Obra Opportunistic Structured Products ETF",
       "exchange": "NYSE ARCA",
@@ -49947,8 +49899,20 @@
       "isETF": false
     },
     {
+      "symbol": "PALO",
+      "name": "Paloma Acquisition Corp I - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PALOU",
       "name": "Paloma Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PALOW",
+      "name": "Paloma Acquisition Corp I - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -55809,12 +55773,6 @@
       "isETF": false
     },
     {
-      "symbol": "REKT",
-      "name": "Direxion Daily Crypto Industry Bear 1X ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "RELL",
       "name": "Richardson Electronics, Ltd. - Common Stock",
       "exchange": "NASDAQ",
@@ -59897,12 +59855,6 @@
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. - Class A Subordinate Voting Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SHPD",
-      "name": "Direxion Daily SHOP Bear 1X ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -65062,8 +65014,8 @@
     },
     {
       "symbol": "TGLR",
-      "name": "LAFFER TENGLER Equity Income ETF",
-      "exchange": "BATS",
+      "name": "Wedbush LAFFER TENGLER New Era Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -73437,12 +73389,6 @@
       "isETF": false
     },
     {
-      "symbol": "XOMZ",
-      "name": "Direxion Daily XOM Bear 1X ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "XONE",
       "name": "BondBloxx Bloomberg One Year Target Duration US Treasury ETF",
       "exchange": "NYSE ARCA",
@@ -74286,6 +74232,12 @@
       "symbol": "YOLO",
       "name": "AdvisorShares Pure Cannabis ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "YOOV",
+      "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
