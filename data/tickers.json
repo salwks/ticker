@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-13T23:18:43.919704Z",
-  "count": 12495,
+  "lastUpdated": "2026-04-14T23:18:34.817168Z",
+  "count": 12501,
   "tickers": [
     {
       "symbol": "A",
@@ -8715,12 +8715,6 @@
       "isETF": false
     },
     {
-      "symbol": "BMAX",
-      "name": "REX Bitcoin Corporate Treasury Convertible Bond ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BMAY",
       "name": "Innovator U.S. Equity Buffer ETF - May",
       "exchange": "BATS",
@@ -16125,6 +16119,12 @@
       "isETF": false
     },
     {
+      "symbol": "CWY",
+      "name": "GraniteShares YieldBOOST CRWV ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CX",
       "name": "Cemex, S.A.B. de C.V. Sponsored ADR",
       "exchange": "NYSE",
@@ -21880,7 +21880,7 @@
     },
     {
       "symbol": "ETHV",
-      "name": "VanEck Ethereum ETF VanEck Ethereum ETF",
+      "name": "VanEck Ethereum ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -22690,7 +22690,7 @@
     },
     {
       "symbol": "EZET",
-      "name": "Franklin Ethereum ETF Franklin Ethereum ETF",
+      "name": "Franklin Ethereum ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -23350,7 +23350,7 @@
     },
     {
       "symbol": "FDEV",
-      "name": "Fidelity Emerging Markets Multifactor ETF",
+      "name": "Fidelity International Multifactor ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -23788,7 +23788,7 @@
     },
     {
       "symbol": "FETH",
-      "name": "Fidelity Ethereum Fund Fidelity Ethereum Fund",
+      "name": "Fidelity Ethereum Fund",
       "exchange": "BATS",
       "isETF": false
     },
@@ -27130,7 +27130,7 @@
     },
     {
       "symbol": "GDMA",
-      "name": "GadsdenA DynamicA Multi-AssetA ETF",
+      "name": "Gadsden Dynamic Multi-Asset ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -28080,6 +28080,18 @@
       "symbol": "GLE",
       "name": "Global Engine Group Holding Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GLED",
+      "name": "GalaxyEdge Acquisition Corporation Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GLED.R",
+      "name": "GalaxyEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one ordinary share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -37630,7 +37642,7 @@
     },
     {
       "symbol": "KHPI",
-      "name": "Managed Portfolio Series Kensington Hedged Premium Income ETF",
+      "name": "Kensington Hedged Premium Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -37972,7 +37984,7 @@
     },
     {
       "symbol": "KNOW",
-      "name": "Fundamentals First ETF Fundamentals First ETF",
+      "name": "Fundamentals First ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -44139,8 +44151,20 @@
       "isETF": false
     },
     {
+      "symbol": "MTAL",
+      "name": "Metals Acquisition Corp. II Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MTAL.U",
       "name": "Metals Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MTAL.W",
+      "name": "Metals Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -44484,6 +44508,12 @@
       "symbol": "MUX",
       "name": "McEwen Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MUYY",
+      "name": "GraniteShares YieldBOOST MU ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -44855,6 +44885,12 @@
     {
       "symbol": "MYSZ",
       "name": "My Size, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYXXU",
+      "name": "Maywood Acquisition Corp. 2 - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -46019,6 +46055,12 @@
     {
       "symbol": "NICE",
       "name": "NICE Ltd - American Depositary Shares each representing one Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NICM",
+      "name": "Nicola Mining Inc. - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54633,12 +54675,6 @@
       "isETF": false
     },
     {
-      "symbol": "QRED.U",
-      "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "QRFT",
       "name": "QRAFT AI-Enhanced U.S. Large Cap ETF",
       "exchange": "NYSE ARCA",
@@ -54970,7 +55006,7 @@
     },
     {
       "symbol": "QVOY",
-      "name": "Q3 All-Season Active Rotation ETF Q3 All-Season Active Rotation ETF",
+      "name": "Q3 Active Rotation ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -60634,7 +60670,7 @@
     },
     {
       "symbol": "SLVP",
-      "name": "iShares MSCI Global Silver Miners Fund",
+      "name": "iShares MSCI Global Silver and Metals Miners ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -65698,7 +65734,7 @@
     },
     {
       "symbol": "TMFC",
-      "name": "Motley Fool 100 Index ETF ETF",
+      "name": "Motley Fool 100 Index ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -65844,6 +65880,12 @@
       "symbol": "TMVE",
       "name": "Thrivent Mid Cap Value ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TMYY",
+      "name": "GraniteShares YieldBOOST TSM ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -66118,7 +66160,7 @@
     },
     {
       "symbol": "TOXR",
-      "name": "Shares of Beneficial Interest",
+      "name": "21Shares XRP ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -69358,7 +69400,7 @@
     },
     {
       "symbol": "VCEB",
-      "name": "Vanguard World Funds ETF",
+      "name": "Vanguard ESG U.S. Corporate Bond ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -69526,7 +69568,7 @@
     },
     {
       "symbol": "VEGN",
-      "name": "US Vegan Climate Index",
+      "name": "US Vegan Climate ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -72057,12 +72099,6 @@
       "isETF": false
     },
     {
-      "symbol": "WORX",
-      "name": "SCWorx Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "WPAC",
       "name": "White Pearl Acquisition Corp. Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -74577,12 +74613,6 @@
       "isETF": false
     },
     {
-      "symbol": "ZGM",
-      "name": "Zenta Group Company Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ZGN",
       "name": "Ermenegildo Zegna N.V. Ordinary Shares",
       "exchange": "NYSE",
@@ -74850,6 +74880,12 @@
       "symbol": "ZTEST",
       "name": "BATS BZX Exchange Common Stock (test issue)",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ZTG",
+      "name": "Zenta Group Company Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
