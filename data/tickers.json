@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-14T23:18:34.817168Z",
-  "count": 12501,
+  "lastUpdated": "2026-04-15T23:18:13.621675Z",
+  "count": 12507,
   "tickers": [
     {
       "symbol": "A",
@@ -2932,7 +2932,7 @@
     },
     {
       "symbol": "AMCX",
-      "name": "AMC Networks Inc. - Class A Common Stock",
+      "name": "AMC Global Media Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -6321,6 +6321,12 @@
       "isETF": false
     },
     {
+      "symbol": "BAVA",
+      "name": "Common Shares of Beneficial Interest of Bitwise Avalanche ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BAX",
       "name": "Baxter International Inc. Common Stock",
       "exchange": "NYSE",
@@ -8909,6 +8915,12 @@
     {
       "symbol": "BNCWW",
       "name": "CEA Industries Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BNCWZ",
+      "name": "CEA Industries Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -18399,6 +18411,12 @@
       "isETF": false
     },
     {
+      "symbol": "DPRE",
+      "name": "Virtus Duff & Phelps Real Estate Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DPRO",
       "name": "Draganfly Inc. - Common Shares",
       "exchange": "NASDAQ",
@@ -18862,7 +18880,7 @@
     },
     {
       "symbol": "DTSS",
-      "name": "Datasea Inc. - Common Stock",
+      "name": "Datasea Intelligent Technology Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32649,6 +32667,12 @@
       "isETF": false
     },
     {
+      "symbol": "IBMX",
+      "name": "iShares iBonds Dec 2035 Term Muni Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "IBN",
       "name": "ICICI Bank Limited Common Stock",
       "exchange": "NYSE",
@@ -43617,12 +43641,6 @@
       "isETF": false
     },
     {
-      "symbol": "MRCC",
-      "name": "Monroe Capital Corporation - Closed End Fund",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MRCP",
       "name": "PGIM S&P 500 Buffer 12 ETF - March",
       "exchange": "BATS",
@@ -44076,12 +44094,6 @@
       "symbol": "MSTI",
       "name": "Madison Short Term Strategic Income ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MSTK",
-      "name": "Tuttle Capital MSTR 0DTE Covered Call ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -45999,6 +46011,12 @@
       "isETF": false
     },
     {
+      "symbol": "NHIVU",
+      "name": "NewHold Investment Corp IV - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NHPAP",
       "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
       "exchange": "NASDAQ",
@@ -46013,12 +46031,6 @@
     {
       "symbol": "NHS",
       "name": "Neuberger High Yield Strategies Fund Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "NHS.R",
-      "name": "Neuberger High Yield Strategies Fund Inc. Rights (expiring April 15, 2026) Rights",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -49163,6 +49175,12 @@
     {
       "symbol": "ORBS",
       "name": "Eightco Holdings Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ORBX",
+      "name": "Global X Space Tech ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54675,6 +54693,12 @@
       "isETF": false
     },
     {
+      "symbol": "QRED.U",
+      "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "QRFT",
       "name": "QRAFT AI-Enhanced U.S. Large Cap ETF",
       "exchange": "NYSE ARCA",
@@ -55932,6 +55956,12 @@
       "symbol": "REX",
       "name": "REX American Resources Corporation",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "REXC",
+      "name": "Sprott Rare Earths Ex-China ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -61800,6 +61830,12 @@
       "symbol": "SPD",
       "name": "Simplify US Equity PLUS Downside Convexity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SPDF",
+      "name": "Defender Risk Adaptive 500 ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
