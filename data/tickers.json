@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-15T23:18:13.621675Z",
-  "count": 12507,
+  "lastUpdated": "2026-04-16T23:16:59.924036Z",
+  "count": 12517,
   "tickers": [
     {
       "symbol": "A",
@@ -4491,6 +4491,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARXS",
+      "name": "Arxis, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AS",
       "name": "Amer Sports, Inc. Ordinary Shares",
       "exchange": "NYSE",
@@ -6359,7 +6365,7 @@
     {
       "symbol": "BBAG",
       "name": "JPMorgan BetaBuilders U.S. Aggregate Bond ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -6437,7 +6443,7 @@
     {
       "symbol": "BBCB",
       "name": "JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -6575,7 +6581,7 @@
     {
       "symbol": "BBMC",
       "name": "JPMorgan BetaBuilders U.S. Mid Cap Equity ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -6617,7 +6623,7 @@
     {
       "symbol": "BBSC",
       "name": "JPMorgan BetaBuilders U.S. Small Cap Equity ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -7698,6 +7704,18 @@
       "symbol": "BH.A",
       "name": "Biglari Holdings Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BHAV",
+      "name": "BHAV Acquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BHAVR",
+      "name": "BHAV Acquisition Corp - Rights",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -10908,6 +10926,12 @@
       "symbol": "CAG",
       "name": "ConAgra Brands, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CAGE",
+      "name": "Calamos Autocallable Growth ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -15486,6 +15510,18 @@
       "symbol": "CTA$B",
       "name": "EIDP, Inc. Preferred Stock $4.50 Series",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CTAA",
+      "name": "ClearThink 1 Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CTAAR",
+      "name": "ClearThink 1 Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -33735,6 +33771,18 @@
       "isETF": false
     },
     {
+      "symbol": "ILLR",
+      "name": "Triller Group Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ILLRW",
+      "name": "Triller Group Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ILLUU",
       "name": "Illumination Acquisition Corp I - Units",
       "exchange": "NASDAQ",
@@ -36131,13 +36179,13 @@
     {
       "symbol": "JCPB",
       "name": "JPMorgan Core Plus Bond ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "JCPI",
       "name": "JPMorgan Inflation Managed Bond ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36221,7 +36269,7 @@
     {
       "symbol": "JEMA",
       "name": "JPMorgan ActiveBuilders Emerging Markets Equity ETF",
-      "exchange": "BATS",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36635,7 +36683,7 @@
     {
       "symbol": "JMST",
       "name": "JPMorgan Ultra-Short Municipal Income ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36647,7 +36695,7 @@
     {
       "symbol": "JMUB",
       "name": "JPMorgan Municipal ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36731,7 +36779,7 @@
     {
       "symbol": "JOYT",
       "name": "JPMorgan Equity and Options Total Return ETF",
-      "exchange": "BATS",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36767,13 +36815,13 @@
     {
       "symbol": "JPHY",
       "name": "JPMorgan Active High Yield ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "JPIB",
       "name": "JPMorgan International Bond Opportunities ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36791,7 +36839,7 @@
     {
       "symbol": "JPLD",
       "name": "JPMorgan Limited Duration Bond ETF",
-      "exchange": "BATS",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -40727,7 +40775,7 @@
     {
       "symbol": "LVDS",
       "name": "JPMorgan Fundamental Data Science Large Value ETF",
-      "exchange": "BATS",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -41069,6 +41117,12 @@
     {
       "symbol": "MAIN",
       "name": "Main Street Capital Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MAIR",
+      "name": "Madison Air Solutions Corporation Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -50987,12 +51041,6 @@
     {
       "symbol": "PERF",
       "name": "Perfect Corp. Class A Ordinary Share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PERF.W",
-      "name": "Perfect Corp. Warrants, each exercisable for one Class A Ordinary Share at a price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -64714,7 +64762,7 @@
     },
     {
       "symbol": "TECL",
-      "name": "Direxion Daily S&P 500 Bear 3X ETF",
+      "name": "Direxion Daily Technology Bull 3X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -69537,6 +69585,12 @@
       "isETF": false
     },
     {
+      "symbol": "VDG",
+      "name": "Vanguard Developed Markets ex-US Growth Index ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "VDI",
       "name": "Virtus International Dividend ETF",
       "exchange": "NYSE ARCA",
@@ -69545,6 +69599,12 @@
     {
       "symbol": "VDIG",
       "name": "Vanguard Wellington Dividend Growth Active ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "VDV",
+      "name": "Vanguard Developed Markets ex-US Value Index ETF",
       "exchange": "BATS",
       "isETF": false
     },
