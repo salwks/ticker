@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-16T23:16:59.924036Z",
-  "count": 12517,
+  "lastUpdated": "2026-04-17T23:15:57.864494Z",
+  "count": 12521,
   "tickers": [
     {
       "symbol": "A",
@@ -2669,6 +2669,12 @@
     {
       "symbol": "ALM",
       "name": "Almonty Industries Inc. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ALMR",
+      "name": "Alamar Biosciences, Inc. - Class A common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5400,6 +5406,12 @@
       "symbol": "AVES",
       "name": "Avantis Emerging Markets Value ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AVEX",
+      "name": "AEVEX Corp. Class A Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -11393,6 +11405,12 @@
     {
       "symbol": "CBOO",
       "name": "Calamos Bitcoin Structured Alt Protection ETF - October",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "CBOX",
+      "name": "Calamos Tax-Aware Collateral ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -36063,6 +36081,12 @@
       "isETF": false
     },
     {
+      "symbol": "JATT",
+      "name": "JATT II Acquisition Corp - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "JAVA",
       "name": "JPMorgan Active Value ETF",
       "exchange": "NYSE ARCA",
@@ -37896,6 +37920,12 @@
       "symbol": "KLMT",
       "name": "Invesco MSCI Global Climate 500 ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "KLRA",
+      "name": "Kailera Therapeutics, Inc. - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -44938,13 +44968,13 @@
     },
     {
       "symbol": "MYSE",
-      "name": "Myseum, Inc. - Common Stock",
+      "name": "Myseum.AI, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "MYSEW",
-      "name": "Myseum, Inc. - Series A Warrant",
+      "name": "Myseum.AI, Inc. - Series A Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49833,6 +49863,12 @@
       "isETF": false
     },
     {
+      "symbol": "P",
+      "name": "Everpure, Inc. Class A common stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "PAA",
       "name": "Plains All American Pipeline, L.P. - Common Units representing Limited Partner Interests",
       "exchange": "NASDAQ",
@@ -53502,12 +53538,6 @@
       "symbol": "PST",
       "name": "ProShares UltraShort Lehman 7-10 Year Treasury",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "PSTG",
-      "name": "Everpure, Inc. Class A common stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -61860,6 +61890,12 @@
       "symbol": "SPCK",
       "name": "SPAC and New Issue ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SPCL",
+      "name": "Defiance Pure Space Daily 2X Strategy ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72717,12 +72753,6 @@
       "isETF": false
     },
     {
-      "symbol": "XAIL",
-      "name": "Defiance Pure Space Daily 2X Strategy ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "XAIR",
       "name": "Beyond Air, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -73956,12 +73986,6 @@
       "symbol": "XV",
       "name": "Simplify Target 15 Distribution ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XVOL",
-      "name": "Acruence Active Hedge U.S. Equity ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
