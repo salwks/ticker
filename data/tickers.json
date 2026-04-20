@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-19T23:13:41.828381Z",
-  "count": 12521,
+  "lastUpdated": "2026-04-20T23:17:50.969572Z",
+  "count": 12527,
   "tickers": [
     {
       "symbol": "A",
@@ -3327,12 +3327,6 @@
       "isETF": false
     },
     {
-      "symbol": "ANABV",
-      "name": "AnaptysBio, Inc. - Common Stock When Issued",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ANDE",
       "name": "The Andersons, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -4696,7 +4690,7 @@
     },
     {
       "symbol": "ASND",
-      "name": "Ascendis Pharma A/S - American Depositary Shares",
+      "name": "Ascendis Pharma A/S - Ordinary Share",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17523,6 +17517,12 @@
       "isETF": false
     },
     {
+      "symbol": "DGAP",
+      "name": "FT Vest U.S. Equity Buffer & Digital Return ETF - April",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DGCB",
       "name": "Dimensional Global Credit ETF",
       "exchange": "NASDAQ",
@@ -17723,6 +17723,12 @@
     {
       "symbol": "DHY",
       "name": "Credit Suisse High Yield Credit Fund Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "DHY.V",
+      "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -31647,12 +31653,6 @@
       "isETF": false
     },
     {
-      "symbol": "HTBK",
-      "name": "Heritage Commerce Corp - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HTCO",
       "name": "High-Trend International Group - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -33801,8 +33801,20 @@
       "isETF": false
     },
     {
+      "symbol": "ILLU",
+      "name": "Illumination Acquisition Corp I - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ILLUU",
       "name": "Illumination Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ILLUW",
+      "name": "Illumination Acquisition Corp I - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43659,12 +43671,6 @@
       "isETF": false
     },
     {
-      "symbol": "MPTI.R",
-      "name": "M-tron Industries, Inc. Rights (expiring April 15, 2026) Rights",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "MPU",
       "name": "Mega Matrix Inc. Class A Ordinary Shares",
       "exchange": "AMEX",
@@ -45003,8 +45009,20 @@
       "isETF": false
     },
     {
+      "symbol": "MZYX",
+      "name": "MOZAYYX Acquisition Corp. Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MZYX.U",
       "name": "MOZAYYX Acquisition Corp. Units, each consisting of one Class A ordinary share and one-quarter of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MZYX.W",
+      "name": "MOZAYYX Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -55059,18 +55077,6 @@
       "isETF": false
     },
     {
-      "symbol": "QVCC",
-      "name": "QVC, Inc. 6.250% Senior Secured Notes due 2068",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "QVCD",
-      "name": "QVC, Inc. 6.375% Senior Secured Notes due 2067",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "QVCGA",
       "name": "QVC Group, Inc. - Series A Common Stock",
       "exchange": "NASDAQ",
@@ -63429,6 +63435,18 @@
       "isETF": false
     },
     {
+      "symbol": "SUMA",
+      "name": "SUMA Acquisition Corporation - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SUMAR",
+      "name": "SUMA Acquisition Corporation - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SUMAU",
       "name": "SUMA Acquisition Corporation - Units",
       "exchange": "NASDAQ",
@@ -66135,12 +66153,6 @@
       "isETF": false
     },
     {
-      "symbol": "TOKE",
-      "name": "Cambria Cannabis ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "TOL",
       "name": "Toll Brothers, Inc. Common Stock",
       "exchange": "NYSE",
@@ -66441,6 +66453,18 @@
       "isETF": false
     },
     {
+      "symbol": "TRAD",
+      "name": "APEX Tech Acquisition Inc. Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TRAD.R",
+      "name": "APEX Tech Acquisition Inc. Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "TRAD.U",
       "name": "APEX Tech Acquisition Inc. Units, each consisting of one Class A ordinary share and one right to receive one sixth (1/6) of a Class A ordinary share",
       "exchange": "NYSE",
@@ -66459,7 +66483,7 @@
       "isETF": false
     },
     {
-      "symbol": "TRAXV",
+      "symbol": "TRAX",
       "name": "First Tracks Biotherapeutics, Inc. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
@@ -66510,6 +66534,18 @@
       "symbol": "TRGP",
       "name": "Targa Resources, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TRGS",
+      "name": "TRG Latin America Acquisitions Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRGSR",
+      "name": "TRG Latin America Acquisitions Corp. - Rights",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
