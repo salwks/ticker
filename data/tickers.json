@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-20T23:17:50.969572Z",
-  "count": 12527,
+  "lastUpdated": "2026-04-21T23:15:15.439784Z",
+  "count": 12524,
   "tickers": [
     {
       "symbol": "A",
@@ -2733,6 +2733,12 @@
       "isETF": false
     },
     {
+      "symbol": "ALP",
+      "name": "Alpha Compute Corp  - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ALPS",
       "name": "ALPS Group Inc - Ordinary Share",
       "exchange": "NASDAQ",
@@ -5087,12 +5093,6 @@
     {
       "symbol": "ATOM",
       "name": "Atomera Incorporated - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATON",
-      "name": "AlphaTON Capital Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -18369,12 +18369,6 @@
       "isETF": false
     },
     {
-      "symbol": "DOGD",
-      "name": "Tradr 2X Long DDOG Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "DOGG",
       "name": "FT Vest DJIA Dogs 10 Target Income ETF",
       "exchange": "BATS",
@@ -21090,12 +21084,6 @@
       "symbol": "ENPH",
       "name": "Enphase Energy, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ENPX",
-      "name": "Tradr 2X Long ENPH Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -26769,12 +26757,6 @@
       "isETF": false
     },
     {
-      "symbol": "GAB.R",
-      "name": "Gabelli Equity Trust, Inc. (The) Rights (expiring April 14, 2026) Rights",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "GABC",
       "name": "German American Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -32091,6 +32073,12 @@
       "isETF": false
     },
     {
+      "symbol": "HYGM",
+      "name": "Amplify HYG High Yield 10% Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HYGV",
       "name": "FlexShares High Yield Value-Scored Bond Index Fund",
       "exchange": "NYSE ARCA",
@@ -33383,7 +33371,7 @@
     {
       "symbol": "IG",
       "name": "Principal Investment Grade Corporate Active ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40473,6 +40461,12 @@
       "isETF": false
     },
     {
+      "symbol": "LQDM",
+      "name": "Amplify LQD Investment Grade 12% Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LQDT",
       "name": "Liquidity Services, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -41883,12 +41877,6 @@
       "isETF": false
     },
     {
-      "symbol": "MDBX",
-      "name": "Tradr 2X Long MDB Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "MDCX",
       "name": "Medicus Pharma Ltd. - Common Stock",
       "exchange": "NASDAQ",
@@ -42630,6 +42618,18 @@
       "symbol": "MHH",
       "name": "Mastech Digital, Inc Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "MHIG",
+      "name": "Milliman Healthcare Inflation Guard ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MHIP",
+      "name": "Milliman Healthcare Inflation Plus ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -46572,12 +46572,6 @@
       "symbol": "NNE",
       "name": "Nano Nuclear Energy Inc. - common stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NNEX",
-      "name": "Tradr 2X Long NNE Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -61389,12 +61383,6 @@
       "isETF": false
     },
     {
-      "symbol": "SNPX",
-      "name": "Tradr 2X Long SNPS Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "SNSE",
       "name": "Sensei Biotherapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -61547,24 +61535,6 @@
     {
       "symbol": "SOGP",
       "name": "Sound Group Inc. - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SOHOB",
-      "name": "Sotherly Hotels Inc. - 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SOHON",
-      "name": "Sotherly Hotels Inc. - 8.25% Series D Cumulative Redeemable Perpetual Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SOHOO",
-      "name": "Sotherly Hotels Inc. - 7.875% Series C Cumulative Redeemable Perpetual Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67929,6 +67899,12 @@
       "isETF": false
     },
     {
+      "symbol": "UCOP",
+      "name": "ProShares Ultra Copper K-1 Free ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "UCRD",
       "name": "VictoryShares Corporate Bond ETF",
       "exchange": "NASDAQ",
@@ -68469,6 +68445,12 @@
       "isETF": false
     },
     {
+      "symbol": "UPAL",
+      "name": "ProShares Ultra Palladium K-1 Free ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "UPAR",
       "name": "UPAR Ultra Risk Parity ETF",
       "exchange": "NYSE ARCA",
@@ -68508,6 +68490,12 @@
       "symbol": "UPLD",
       "name": "Upland Software, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "UPLT",
+      "name": "ProShares Ultra Platinum K-1 Free ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -70626,12 +70614,6 @@
       "symbol": "VOYG",
       "name": "Voyager Technologies, Inc. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VOYX",
-      "name": "Tradr 2X Long VOYG Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
