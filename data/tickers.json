@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-21T23:15:15.439784Z",
-  "count": 12524,
+  "lastUpdated": "2026-04-22T23:19:35.061649Z",
+  "count": 12531,
   "tickers": [
     {
       "symbol": "A",
@@ -7344,6 +7344,12 @@
       "symbol": "BESF",
       "name": "Bastion Energy ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BESO",
+      "name": "GSR Crypto Core3 ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -17172,6 +17178,12 @@
       "symbol": "DESK",
       "name": "VanEck Office and Commercial REIT ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DETX",
+      "name": "Liberty Defense Holdings, Ltd. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36285,6 +36297,18 @@
       "isETF": false
     },
     {
+      "symbol": "JELH",
+      "name": "Janus Henderson Equity Linked High Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "JELM",
+      "name": "Janus Henderson Equity Linked Moderate Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "JEM",
       "name": "707 Cayman Holdings Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -46119,6 +46143,12 @@
       "isETF": false
     },
     {
+      "symbol": "NHP",
+      "name": "National Healthcare Properties, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NHPAP",
       "name": "National Healthcare Properties, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
       "exchange": "NASDAQ",
@@ -46888,7 +46918,7 @@
     },
     {
       "symbol": "NRC",
-      "name": "National Research Corporation - Common Stock",
+      "name": "NRC Health - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -55479,12 +55509,6 @@
       "isETF": false
     },
     {
-      "symbol": "RCB",
-      "name": "Ready Capital Corporation 6.20% Senior Notes due 2026",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "RCD",
       "name": "Ready Capital Corporation 9.00% Senior Notes due 2029",
       "exchange": "NYSE",
@@ -62826,6 +62850,12 @@
       "symbol": "SSM",
       "name": "Sono Group N.V. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SSMG",
+      "name": "Virtus Silvant Small/Mid Growth ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -71505,6 +71535,12 @@
       "isETF": false
     },
     {
+      "symbol": "WCMG",
+      "name": "First Trust WCM Global Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "WCMI",
       "name": "First Trust WCM International Equity ETF",
       "exchange": "NYSE ARCA",
@@ -74478,6 +74514,12 @@
       "symbol": "YSS",
       "name": "York Space Systems Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "YSWY",
+      "name": "Yesway, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
