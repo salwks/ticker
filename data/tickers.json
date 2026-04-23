@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-22T23:19:35.061649Z",
-  "count": 12531,
+  "lastUpdated": "2026-04-23T23:19:00.427987Z",
+  "count": 12538,
   "tickers": [
     {
       "symbol": "A",
@@ -929,6 +929,12 @@
     {
       "symbol": "ACYN",
       "name": "FT Vest Laddered Autocallable Barrier & Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ACYS",
+      "name": "FT Vest Laddered Autocallable Barrier & Resilient Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -17691,12 +17697,6 @@
       "isETF": false
     },
     {
-      "symbol": "DHIL",
-      "name": "Diamond Hill Investment Group, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DHLX",
       "name": "Diamond Hill Large Cap Concentrated ETF",
       "exchange": "NYSE ARCA",
@@ -17739,8 +17739,8 @@
       "isETF": false
     },
     {
-      "symbol": "DHY.V",
-      "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights when issued",
+      "symbol": "DHY.R",
+      "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -20637,6 +20637,12 @@
       "isETF": false
     },
     {
+      "symbol": "ELMT",
+      "name": "The Elmet Group Co. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ELOG",
       "name": "Eastern International Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -20832,6 +20838,12 @@
       "symbol": "EMF",
       "name": "Templeton Emerging Markets Fund Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "EMFI",
+      "name": "Pictet Emerging Markets Debt ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -38823,6 +38835,12 @@
       "isETF": false
     },
     {
+      "symbol": "LABT",
+      "name": "Lakewood-Amedex Biotherapeutics Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LABU",
       "name": "Direxion Daily S&P Biotech Bull 3X ETF",
       "exchange": "NYSE ARCA",
@@ -39905,6 +39923,12 @@
     {
       "symbol": "LITX",
       "name": "Tradr 2X Long LITE Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "LITZ",
+      "name": "Tradr 2X Short LITE Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -56541,6 +56565,12 @@
       "isETF": false
     },
     {
+      "symbol": "RISE",
+      "name": "Pictet Emerging Markets Rising Economies ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RISN",
       "name": "Inspire Capital Appreciation ETF",
       "exchange": "NYSE ARCA",
@@ -60454,7 +60484,7 @@
     },
     {
       "symbol": "SKIN",
-      "name": "The Beauty Health Company - Class A Common Stock",
+      "name": "SkinHealth Systems Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61302,6 +61332,12 @@
       "symbol": "SNDL",
       "name": "SNDL Inc. - Common Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SNDQ",
+      "name": "Tradr 2X Short SNDK Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -63372,6 +63408,12 @@
       "symbol": "STXK",
       "name": "Strive Small-Cap ETF",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "STXL",
+      "name": "Defiance Daily Target 2x Long STX ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
