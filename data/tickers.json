@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-23T23:19:00.427987Z",
-  "count": 12538,
+  "lastUpdated": "2026-04-24T23:16:30.804779Z",
+  "count": 12540,
   "tickers": [
     {
       "symbol": "A",
@@ -4605,12 +4605,6 @@
       "isETF": false
     },
     {
-      "symbol": "ASGN",
-      "name": "ASGN Incorporated Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "ASH",
       "name": "Ashland Inc. Common Stock",
       "exchange": "NYSE",
@@ -5868,6 +5862,12 @@
       "symbol": "AXTI",
       "name": "AXT Inc - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AXTX",
+      "name": "Tradr 2X Long AXTI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -14649,6 +14649,12 @@
       "isETF": false
     },
     {
+      "symbol": "CPNX",
+      "name": "Tradr 2X Long CPNG Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CPOP",
       "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -16533,12 +16539,6 @@
       "isETF": false
     },
     {
-      "symbol": "DAWN",
-      "name": "Day One Biopharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DAX",
       "name": "Global X DAX Germany ETF",
       "exchange": "NASDAQ",
@@ -16698,12 +16698,6 @@
       "symbol": "DBRG$J",
       "name": "DigitalBridge Group, Inc. 7.125% Series J",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "DBSC",
-      "name": "Deepwater Beachfront Small Cap ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20190,6 +20184,12 @@
       "symbol": "EFOI",
       "name": "Energy Focus, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EFOR",
+      "name": "Everforth, Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -25386,6 +25386,12 @@
       "symbol": "FNOV",
       "name": "FT Vest U.S. Equity Buffer ETF - November",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FNRN",
+      "name": "First Northern Community Bancorp - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -37473,8 +37479,20 @@
       "isETF": false
     },
     {
+      "symbol": "KCA.U",
+      "name": "Kensington Capital Acquisition Corp. VI New Units, each consisting of one Class A Ordinary Share and three-quarters of one Class 2 Redeemable Warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "KCAC.U",
       "name": "Kensington Capital Acquisition Corp. VI Units, each consisting of one Class A ordinary share, one-quarter of one Class 1 redeemable warrant and three-quarters of one Class 2 redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "KCAC.W",
+      "name": "Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -39011,12 +39029,6 @@
     {
       "symbol": "LAWR",
       "name": "Robot Consulting Co., Ltd. - ADS",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LAYS",
-      "name": "STKd 100% NVDA & 100% AMD ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43734,6 +43746,12 @@
       "symbol": "MPWR",
       "name": "Monolithic Power Systems, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MPWX",
+      "name": "Tradr 2X Long MPWR Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -52959,12 +52977,6 @@
       "isETF": false
     },
     {
-      "symbol": "PRIF$J",
-      "name": "Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "PRIF$K",
       "name": "Priority Income Fund, Inc. 7.000% Series K Cumulative Preferred Stock",
       "exchange": "NYSE",
@@ -55125,18 +55137,6 @@
       "isETF": false
     },
     {
-      "symbol": "QVCGA",
-      "name": "QVC Group, Inc. - Series A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "QVCGP",
-      "name": "QVC Group, Inc. - 8.0% Fixed Rate Cumulative Redeemable Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "QVML",
       "name": "Invesco S&P 500 QVM Multi-factor ETF",
       "exchange": "NYSE ARCA",
@@ -55169,12 +55169,6 @@
     {
       "symbol": "QWLD",
       "name": "State Street SPDR MSCI World StrategicFactors ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "QXAS",
-      "name": "Quantify 2X Daily Alt Season Crypto ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -63435,6 +63429,12 @@
       "isETF": false
     },
     {
+      "symbol": "STXX",
+      "name": "Tradr 2X Long STX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "STZ",
       "name": "Constellation Brands, Inc. Common Stock",
       "exchange": "NYSE",
@@ -66162,6 +66162,12 @@
       "symbol": "TOAK",
       "name": "Manager Directed Portfolios Twin Oak Short Horizon Absolute Return ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TOAO",
+      "name": "Twin Oak Active Opportunities III ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -73086,6 +73092,12 @@
       "symbol": "XDTE",
       "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XE",
+      "name": "X-Energy, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
