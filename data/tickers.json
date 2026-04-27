@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-26T23:15:34.426791Z",
-  "count": 12540,
+  "lastUpdated": "2026-04-27T23:21:11.414262Z",
+  "count": 12534,
   "tickers": [
     {
       "symbol": "A",
@@ -9286,7 +9286,7 @@
     },
     {
       "symbol": "BOUT",
-      "name": "Innovator IBD Breakout Opportunities ETF",
+      "name": "CapForce IBD Breakout Opportunities ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -10122,12 +10122,6 @@
       "symbol": "BTF",
       "name": "CoinShares Bitcoin and Ether ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BTFL",
-      "name": "Defiance Daily Target 2X Long BITF ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -14052,18 +14046,6 @@
       "symbol": "COE",
       "name": "51Talk Online Education Group American depositary shares, each representing 60 Class A ordinary shares",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "COEP",
-      "name": "Coeptis Therapeutics Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "COEPW",
-      "name": "Coeptis Therapeutics Holdings, Inc. - Warrants",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -24046,7 +24028,7 @@
     },
     {
       "symbol": "FFTY",
-      "name": "Innovator IBD 50 ETF",
+      "name": "CapForce IBD 50 ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -37611,6 +37593,12 @@
       "isETF": false
     },
     {
+      "symbol": "KEEX",
+      "name": "Defiance Daily Target 2x Long KEEL ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "KELYA",
       "name": "Kelly Services, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -41295,18 +41283,6 @@
       "isETF": false
     },
     {
-      "symbol": "MAPS",
-      "name": "WM Technology, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MAPSW",
-      "name": "WM Technology, Inc. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MAR",
       "name": "Marriott International - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -42772,7 +42748,7 @@
     },
     {
       "symbol": "MIGI",
-      "name": "Mawson Infrastructure Group Inc. - Common Stock",
+      "name": "Big Digital Energy, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -46773,12 +46749,6 @@
       "isETF": false
     },
     {
-      "symbol": "NOM",
-      "name": "Nuveen Missouri Quality Municipal Income Fund",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "NOMA",
       "name": "NOMADAR Corp. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -46949,12 +46919,6 @@
     {
       "symbol": "NPWR.W",
       "name": "NET Power Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NQP",
-      "name": "Nuveen Pennsylvania Quality Municipal Income Fund Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -47994,12 +47958,6 @@
       "symbol": "NXGLW",
       "name": "NexGel, Inc - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NXJ",
-      "name": "Nuveen New Jersey Qualified Municipal Fund",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -51923,12 +51881,6 @@
     {
       "symbol": "PL",
       "name": "Planet Labs PBC Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PL.W",
-      "name": "Planet Labs PBC Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -61468,7 +61420,7 @@
     },
     {
       "symbol": "SNTI",
-      "name": "Senti Biosciences, Inc.  - Common Stock",
+      "name": "Senti Biosciences Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70263,6 +70215,12 @@
       "isETF": false
     },
     {
+      "symbol": "VIVK",
+      "name": "Vivakor, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VIVO",
       "name": "VivoPower PLC - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -72142,7 +72100,7 @@
     },
     {
       "symbol": "WLDR",
-      "name": "Affinity World Leaders Equity ETF",
+      "name": "Simplify Affinity World Leaders Equity ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -75083,6 +75041,12 @@
     {
       "symbol": "ZSPC",
       "name": "zSpace, Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZSQR",
+      "name": "Z Squared Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
