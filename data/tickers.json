@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-27T23:21:11.414262Z",
-  "count": 12534,
+  "lastUpdated": "2026-04-28T23:20:52.495224Z",
+  "count": 12539,
   "tickers": [
     {
       "symbol": "A",
@@ -15297,6 +15297,12 @@
       "isETF": false
     },
     {
+      "symbol": "CRY",
+      "name": "GraniteShares YieldBOOST CRCL ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CSAI",
       "name": "Cloudastructure, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -16218,6 +16224,12 @@
       "symbol": "CXH",
       "name": "MFS Investment Grade Municipal Trust Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CXIIU",
+      "name": "Churchill Capital Corp XII - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -25437,12 +25449,6 @@
       "isETF": false
     },
     {
-      "symbol": "FOLD",
-      "name": "Amicus Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FONR",
       "name": "Fonar Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -28217,6 +28223,12 @@
     {
       "symbol": "GLND",
       "name": "Greenland Energy Company - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GLNDW",
+      "name": "Greenland Energy Company - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32261,6 +32273,12 @@
     {
       "symbol": "IACOW",
       "name": "Idea Acquisition Corp. - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IACQU",
+      "name": "Irenic Acquisition Corp. - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -52113,6 +52131,12 @@
       "isETF": false
     },
     {
+      "symbol": "PLUN.U",
+      "name": "Plutonian Acquisition Corp II Units, each consisting of one Class A Ordinary Share and one right entitling the holder to one-fourth of one Class A Ordinary Share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "PLUR",
       "name": "Pluri Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -59427,12 +59451,6 @@
       "isETF": false
     },
     {
-      "symbol": "SEMR",
-      "name": "SEMrush Holdings, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "SEMY",
       "name": "GraniteShares YieldBOOST Semiconductor ETF",
       "exchange": "NASDAQ",
@@ -65535,12 +65553,6 @@
       "isETF": false
     },
     {
-      "symbol": "TIVC",
-      "name": "Tivic Health Systems, Inc. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TJAN",
       "name": "Innovator Equity Defined Protection ETF - 2 Yr to January 2027",
       "exchange": "BATS",
@@ -69537,6 +69549,12 @@
       "isETF": false
     },
     {
+      "symbol": "VBIO",
+      "name": "Valion Bio, Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VBIX",
       "name": "Viewbix Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -72405,6 +72423,12 @@
       "isETF": false
     },
     {
+      "symbol": "WRTH",
+      "name": "Worth Charting Options Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "WS",
       "name": "Worthington Steel, Inc. Common Shares",
       "exchange": "NYSE",
@@ -72909,6 +72933,12 @@
       "isETF": false
     },
     {
+      "symbol": "XBNB",
+      "name": "Teucrium xETFs 2x Long Daily BNB ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "XBOC",
       "name": "Innovator U.S. Equity Accelerated 9 Buffer ETF - October",
       "exchange": "BATS",
@@ -73104,6 +73134,12 @@
       "symbol": "XES",
       "name": "State Street SPDR S&P Oil & Gas Equipment & Services ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XEY",
+      "name": "GraniteShares YieldBOOST Ether ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -75036,12 +75072,6 @@
       "symbol": "ZSL",
       "name": "ProShares UltraShort Silver",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ZSPC",
-      "name": "zSpace, Inc. - Common stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
