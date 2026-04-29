@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-28T23:20:52.495224Z",
-  "count": 12539,
+  "lastUpdated": "2026-04-29T23:21:32.909196Z",
+  "count": 12540,
   "tickers": [
     {
       "symbol": "A",
@@ -725,12 +725,6 @@
     {
       "symbol": "ACLS",
       "name": "Axcelis Technologies, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ACLX",
-      "name": "Arcellx, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -2007,6 +2001,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIFC",
+      "name": "AI Financial Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AIFD",
       "name": "TCW Artificial Intelligence ETF",
       "exchange": "NASDAQ",
@@ -2807,12 +2807,6 @@
     {
       "symbol": "ALTO",
       "name": "Alto Ingredients, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALTS",
-      "name": "ALT5 Sigma Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10962,6 +10956,12 @@
       "symbol": "CAIE",
       "name": "Calamos Autocallable Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CAIIU",
+      "name": "Collective Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -22877,6 +22877,12 @@
     {
       "symbol": "FAB",
       "name": "First Trust Multi Cap Value AlphaDEX Fund",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FABC",
+      "name": "Fabric.AI, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48345,12 +48351,6 @@
       "isETF": false
     },
     {
-      "symbol": "OCCIO",
-      "name": "OFS Credit Company, Inc. - 6.125% Series C Term Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "OCFC",
       "name": "OceanFirst Financial Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -53175,6 +53175,12 @@
       "isETF": false
     },
     {
+      "symbol": "PS",
+      "name": "Pershing Square Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "PSA",
       "name": "Public Storage Common Stock",
       "exchange": "NYSE",
@@ -53616,6 +53622,12 @@
       "symbol": "PSTV",
       "name": "PLUS THERAPEUTICS, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PSUS",
+      "name": "Pershing Square USA, Ltd. Common Shares",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -58505,12 +58517,6 @@
     {
       "symbol": "SBLK",
       "name": "Star Bulk Carriers Corp. - Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SBLX",
-      "name": "StableX Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
