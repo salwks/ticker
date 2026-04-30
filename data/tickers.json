@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-29T23:21:32.909196Z",
-  "count": 12540,
+  "lastUpdated": "2026-04-30T23:21:04.132501Z",
+  "count": 12551,
   "tickers": [
     {
       "symbol": "A",
@@ -894,6 +894,12 @@
       "symbol": "ACVT",
       "name": "Advent Convertible Bond ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ACVU",
+      "name": "Hartford Alpha Capture Value ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -4095,6 +4101,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARCLU",
+      "name": "ARC Group Acquisition I Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ARCM",
       "name": "Arrow Reserve Capital Management ETF",
       "exchange": "BATS",
@@ -5490,6 +5502,12 @@
       "symbol": "AVLC",
       "name": "Avantis U.S. Large Cap Equity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AVLN",
+      "name": "Avalyn Pharma Inc. - common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7583,6 +7601,12 @@
     {
       "symbol": "BGC",
       "name": "BGC Group, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BGDE",
+      "name": "Big Digital Energy, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10660,7 +10684,7 @@
     },
     {
       "symbol": "BWX",
-      "name": "SPDR Bloomberg International Treasury Bond ETF",
+      "name": "State Street SPDR Bloomberg International Treasury Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -10672,7 +10696,7 @@
     },
     {
       "symbol": "BWZ",
-      "name": "SPDR Bloomberg Short Term International Treasury Bond ETF",
+      "name": "State Street SPDR Bloomberg Short Term International Treasury Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19636,7 +19660,7 @@
     },
     {
       "symbol": "EBND",
-      "name": "SPDR Bloomberg Emerging Markets Local Bond ETF",
+      "name": "State Street SPDR Bloomberg Emerging Markets Local Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -20711,12 +20735,6 @@
     {
       "symbol": "ELWT",
       "name": "Elauwit Connection, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EM",
-      "name": "Smart Share Global Limited - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -23775,6 +23793,12 @@
       "isETF": false
     },
     {
+      "symbol": "FEMG",
+      "name": "Fidelity Enhanced Mid Cap Growth ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FEMR",
       "name": "Fidelity Enhanced Emerging Markets ETF",
       "exchange": "NYSE ARCA",
@@ -23784,6 +23808,12 @@
       "symbol": "FEMS",
       "name": "First Trust Emerging Markets Small Cap AlphaDEX Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FEMV",
+      "name": "Fidelity Enhanced Mid Cap Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -25869,9 +25899,21 @@
       "isETF": false
     },
     {
+      "symbol": "FSEG",
+      "name": "Fidelity Enhanced Small Cap Growth ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FSEP",
       "name": "FT Vest U.S. Equity Buffer ETF - September",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FSEV",
+      "name": "Fidelity Enhanced Small Cap Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -26141,6 +26183,12 @@
     {
       "symbol": "FTGS",
       "name": "First Trust Growth Strength ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FTHAU",
+      "name": "Forefront Tech Holdings Acquisition Corp - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -27072,6 +27120,12 @@
       "symbol": "GCDT",
       "name": "Green Circle Decarbonize Technology Limited Ordinary Shares",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "GCGRU",
+      "name": "General Catalyst Global Resilience Merger Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -32758,7 +32812,7 @@
     },
     {
       "symbol": "IBND",
-      "name": "SPDR Bloomberg International Corporate Bond ETF",
+      "name": "State Street SPDR Bloomberg International Corporate Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -41721,6 +41775,12 @@
       "isETF": false
     },
     {
+      "symbol": "MCAHU",
+      "name": "Mountain Crest Acquisition 6 Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MCB",
       "name": "Metropolitan Bank Holding Corp. Common Stock",
       "exchange": "NYSE",
@@ -42768,12 +42828,6 @@
       "symbol": "MIG",
       "name": "VanEck Moody's Analytics IG Corporate Bond ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "MIGI",
-      "name": "Big Digital Energy, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -46210,7 +46264,7 @@
     },
     {
       "symbol": "NHTC",
-      "name": "Natural Health Trends Corp. - Commn Stock",
+      "name": "Natural Health Trends Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47963,12 +48017,6 @@
     {
       "symbol": "NXG",
       "name": "NXG NextGen Infrastructure Income Fund Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NXG.R",
-      "name": "NXG NextGen Infrastructure Income Fund Rights (expiring April 30, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -55054,7 +55102,7 @@
     },
     {
       "symbol": "QUCY",
-      "name": "Mainz Biomed N.V. - Ordinary Shares",
+      "name": "Quantum Cyber N.V. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -55113,12 +55161,6 @@
       "isETF": false
     },
     {
-      "symbol": "QUVU",
-      "name": "Hartford Quality Value ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "QVAL",
       "name": "Alpha Architect U.S. Quantitative Value ETF",
       "exchange": "NASDAQ",
@@ -55158,6 +55200,12 @@
       "symbol": "QWLD",
       "name": "State Street SPDR MSCI World StrategicFactors ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "QXL",
+      "name": "Quantum X Labs Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -57333,6 +57381,12 @@
       "isETF": false
     },
     {
+      "symbol": "RREVU",
+      "name": "RRE Ventures Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RRGB",
       "name": "Red Robin Gourmet Burgers, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -58518,6 +58572,12 @@
       "symbol": "SBLK",
       "name": "Star Bulk Carriers Corp. - Common Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SBMT",
+      "name": "Silver Bow Mining Corp. Common Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -60330,12 +60390,6 @@
       "symbol": "SIXF",
       "name": "AllianzIM U.S. Large Cap 6 Month Buffer10 Feb/Aug ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "SIXG",
-      "name": "Defiance Connective Technologies ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67659,6 +67713,12 @@
       "isETF": false
     },
     {
+      "symbol": "TXXH",
+      "name": "21Shares 2x Long HYPE ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TXXI",
       "name": "BondBloxx IR+M Tax-Aware Intermediate Duration ETF",
       "exchange": "NYSE ARCA",
@@ -68082,6 +68142,12 @@
       "symbol": "UFOD",
       "name": "Tuttle Capital UFO Disclosure ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "UFOX",
+      "name": "Defiance Connective Technologies ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69557,12 +69623,6 @@
     {
       "symbol": "VBIO",
       "name": "Valion Bio, Inc. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VBIX",
-      "name": "Viewbix Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71751,6 +71811,12 @@
       "isETF": false
     },
     {
+      "symbol": "WENC.U",
+      "name": "West Enclave Merger Corp. Units, each consisting of one Ordinary Share and one Right to acquire one-tenth (1/10) of one Ordinary Share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "WENN",
       "name": "Wen Acquisition Corp - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -72034,7 +72100,7 @@
     },
     {
       "symbol": "WIP",
-      "name": "SPDR FTSE International Government Inflation-Protected Bond ETF",
+      "name": "State Street SPDR FTSE International Government Inflation-Protected Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
