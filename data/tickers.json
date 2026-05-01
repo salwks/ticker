@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T23:21:04.132501Z",
-  "count": 12551,
+  "lastUpdated": "2026-05-01T23:19:58.320715Z",
+  "count": 12558,
   "tickers": [
     {
       "symbol": "A",
@@ -2880,6 +2880,12 @@
       "symbol": "AM",
       "name": "Antero Midstream Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AMA",
+      "name": "Defiance Daily Target 2X Long AMAT ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -8542,7 +8548,7 @@
     },
     {
       "symbol": "BLDX",
-      "name": "Impax Global Infrastructure ETF",
+      "name": "Impax Global Sustainable Infrastructure ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -13497,6 +13503,12 @@
       "isETF": false
     },
     {
+      "symbol": "CMAY",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CMBO",
       "name": "Wayfinder Dynamic U.S. Interest Rate ETF",
       "exchange": "NASDAQ",
@@ -13990,7 +14002,7 @@
     },
     {
       "symbol": "CNXT",
-      "name": "VanEck ChiNext ETF",
+      "name": "VanEck ChiNext Innovators ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -13998,6 +14010,12 @@
       "symbol": "CNYA",
       "name": "iShares MSCI China A ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "COAG",
+      "name": "Hemab Therapeutics Holdings, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -16155,12 +16173,6 @@
       "isETF": false
     },
     {
-      "symbol": "CWEN.A",
-      "name": "Clearway Energy, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CWH",
       "name": "Camping World Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -16905,6 +16917,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDFY",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - May",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDI",
       "name": "DoubleDown Interactive Co., Ltd. - American Depository Shares",
       "exchange": "NASDAQ",
@@ -17015,6 +17033,12 @@
     {
       "symbol": "DDTS",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - September",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DDTY",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - May",
       "exchange": "BATS",
       "isETF": false
     },
@@ -19461,6 +19485,24 @@
       "isETF": false
     },
     {
+      "symbol": "DYNC",
+      "name": "Dynamix Corporation - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DYNCU",
+      "name": "Dynamix Corporation - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DYNCW",
+      "name": "Dynamix Corporation - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DYNF",
       "name": "iShares U.S. Equity Factor Rotation Active ETF",
       "exchange": "NYSE ARCA",
@@ -19608,12 +19650,6 @@
       "symbol": "EAT",
       "name": "Brinker International, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "EATZ",
-      "name": "AdvisorShares Restaurant ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -21711,18 +21747,6 @@
       "isETF": false
     },
     {
-      "symbol": "ESHA",
-      "name": "ESH Acquisition Corp. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ESHAR",
-      "name": "ESH Acquisition Corp. - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ESI",
       "name": "Element Solutions Inc. Common Stock",
       "exchange": "NYSE",
@@ -21942,24 +21966,6 @@
       "symbol": "ETHE",
       "name": "Grayscale Ethereum Staking ETF Shares",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ETHM",
-      "name": "Dynamix Corporation - Class A Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ETHMU",
-      "name": "Dynamix Corporation - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ETHMW",
-      "name": "Dynamix Corporation - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -23866,7 +23872,7 @@
     },
     {
       "symbol": "FER",
-      "name": "Ferrovial SE - Ordinary Shares",
+      "name": "Ferrovial N.V. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24251,12 +24257,6 @@
     {
       "symbol": "FHN",
       "name": "First Horizon Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "FHN$C",
-      "name": "First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-Cumulative Perpetual Preferred Stock, Series C",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -27222,12 +27222,6 @@
       "symbol": "GDEC",
       "name": "FT Vest U.S. Equity Moderate Buffer ETF - December",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "GDEN",
-      "name": "Golden Entertainment, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -35782,7 +35776,7 @@
     },
     {
       "symbol": "IWM",
-      "name": "iShares Russell 2000 ETF",
+      "name": "iShares Russell 2000 Index Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -40215,12 +40209,6 @@
       "isETF": false
     },
     {
-      "symbol": "LNKB",
-      "name": "LINKBANCORP, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LNKS",
       "name": "Linkers Industries Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -41487,6 +41475,12 @@
       "isETF": false
     },
     {
+      "symbol": "MAUG",
+      "name": "Pacer Swan SOS Moderate (August) ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MAVF",
       "name": "Matrix Advisors Value ETF",
       "exchange": "NYSE ARCA",
@@ -41511,9 +41505,9 @@
       "isETF": false
     },
     {
-      "symbol": "MAXN",
-      "name": "Maxeon Solar Technologies, Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
+      "symbol": "MAYC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41860,7 +41854,7 @@
     },
     {
       "symbol": "MCHS",
-      "name": "Matthews China Discovery Active ETF",
+      "name": "Matthews China Innovators Active ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42432,6 +42426,12 @@
       "symbol": "MFDX",
       "name": "PIMCO RAFI Dynamic Multi-Factor International Equity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MFEB",
+      "name": "Pacer Swan SOS Moderate (February) ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -43275,6 +43275,12 @@
       "isETF": false
     },
     {
+      "symbol": "MMAY",
+      "name": "Pacer Swan SOS Moderate (May) ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MMCA",
       "name": "NYLI MacKay California Muni Intermediate ETF",
       "exchange": "NYSE ARCA",
@@ -43530,6 +43536,12 @@
       "symbol": "MNTSW",
       "name": "Momentus Inc. - Warrant",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MNVR",
+      "name": "Pacer Swan SOS Moderate (November) ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -44508,6 +44520,12 @@
       "symbol": "MTNB",
       "name": "Matinas Biopharma Holdings, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "MTNE.U",
+      "name": "CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -52581,6 +52599,12 @@
       "isETF": false
     },
     {
+      "symbol": "POEL",
+      "name": "Defiance Daily Target 2X Long POET ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "POET",
       "name": "POET Technologies Inc. - Common Shares",
       "exchange": "NASDAQ",
@@ -54579,6 +54603,12 @@
       "isETF": false
     },
     {
+      "symbol": "QLEP.U",
+      "name": "Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "QLTA",
       "name": "iShares Aaa A Rated Corporate Bond ETF",
       "exchange": "NYSE ARCA",
@@ -54768,6 +54798,12 @@
       "symbol": "QQMG",
       "name": "Invesco ESG NASDAQ 100 ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QQMY",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -61348,7 +61384,7 @@
     },
     {
       "symbol": "SNDK",
-      "name": "Sandisk Corporation - Common Stock",
+      "name": "Sandisk Corporation - Common Stock When-Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62382,6 +62418,12 @@
       "symbol": "SPTU",
       "name": "State Street SPDR Portfolio Ultra Short T-Bill ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SPTX",
+      "name": "Seaport Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67180,7 +67222,7 @@
     },
     {
       "symbol": "TSPY",
-      "name": "TappAlpha SPY Growth & Daily Income ETF",
+      "name": "TappAlpha S&P 500 Growth & Daily Income ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
