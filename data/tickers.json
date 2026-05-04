@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-03T23:17:33.803694Z",
-  "count": 12558,
+  "lastUpdated": "2026-05-04T23:20:44.478411Z",
+  "count": 12559,
   "tickers": [
     {
       "symbol": "A",
@@ -5886,6 +5886,12 @@
       "symbol": "AXTX",
       "name": "Tradr 2X Long AXTI Daily ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "AYA",
+      "name": "Aya Gold & Silver Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38272,7 +38278,7 @@
     },
     {
       "symbol": "KOID",
-      "name": "KraneShares Global Humanoid and Embodied Intelligence Index ETF",
+      "name": "KraneShares Global Humanoid Robotics and Physical AI Index ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42156,12 +42162,6 @@
       "symbol": "MEDX",
       "name": "Horizon Kinetics Medical ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MEG",
-      "name": "Montrose Environmental Group, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -49157,6 +49157,12 @@
     {
       "symbol": "ONON",
       "name": "On Holding AG Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ONT",
+      "name": "Onterris, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -59085,6 +59091,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCOP",
+      "name": "Sprott Physical Copper Trust Units",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SCOR",
       "name": "comScore, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -63209,12 +63221,6 @@
     {
       "symbol": "STKH",
       "name": "Steakholder Foods Ltd. - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "STKL",
-      "name": "SunOpta, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
