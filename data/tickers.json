@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-05T23:20:31.452735Z",
-  "count": 12568,
+  "lastUpdated": "2026-05-06T23:19:47.225418Z",
+  "count": 12610,
   "tickers": [
     {
       "symbol": "A",
@@ -3135,6 +3135,12 @@
       "isETF": false
     },
     {
+      "symbol": "AMPU",
+      "name": "Defiance Daily Target 2X Long AMPX ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AMPX",
       "name": "Amprius Technologies, Inc. Common Stock",
       "exchange": "NYSE",
@@ -3702,6 +3708,12 @@
       "symbol": "APD",
       "name": "Air Products and Chemicals, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "APDB",
+      "name": "Aptus April Deep Buffer ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -5331,6 +5343,12 @@
       "isETF": false
     },
     {
+      "symbol": "AV",
+      "name": "Corgi Aerospace & Commercial Aviation ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AVA",
       "name": "Avista Corporation Common Stock",
       "exchange": "NYSE",
@@ -6384,6 +6402,12 @@
       "symbol": "BAX",
       "name": "Baxter International Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BAY",
+      "name": "Corgi Bay Area Based ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -8523,6 +8547,12 @@
       "isETF": false
     },
     {
+      "symbol": "BLCK",
+      "name": "Corgi Crypto Infrastructure ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BLCN",
       "name": "Siren NexGen Economy ETF",
       "exchange": "NASDAQ",
@@ -9552,6 +9582,12 @@
       "symbol": "BRES",
       "name": "Burney U.S. Equity Select ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BREW",
+      "name": "Corgi Coffee & Energy Drinks ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -10863,6 +10899,12 @@
       "isETF": false
     },
     {
+      "symbol": "BZZ",
+      "name": "Corgi Drones & Urban Air Mobility ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "C",
       "name": "Citigroup, Inc. Common Stock",
       "exchange": "NYSE",
@@ -11459,6 +11501,12 @@
     {
       "symbol": "CBOO",
       "name": "Calamos Bitcoin Structured Alt Protection ETF - October",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "CBOT",
+      "name": "Corgi Robots & Humanoids ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -13395,6 +13443,12 @@
       "isETF": false
     },
     {
+      "symbol": "CLOO",
+      "name": "NYLI Investment Grade CLO ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CLOU",
       "name": "Global X Cloud Computing ETF",
       "exchange": "NASDAQ",
@@ -13497,6 +13551,12 @@
       "isETF": false
     },
     {
+      "symbol": "CLUB",
+      "name": "Billionaires Club ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CLVT",
       "name": "Clarivate Plc Ordinary Shares",
       "exchange": "NYSE",
@@ -13530,6 +13590,12 @@
       "symbol": "CM",
       "name": "Canadian Imperial Bank of Commerce Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CMAG",
+      "name": "Corgi Mag 7 ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -14883,6 +14949,12 @@
       "isETF": false
     },
     {
+      "symbol": "CQTM",
+      "name": "Corgi Quantum Computing ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CR",
       "name": "Crane Company Common Stock",
       "exchange": "NYSE",
@@ -15744,6 +15816,12 @@
       "symbol": "CTM",
       "name": "Castellum, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "CTMA",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -17889,6 +17967,12 @@
       "isETF": false
     },
     {
+      "symbol": "DIPR",
+      "name": "Corgi Space & Satellite Communications ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DIPS",
       "name": "YieldMax Short NVDA Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -18420,6 +18504,12 @@
       "symbol": "DOC",
       "name": "Healthpeak Properties, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "DOCK",
+      "name": "Corgi Ports, Rail & Freight ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -19152,6 +19242,12 @@
       "symbol": "DUSB",
       "name": "Dimensional Ultrashort Fixed Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DUSG",
+      "name": "U.S. Small Cap Growth Portfolio: ETF Class Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20997,6 +21093,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMMY",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "EMN",
       "name": "Eastman Chemical Company Common Stock",
       "exchange": "NYSE",
@@ -22227,6 +22329,12 @@
       "isETF": false
     },
     {
+      "symbol": "EUV",
+      "name": "Corgi Lithography & Semiconductor Photonics ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "EVAC",
       "name": "EQV Ventures Acquisition Corp. II Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -22803,6 +22911,12 @@
       "isETF": false
     },
     {
+      "symbol": "EYES",
+      "name": "Corgi Data & Surveillance ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "EYLD",
       "name": "Cambria Emerging Shareholder Yield ETF",
       "exchange": "BATS",
@@ -23004,12 +23118,6 @@
       "symbol": "FAPR",
       "name": "FT Vest U.S. Equity Buffer ETF - April",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "FARM",
-      "name": "Farmer Brothers Company - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -27009,6 +27117,12 @@
       "isETF": false
     },
     {
+      "symbol": "GASZ",
+      "name": "Corgi Natural Gas Power & Turbines ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GATX",
       "name": "GATX Corporation Common Stock",
       "exchange": "NYSE",
@@ -28173,6 +28287,12 @@
       "isETF": false
     },
     {
+      "symbol": "GLAM",
+      "name": "Corgi Beauty, Skincare & Aesthetics ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GLBE",
       "name": "Global-E Online Ltd. - ordinary shares",
       "exchange": "NASDAQ",
@@ -28698,6 +28818,12 @@
       "symbol": "GNMA",
       "name": "iShares GNMA Bond ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GNMX",
+      "name": "Corgi Genomics & Precision Medicine ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -31203,6 +31329,12 @@
       "isETF": false
     },
     {
+      "symbol": "HMAY",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HMC",
       "name": "Honda Motor Company, Ltd. Common Stock",
       "exchange": "NYSE",
@@ -31908,6 +32040,12 @@
       "symbol": "HUIZ",
       "name": "Huize Holding Limited - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HULL",
+      "name": "Corgi Shipping & Global Logistics ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -33198,6 +33336,12 @@
       "symbol": "IDMO",
       "name": "Invesco S&P International Developed Momentum ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IDMY",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -35127,12 +35271,6 @@
       "isETF": false
     },
     {
-      "symbol": "IRET",
-      "name": "iREIT - MarketVector Quality REIT Index ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "IREX",
       "name": "Tradr 2X Long IREN Daily ETF",
       "exchange": "BATS",
@@ -36093,6 +36231,12 @@
       "isETF": false
     },
     {
+      "symbol": "JADB",
+      "name": "Aptus January Deep Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "JADE",
       "name": "JPMorgan Active Developing Markets Equity ETF",
       "exchange": "NYSE ARCA",
@@ -36927,6 +37071,12 @@
       "isETF": false
     },
     {
+      "symbol": "JOUL",
+      "name": "Corgi High Voltage Grid Equipment ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "JOUT",
       "name": "Johnson Outdoors Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -37205,6 +37355,12 @@
     {
       "symbol": "JUCY",
       "name": "Aptus Enhanced Yield ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "JUDB",
+      "name": "Aptus July Deep Buffer ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -38877,6 +39033,12 @@
       "isETF": false
     },
     {
+      "symbol": "KYC",
+      "name": "Corgi Digital Banking & Fintech Infrastructure ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "KYIV",
       "name": "Kyivstar Group Ltd. - Common Shares",
       "exchange": "NASDAQ",
@@ -39108,6 +39270,12 @@
       "symbol": "LATAW",
       "name": "Galata Acquisition Corp. II - Warrant",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LATR",
+      "name": "Corgi Buy Now Pay Later ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -46359,6 +46527,12 @@
       "isETF": false
     },
     {
+      "symbol": "NICO",
+      "name": "Hexis Active Nicotine Engagement ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NIE",
       "name": "Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -48207,6 +48381,12 @@
       "isETF": false
     },
     {
+      "symbol": "NYNY",
+      "name": "Corgi NYC Based ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "NYSX",
       "name": "Global X NYSE 100 ETF",
       "exchange": "NYSE ARCA",
@@ -48453,6 +48633,12 @@
       "isETF": false
     },
     {
+      "symbol": "OCDB",
+      "name": "Aptus October Deep Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "OCFC",
       "name": "OceanFirst Financial Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -48570,6 +48756,12 @@
       "symbol": "ODDS",
       "name": "Pacer BlueStar Digital Entertainment ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ODDZ",
+      "name": "Corgi Sports Betting & Gambling ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -51993,12 +52185,6 @@
       "isETF": false
     },
     {
-      "symbol": "PKST",
-      "name": "Peakstone Realty Trust Common Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "PKW",
       "name": "Invesco BuyBack Achievers ETF",
       "exchange": "NASDAQ",
@@ -53895,6 +54081,12 @@
       "isETF": false
     },
     {
+      "symbol": "PTNT",
+      "name": "Corgi IP Licensing & Royalties ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PTON",
       "name": "Peloton Interactive, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -54762,6 +54954,12 @@
       "symbol": "QMOM",
       "name": "Alpha Architect U.S. Quantitative Momentum ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QMY",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - May Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -55950,6 +56148,12 @@
       "symbol": "RDZNW",
       "name": "Roadzen, Inc. - Warrants",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "REA",
+      "name": "Rare Earths Americas, Inc. Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -57561,6 +57765,12 @@
       "isETF": false
     },
     {
+      "symbol": "RSIT",
+      "name": "Return Stacked International Stocks & Managed Futures ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "RSJN",
       "name": "FT Vest U.S. Equity Equal Weight Buffer ETF - June",
       "exchange": "NYSE ARCA",
@@ -59117,6 +59327,12 @@
     {
       "symbol": "SCMC",
       "name": "Sterling Capital Multi-Strategy Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SCMY",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - May Series",
       "exchange": "BATS",
       "isETF": false
     },
@@ -63555,6 +63771,12 @@
       "isETF": false
     },
     {
+      "symbol": "STYL",
+      "name": "Corgi Lifestyle Brands ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "STZ",
       "name": "Constellation Brands, Inc. Common Stock",
       "exchange": "NYSE",
@@ -65141,12 +65363,6 @@
     {
       "symbol": "TERG",
       "name": "Leverage Shares 2X Long TER Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TERN",
-      "name": "Terns Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69891,6 +70107,12 @@
       "isETF": false
     },
     {
+      "symbol": "VECA.U",
+      "name": "Vernal Capital Acquisition Corp. Units, each consisting of one ordinary share and one right",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "VECO",
       "name": "Veeco Instruments Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -71595,6 +71817,12 @@
       "isETF": false
     },
     {
+      "symbol": "WATS",
+      "name": "Corgi Battery Energy Storage Systems ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "WATT",
       "name": "Energous Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -72429,6 +72657,12 @@
       "isETF": false
     },
     {
+      "symbol": "WNDR",
+      "name": "Corgi Travel & Leisure ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "WNEB",
       "name": "Western New England Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -72527,6 +72761,12 @@
     {
       "symbol": "WQTM",
       "name": "WisdomTree Quantum Computing Fund",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "WR",
+      "name": "Corgi U.S. War Machine ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -73001,6 +73241,12 @@
     {
       "symbol": "WZRD",
       "name": "Opportunistic Trader ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XA",
+      "name": "Corgi AI Cybersecurity ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -74766,6 +75012,12 @@
       "symbol": "YUMC",
       "name": "Yum China Holdings, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "YUNG",
+      "name": "Corgi Longevity Consumer ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
