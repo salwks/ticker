@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T23:19:47.225418Z",
-  "count": 12610,
+  "lastUpdated": "2026-05-07T23:20:47.614986Z",
+  "count": 12620,
   "tickers": [
     {
       "symbol": "A",
@@ -10575,6 +10575,12 @@
       "isETF": false
     },
     {
+      "symbol": "BUYB",
+      "name": "ProShares S&P 500 Buyback Aristocrats ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BUYO",
       "name": "KraneShares Man Buyout Beta Index ETF",
       "exchange": "NYSE ARCA",
@@ -11794,7 +11800,7 @@
     },
     {
       "symbol": "CCL",
-      "name": "Carnival Corporation Common Stock",
+      "name": "Carnival Corporation Ltd. Common Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -15867,12 +15873,6 @@
       "isETF": false
     },
     {
-      "symbol": "CTRA",
-      "name": "Coterra Energy Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CTRE",
       "name": "CareTrust REIT, Inc. Common Stock",
       "exchange": "NYSE",
@@ -15978,12 +15978,6 @@
       "symbol": "CUE",
       "name": "Cue Biopharma, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CUK",
-      "name": "Carnival Plc ADS ADS",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -30411,6 +30405,12 @@
       "isETF": false
     },
     {
+      "symbol": "HAWK",
+      "name": "HawkEye 360, Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "HAWX",
       "name": "iShares Currency Hedged MSCI ACWI ex U.S. ETF",
       "exchange": "NYSE ARCA",
@@ -38268,6 +38268,12 @@
       "symbol": "KMB",
       "name": "Kimberly-Clark Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KMCA",
+      "name": "PLUS Korea Manufacturing Core Alliance Index ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -53589,6 +53595,12 @@
       "isETF": false
     },
     {
+      "symbol": "PSAI",
+      "name": "Pacer S&P 500 3AI Top 100 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PSBD",
       "name": "Palmer Square Capital BDC Inc. Common Stock",
       "exchange": "NYSE",
@@ -55176,6 +55188,18 @@
       "symbol": "QQXT",
       "name": "First Trust NASDAQ-100 Ex-Technology Sector Index Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QRED",
+      "name": "QuasarEdge Acquisition Corporation Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "QRED.R",
+      "name": "QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -58548,6 +58572,12 @@
       "symbol": "SAGT",
       "name": "SAGTEC GLOBAL LIMITED - Class A Ordinary shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SAGU.U",
+      "name": "Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -63081,12 +63111,6 @@
       "isETF": false
     },
     {
-      "symbol": "SRTAW",
-      "name": "Strata Critical Medical, Inc. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SRTS",
       "name": "Sensus Healthcare, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -63815,6 +63839,12 @@
     {
       "symbol": "SUIS",
       "name": "Canary Staked SUI ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SUJA",
+      "name": "Suja Life, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64836,6 +64866,12 @@
       "symbol": "TCAL",
       "name": "T. Rowe Price Capital Appreciation Premium Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TCAN",
+      "name": "21Shares Canton Network ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68608,7 +68644,7 @@
     },
     {
       "symbol": "UK",
-      "name": "Ucommune International Ltd  - Ordinary Shares",
+      "name": "Ucommune International Ltd  - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71805,6 +71841,12 @@
       "isETF": false
     },
     {
+      "symbol": "WARP",
+      "name": "VanEck Space ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "WASH",
       "name": "Washington Trust Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -71997,6 +72039,12 @@
       "isETF": false
     },
     {
+      "symbol": "WDAI",
+      "name": "Pacer S&P World 3AI Top 300 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "WDAY",
       "name": "Workday, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -72042,6 +72090,12 @@
       "symbol": "WDI",
       "name": "Western Asset Diversified Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WDIG",
+      "name": "WisdomTree Efficient Rare Earth Plus Strategic Metals Fund",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -73998,6 +74052,12 @@
       "symbol": "XNDU",
       "name": "Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XNDX",
+      "name": "Tradr 2X Long XNDU Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
