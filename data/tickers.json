@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-07T23:20:47.614986Z",
-  "count": 12620,
+  "lastUpdated": "2026-05-08T23:21:43.121110Z",
+  "count": 12617,
   "tickers": [
     {
       "symbol": "A",
@@ -1781,6 +1781,12 @@
     {
       "symbol": "AGNG",
       "name": "Global X Aging Population ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AGNT",
+      "name": "eXp World Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3665,24 +3671,6 @@
     {
       "symbol": "APACU",
       "name": "StoneBridge Acquisition II Corporation - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "APAD",
-      "name": "A Paradise Acquisition Corp. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "APADR",
-      "name": "A Paradise Acquisition Corp. - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "APADU",
-      "name": "A Paradise Acquisition Corp. - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10926,12 +10914,6 @@
       "symbol": "C$R",
       "name": "Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.250% Noncumulative Preferred Stock, Series II",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CA",
-      "name": "Xtrackers California Municipal Bonds ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -19893,18 +19875,6 @@
       "isETF": false
     },
     {
-      "symbol": "ECCW",
-      "name": "Eagle Point Credit Company Inc. 6.75% Notes due 2031",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ECCX",
-      "name": "Eagle Point Credit Company Inc. 6.6875% Notes due 2028",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "ECF",
       "name": "Ellsworth Growth and Income Fund Ltd.",
       "exchange": "AMEX",
@@ -21222,6 +21192,12 @@
       "symbol": "ENGS",
       "name": "Energys Group Limited - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ENHA",
+      "name": "Enhanced Group Inc. Class A Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -22859,12 +22835,6 @@
     {
       "symbol": "EXPE",
       "name": "Expedia Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EXPI",
-      "name": "eXp World Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -28509,12 +28479,6 @@
       "isETF": false
     },
     {
-      "symbol": "GLPG",
-      "name": "Galapagos NV - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GLPI",
       "name": "Gaming and Leisure Properties, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -32412,12 +32376,6 @@
       "symbol": "HYPR",
       "name": "Hyperfine, Inc.  - Class A Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HYRM",
-      "name": "Xtrackers Risk Managed USD High Yield Strategy ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -40251,6 +40209,12 @@
       "isETF": false
     },
     {
+      "symbol": "LKFT",
+      "name": "Lakefront Biotherapeutics - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LKOR",
       "name": "FlexShares Credit-Scored US Long Corporate Bond Index Fund",
       "exchange": "BATS",
@@ -43799,6 +43763,12 @@
     {
       "symbol": "MOBBW",
       "name": "Mobilicom Limited - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MOBI",
+      "name": "Mobia Medical, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48789,6 +48759,12 @@
       "isETF": false
     },
     {
+      "symbol": "ODTX",
+      "name": "Odyssey Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ODV",
       "name": "Osisko Development Corp. Common Shares",
       "exchange": "NYSE",
@@ -49890,6 +49866,12 @@
       "symbol": "OSW",
       "name": "OneSpaWorld Holdings Limited - Common Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OTAI.U",
+      "name": "Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
