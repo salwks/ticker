@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-10T23:19:57.698930Z",
-  "count": 12617,
+  "lastUpdated": "2026-05-11T23:21:35.446022Z",
+  "count": 12615,
   "tickers": [
     {
       "symbol": "A",
@@ -9333,6 +9333,12 @@
       "isETF": false
     },
     {
+      "symbol": "BOT",
+      "name": "RoboStrategy, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BOTJ",
       "name": "Bank of the James Financial Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -9767,6 +9773,18 @@
     {
       "symbol": "BRTX",
       "name": "BioRestorative Therapies, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRUN",
+      "name": "Boost Run Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRUNW",
+      "name": "Boost Run Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10701,8 +10719,20 @@
       "isETF": false
     },
     {
+      "symbol": "BWIV",
+      "name": "Blue Water Acquisition Corp. IV Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BWIV.U",
       "name": "Blue Water Acquisition Corp. IV Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BWIV.W",
+      "name": "Blue Water Acquisition Corp. IV Warrants entitling the holder to purchase one Class A ordinary share at a price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -11710,7 +11740,7 @@
     },
     {
       "symbol": "CCHH",
-      "name": "CCH Holdings Ltd - Ordinary Shares",
+      "name": "CCH Holdings Ltd - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15693,21 +15723,9 @@
       "isETF": false
     },
     {
-      "symbol": "CTBB",
-      "name": "Qwest Corporation 6.5% Notes due 2056",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CTBI",
       "name": "Community Trust Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CTDD",
-      "name": "Qwest Corporation 6.75% Notes due 2057",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -15791,12 +15809,6 @@
     {
       "symbol": "CTKB",
       "name": "Cytek Biosciences, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CTLP",
-      "name": "Cantaloupe, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -22605,12 +22617,6 @@
       "isETF": false
     },
     {
-      "symbol": "EWCZ",
-      "name": "European Wax Center, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EWD",
       "name": "iShares MSCI Sweden ETF",
       "exchange": "NYSE ARCA",
@@ -24004,7 +24010,7 @@
     },
     {
       "symbol": "FESM",
-      "name": "Fidelity Enhanced Small Cap ETF",
+      "name": "Fidelity Enhanced Small Cap Core ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -25288,7 +25294,7 @@
     },
     {
       "symbol": "FMDE",
-      "name": "Fidelity Enhanced Mid Cap ETF",
+      "name": "Fidelity Enhanced Mid Cap Core ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -35291,12 +35297,6 @@
     {
       "symbol": "IRS",
       "name": "IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "IRS.W",
-      "name": "IRSA Inversiones Y Representaciones S.A. Warrants to purchase Common Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -72531,24 +72531,6 @@
       "isETF": false
     },
     {
-      "symbol": "WLAC",
-      "name": "Willow Lane Acquisition Corp. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "WLACU",
-      "name": "Willow Lane Acquisition Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "WLACW",
-      "name": "Willow Lane Acquisition Corp. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "WLDN",
       "name": "Willdan Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -72918,6 +72900,12 @@
       "symbol": "WSDB",
       "name": "Weitz Short Duration Bond ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "WSE",
+      "name": "Wise Group plc - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
