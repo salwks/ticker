@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-11T23:21:35.446022Z",
-  "count": 12615,
+  "lastUpdated": "2026-05-12T23:25:29.068481Z",
+  "count": 12629,
   "tickers": [
     {
       "symbol": "A",
@@ -138,6 +138,12 @@
       "symbol": "AAMI",
       "name": "Acadian Asset Management Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AAOG",
+      "name": "Leverage Shares 2X Long AAOI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -2907,6 +2913,12 @@
       "isETF": false
     },
     {
+      "symbol": "AMAU",
+      "name": "Leverage Shares 2X Long AMAT Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AMAX",
       "name": "Adaptive Hedged Multi-Asset Income ETF",
       "exchange": "NYSE ARCA",
@@ -4877,6 +4889,12 @@
     {
       "symbol": "ATAT",
       "name": "Atour Lifestyle Holdings Limited - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ATC",
+      "name": "GraniteShares Autocallable COIN ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -11379,6 +11397,12 @@
       "isETF": false
     },
     {
+      "symbol": "CATG",
+      "name": "Leverage Shares 2X Long CAT Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CATH",
       "name": "Global X S&P 500 Catholic Values ETF",
       "exchange": "NASDAQ",
@@ -13065,6 +13089,12 @@
       "isETF": false
     },
     {
+      "symbol": "CIEG",
+      "name": "Leverage Shares 2X Long CIEN Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CIEN",
       "name": "Ciena Corporation Common Stock",
       "exchange": "NYSE",
@@ -14250,6 +14280,12 @@
       "symbol": "COGT",
       "name": "Cogent Biosciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "COHH",
+      "name": "Leverage Shares 2X Long COHR Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -22131,6 +22167,12 @@
       "isETF": false
     },
     {
+      "symbol": "ETNG",
+      "name": "Leverage Shares 2X Long ETN Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ETO",
       "name": "Eaton Vance Tax-Advantage Global Dividend Opp Common Stock",
       "exchange": "NYSE",
@@ -24498,12 +24540,6 @@
       "symbol": "FIGXW",
       "name": "FIGX Capital Acquisition Corp. - one-half of one redeemable warrant.",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FIHL",
-      "name": "Fidelis Insurance Holdings Limited Common Shares",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -31464,6 +31500,12 @@
       "symbol": "HON",
       "name": "Honeywell International Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HONG",
+      "name": "Leverage Shares 2X Long HON Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -39047,12 +39089,6 @@
     {
       "symbol": "KZIA",
       "name": "Kazia Therapeutics Limited - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KZR",
-      "name": "Kezar Life Sciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -52257,6 +52293,12 @@
       "isETF": false
     },
     {
+      "symbol": "PLGO",
+      "name": "Pelagos Insurance Capital Limited Common Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "PLMK",
       "name": "Plum Acquisition Corp. IV - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -55488,6 +55530,12 @@
       "symbol": "QVMT",
       "name": "Invesco S&P 500 Concentrated QVM ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "QVOL",
+      "name": "Infrastructure Capital Nasdaq Option Income ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -61311,6 +61359,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMCP",
+      "name": "SMART Mid Cap ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SMCX",
       "name": "Defiance Daily Target 2X Long SMCI ETF",
       "exchange": "NASDAQ",
@@ -61668,6 +61722,12 @@
       "symbol": "SNDA",
       "name": "Sonida Senior Living, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SNDG",
+      "name": "Leverage Shares 2X Long SNDK Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -63171,6 +63231,12 @@
       "isETF": false
     },
     {
+      "symbol": "SSCP",
+      "name": "SMART Small Cap ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SSD",
       "name": "Simpson Manufacturing Company, Inc. Common Stock",
       "exchange": "NYSE",
@@ -63762,6 +63828,12 @@
       "symbol": "STXT",
       "name": "Strive Total Return Bond ETF",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "STXU",
+      "name": "Leverage Shares 2X Long STX Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -65789,6 +65861,12 @@
     {
       "symbol": "THYM",
       "name": "T. Rowe Price High Income Municipal ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "THYP",
+      "name": "21shares Hyperliquid ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68397,12 +68475,6 @@
       "isETF": false
     },
     {
-      "symbol": "UDMY",
-      "name": "Udemy, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "UDN",
       "name": "Invesco DB USD Index Bearish ETF",
       "exchange": "NYSE ARCA",
@@ -69807,6 +69879,12 @@
       "isETF": false
     },
     {
+      "symbol": "VAIE",
+      "name": "VegaShares US Equity Autocallable Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "VAL",
       "name": "Valaris Limited Common Shares",
       "exchange": "NYSE",
@@ -70530,6 +70608,12 @@
       "symbol": "VICR",
       "name": "Vicor Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VIDA",
+      "name": "VIDA Global Inc. Class A Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
