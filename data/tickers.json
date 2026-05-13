@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-12T23:25:29.068481Z",
-  "count": 12629,
+  "lastUpdated": "2026-05-13T23:26:51.227647Z",
+  "count": 12632,
   "tickers": [
     {
       "symbol": "A",
@@ -2487,6 +2487,12 @@
       "isETF": false
     },
     {
+      "symbol": "ALDB",
+      "name": "Aptus Laddered Deep Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ALDF",
       "name": "Aldel Financial II Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -4176,18 +4182,6 @@
       "symbol": "ARE",
       "name": "Alexandria Real Estate Equities, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AREB",
-      "name": "American Rebel Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AREBW",
-      "name": "American Rebel Holdings, Inc. - warrants",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -8535,12 +8529,6 @@
       "isETF": false
     },
     {
-      "symbol": "BKYI",
-      "name": "BIO-key International, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BL",
       "name": "BlackLine, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -9600,6 +9588,12 @@
       "symbol": "BREW",
       "name": "Corgi Coffee & Energy Drinks ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BREZU",
+      "name": "Breeze Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -15952,7 +15946,7 @@
     },
     {
       "symbol": "CTW",
-      "name": "CTW Cayman - Class A Ordinary Shares",
+      "name": "CTW - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -21909,12 +21903,6 @@
       "isETF": false
     },
     {
-      "symbol": "ESIX",
-      "name": "State Street SPDR S&P SmallCap 600 ESG ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "ESK",
       "name": "REX-Osprey ETH + Staking ETF",
       "exchange": "BATS",
@@ -26007,6 +25995,12 @@
       "isETF": false
     },
     {
+      "symbol": "FRVO",
+      "name": "Fervo Energy Company - Class A common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FRWD",
       "name": "Nomura Transformational Technologies ETF",
       "exchange": "NASDAQ",
@@ -28743,6 +28737,12 @@
       "isETF": false
     },
     {
+      "symbol": "GMRS",
+      "name": "GMR Solutions Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "GMTL",
       "name": "Guardian Metal Resources PLC ADS",
       "exchange": "AMEX",
@@ -29064,6 +29064,12 @@
       "symbol": "GOVI",
       "name": "Invesco Equal Weight 0-30 Year Treasury ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GOVM",
+      "name": "iShares 1-10 Year Treasury Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40809,9 +40815,9 @@
       "isETF": false
     },
     {
-      "symbol": "LQIG",
-      "name": "State Street SPDR MarketAxess Investment Grade 400 Corporate Bond ETF",
-      "exchange": "NYSE ARCA",
+      "symbol": "LQID",
+      "name": "Kurv Enhanced Short Maturity ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41885,12 +41891,6 @@
     {
       "symbol": "MBND",
       "name": "State Street Nuveen Municipal Bond ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "MBNE",
-      "name": "State Street Nuveen Municipal Bond ESG ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -44493,6 +44493,12 @@
       "isETF": false
     },
     {
+      "symbol": "MSR",
+      "name": "GraniteShares Autocallable MSTR ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MSS",
       "name": "Maison Solutions Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -46605,6 +46611,12 @@
       "isETF": false
     },
     {
+      "symbol": "NISM",
+      "name": "NYLI International Small-Mid Cap Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NITE",
       "name": "The Nightview Fund NITE",
       "exchange": "NYSE ARCA",
@@ -48426,12 +48438,6 @@
       "symbol": "NZF",
       "name": "Nuveen Municipal Credit Income Fund",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NZUS",
-      "name": "State Street SPDR MSCI USA Climate Paris Aligned ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58017,6 +58023,12 @@
       "isETF": false
     },
     {
+      "symbol": "RTB",
+      "name": "RTB Digital, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RTH",
       "name": "VanEck Retail ETF",
       "exchange": "NASDAQ",
@@ -58188,12 +58200,6 @@
       "symbol": "RVTY",
       "name": "Revvity, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RVYL",
-      "name": "Ryvyl Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -72258,6 +72264,18 @@
       "symbol": "WEN",
       "name": "Wendy's Company (The) - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WENC",
+      "name": "West Enclave Merger Corp. Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WENC.R",
+      "name": "West Enclave Merger Corp. Rights, each Right to acquire one-tenth (1/10) of one Ordinary Share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
