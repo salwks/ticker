@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-13T23:26:51.227647Z",
-  "count": 12632,
+  "lastUpdated": "2026-05-14T23:20:55.732836Z",
+  "count": 12634,
   "tickers": [
     {
       "symbol": "A",
@@ -1989,6 +1989,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIAI",
+      "name": "AIAI Holdings Corporation - Class A common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AIB",
       "name": "BlockchAIn Digital Infrastructure, Inc Common Shares",
       "exchange": "AMEX",
@@ -2465,24 +2471,6 @@
     {
       "symbol": "ALCO",
       "name": "Alico, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALCY",
-      "name": "Alchemy Investments Acquisition Corp 1 - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALCYU",
-      "name": "Alchemy Investments Acquisition Corp 1 - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALCYW",
-      "name": "Alchemy Investments Acquisition Corp 1 - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10815,6 +10803,12 @@
       "isETF": false
     },
     {
+      "symbol": "BXDC",
+      "name": "Blackstone Digital Infrastructure Trust Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BXMT",
       "name": "Blackstone Mortgage Trust, Inc. Common Stock",
       "exchange": "NYSE",
@@ -11567,6 +11561,12 @@
     {
       "symbol": "CBRL",
       "name": "Cracker Barrel Old Country Store, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17901,12 +17901,6 @@
       "isETF": false
     },
     {
-      "symbol": "DHY.R",
-      "name": "Credit Suisse High Yield Credit Fund Rights (expiring May 14, 2026) Rights",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "DIA",
       "name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
       "exchange": "NYSE ARCA",
@@ -21791,6 +21785,12 @@
     {
       "symbol": "ERO",
       "name": "Ero Copper Corp. Common Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "EROK",
+      "name": "EagleRock Land, LLC Class A shares representing limited liability company interests",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -29787,6 +29787,12 @@
       "isETF": false
     },
     {
+      "symbol": "GSRVU",
+      "name": "GSR V Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GSSC",
       "name": "GS ActiveBeta U.S. Small Cap Equity ETF",
       "exchange": "NYSE ARCA",
@@ -29946,6 +29952,12 @@
       "symbol": "GTN.A",
       "name": "Gray Media, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GTND",
+      "name": "Goaltender ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -40545,6 +40557,12 @@
       "isETF": false
     },
     {
+      "symbol": "LOHA",
+      "name": "Roundhill HALO ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LOKV",
       "name": "Live Oak Acquisition Corp. V - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -45078,6 +45096,12 @@
       "symbol": "MWA",
       "name": "MUELLER WATER PRODUCTS Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MWC",
+      "name": "Micware Co., Ltd. - American Depositary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58167,12 +58191,6 @@
       "isETF": false
     },
     {
-      "symbol": "RVPH",
-      "name": "Reviva Pharmaceuticals Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RVSB",
       "name": "Riverview Bancorp Inc - Common Stock",
       "exchange": "NASDAQ",
@@ -61709,12 +61727,6 @@
     {
       "symbol": "SNBR",
       "name": "Sleep Number Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SNCY",
-      "name": "Sun Country Airlines Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66087,6 +66099,12 @@
       "isETF": false
     },
     {
+      "symbol": "TKNS",
+      "name": "21Shares Active Crypto ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TKO",
       "name": "TKO Group Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -66846,12 +66864,6 @@
       "symbol": "TPGXL",
       "name": "TPG Inc. - 6.950% Fixed-Rate Junior Subordinated Notes due 2064",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TPH",
-      "name": "Tri Pointe Homes, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -70617,12 +70629,6 @@
       "isETF": false
     },
     {
-      "symbol": "VIDA",
-      "name": "VIDA Global Inc. Class A Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "VIDI",
       "name": "Vident International Equity Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -72179,6 +72185,12 @@
     {
       "symbol": "WDNA",
       "name": "WisdomTree BioRevolution Fund",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "WDRN",
+      "name": "WisdomTree Physical AI, Humanoids and Drones Fund",
       "exchange": "BATS",
       "isETF": false
     },
