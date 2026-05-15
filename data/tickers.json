@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-14T23:20:55.732836Z",
-  "count": 12634,
+  "lastUpdated": "2026-05-15T23:21:46.626569Z",
+  "count": 12646,
   "tickers": [
     {
       "symbol": "A",
@@ -3777,12 +3777,6 @@
       "isETF": false
     },
     {
-      "symbol": "APLS",
-      "name": "Apellis Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "APLU",
       "name": "Allspring Core Plus ETF",
       "exchange": "NYSE ARCA",
@@ -5358,6 +5352,12 @@
       "symbol": "AVAV",
       "name": "AeroVironment, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AVAZ",
+      "name": "2x Avalanche ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -7521,6 +7521,12 @@
       "isETF": false
     },
     {
+      "symbol": "BFH$B",
+      "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BFIX",
       "name": "Build Bond Innovation ETF",
       "exchange": "NYSE ARCA",
@@ -7920,6 +7926,12 @@
       "symbol": "BHYB",
       "name": "Xtrackers USD High Yield BB-B ex Financials ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BHYP",
+      "name": "Common Shares of Beneficial Interest of Bitwise Hyperliquid ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -11559,6 +11571,12 @@
       "isETF": false
     },
     {
+      "symbol": "CBRG",
+      "name": "Leverage Shares 2X Long CBRS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CBRL",
       "name": "Cracker Barrel Old Country Store, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -11837,12 +11855,6 @@
     {
       "symbol": "CCLD",
       "name": "CareCloud, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCLDO",
-      "name": "CareCloud, Inc. - 8.75% Series B Cumulative Redeemable Perpetual Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15555,12 +15567,6 @@
       "isETF": false
     },
     {
-      "symbol": "CSGS",
-      "name": "CSG Systems International, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CSHI",
       "name": "NEOS Enhanced Income 1-3 Month T-Bill ETF",
       "exchange": "NYSE ARCA",
@@ -19191,6 +19197,18 @@
       "isETF": false
     },
     {
+      "symbol": "DUKR",
+      "name": "DUKE Robotics Corp. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DUKRW",
+      "name": "DUKE Robotics Corp. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DUKX",
       "name": "Ocean Park International ETF",
       "exchange": "NASDAQ",
@@ -20550,12 +20568,6 @@
       "symbol": "EH",
       "name": "EHang Holdings Limited - ADS",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EHAB",
-      "name": "Enhabit, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -22197,6 +22209,12 @@
       "isETF": false
     },
     {
+      "symbol": "ETSS.U",
+      "name": "Energy Transition Special Opportunities Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "ETSY",
       "name": "Etsy, Inc. Common Stock",
       "exchange": "NYSE",
@@ -22895,6 +22913,18 @@
     {
       "symbol": "EXUS",
       "name": "Nomura Focused International Core ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EXYN",
+      "name": "Exyn Technologies, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EXYNW",
+      "name": "Exyn Technologies, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30021,6 +30051,12 @@
       "isETF": false
     },
     {
+      "symbol": "GUACU",
+      "name": "Berto Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GUG",
       "name": "Guggenheim Active Allocation Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -33297,6 +33333,12 @@
       "isETF": false
     },
     {
+      "symbol": "IDACU",
+      "name": "Iron Dome Acquisition I Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IDAI",
       "name": "T Stamp Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -35664,12 +35706,6 @@
       "symbol": "ITOC",
       "name": "iTonic Holdings Ltd - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ITOL",
-      "name": "Tema International Durable Quality ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -44055,12 +44091,6 @@
       "isETF": false
     },
     {
-      "symbol": "MPX",
-      "name": "Marine Products Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "MQ",
       "name": "Marqeta, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -45375,8 +45405,26 @@
       "isETF": false
     },
     {
+      "symbol": "MYX",
+      "name": "Maywood Acquisition Corp. 2 - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYXXR",
+      "name": "Maywood Acquisition Corp. 2 - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MYXXU",
       "name": "Maywood Acquisition Corp. 2 - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYXXW",
+      "name": "Maywood Acquisition Corp. 2 - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48450,6 +48498,12 @@
       "symbol": "NYXH",
       "name": "Nyxoah SA - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NYYY",
+      "name": "xETFs NVDA Daily Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -54030,6 +54084,12 @@
       "symbol": "PTA",
       "name": "Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PTACU",
+      "name": "Patriot Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -63909,6 +63969,12 @@
       "isETF": false
     },
     {
+      "symbol": "SUIL",
+      "name": "2x Sui ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SUIS",
       "name": "Canary Staked SUI ETF",
       "exchange": "NASDAQ",
@@ -64433,12 +64499,6 @@
     {
       "symbol": "SZK",
       "name": "ProShares UltraShort Consumer Staples",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "SZNE",
-      "name": "Pacer CFRA-Stovall Equal Weight Seasonal Rotation ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -68241,6 +68301,12 @@
       "isETF": false
     },
     {
+      "symbol": "TYYY",
+      "name": "xETFs TSLA Daily Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TZA",
       "name": "Direxion Small Cap Bear 3X ETF",
       "exchange": "NYSE ARCA",
@@ -70626,6 +70692,12 @@
       "symbol": "VICR",
       "name": "Vicor Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VIDA",
+      "name": "VIDA Global Inc. Class A Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
