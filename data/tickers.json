@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-17T23:20:51.625526Z",
-  "count": 12646,
+  "lastUpdated": "2026-05-18T23:25:32.077981Z",
+  "count": 12647,
   "tickers": [
     {
       "symbol": "A",
@@ -1641,12 +1641,6 @@
       "isETF": false
     },
     {
-      "symbol": "AGH",
-      "name": "Aureus Greenway Holdings Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "AGI",
       "name": "Alamos Gold Inc. Class A Common Shares",
       "exchange": "NYSE",
@@ -2093,6 +2087,12 @@
     {
       "symbol": "AIIOW",
       "name": "Robo.ai Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AIIR",
+      "name": "Air Global PLC - Ordinary shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5195,6 +5195,12 @@
     {
       "symbol": "AUBN",
       "name": "Auburn National Bancorporation, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AUC",
+      "name": "ATIF Holdings Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -11037,12 +11043,6 @@
       "isETF": false
     },
     {
-      "symbol": "CAEP",
-      "name": "Cantor Equity Partners III, Inc. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CAF",
       "name": "Morgan Stanley China A Share Fund Inc. Common Stock",
       "exchange": "NYSE",
@@ -16113,6 +16113,12 @@
       "isETF": false
     },
     {
+      "symbol": "CVGD",
+      "name": "CresAlta Global Dividend ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CVGI",
       "name": "Commercial Vehicle Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -16229,6 +16235,12 @@
     {
       "symbol": "CVSB",
       "name": "Calvert Ultra-Short Investment Grade ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CVSM",
+      "name": "CresAlta Small and Mid-Cap ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18222,6 +18234,12 @@
       "symbol": "DLLL",
       "name": "GraniteShares 2x Long DELL Daily ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DLMY",
+      "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - May",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -23487,12 +23505,6 @@
       "isETF": false
     },
     {
-      "symbol": "FCO",
-      "name": "abrdn Global Income Fund, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "FCOM",
       "name": "Fidelity MSCI Communication Services Index ETF",
       "exchange": "NYSE ARCA",
@@ -25281,6 +25293,18 @@
       "isETF": false
     },
     {
+      "symbol": "FMAC",
+      "name": "Future Money Acquisition Corporation - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FMACR",
+      "name": "Future Money Acquisition Corporation - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FMACU",
       "name": "Future Money Acquisition Corporation - Units",
       "exchange": "NASDAQ",
@@ -25674,12 +25698,6 @@
       "symbol": "FOR",
       "name": "Forestar Group Inc Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "FORA",
-      "name": "Forian Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -35085,8 +35103,20 @@
       "isETF": false
     },
     {
+      "symbol": "IPFX",
+      "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IPFXU",
       "name": "Inflection Point Acquisition Corp. VI - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IPFXW",
+      "name": "Inflection Point Acquisition Corp. VI - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -39741,6 +39771,12 @@
       "isETF": false
     },
     {
+      "symbol": "LEND",
+      "name": "SEI High Yield Bond & Alternative Credit ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LENS",
       "name": "Sarmaya Thematic ETF",
       "exchange": "BATS",
@@ -39917,12 +39953,6 @@
     {
       "symbol": "LFWD",
       "name": "Lifeward Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LGCB",
-      "name": "Linkage Global Inc - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51159,6 +51189,12 @@
       "isETF": false
     },
     {
+      "symbol": "PCLC",
+      "name": "Polen 5Perspectives Large Growth ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PCLG",
       "name": "Polen Focus Growth ETF",
       "exchange": "NYSE ARCA",
@@ -51246,6 +51282,12 @@
       "symbol": "PCSC",
       "name": "Perceptive Capital Solutions Corp - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PCSG",
+      "name": "Polen 5Perspectives Small-Mid Growth ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -54299,6 +54341,12 @@
     {
       "symbol": "PURR",
       "name": "Hyperliquid Strategies Inc - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PUSA",
+      "name": "Aureus Greenway Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69903,6 +69951,12 @@
       "isETF": false
     },
     {
+      "symbol": "UZX",
+      "name": "Linkage Global Inc - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "V",
       "name": "Visa Inc.",
       "exchange": "NYSE",
@@ -73869,48 +73923,6 @@
       "isETF": false
     },
     {
-      "symbol": "XHYC",
-      "name": "BondBloxx USD High Yield Bond Consumer Cyclicals Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XHYD",
-      "name": "BondBloxx USD High Yield Bond Consumer Non-Cyclicals Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XHYE",
-      "name": "BondBloxx USD High Yield Bond Energy Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XHYF",
-      "name": "BondBloxx USD High Yield Bond Financial & REIT Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XHYH",
-      "name": "BondBloxx USD High Yield Bond Healthcare Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XHYI",
-      "name": "BondBloxx USD High Yield Bond Industrial Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XHYT",
-      "name": "BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "XIDE",
       "name": "FT Vest U.S. Equity Buffer & Premium Income  ETF - December",
       "exchange": "BATS",
@@ -74142,6 +74154,12 @@
       "symbol": "XMAR",
       "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - March",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XMAX",
+      "name": "XMAX, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -74739,12 +74757,6 @@
       "isETF": false
     },
     {
-      "symbol": "XWIN",
-      "name": "XMAX, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "XXI",
       "name": "Twenty One Capital, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -75305,12 +75317,6 @@
     {
       "symbol": "ZAZZT",
       "name": "Tick Pilot Test Stock Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ZBAI",
-      "name": "ATIF Holdings Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
