@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-18T23:25:32.077981Z",
-  "count": 12647,
+  "lastUpdated": "2026-05-19T23:27:41.867164Z",
+  "count": 12653,
   "tickers": [
     {
       "symbol": "A",
@@ -1875,6 +1875,12 @@
       "isETF": false
     },
     {
+      "symbol": "AHD",
+      "name": "GraniteShares Autocallable HOOD ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AHG",
       "name": "Akso Health Group - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -2897,6 +2903,12 @@
     {
       "symbol": "AMAL",
       "name": "Amalgamated Financial Corp. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMAN",
+      "name": "Amanat Acquisition Corp - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -18442,7 +18454,7 @@
     },
     {
       "symbol": "DMRC",
-      "name": "Digimarc Corporation - Common Stock",
+      "name": "Digimarc Parent, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -19151,12 +19163,6 @@
     {
       "symbol": "DTST",
       "name": "Data Storage Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DTSTW",
-      "name": "Data Storage Corporation - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30411,6 +30417,12 @@
       "isETF": false
     },
     {
+      "symbol": "HALX",
+      "name": "Tuttle Capital Heavy Assets Low Obsolescence ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HAO",
       "name": "Haoxi Health Technology Limited - Class A Ord Share",
       "exchange": "NASDAQ",
@@ -31242,6 +31254,12 @@
       "symbol": "HIPS",
       "name": "GraniteShares HIPS US High Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HIS",
+      "name": "Humilis US Focused Opportunities ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38073,12 +38091,6 @@
       "isETF": false
     },
     {
-      "symbol": "KFS",
-      "name": "Kingsway Financial Services, Inc. Common Stock (DE)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "KFY",
       "name": "Korn Ferry Common Stock",
       "exchange": "NYSE",
@@ -39108,6 +39120,12 @@
       "symbol": "KWT",
       "name": "iShares MSCI Kuwait ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "KWY",
+      "name": "Kingsway Corporation Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -52353,6 +52371,12 @@
       "isETF": false
     },
     {
+      "symbol": "PLA",
+      "name": "GraniteShares Autocallable PLTR ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PLAB",
       "name": "Photronics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -61275,12 +61299,6 @@
       "isETF": false
     },
     {
-      "symbol": "SLNO",
-      "name": "Soleno Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SLNZ",
       "name": "TCW Senior Loan ETF",
       "exchange": "NYSE",
@@ -68313,6 +68331,12 @@
       "isETF": false
     },
     {
+      "symbol": "TYG.V",
+      "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "TYGO",
       "name": "Tigo Energy, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -70338,6 +70362,18 @@
       "symbol": "VEA",
       "name": "Vanguard FTSE Developed Markets ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VECA",
+      "name": "Vernal Capital Acquisition Corp. Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "VECA.R",
+      "name": "Vernal Capital Acquisition Corp. Rights, each right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
