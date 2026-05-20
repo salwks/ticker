@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-19T23:27:41.867164Z",
-  "count": 12653,
+  "lastUpdated": "2026-05-20T23:29:47.523720Z",
+  "count": 12662,
   "tickers": [
     {
       "symbol": "A",
@@ -2908,7 +2908,7 @@
     },
     {
       "symbol": "AMAN",
-      "name": "Amanat Acquisition Corp - Ordinary Shares",
+      "name": "Amanat Acquisition Corp - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3227,6 +3227,12 @@
     {
       "symbol": "AMSF",
       "name": "AMERISAFE, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMSS",
+      "name": "AMASS Brands Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7566,6 +7572,12 @@
       "symbol": "BFLB",
       "name": "BufferLABS US Equity Dynamic Buffer ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BFLX",
+      "name": "iShares Flexible Equity Active ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -21027,6 +21039,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMEM",
+      "name": "Sophus Capital Emerging Market ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EMEQ",
       "name": "Nomura Focused Emerging Markets Equity ETF",
       "exchange": "NASDAQ",
@@ -34017,18 +34035,6 @@
       "isETF": false
     },
     {
-      "symbol": "IINN",
-      "name": "Inspira Technologies Oxy B.H.N. Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IINNW",
-      "name": "Inspira Technologies Oxy B.H.N. Ltd. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IIPR",
       "name": "Innovative Industrial Properties, Inc. Common Stock",
       "exchange": "NYSE",
@@ -39555,6 +39561,12 @@
       "isETF": false
     },
     {
+      "symbol": "LCLN",
+      "name": "Lincoln International, Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "LCNB",
       "name": "LCNB Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -42252,12 +42264,6 @@
       "symbol": "MCVT",
       "name": "Miller Convertible Total Return ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MCW",
-      "name": "Mister Car Wash, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -49713,6 +49719,12 @@
       "isETF": false
     },
     {
+      "symbol": "OPTH",
+      "name": "Optimi Health Corp. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "OPTT",
       "name": "Ocean Power Technologies, Inc. Common Stock",
       "exchange": "AMEX",
@@ -54633,8 +54645,20 @@
       "isETF": false
     },
     {
+      "symbol": "QADR",
+      "name": "QDRO Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QADRU",
       "name": "QDRO Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QADRW",
+      "name": "QDRO Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -55515,6 +55539,18 @@
       "isETF": false
     },
     {
+      "symbol": "QTEX",
+      "name": "QTREX Quantum Ltd. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QTEXW",
+      "name": "QTREX Quantum Ltd. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QTI",
       "name": "QT Imaging Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -55824,6 +55860,12 @@
       "symbol": "RAC.W",
       "name": "Rithm Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RACC",
+      "name": "Research Alliance Corporation III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -57897,8 +57939,20 @@
       "isETF": false
     },
     {
+      "symbol": "RREV",
+      "name": "RRE Ventures Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RREVU",
       "name": "RRE Ventures Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RREVW",
+      "name": "RRE Ventures Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
