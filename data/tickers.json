@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-20T23:29:47.523720Z",
-  "count": 12662,
+  "lastUpdated": "2026-05-21T23:25:05.144399Z",
+  "count": 12677,
   "tickers": [
     {
       "symbol": "A",
@@ -3957,6 +3957,12 @@
       "isETF": false
     },
     {
+      "symbol": "APURU",
+      "name": "Aperture AC - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "APUS",
       "name": "Apimeds Pharmaceuticals US, Inc. Common Stock",
       "exchange": "AMEX",
@@ -4853,6 +4859,18 @@
     {
       "symbol": "ASTX",
       "name": "Tradr 2X Long ASTS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ASTY",
+      "name": "Defiance Daily Target 2X Long ASTS ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ASUP",
+      "name": "T-REX 2X Long ASTS Daily Target ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -8343,18 +8361,6 @@
       "isETF": false
     },
     {
-      "symbol": "BK",
-      "name": "The Bank of New York Mellon Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BK$K",
-      "name": "The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BKAG",
       "name": "BNY Mellon Core Bond ETF",
       "exchange": "NYSE ARCA",
@@ -9216,6 +9222,18 @@
       "symbol": "BNTX",
       "name": "BioNTech SE - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BNY",
+      "name": "The Bank of New York Mellon Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BNY$K",
+      "name": "The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -14178,6 +14196,12 @@
       "symbol": "CNXT",
       "name": "VanEck ChiNext Innovators ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CNXU",
+      "name": "Conexeu Sciences Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -19551,6 +19575,12 @@
       "isETF": false
     },
     {
+      "symbol": "DWWN",
+      "name": "Principal Long Duration ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DWX",
       "name": "State Street SPDR S&P International Dividend ETF",
       "exchange": "NYSE ARCA",
@@ -21216,6 +21246,12 @@
       "symbol": "EMR",
       "name": "Emerson Electric Company Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "EMSC",
+      "name": "Sophus Capital Emerging Market Small Cap ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -23387,6 +23423,12 @@
     {
       "symbol": "FBYD",
       "name": "Falcon's Beyond Global, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FBYDP",
+      "name": "Falcon's Beyond Global, Inc. - 11% Series B Cumulative Convertible Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -28110,6 +28152,12 @@
       "symbol": "GIC",
       "name": "Global Industrial Company Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GIEQ",
+      "name": "Goldman Sachs Data Enhanced International Equity ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38673,8 +38721,20 @@
       "isETF": false
     },
     {
+      "symbol": "KPET",
+      "name": "KPET Ultra Paceline Corporation Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "KPET.U",
       "name": "KPET Ultra Paceline Corporation Units, each consisting of one Class A Ordinary Share and one-sixth of one Warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "KPET.W",
+      "name": "KPET Ultra Paceline Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -40308,6 +40368,12 @@
       "symbol": "LITS",
       "name": "Lite Strategy, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LITU",
+      "name": "T-REX 2X Long LITE Daily Target ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48873,6 +48939,12 @@
       "isETF": false
     },
     {
+      "symbol": "OCTVV",
+      "name": "Octave Intelligence plc - Class B Ordinary Shares When Issued",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "OCTW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Oct ETF",
       "exchange": "BATS",
@@ -49086,6 +49158,12 @@
       "symbol": "OGSP",
       "name": "Obra High Grade Structured Products ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "OHACU",
+      "name": "Oceanhawk Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52329,6 +52407,12 @@
       "isETF": false
     },
     {
+      "symbol": "PJUS",
+      "name": "PGIM Jennison U.S. Core Equity ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PK",
       "name": "Park Hotels & Resorts Inc. Common Stock",
       "exchange": "NYSE",
@@ -53621,12 +53705,6 @@
     {
       "symbol": "PRTA",
       "name": "Prothena Corporation plc - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PRTC",
-      "name": "PureTech Health plc - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -57240,6 +57318,12 @@
       "symbol": "RIVN",
       "name": "Rivian Automotive, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RIZE",
+      "name": "Principal Inflation Protection ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -62304,12 +62388,6 @@
       "symbol": "SONY",
       "name": "Sony Group Corporation American Depositary Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SOPA",
-      "name": "Society Pass Incorporated - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68385,8 +68463,8 @@
       "isETF": false
     },
     {
-      "symbol": "TYG.V",
-      "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights when issued",
+      "symbol": "TYG.R",
+      "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -69864,6 +69942,12 @@
       "symbol": "UUP",
       "name": "Invesco DB USD Index Bullish Fund ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "UUPP",
+      "name": "Principal CLO ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72353,6 +72437,12 @@
     {
       "symbol": "WDCX",
       "name": "Tradr 2X Long WDC Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "WDE",
+      "name": "Principal Securitized Debt ETF",
       "exchange": "BATS",
       "isETF": false
     },
