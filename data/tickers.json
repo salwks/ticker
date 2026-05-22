@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-21T23:25:05.144399Z",
-  "count": 12677,
+  "lastUpdated": "2026-05-22T23:26:23.642029Z",
+  "count": 12682,
   "tickers": [
     {
       "symbol": "A",
@@ -1709,6 +1709,12 @@
     {
       "symbol": "AGM$H",
       "name": "Federal Agricultural Mortgage Corporation 6.500% Non-Cumulative Preferred Stock, Series H",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AGM$I",
+      "name": "Federal Agricultural Mortgage Corporation 6.875% Non-Cumulative Preferred Stock, Series I",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -9711,6 +9717,12 @@
       "isETF": false
     },
     {
+      "symbol": "BRKHU",
+      "name": "Burtech Acquisition Corp II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BRKR",
       "name": "Bruker Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -10335,12 +10347,6 @@
       "isETF": false
     },
     {
-      "symbol": "BTOP",
-      "name": "Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "BTOT",
       "name": "iShares Total USD Fixed Income Market ETF",
       "exchange": "NYSE ARCA",
@@ -10740,12 +10746,6 @@
       "symbol": "BWBBP",
       "name": "Bridgewater Bancshares, Inc. - Depositary Shares, Each Representing a 1/100th Interest in a Share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series A",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BWEB",
-      "name": "Bitwise Web3 ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -18490,7 +18490,7 @@
     },
     {
       "symbol": "DMRC",
-      "name": "Digimarc Parent, Inc. - Common Stock",
+      "name": "Digimarc Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -19966,31 +19966,31 @@
     },
     {
       "symbol": "ECC",
-      "name": "Eagle Point Credit Company Inc. Common Stock",
+      "name": "Eagle Point Credit Company Common Share of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "ECC$D",
-      "name": "Eagle Point Credit Company Inc. 6.75% Series D Preferred Stock",
+      "name": "Eagle Point Credit Company 6.75% Series D Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "ECCC",
-      "name": "Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031",
+      "name": "Eagle Point Credit Company 6.50% Series C Term Preferred Stock due 2031",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "ECCU",
-      "name": "Eagle Point Credit Company Inc. 7.75% Notes due 2030",
+      "name": "Eagle Point Credit Company 7.75% Notes due 2030",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "ECCV",
-      "name": "Eagle Point Credit Company Inc. 5.375% Notes due 2029",
+      "name": "Eagle Point Credit Company 5.375% Notes due 2029",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -26916,6 +26916,12 @@
       "symbol": "FXA",
       "name": "Invesco CurrencyShares Australian Dollar Trust",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "FXACU",
+      "name": "FortuneX Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -51621,6 +51627,12 @@
       "isETF": false
     },
     {
+      "symbol": "PECEU",
+      "name": "Peace Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PECO",
       "name": "Phillips Edison & Company, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -58899,8 +58911,26 @@
       "isETF": false
     },
     {
+      "symbol": "SAGU",
+      "name": "Shreya Acquisition Group Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SAGU.R",
+      "name": "Shreya Acquisition Group Rights, each entitling the holder to receive one-fourth of one Class A Ordinary Share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SAGU.U",
       "name": "Shreya Acquisition Group Units, each consisting of one Class A Ordinary Share, one redeemable warrant and one right entitling the holder to one-fourth of one Class A Ordinary Share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SAGU.W",
+      "name": "Shreya Acquisition Group Redeemable warrants, entitling the holder to purchase one Class A Ordinary Share at $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
