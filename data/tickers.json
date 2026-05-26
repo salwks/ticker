@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-25T23:26:55.805466Z",
-  "count": 12682,
+  "lastUpdated": "2026-05-26T23:27:21.149150Z",
+  "count": 12676,
   "tickers": [
     {
       "symbol": "A",
@@ -10311,20 +10311,8 @@
       "isETF": false
     },
     {
-      "symbol": "BTM",
-      "name": "Bitcoin Depot Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BTMD",
       "name": "Biote Corp. - Class A common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BTMWW",
-      "name": "Bitcoin Depot Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16066,7 +16054,7 @@
     },
     {
       "symbol": "CUPR",
-      "name": "Cuprina Holdings (Cayman) Limited - Ordinary shares",
+      "name": "Cuprina Holdings (Cayman) Limited - Class A Ordinary shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -23613,12 +23601,6 @@
       "isETF": false
     },
     {
-      "symbol": "FCRX",
-      "name": "Crescent Capital BDC, Inc. 5.00% Notes due 2026",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "FCSH",
       "name": "Federated Hermes Short Duration Corporate ETF",
       "exchange": "NYSE ARCA",
@@ -28179,27 +28161,9 @@
       "isETF": false
     },
     {
-      "symbol": "GIG",
-      "name": "GigCapital7 Corp. - Class A Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GIGB",
       "name": "Goldman Sachs Access Investment Grade Corporate Bond ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "GIGGU",
-      "name": "GigCapital7 Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GIGGW",
-      "name": "GigCapital7 Corp. - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -28522,13 +28486,13 @@
     },
     {
       "symbol": "GLIBA",
-      "name": "GCI Liberty, Inc. - Series A GCI Group Common Stock",
+      "name": "Liberty Capital Corporation - Series A GCI Group Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "GLIBK",
-      "name": "GCI Liberty, Inc. - Series C GCI Group Common Stock",
+      "name": "Liberty Capital Corporation - Series C GCI Group Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30882,6 +30846,18 @@
       "symbol": "HDMV",
       "name": "First Trust Horizon Managed Volatility Developed International ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HDRN",
+      "name": "Hadron Energy, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HDRNW",
+      "name": "Hadron Energy, Inc. - Warrant",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -47573,12 +47549,6 @@
     {
       "symbol": "NRXP",
       "name": "NRX Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NRXPW",
-      "name": "NRX Pharmaceuticals, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69689,12 +69659,6 @@
     {
       "symbol": "USGO",
       "name": "U.S. GoldMining Inc. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "USGOW",
-      "name": "U.S. GoldMining Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
