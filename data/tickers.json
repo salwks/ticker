@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-26T23:27:21.149150Z",
-  "count": 12676,
+  "lastUpdated": "2026-05-27T23:29:39.224058Z",
+  "count": 12688,
   "tickers": [
     {
       "symbol": "A",
@@ -1569,12 +1569,6 @@
       "isETF": false
     },
     {
-      "symbol": "AGAE",
-      "name": "Allied Gaming & Entertainment Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "AGBK",
       "name": "AGI Inc Class A Common Shares",
       "exchange": "NYSE",
@@ -2028,6 +2022,12 @@
       "symbol": "AIEQ",
       "name": "Amplify AI Powered Equity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AIFA",
+      "name": "All In FutureTech Alliance, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -9795,6 +9795,12 @@
       "isETF": false
     },
     {
+      "symbol": "BROL",
+      "name": "Baron Risk Optimized Large Cap ETF",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "BROS",
       "name": "Dutch Bros Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -10254,6 +10260,12 @@
       "symbol": "BTCT",
       "name": "BTC Digital Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BTCU",
+      "name": "Direxion Daily Bitcoin Bull 2X ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -11729,6 +11741,24 @@
     {
       "symbol": "CCAP",
       "name": "Crescent Capital BDC, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCAQ",
+      "name": "Collective Acquisition Corp. - Class A ordinary shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCAQU",
+      "name": "Collective Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCAQW",
+      "name": "Collective Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17751,6 +17781,12 @@
       "isETF": false
     },
     {
+      "symbol": "DGAC.U",
+      "name": "Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "DGAP",
       "name": "FT Vest U.S. Equity Buffer & Digital Return ETF - April",
       "exchange": "BATS",
@@ -22581,6 +22617,12 @@
       "isETF": false
     },
     {
+      "symbol": "EVMU",
+      "name": "Direxion Daily Ether Bull 2X ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "EVN",
       "name": "Eaton Vance Municipal Income Trust Common Stock",
       "exchange": "NYSE",
@@ -23879,6 +23921,18 @@
     {
       "symbol": "FDX",
       "name": "FedEx Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FDX.V",
+      "name": "FedEx Corporation Common Stock When-Issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FDXF.V",
+      "name": "FedEx Freight Holding Company, Inc. Common Stock When-Issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -35211,24 +35265,6 @@
       "isETF": false
     },
     {
-      "symbol": "IPOD",
-      "name": "Dune Acquisition Corporation II - Class A ordinary shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPODU",
-      "name": "Dune Acquisition Corporation II - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPODW",
-      "name": "Dune Acquisition Corporation II - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IPOS",
       "name": "Renaissance Capital Greenwich Fund",
       "exchange": "NYSE ARCA",
@@ -44211,6 +44247,12 @@
       "isETF": false
     },
     {
+      "symbol": "MRA",
+      "name": "GraniteShares Autocallable MARA ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MRAL",
       "name": "GraniteShares 2x Long MARA Daily ETF",
       "exchange": "NASDAQ",
@@ -46900,7 +46942,7 @@
     },
     {
       "symbol": "NL",
-      "name": "NL Industries, Inc. Common Stock",
+      "name": "NLI Holdings, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -48269,6 +48311,12 @@
     {
       "symbol": "NVRI",
       "name": "Enviri Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NVRI.V",
+      "name": "Enviri Corporation Common Stock When-Issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -50076,6 +50124,12 @@
       "symbol": "OSS",
       "name": "One Stop Systems, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OSSL",
+      "name": "Defiance Daily Target 2X Long OSS ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -54527,6 +54581,12 @@
     {
       "symbol": "PWRD",
       "name": "TCW Transform Systems ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PWRL",
+      "name": "Powerlaw Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -59328,6 +59388,12 @@
       "symbol": "SBXE.W",
       "name": "SilverBox Corp V Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SCA",
+      "name": "GraniteShares Autocallable SMCI ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68901,6 +68967,12 @@
       "isETF": false
     },
     {
+      "symbol": "UGLD",
+      "name": "Direxion Daily Gold Bull 2X ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "UGP",
       "name": "Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)",
       "exchange": "NYSE",
@@ -69702,6 +69774,12 @@
       "symbol": "USLN",
       "name": "iShares Broad USD Floating Rate Loan ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "USLV",
+      "name": "Direxion Daily Silver Bull 2X ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -71538,12 +71616,6 @@
       "symbol": "VRDN",
       "name": "Viridian Therapeutics, Inc.  - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VRE",
-      "name": "Veris Residential, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
