@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-27T23:29:39.224058Z",
-  "count": 12688,
+  "lastUpdated": "2026-05-28T23:30:36.425782Z",
+  "count": 12701,
   "tickers": [
     {
       "symbol": "A",
@@ -99,8 +99,26 @@
       "isETF": false
     },
     {
+      "symbol": "AACP",
+      "name": "Apogee Acquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AACPR",
+      "name": "Apogee Acquisition Corp - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AACPU",
       "name": "Apogee Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AACPW",
+      "name": "Apogee Acquisition Corp - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -615,8 +633,20 @@
       "isETF": false
     },
     {
+      "symbol": "ACGC",
+      "name": "ACP Holdings Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ACGCU",
       "name": "ACP Holdings Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACGCW",
+      "name": "ACP Holdings Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -1062,6 +1092,12 @@
       "symbol": "ADCT",
       "name": "ADC Therapeutics SA Common Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ADDS",
+      "name": "Hedgeye Index Adds ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -2302,7 +2338,7 @@
     },
     {
       "symbol": "AIVC",
-      "name": "Amplify Bloomberg AI Value Chain ETF",
+      "name": "Amplify Bloomberg AI Equal Weight ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -4620,6 +4656,12 @@
       "symbol": "ASEA",
       "name": "Global X FTSE Southeast Asia ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ASEC",
+      "name": "American Century Securitized Credit ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -11628,6 +11670,18 @@
       "symbol": "CBRS",
       "name": "Cerebras Systems Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CBRX",
+      "name": "Tradr 2X Long CBRS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "CBRZ",
+      "name": "Tradr 2X Short CBRS Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -24789,6 +24843,12 @@
       "isETF": false
     },
     {
+      "symbol": "FITZ",
+      "name": "Fitz-Gerald Must Have Portfolio ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FIVA",
       "name": "Fidelity International Value Factor ETF",
       "exchange": "NYSE ARCA",
@@ -27713,12 +27773,6 @@
     {
       "symbol": "GECCI",
       "name": "Great Elm Capital Corp. - 8.50% NOTES DUE 2029",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GECCO",
-      "name": "Great Elm Capital Corp. - 5.875% Notes due 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31739,12 +31793,6 @@
     {
       "symbol": "HOPE",
       "name": "Hope Bancorp, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HOTH",
-      "name": "Hoth Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -37293,6 +37341,12 @@
       "isETF": false
     },
     {
+      "symbol": "JPFP",
+      "name": "JPMorgan Managed Futures Plus ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "JPHY",
       "name": "JPMorgan Active High Yield ETF",
       "exchange": "NYSE ARCA",
@@ -42270,6 +42324,12 @@
       "symbol": "MCHS",
       "name": "Matthews China Innovators Active ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MCHU",
+      "name": "Tradr 2X Long MCHP Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48531,6 +48591,12 @@
       "isETF": false
     },
     {
+      "symbol": "NXPX",
+      "name": "Tradr 2X Long NXPI Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "NXRT",
       "name": "NexPoint Residential Trust, Inc. Common Stock",
       "exchange": "NYSE",
@@ -48963,8 +49029,8 @@
       "isETF": false
     },
     {
-      "symbol": "OCTVV",
-      "name": "Octave Intelligence plc - Class B Ordinary Shares When Issued",
+      "symbol": "OCTV",
+      "name": "Octave Intelligence plc - Class B Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49656,6 +49722,12 @@
       "symbol": "ONTO",
       "name": "Onto Innovation Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ONX",
+      "name": "Tradr 2X Long ON Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -57447,6 +57519,12 @@
       "isETF": false
     },
     {
+      "symbol": "RKTO",
+      "name": "Rocket One Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RL",
       "name": "Ralph Lauren Corporation Common Stock",
       "exchange": "NYSE",
@@ -61293,6 +61371,18 @@
       "isETF": false
     },
     {
+      "symbol": "SKYA",
+      "name": "SkyAI, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SKYAW",
+      "name": "SkyAI, Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SKYE",
       "name": "Skye Bioscience, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -63772,7 +63862,7 @@
     },
     {
       "symbol": "STBQ",
-      "name": "Amplify Stablecoin Technology ETF",
+      "name": "Amplify Stablecoin Technology Leaders ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -64074,18 +64164,6 @@
       "symbol": "STSM",
       "name": "Defiance Daily Target 2X Short TSM ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "STSS",
-      "name": "Sharps Technology Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "STSSW",
-      "name": "Sharps Technology Inc. - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -66418,7 +66496,7 @@
     },
     {
       "symbol": "TKNQ",
-      "name": "Amplify Tokenization Technology ETF",
+      "name": "Amplify Tokenization Technology Leaders ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
