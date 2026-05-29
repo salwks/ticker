@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-28T23:30:36.425782Z",
-  "count": 12701,
+  "lastUpdated": "2026-05-29T23:31:05.842068Z",
+  "count": 12708,
   "tickers": [
     {
       "symbol": "A",
@@ -3333,12 +3333,6 @@
       "isETF": false
     },
     {
-      "symbol": "AMWD",
-      "name": "American Woodmark Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "AMWL",
       "name": "American Well Corporation Class A Common Stock",
       "exchange": "NYSE",
@@ -4179,8 +4173,26 @@
       "isETF": false
     },
     {
+      "symbol": "ARCL",
+      "name": "ARC Group Acquisition I Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ARCLR",
+      "name": "ARC Group Acquisition I Corp - Right",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ARCLU",
       "name": "ARC Group Acquisition I Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ARCLW",
+      "name": "ARC Group Acquisition I Corp - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -8069,6 +8081,12 @@
     {
       "symbol": "BIDU",
       "name": "Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BIDWU",
+      "name": "Tribeca Strategic Acquisition Corp. - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16241,12 +16259,6 @@
     {
       "symbol": "CVGI",
       "name": "Commercial Vehicle Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CVGW",
-      "name": "Calavo Growers, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25890,6 +25902,12 @@
       "symbol": "FOSL",
       "name": "Fossil Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FOTO",
+      "name": "Tuttle Capital Pure Play Photonics ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -35723,6 +35741,12 @@
     {
       "symbol": "ISTB",
       "name": "iShares Core 1-5 Year USD Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ISTM",
+      "name": "iShares Strategic Metals ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48519,6 +48543,12 @@
       "isETF": false
     },
     {
+      "symbol": "NXB",
+      "name": "NextBoat Inc. Common Stcok",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "NXDR",
       "name": "Nextdoor Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -50268,12 +50298,6 @@
       "symbol": "OTGL",
       "name": "OTG Latin America ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OTH",
-      "name": "Off The Hook YS Inc. Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -54454,8 +54478,8 @@
     },
     {
       "symbol": "PTN",
-      "name": "Palatin Technologies, Inc. Common Stock",
-      "exchange": "AMEX",
+      "name": "Palatin Technologies, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -55200,6 +55224,12 @@
       "symbol": "QGRW",
       "name": "WisdomTree U.S. Quality Growth Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "QH",
+      "name": "Quhuo Limited - American Depository Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58721,6 +58751,12 @@
     {
       "symbol": "RWTQ",
       "name": "Redwood Trust, Inc. 9.500% Senior Notes Due 2030",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RWTS",
+      "name": "Redwood Trust, Inc. 9.75% Senior Notes Due 2031",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -65895,6 +65931,12 @@
       "isETF": false
     },
     {
+      "symbol": "TEUP",
+      "name": "T-REX 2X Long TE Daily Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TEVA",
       "name": "Teva Pharmaceutical Industries Limited American Depositary Shares",
       "exchange": "NYSE",
@@ -66755,12 +66797,6 @@
     {
       "symbol": "TMED",
       "name": "T. Rowe Price Health Care ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TMET",
-      "name": "iShares Transition-Enabling Metals ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70494,6 +70530,12 @@
       "symbol": "VBK",
       "name": "Vanguard Small-Cap Growth ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VBNB",
+      "name": "VanEck BNB ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
