@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-31T23:25:17.766622Z",
-  "count": 12708,
+  "lastUpdated": "2026-06-01T23:33:06.015270Z",
+  "count": 12713,
   "tickers": [
     {
       "symbol": "A",
@@ -1696,7 +1696,7 @@
     },
     {
       "symbol": "AGIX",
-      "name": "KraneShares Artificial Intelligence & Technology ETF",
+      "name": "KraneShares Public-Private AI & Technology ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -4665,6 +4665,12 @@
       "isETF": false
     },
     {
+      "symbol": "ASD",
+      "name": "Defiance Autism Impact ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ASEA",
       "name": "Global X FTSE Southeast Asia ETF",
       "exchange": "NYSE ARCA",
@@ -6065,6 +6071,12 @@
     {
       "symbol": "AZTR",
       "name": "Azitra Inc Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "AZUL",
+      "name": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -7755,6 +7767,12 @@
       "isETF": false
     },
     {
+      "symbol": "BGCG",
+      "name": "Baillie Gifford International Concentrated Growth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BGDE",
       "name": "Big Digital Energy, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -7764,6 +7782,12 @@
       "symbol": "BGDV",
       "name": "Bahl & Gaynor Dividend ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BGGG",
+      "name": "Baillie Gifford Long Term Global Growth ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -17199,6 +17223,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDFZ",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - June",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDI",
       "name": "DoubleDown Interactive Co., Ltd. - American Depository Shares",
       "exchange": "NASDAQ",
@@ -17315,6 +17345,12 @@
     {
       "symbol": "DDTY",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - May",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DDTZ",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - June",
       "exchange": "BATS",
       "isETF": false
     },
@@ -20181,12 +20217,6 @@
       "isETF": false
     },
     {
-      "symbol": "EDAP",
-      "name": "EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EDBL",
       "name": "Edible Garden AG Incorporated - Common Stock",
       "exchange": "NASDAQ",
@@ -21130,7 +21160,7 @@
     },
     {
       "symbol": "EMCS",
-      "name": "Xtrackers MSCI Emerging Markets Climate Selection ETF",
+      "name": "Xtrackers MSCI Emerging Markets Select ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -21178,7 +21208,7 @@
     },
     {
       "symbol": "EMET",
-      "name": "VanEck Copper and Green Metals ETF",
+      "name": "VanEck Copper and Electrification Metals ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -23991,14 +24021,8 @@
       "isETF": false
     },
     {
-      "symbol": "FDX.V",
-      "name": "FedEx Corporation Common Stock When-Issued",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "FDXF.V",
-      "name": "FedEx Freight Holding Company, Inc. Common Stock When-Issued",
+      "symbol": "FDXF",
+      "name": "FedEx Freight Holding Company, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -25836,6 +25860,12 @@
       "symbol": "FOA",
       "name": "Finance of America Companies Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FOCL",
+      "name": "EDAP TMS S.A. - American Depositary Shares, each representing One Ordinary Share",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38836,7 +38866,7 @@
     },
     {
       "symbol": "KPHO",
-      "name": "KraneShares Dragon Capital Vietnam Growth Index ETF",
+      "name": "KraneShares Dragon Capital Growth of Vietnam Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -40361,6 +40391,24 @@
     {
       "symbol": "LILAK",
       "name": "Liberty Latin America Ltd. - Class C Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LILAV",
+      "name": "Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LILKV",
+      "name": "Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LILPV",
+      "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48393,12 +48441,6 @@
       "isETF": false
     },
     {
-      "symbol": "NVRI",
-      "name": "Enviri Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "NVRI.V",
       "name": "Enviri Corporation Common Stock When-Issued",
       "exchange": "NYSE",
@@ -50501,12 +50543,6 @@
     {
       "symbol": "OXLCO",
       "name": "Oxford Lane Capital Corp. - Preferred Stock Shares, 6.00% Series 2029",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OXLCP",
-      "name": "Oxford Lane Capital Corp. - 6.25% Series 2027 Term Preferred Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -57280,7 +57316,7 @@
     },
     {
       "symbol": "RIGS",
-      "name": "RiverFront Strategic Income Fund",
+      "name": "ALPS Strategic Income Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -58258,7 +58294,7 @@
     },
     {
       "symbol": "RSHO",
-      "name": "Tema American Reshoring ETF",
+      "name": "Tema U.S. Manufacturing & Reshoring ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -66263,12 +66299,6 @@
     {
       "symbol": "THQ",
       "name": "abrdn Healthcare Opportunities Fund Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "THR",
-      "name": "Thermon Group Holdings, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
