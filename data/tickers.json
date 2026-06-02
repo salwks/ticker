@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-01T23:33:06.015270Z",
-  "count": 12713,
+  "lastUpdated": "2026-06-02T23:35:55.982216Z",
+  "count": 12728,
   "tickers": [
     {
       "symbol": "A",
@@ -29,6 +29,12 @@
     {
       "symbol": "AAAC",
       "name": "Columbia AAA CLO ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AAAD",
+      "name": "PGIM AAA CLO Aggregate Duration ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -497,18 +503,6 @@
     {
       "symbol": "ABVC",
       "name": "ABVC BioPharma, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ABVE",
-      "name": "Above Food Ingredients Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ABVEW",
-      "name": "Above Food Ingredients Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -2232,6 +2226,18 @@
       "symbol": "AIQ",
       "name": "Global X Artificial Intelligence & Technology ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AIQD",
+      "name": "MicroSectors -3? Short Artificial Intelligence (AI) ETNs",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AIQU",
+      "name": "MicroSectors 3? Long Artificial Intelligence (AI) ETNs",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -13437,6 +13443,12 @@
       "isETF": false
     },
     {
+      "symbol": "CJUN",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CKX",
       "name": "CKX Lands, Inc. Common Stock",
       "exchange": "AMEX",
@@ -16005,6 +16017,12 @@
       "isETF": false
     },
     {
+      "symbol": "CTJN",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CTKB",
       "name": "Cytek Biosciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -17050,7 +17068,7 @@
     },
     {
       "symbol": "DCBG",
-      "name": "Dime Community Bancshares, Inc. 9.000% Fixed-to-Floating Rate Subordinated Notes due 2034",
+      "name": "Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -17092,13 +17110,13 @@
     },
     {
       "symbol": "DCOM",
-      "name": "Dime Community Bancshares, Inc. Common Stock",
+      "name": "Dime Commercial Bancshares, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "DCOM$",
-      "name": "Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
+      "name": "Dime Commercial Bancshares, Inc. Preferred Stock, Series A",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -21261,6 +21279,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMJN",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "EMKT",
       "name": "Lazard Emerging Markets Opportunities ETF",
       "exchange": "NYSE ARCA",
@@ -24378,12 +24402,6 @@
       "symbol": "FFGX",
       "name": "Fidelity Fundamental Global ex-U.S. ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "FFIC",
-      "name": "Flushing Financial Corporation - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -30765,6 +30783,12 @@
       "isETF": false
     },
     {
+      "symbol": "HBMX",
+      "name": "Tuttle Capital Concentrated Memory Stack ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HBNB",
       "name": "Hotel101 Global Holdings Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -31506,6 +31530,12 @@
       "symbol": "HIYY",
       "name": "YieldMax HIMS Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HJUN",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -33624,6 +33654,12 @@
       "symbol": "IDHQ",
       "name": "Invesco S&P International Developed Quality ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IDJN",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -37703,6 +37739,12 @@
     {
       "symbol": "JULZ",
       "name": "TrueShares Structured Outcome (July) ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "JUNC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - June Series",
       "exchange": "BATS",
       "isETF": false
     },
@@ -48441,8 +48483,8 @@
       "isETF": false
     },
     {
-      "symbol": "NVRI.V",
-      "name": "Enviri Corporation Common Stock When-Issued",
+      "symbol": "NVRI",
+      "name": "Enviri Corporation Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -48642,6 +48684,12 @@
       "symbol": "NXP",
       "name": "Nuveen Select Tax Free Income Portfolio Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NXPG",
+      "name": "Leverage Shares 2X Long NXPI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -49740,6 +49788,12 @@
       "symbol": "ONFOW",
       "name": "Onfolio Holdings Inc. - Warrant",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ONG",
+      "name": "Leverage Shares 2X Long ON Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -53739,6 +53793,12 @@
       "isETF": false
     },
     {
+      "symbol": "PRIZ",
+      "name": "Zacks Preferred Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PRK",
       "name": "Park National Corporation Common Stock",
       "exchange": "AMEX",
@@ -55311,6 +55371,12 @@
       "isETF": false
     },
     {
+      "symbol": "QJN",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QJUN",
       "name": "FT Vest Nasdaq-100 Buffer ETF - June",
       "exchange": "BATS",
@@ -55524,6 +55590,12 @@
       "symbol": "QQHG",
       "name": "Invesco QQQ Hedged Advantage ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QQJN",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -56130,6 +56202,12 @@
       "symbol": "RACE",
       "name": "Ferrari N.V. Common Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RACK",
+      "name": "VanEck Data Center Supply Chain ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -59844,6 +59922,12 @@
       "symbol": "SCJ",
       "name": "iShares MSCI Japan Sm Cap",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SCJN",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -71865,12 +71949,6 @@
       "isETF": false
     },
     {
-      "symbol": "VSCO",
-      "name": "Victorias Secret & Co. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "VSDA",
       "name": "VictoryShares Dividend Accelerator ETF",
       "exchange": "NASDAQ",
@@ -71993,6 +72071,12 @@
     {
       "symbol": "VSTS",
       "name": "Vestis Corporation Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "VSXY",
+      "name": "Victorias Secret & Co. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -75924,6 +76008,12 @@
       "symbol": "ZIM",
       "name": "ZIM Integrated Shipping Services Ltd. Ordinary Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ZINC",
+      "name": "Zacks Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
