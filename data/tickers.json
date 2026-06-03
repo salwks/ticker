@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-02T23:35:55.982216Z",
-  "count": 12728,
+  "lastUpdated": "2026-06-03T23:34:27.136700Z",
+  "count": 12777,
   "tickers": [
     {
       "symbol": "A",
@@ -132,6 +132,12 @@
       "symbol": "AADR",
       "name": "AdvisorShares Dorsey Wright ADR ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AADX",
+      "name": "Applied Aerospace & Defense, Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -660,6 +666,12 @@
       "symbol": "ACGLO",
       "name": "Arch Capital Group Ltd. - Depositary Shares Each Representing 1/1,000th Interest in a Share of5.45% Non-Cumulative Preferred Shares, Series F",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACGO",
+      "name": "Hartford Alpha Capture Growth ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -1410,6 +1422,12 @@
       "symbol": "AESI",
       "name": "Atlas Energy Solutions Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AESPU",
+      "name": "Aeon Acquisition I Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -3863,6 +3881,12 @@
     {
       "symbol": "APM",
       "name": "Aptorum Group Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "APMCU",
+      "name": "AmperCap Acquisition Company - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7791,6 +7815,12 @@
       "isETF": false
     },
     {
+      "symbol": "BGEG",
+      "name": "Baillie Gifford Emerging Markets ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BGGG",
       "name": "Baillie Gifford Long Term Global Growth ETF",
       "exchange": "NASDAQ",
@@ -7806,6 +7836,12 @@
       "symbol": "BGI",
       "name": "Birks Group Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "BGIA",
+      "name": "Baillie Gifford International Alpha ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -9981,6 +10017,12 @@
       "isETF": false
     },
     {
+      "symbol": "BRZX",
+      "name": "Corgi Brazil 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BSAA",
       "name": "BEST SPAC I Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -12066,6 +12108,12 @@
       "symbol": "CCOR",
       "name": "Core Alternative ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CCPX",
+      "name": "Corgi China 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -21429,6 +21477,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMXX",
+      "name": "Corgi Emerging Markets 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ENB",
       "name": "Enbridge Inc Common Stock",
       "exchange": "NYSE",
@@ -22583,6 +22637,12 @@
     {
       "symbol": "EUV",
       "name": "Corgi Lithography & Semiconductor Photonics ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "EUVX",
+      "name": "Corgi Lithography & Semiconductor Photonics 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -32739,6 +32799,12 @@
       "isETF": false
     },
     {
+      "symbol": "HYPG",
+      "name": "Grayscale Hyperliquid Staking ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HYPR",
       "name": "Hyperfine, Inc.  - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -35160,6 +35226,12 @@
       "symbol": "INVZ",
       "name": "Innoviz Technologies Ltd. - Ordinary shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "INYY",
+      "name": "YieldMax INTC Option Income Strategy ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -38271,6 +38343,12 @@
       "isETF": false
     },
     {
+      "symbol": "KEYYU",
+      "name": "Keystone Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KF",
       "name": "Korea Fund, Inc. (The) New Common Stock",
       "exchange": "NYSE",
@@ -38380,13 +38458,13 @@
     },
     {
       "symbol": "KIDZ",
-      "name": "Classover Holdings, Inc. - Class B Common Stock",
+      "name": "KIDZ AI Inc. - Class B Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "KIDZW",
-      "name": "Classover Holdings, Inc. - Warrants",
+      "name": "KIDZ AI Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -39102,6 +39180,12 @@
       "symbol": "KRUS",
       "name": "Kura Sushi USA, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KRWX",
+      "name": "Corgi South Korea 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40271,6 +40355,12 @@
     {
       "symbol": "LGL",
       "name": "LGL Group, Inc. (The) Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "LGL.V",
+      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -42207,8 +42297,8 @@
       "isETF": false
     },
     {
-      "symbol": "MBCC",
-      "name": "Monarch Blue Chips Core Index ETF",
+      "symbol": "MBCE",
+      "name": "Monarch Blue Chips Elite Index ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -43164,6 +43254,12 @@
       "symbol": "MGK",
       "name": "Vanguard Mega Cap Growth ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MGKX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -46791,6 +46887,12 @@
       "isETF": false
     },
     {
+      "symbol": "NGIF",
+      "name": "Nuveen Global Infrastructure Fund: ETF Class Shares",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NGL",
       "name": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests",
       "exchange": "NYSE",
@@ -48099,6 +48201,12 @@
       "isETF": false
     },
     {
+      "symbol": "NUDG",
+      "name": "Nuveen Dividend Growth Fund: ETF Class Shares",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NUDM",
       "name": "Nuveen ESG International Developed Markets Equity ETF",
       "exchange": "BATS",
@@ -48701,12 +48809,6 @@
     {
       "symbol": "NXPL",
       "name": "NextPlat Corp - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NXPLW",
-      "name": "NextPlat Corp - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50535,6 +50637,12 @@
       "isETF": false
     },
     {
+      "symbol": "OWN",
+      "name": "Inside Ownership 100 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "OWNB",
       "name": "Bitwise Bitcoin Standard Corporations ETF",
       "exchange": "NYSE ARCA",
@@ -51222,6 +51330,12 @@
       "symbol": "PBJN",
       "name": "PGIM S&P 500 Buffer 20 ETF - June",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PBK",
+      "name": "PowerBank Corporation - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52109,6 +52223,12 @@
     {
       "symbol": "PFL",
       "name": "PIMCO Income Strategy Fund Shares of Beneficial Interest",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PFLA",
+      "name": "PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -64605,12 +64725,6 @@
       "isETF": false
     },
     {
-      "symbol": "SUUN",
-      "name": "PowerBank Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SUZ",
       "name": "Suzano S.A. American Depositary Shares (each representing One Ordinary Share)",
       "exchange": "NYSE",
@@ -65141,6 +65255,12 @@
     {
       "symbol": "TAIL",
       "name": "Cambria Tail Risk ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "TAJX",
+      "name": "Corgi India 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -67881,6 +68001,18 @@
       "isETF": false
     },
     {
+      "symbol": "TRUI",
+      "name": "VanEck Industrials TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRUO",
+      "name": "VanEck Consumer Staples TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TRUP",
       "name": "Trupanion, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -70143,6 +70275,12 @@
       "isETF": false
     },
     {
+      "symbol": "USX",
+      "name": "Corgi Total U.S. Market 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "USXF",
       "name": "iShares ESG Advanced MSCI USA ETF",
       "exchange": "NASDAQ",
@@ -70668,6 +70806,12 @@
       "symbol": "VBR",
       "name": "Vanguard Small-Cap Value ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VBX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -71724,6 +71868,12 @@
       "symbol": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VOOX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72843,6 +72993,12 @@
       "isETF": false
     },
     {
+      "symbol": "WEBX",
+      "name": "Corgi Chinese Internet 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "WEC",
       "name": "WEC Energy Group, Inc. Common Stock",
       "exchange": "NYSE",
@@ -73941,6 +74097,12 @@
       "isETF": false
     },
     {
+      "symbol": "WX",
+      "name": "Corgi All World 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "WXET",
       "name": "Teucrium 2x Daily Wheat ETF",
       "exchange": "NYSE ARCA",
@@ -73998,6 +74160,12 @@
       "symbol": "XAGG",
       "name": "Eaton Vance Income Opportunities ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XAGI",
+      "name": "Corgi AGIX 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74082,6 +74250,12 @@
       "symbol": "XBIT",
       "name": "XBiotech Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XBIX",
+      "name": "Corgi U.S. Biotech 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74193,6 +74367,12 @@
       "isETF": false
     },
     {
+      "symbol": "XCOM",
+      "name": "Corgi All Commodities 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XCOR",
       "name": "FundX ETF",
       "exchange": "NYSE ARCA",
@@ -74301,6 +74481,12 @@
       "isETF": false
     },
     {
+      "symbol": "XEUR",
+      "name": "Corgi Europe Equities 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XEY",
       "name": "GraniteShares YieldBOOST Ether ETF",
       "exchange": "NASDAQ",
@@ -74391,6 +74577,12 @@
       "isETF": false
     },
     {
+      "symbol": "XHOA",
+      "name": "Corgi U.S. Real Estate 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XHR",
       "name": "Xenia Hotels & Resorts, Inc. Common Stock",
       "exchange": "NYSE",
@@ -74445,6 +74637,12 @@
       "isETF": false
     },
     {
+      "symbol": "XIWC",
+      "name": "Corgi U.S. Micro-Cap 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XJAN",
       "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - January",
       "exchange": "BATS",
@@ -74475,6 +74673,12 @@
       "isETF": false
     },
     {
+      "symbol": "XKRE",
+      "name": "Corgi U.S. Regional Banks 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XLB",
       "name": "State Street Materials Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
@@ -74484,6 +74688,12 @@
       "symbol": "XLBI",
       "name": "State Street Materials Select Sector SPDR Premium Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XLBX",
+      "name": "Corgi U.S. Materials 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74511,6 +74721,12 @@
       "isETF": false
     },
     {
+      "symbol": "XLEX",
+      "name": "Corgi U.S. Energy 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XLF",
       "name": "State Street Financial Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
@@ -74520,6 +74736,12 @@
       "symbol": "XLFI",
       "name": "State Street Financial Select Sector SPDR Premium Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XLFX",
+      "name": "Corgi U.S. Financials 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74541,6 +74763,12 @@
       "isETF": false
     },
     {
+      "symbol": "XLIX",
+      "name": "Corgi U.S. Industrials 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XLK",
       "name": "State Street Technology Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
@@ -74553,6 +74781,12 @@
       "isETF": false
     },
     {
+      "symbol": "XLKX",
+      "name": "Corgi U.S. Technology 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XLO",
       "name": "Xilio Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -74562,6 +74796,12 @@
       "symbol": "XLP",
       "name": "State Street Consumer Staples Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XLPX",
+      "name": "Corgi U.S. Consumer Staples 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74601,6 +74841,12 @@
       "isETF": false
     },
     {
+      "symbol": "XLUX",
+      "name": "Corgi U.S. Utilities 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XLV",
       "name": "State Street Health Care Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
@@ -74613,6 +74859,12 @@
       "isETF": false
     },
     {
+      "symbol": "XLVX",
+      "name": "Corgi U.S. Healthcare 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XLY",
       "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
@@ -74622,6 +74874,12 @@
       "symbol": "XLYI",
       "name": "State Street Consumer Discretionary Select Sector SPDR Premium Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XLYX",
+      "name": "Corgi U.S. Consumer Discretionary 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74826,6 +75084,12 @@
       "symbol": "XP",
       "name": "XP Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XPAV",
+      "name": "Corgi U.S. Infrastructure 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -75039,6 +75303,12 @@
       "isETF": false
     },
     {
+      "symbol": "XSEM",
+      "name": "Corgi U.S. Semiconductors 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XSEP",
       "name": "FT Vest U.S. Equity Enhance & Moderate Buffer ETF - September",
       "exchange": "BATS",
@@ -75120,6 +75390,12 @@
       "symbol": "XT",
       "name": "iShares Future Exponential Technologies ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XTAI",
+      "name": "Corgi Taiwan 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -75225,8 +75501,26 @@
       "isETF": false
     },
     {
+      "symbol": "XVO",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVUG",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XVV",
       "name": "iShares ESG Select Screened S&P 500 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XW",
+      "name": "Corgi Ex-U.S. Equities 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
