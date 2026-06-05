@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-04T23:27:59.784199Z",
-  "count": 12796,
+  "lastUpdated": "2026-06-05T23:29:08.696875Z",
+  "count": 12800,
   "tickers": [
     {
       "symbol": "A",
@@ -26865,6 +26865,12 @@
       "isETF": false
     },
     {
+      "symbol": "FTRA.U",
+      "name": "FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "FTRB",
       "name": "Federated Hermes Total Return Bond ETF",
       "exchange": "NYSE ARCA",
@@ -34926,6 +34932,12 @@
       "symbol": "INEQ",
       "name": "Columbia International Equity Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "INFH",
+      "name": "Defiance Daily Target 2X Long INFQ ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -49527,6 +49539,18 @@
       "isETF": false
     },
     {
+      "symbol": "OHAC",
+      "name": "Oceanhawk Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OHACR",
+      "name": "Oceanhawk Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "OHACU",
       "name": "Oceanhawk Acquisition Corp. - Units",
       "exchange": "NASDAQ",
@@ -51732,6 +51756,12 @@
       "symbol": "PCPI",
       "name": "PIMCO Inflation PLUS Active Exchange-Traded Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PCPP",
+      "name": "Porter & Company Porter Portfolio Index ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -59254,7 +59284,7 @@
     },
     {
       "symbol": "SA",
-      "name": "Seabridge Gold, Inc. Ordinary Shares (Canada)",
+      "name": "Seabridge Gold, Inc. Common Shares New",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -62088,12 +62118,6 @@
       "symbol": "SMA",
       "name": "SmartStop Self Storage REIT, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SMAP",
-      "name": "Amplify Small-Mid Cap Equity ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
