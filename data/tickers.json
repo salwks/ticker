@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-07T23:25:29.707654Z",
-  "count": 12800,
+  "lastUpdated": "2026-06-08T23:28:28.924547Z",
+  "count": 12801,
   "tickers": [
     {
       "symbol": "A",
@@ -1506,6 +1506,12 @@
       "symbol": "AFGE",
       "name": "American Financial Group, Inc. 4.500% Subordinated Debentures due 2060",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AFGR",
+      "name": "First Trust Multi-Manager Large Growth ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -4089,6 +4095,12 @@
       "isETF": false
     },
     {
+      "symbol": "AQLG",
+      "name": "HCM Large Cap Growth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AQLT",
       "name": "iShares MSCI Global Quality Factor ETF",
       "exchange": "BATS",
@@ -5939,12 +5951,6 @@
     {
       "symbol": "AXIA",
       "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AXIA$",
-      "name": "AXIA Energia AXIA Energia American Depositary Shares (Each representing one Preferred Class B1 Share)",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -10137,6 +10143,12 @@
       "isETF": false
     },
     {
+      "symbol": "BSIN",
+      "name": "Big Sky Industrial Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BSJQ",
       "name": "Invesco BulletShares 2026 High Yield Corporate Bond ETF",
       "exchange": "NASDAQ",
@@ -12735,24 +12747,6 @@
       "isETF": false
     },
     {
-      "symbol": "CGCT",
-      "name": "Cartesian Growth Corporation III - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CGCTU",
-      "name": "Cartesian Growth Corporation III - unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CGCTW",
-      "name": "Cartesian Growth Corporation III - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CGCV",
       "name": "Capital Group Conservative Equity ETF",
       "exchange": "NYSE ARCA",
@@ -14166,12 +14160,6 @@
       "symbol": "CMTV",
       "name": "Community Bancorp.  - Common stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CMU",
-      "name": "MFS Municipal Income Trust Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -16662,18 +16650,6 @@
       "symbol": "CXDO",
       "name": "Crexendo, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CXE",
-      "name": "MFS High Income Municipal Trust Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CXH",
-      "name": "MFS Investment Grade Municipal Trust Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -23433,6 +23409,12 @@
       "isETF": false
     },
     {
+      "symbol": "FAC",
+      "name": "Factorial Energy Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FACT",
       "name": "FACT II Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -23447,6 +23429,12 @@
     {
       "symbol": "FACTW",
       "name": "FACT II Acquisition Corp. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FACWW",
+      "name": "Factorial Energy Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26133,6 +26121,12 @@
       "isETF": false
     },
     {
+      "symbol": "FPAA",
+      "name": "FPA Global Allocation ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "FPAG",
       "name": "FPA Global Equity ETF",
       "exchange": "BATS",
@@ -26376,6 +26370,12 @@
       "symbol": "FRT$C",
       "name": "Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000% Series C Cumulative Redeemable Preferred Share",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FRTT",
+      "name": "Fort Technology Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -29375,6 +29375,18 @@
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GOOGM",
+      "name": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GOOGN",
+      "name": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -40425,8 +40437,8 @@
       "isETF": false
     },
     {
-      "symbol": "LGL.V",
-      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights when issued",
+      "symbol": "LGL.R",
+      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -40594,13 +40606,13 @@
     },
     {
       "symbol": "LILAV",
-      "name": "Liberty Latin America Ltd - Class A Common Stock Ex-Distribution When Issued",
+      "name": "Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "LILKV",
-      "name": "Liberty Latin America Ltd - Class C Common Stock Ex-Distribution When Issued",
+      "name": "Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43222,7 +43234,7 @@
     },
     {
       "symbol": "MFM",
-      "name": "MFS Municipal Income Trust Common Stock",
+      "name": "Aberdeen Municipal Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -44082,12 +44094,6 @@
       "symbol": "MMKT",
       "name": "Texas Capital Government Money Market ETF",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MMLG",
-      "name": "First Trust Multi-Manager Large Growth ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -47043,8 +47049,20 @@
       "isETF": false
     },
     {
+      "symbol": "NHIV",
+      "name": "NewHold Investment Corp IV - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NHIVU",
       "name": "NewHold Investment Corp IV - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NHIVW",
+      "name": "NewHold Investment Corp IV - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -60699,12 +60717,6 @@
       "isETF": false
     },
     {
-      "symbol": "SELX",
-      "name": "Semilux International Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SEM",
       "name": "Select Medical Holdings Corporation Common Stock",
       "exchange": "NYSE",
@@ -62075,6 +62087,12 @@
     {
       "symbol": "SLVX",
       "name": "Nicholas Silver Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SLWS",
+      "name": "Wisdom Short Duration Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -64533,12 +64551,6 @@
       "isETF": false
     },
     {
-      "symbol": "STRV",
-      "name": "Strive 500 ETF",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "STRW",
       "name": "Strawberry Fields REIT, Inc. Common Stock",
       "exchange": "AMEX",
@@ -64607,6 +64619,12 @@
     {
       "symbol": "STXE",
       "name": "Strive Emerging Markets Ex-China ETF",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "STXF",
+      "name": "Strive 500 ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -70149,12 +70167,6 @@
       "isETF": false
     },
     {
-      "symbol": "USEG",
-      "name": "U.S. Energy Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "USEP",
       "name": "Innovator U.S. Equity Ultra Buffer ETF - September",
       "exchange": "BATS",
@@ -73469,12 +73481,6 @@
     {
       "symbol": "WIP",
       "name": "State Street SPDR FTSE International Government Inflation-Protected Bond ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "WISD",
-      "name": "Wisdom Short Duration Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
