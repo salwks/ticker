@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-08T23:28:28.924547Z",
-  "count": 12801,
+  "lastUpdated": "2026-06-09T23:31:02.062698Z",
+  "count": 12806,
   "tickers": [
     {
       "symbol": "A",
@@ -2064,6 +2064,12 @@
       "symbol": "AIBU",
       "name": "Direxion Daily AI and Big Data Bull 2X ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AIBZ",
+      "name": "Bitzero Holdings Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -10575,12 +10581,6 @@
       "isETF": false
     },
     {
-      "symbol": "BU",
-      "name": "Defiance Daily Target 2X Long BU ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BUCK",
       "name": "Simplify Treasury Option Income ETF",
       "exchange": "NYSE ARCA",
@@ -16443,12 +16443,6 @@
       "isETF": false
     },
     {
-      "symbol": "CVNX",
-      "name": "Defiance Daily Target 2X Long CVNA ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CVNY",
       "name": "YieldMax CVNA Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -21117,6 +21111,12 @@
       "isETF": false
     },
     {
+      "symbol": "ELOX",
+      "name": "Eloxx Pharmaceuticals, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ELPC",
       "name": "Companhia Paranaense de Energia (COPEL) American Depositary Shares (each representing four (4) Common Shares)",
       "exchange": "NYSE",
@@ -24070,7 +24070,7 @@
     },
     {
       "symbol": "FDP",
-      "name": "Fresh Del Monte Produce, Inc. Common Stock",
+      "name": "Del Monte Corporation Ordinary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -28115,6 +28115,12 @@
     {
       "symbol": "GEOS",
       "name": "Geospace Technologies Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GEQ",
+      "name": "Cambria Global EW 2 ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -35901,6 +35907,12 @@
       "isETF": false
     },
     {
+      "symbol": "ISNRU",
+      "name": "Snow Rothschild Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ISOU",
       "name": "IsoEnergy Ltd. Common Shares",
       "exchange": "AMEX",
@@ -39065,12 +39077,6 @@
     {
       "symbol": "KPLT",
       "name": "Katapult Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KPLTW",
-      "name": "Katapult Holdings, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45525,6 +45531,12 @@
       "isETF": false
     },
     {
+      "symbol": "MUZ",
+      "name": "Defiance Daily Target 2X Short MU ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MUZE",
       "name": "Muzero Acquisition Corp - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -49221,6 +49233,12 @@
       "isETF": false
     },
     {
+      "symbol": "OCAC.U",
+      "name": "Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "OCC",
       "name": "Optical Cable Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -51178,7 +51196,7 @@
     },
     {
       "symbol": "PASW",
-      "name": "Ping An Biomedical Co., Ltd. - Ordinary Shares",
+      "name": "Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56190,6 +56208,12 @@
       "symbol": "QTUM",
       "name": "Defiance Quantum ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QTUP",
+      "name": "Defiance Long Pure Quantum ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -73395,6 +73419,12 @@
       "isETF": false
     },
     {
+      "symbol": "WHK",
+      "name": "WhiteHawk Minerals Corp Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "WHLR",
       "name": "Wheeler Real Estate Investment Trust, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -74662,7 +74692,7 @@
     },
     {
       "symbol": "XFLT",
-      "name": "XAI Octagon Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest",
+      "name": "XAI Floating Rate & Alternative Income Trust Common Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
