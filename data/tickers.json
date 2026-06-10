@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-09T23:31:02.062698Z",
-  "count": 12806,
+  "lastUpdated": "2026-06-10T23:33:30.374619Z",
+  "count": 12804,
   "tickers": [
     {
       "symbol": "A",
@@ -4035,8 +4035,14 @@
       "isETF": false
     },
     {
-      "symbol": "APURU",
-      "name": "Aperture AC - Units",
+      "symbol": "APUR",
+      "name": "Aperture AC - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "APURR",
+      "name": "Aperture AC - Rights",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10077,6 +10083,12 @@
       "isETF": false
     },
     {
+      "symbol": "BSCA",
+      "name": "Invesco BulletShares 2036 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BSCQ",
       "name": "Invesco BulletShares 2026 Corporate Bond ETF",
       "exchange": "NASDAQ",
@@ -10149,6 +10161,18 @@
       "isETF": false
     },
     {
+      "symbol": "BSGR",
+      "name": "Invesco BulletShares 2027 Treasury Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BSGT",
+      "name": "Invesco BulletShares 2029 Treasury Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BSIN",
       "name": "Big Sky Industrial Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -10199,6 +10223,12 @@
     {
       "symbol": "BSJX",
       "name": "Invesco BulletShares 2033 High Yield Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BSJY",
+      "name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10308,6 +10338,24 @@
       "symbol": "BSTP",
       "name": "Innovator Buffer Step-Up Strategy ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BSTS",
+      "name": "Invesco BulletShares 2028 Treasury Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BSTU",
+      "name": "Invesco BulletShares 2030 Treasury Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BSTV",
+      "name": "Invesco BulletShares 2031 Treasury Bond ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -14583,12 +14631,6 @@
       "isETF": false
     },
     {
-      "symbol": "COII",
-      "name": "REX COIN Growth & Income ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "COIN",
       "name": "Coinbase Global, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -16578,12 +16620,6 @@
       "symbol": "CWI",
       "name": "State Street SPDR MSCI ACWI ex-US ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "CWII",
-      "name": "REX CRWV Growth & Income ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -21615,6 +21651,18 @@
       "isETF": false
     },
     {
+      "symbol": "ENRD",
+      "name": "Einride AB - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ENRDW",
+      "name": "Einride AB - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ENS",
       "name": "EnerSys Common Stock",
       "exchange": "NYSE",
@@ -22097,6 +22145,12 @@
     {
       "symbol": "ERO",
       "name": "Ero Copper Corp. Common Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "EROC",
+      "name": "ERock, Inc. Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -28449,12 +28503,6 @@
       "isETF": false
     },
     {
-      "symbol": "GIF",
-      "name": "REX Growth & Income Universe ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "GIFT",
       "name": "Giftify, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -31902,12 +31950,6 @@
       "symbol": "HOG",
       "name": "Harley-Davidson, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "HOII",
-      "name": "REX HOOD Growth & Income ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -36669,6 +36711,12 @@
       "isETF": false
     },
     {
+      "symbol": "JABRU",
+      "name": "JAB Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "JABS",
       "name": "Janus Henderson Asset-Backed Securities ETF",
       "exchange": "NYSE ARCA",
@@ -40155,24 +40203,6 @@
       "isETF": false
     },
     {
-      "symbol": "LEGT",
-      "name": "Legato Merger Corp. III Ordinary Shares",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "LEGT.U",
-      "name": "Legato Merger Corp. III Units, each consisting of one Ordinary Share and one-half of one warrant",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "LEGT.W",
-      "name": "Legato Merger Corp. III Redeemable Warrants, each whole warrant exercisable for one ordinary share at an exercise price of $11.50 per share",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "LEMB",
       "name": "iShares J.P. Morgan EM Local Currency Bond",
       "exchange": "NYSE ARCA",
@@ -40824,12 +40854,6 @@
       "symbol": "LLDR",
       "name": "Global X Long-Term Treasury Ladder ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LLII",
-      "name": "REX LLY Growth & Income ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -44988,12 +45012,6 @@
       "symbol": "MSIF",
       "name": "MSC Income Fund, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MSII",
-      "name": "REX MSTR Growth & Income ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -51459,6 +51477,12 @@
       "isETF": false
     },
     {
+      "symbol": "PBLS",
+      "name": "Parabilis Medicines, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PBM",
       "name": "Psyence Biomedical Ltd. - Common Shares",
       "exchange": "NASDAQ",
@@ -51809,12 +51833,6 @@
     {
       "symbol": "PCR",
       "name": "Simplify VettaFi Private Credit Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "PCRB",
-      "name": "Putnam ESG Core Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -52431,12 +52449,6 @@
       "isETF": false
     },
     {
-      "symbol": "PFUT",
-      "name": "Putnam Sustainable Future ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "PFX",
       "name": "PhenixFIN Corporation  - Common Stock",
       "exchange": "NASDAQ",
@@ -52668,12 +52680,6 @@
       "symbol": "PHXE$",
       "name": "Phoenix Energy One, LLC Series A Cumulative Redeemable Preferred Shares",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "PHYD",
-      "name": "Putnam ESG High Yield ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -53001,12 +53007,6 @@
       "isETF": false
     },
     {
-      "symbol": "PLDR",
-      "name": "Putnam Sustainable Leaders ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "PLG",
       "name": "Platinum Group Metals Ltd. Ordinary Shares (Canada)",
       "exchange": "AMEX",
@@ -53112,12 +53112,6 @@
       "symbol": "PLTG",
       "name": "Leverage Shares 2X Long PLTR Daily ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PLTI",
-      "name": "REX PLTR Growth & Income ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -53745,12 +53739,6 @@
       "isETF": false
     },
     {
-      "symbol": "PPEM",
-      "name": "Putnam PanAgora ESG Emerging Markets Equity ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "PPG",
       "name": "PPG Industries, Inc. Common Stock",
       "exchange": "NYSE",
@@ -53772,12 +53760,6 @@
       "symbol": "PPI",
       "name": "Astoria Real Assets ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PPIE",
-      "name": "Putnam PanAgora ESG International Equity ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -54929,12 +54911,6 @@
     {
       "symbol": "PULS",
       "name": "PGIM Ultra Short Bond ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "PULT",
-      "name": "Putnam ESG Ultra Short ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61319,6 +61295,12 @@
     {
       "symbol": "SHOP",
       "name": "Shopify Inc. - Class A Subordinate Voting Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SHOTU",
+      "name": "RMG ML Sports Holdings - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67938,6 +67920,12 @@
       "symbol": "TRIP",
       "name": "TripAdvisor, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRLV",
+      "name": "Trulieve Cannabis Corp. Subordinate Voting Shares",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
