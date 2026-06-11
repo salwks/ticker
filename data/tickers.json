@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T23:33:30.374619Z",
+  "lastUpdated": "2026-06-11T23:33:42.765531Z",
   "count": 12804,
   "tickers": [
     {
@@ -5511,6 +5511,12 @@
       "isETF": false
     },
     {
+      "symbol": "AVAT",
+      "name": "Avalanche Treasury Corporation - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AVAV",
       "name": "AeroVironment, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -9789,8 +9795,14 @@
       "isETF": false
     },
     {
-      "symbol": "BREZU",
-      "name": "Breeze Acquisition Corp. II - Units",
+      "symbol": "BREZ",
+      "name": "Breeze Acquisition Corp. II - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BREZR",
+      "name": "Breeze Acquisition Corp. II - Rights",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -19113,6 +19125,12 @@
       "isETF": false
     },
     {
+      "symbol": "DRMP",
+      "name": "Tuttle Capital Memory Stack Income Blast ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DRN",
       "name": "Direxion Daily Real Estate Bull 3X ETF",
       "exchange": "NYSE ARCA",
@@ -26291,6 +26309,12 @@
     {
       "symbol": "FRBA",
       "name": "First Bank  - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FRBT",
+      "name": "Forbright, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42213,12 +42237,6 @@
       "isETF": false
     },
     {
-      "symbol": "MASI",
-      "name": "Masimo Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MASK",
       "name": "3 E Network Technology Group Ltd - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -43901,24 +43919,6 @@
     {
       "symbol": "MLAB",
       "name": "Mesa Laboratories, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MLAC",
-      "name": "Mountain Lake Acquisition Corp. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MLACR",
-      "name": "Mountain Lake Acquisition Corp. - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MLACU",
-      "name": "Mountain Lake Acquisition Corp. - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47712,12 +47712,6 @@
       "symbol": "NORW",
       "name": "Global X MSCI Norway ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NOTV",
-      "name": "Inotiv, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52779,6 +52773,12 @@
       "isETF": false
     },
     {
+      "symbol": "PINC",
+      "name": "PGIM Securitized Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PINE",
       "name": "Alpine Income Property Trust, Inc. Common Stock",
       "exchange": "NYSE",
@@ -56045,12 +56045,6 @@
     {
       "symbol": "QSI",
       "name": "Quantum-Si Incorporated - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "QSIAW",
-      "name": "Quantum-Si Incorporated - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61122,6 +61116,12 @@
       "symbol": "SGU",
       "name": "Star Group L.P. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SGVA",
+      "name": "F/m Accumulator Ultrashort Treasury Fund",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67743,6 +67743,12 @@
       "isETF": false
     },
     {
+      "symbol": "TPUT",
+      "name": "T. Rowe Price Capital Appreciation Market Opportunities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TPVG",
       "name": "TriplePoint Venture Growth BDC Corp. Common Stock",
       "exchange": "NYSE",
@@ -70719,24 +70725,6 @@
       "isETF": false
     },
     {
-      "symbol": "VACH",
-      "name": "Voyager Acquisition Corp - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VACHU",
-      "name": "Voyager Acquisition Corp - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VACHW",
-      "name": "Voyager Acquisition Corp - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VACI",
       "name": "Viking Acquisition Corp. I Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -72227,6 +72215,18 @@
     {
       "symbol": "VRTX",
       "name": "Vertex Pharmaceuticals Incorporated - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VRXA",
+      "name": "Veraxa Biotech AG - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VRXAW",
+      "name": "Veraxa Biotech AG - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
