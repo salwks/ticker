@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T23:33:42.765531Z",
+  "lastUpdated": "2026-06-12T23:33:07.976169Z",
   "count": 12804,
   "tickers": [
     {
@@ -1840,7 +1840,7 @@
     },
     {
       "symbol": "AGNT",
-      "name": "eXp World Holdings, Inc. - Common Stock",
+      "name": "AGNT, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -13911,12 +13911,6 @@
       "isETF": false
     },
     {
-      "symbol": "CLSZ",
-      "name": "Tradr 2X Short CLSK Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "CLUB",
       "name": "Billionaires Club ETF",
       "exchange": "NYSE ARCA",
@@ -22287,12 +22281,6 @@
       "isETF": false
     },
     {
-      "symbol": "ESK",
-      "name": "REX-Osprey ETH + Staking ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "ESLA",
       "name": "Estrella Immunopharma, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -25042,32 +25030,32 @@
     },
     {
       "symbol": "FITB",
-      "name": "Fifth Third Bancorp - Common Stock",
-      "exchange": "NASDAQ",
+      "name": "Fifth Third Bancorp Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
-      "symbol": "FITBI",
-      "name": "Fifth Third Bancorp - Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I",
-      "exchange": "NASDAQ",
+      "symbol": "FITB$A",
+      "name": "Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
-      "symbol": "FITBM",
-      "name": "Fifth Third Bancorp - Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
-      "exchange": "NASDAQ",
+      "symbol": "FITB$I",
+      "name": "Fifth Third Bancorp Depositary Share repstg 1/1000th Ownership Interest Perp Pfd Series I",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
-      "symbol": "FITBO",
-      "name": "Fifth Third Bancorp - Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",
-      "exchange": "NASDAQ",
+      "symbol": "FITB$K",
+      "name": "Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
-      "symbol": "FITBP",
-      "name": "Fifth Third Bancorp - Depositary Shares each representing 1/40th share of Fifth Third 6.00% Non-Cumulative Perpetual Class B Preferred Stock, Series A",
-      "exchange": "NASDAQ",
+      "symbol": "FITB$M",
+      "name": "Fifth Third Bancorp Depositary Shares Representing a 1/40th Ownership Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series M",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -31851,12 +31839,6 @@
       "isETF": false
     },
     {
-      "symbol": "HLXX",
-      "name": "Tradr 2X Long HL Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "HMAY",
       "name": "Corgi U.S. Equities 100% Structured Buffer ETF - May Series",
       "exchange": "BATS",
@@ -38115,12 +38097,6 @@
       "isETF": false
     },
     {
-      "symbol": "KALV",
-      "name": "KalVista Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "KAMO",
       "name": "Kensington Credit Opportunities ETF",
       "exchange": "BATS",
@@ -42795,6 +42771,12 @@
       "isETF": false
     },
     {
+      "symbol": "MDCR",
+      "name": "Pacer Swan SOS Moderate December ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MDCX",
       "name": "Medicus Pharma Ltd. - Common Stock",
       "exchange": "NASDAQ",
@@ -43809,6 +43791,12 @@
       "isETF": false
     },
     {
+      "symbol": "MJUN",
+      "name": "Pacer Swan SOS Moderate June ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MKAM",
       "name": "MKAM ETF",
       "exchange": "NASDAQ",
@@ -44058,6 +44046,12 @@
       "symbol": "MMA",
       "name": "Mixed Martial Arts Group Limited Ordinary Shares",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "MMAR",
+      "name": "Pacer Swan SOS Moderate March ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -44922,6 +44916,12 @@
       "symbol": "MSDL",
       "name": "Morgan Stanley Direct Lending Fund Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MSEP",
+      "name": "Pacer Swan SOS Moderate September ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -60321,12 +60321,6 @@
       "isETF": false
     },
     {
-      "symbol": "SCVL",
-      "name": "Shoe Carnival, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SCWO",
       "name": "374Water Inc. - common stock",
       "exchange": "NASDAQ",
@@ -61287,6 +61281,12 @@
       "isETF": false
     },
     {
+      "symbol": "SHOE",
+      "name": "Shoe Station Group, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SHOO",
       "name": "Steven Madden, Ltd. - Common Stock",
       "exchange": "NASDAQ",
@@ -61320,6 +61320,12 @@
       "symbol": "SHPU",
       "name": "Direxion Daily SHOP Bull 2X ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SHRD",
+      "name": "Arimathea Catholic Core Bond ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -62403,12 +62409,6 @@
       "isETF": false
     },
     {
-      "symbol": "SMQ",
-      "name": "Tradr 1X Short Innovation 100 Monthly ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "SMR",
       "name": "NuScale Power Corporation Class A Common Stock",
       "exchange": "NYSE",
@@ -63179,6 +63179,12 @@
     {
       "symbol": "SPCT",
       "name": "Liberty One Spectrum ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63966,12 +63972,6 @@
       "symbol": "SRPT",
       "name": "Sarepta Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SRPU",
-      "name": "Tradr 2X Long SRPT Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
