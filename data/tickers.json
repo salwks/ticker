@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-14T23:30:00.855998Z",
-  "count": 12804,
+  "lastUpdated": "2026-06-15T23:35:48.757909Z",
+  "count": 12819,
   "tickers": [
     {
       "symbol": "A",
@@ -15855,6 +15855,12 @@
       "isETF": false
     },
     {
+      "symbol": "CSEN",
+      "name": "Cohen & Steers Future of Energy Active ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CSEX",
       "name": "Tradr 2X Long CLS Daily ETF",
       "exchange": "BATS",
@@ -26691,12 +26697,6 @@
       "isETF": false
     },
     {
-      "symbol": "FTAIN",
-      "name": "FTAI Aviation Ltd. - 8.25% Fixed-Rate Reset Series C Cumulative Perpetual Redeemable Preferred Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FTBD",
       "name": "Fidelity Tactical Bond ETF",
       "exchange": "NYSE ARCA",
@@ -27783,6 +27783,12 @@
       "isETF": false
     },
     {
+      "symbol": "GCSH",
+      "name": "Guggenheim Ultra Short Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GCT",
       "name": "GigaCloud Technology Inc - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -28602,6 +28608,12 @@
       "symbol": "GIS",
       "name": "General Mills, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GISC",
+      "name": "Guggenheim Securitized Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -32001,9 +32013,21 @@
       "isETF": false
     },
     {
+      "symbol": "HONAV",
+      "name": "Honeywell Aerospace Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HONG",
       "name": "Leverage Shares 2X Long HON Daily ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "HONIV",
+      "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -32241,6 +32265,12 @@
       "isETF": false
     },
     {
+      "symbol": "HRSK",
+      "name": "Toews Agility Shares Hedged Risk ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "HRTG",
       "name": "Heritage Insurance Holdings, Inc. Common Stock",
       "exchange": "NYSE",
@@ -32328,24 +32358,6 @@
       "symbol": "HSMV",
       "name": "First Trust Horizon Managed Volatility Small/Mid ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "HSPT",
-      "name": "Horizon Space Acquisition II Corp. - Ordinary share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HSPTR",
-      "name": "Horizon Space Acquisition II Corp. - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HSPTU",
-      "name": "Horizon Space Acquisition II Corp. - Units",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36963,6 +36975,12 @@
       "isETF": false
     },
     {
+      "symbol": "JCAL",
+      "name": "JPMorgan California Tax Free Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "JCAP",
       "name": "Jefferson Capital, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -37449,12 +37467,6 @@
       "isETF": false
     },
     {
-      "symbol": "JMG",
-      "name": "JM Group Limited Ordinary Shares",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "JMHI",
       "name": "JPMorgan High Yield Municipal ETF",
       "exchange": "NYSE ARCA",
@@ -37878,6 +37890,12 @@
       "symbol": "JTEK",
       "name": "JPMorgan U.S. Tech Leaders ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "JTNY",
+      "name": "JPMorgan New York Tax Free Bond ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -41087,6 +41105,12 @@
     {
       "symbol": "LODI",
       "name": "AAM SLC Low Duration Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "LOFF",
+      "name": "Direxion Daily SpaceX Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -59247,12 +59271,6 @@
       "isETF": false
     },
     {
-      "symbol": "RZB",
-      "name": "Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due 2056",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "RZC",
       "name": "Reinsurance Group of America, Incorporated 7.125% Fixed-Rate Reset Subordinated Debentures due 2052",
       "exchange": "NYSE",
@@ -61869,6 +61887,12 @@
       "isETF": false
     },
     {
+      "symbol": "SLBT",
+      "name": "SL Science Holding Limited - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SLDB",
       "name": "Solid Biosciences Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -62637,6 +62661,12 @@
       "isETF": false
     },
     {
+      "symbol": "SNK",
+      "name": "GraniteShares 2x Short SpaceX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SNN",
       "name": "Smith & Nephew SNATS, Inc. Common Stock",
       "exchange": "NYSE",
@@ -63099,6 +63129,12 @@
       "isETF": false
     },
     {
+      "symbol": "SPAL",
+      "name": "GraniteShares 2x Long SpaceX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SPAM",
       "name": "Themes Cybersecurity ETF",
       "exchange": "NASDAQ",
@@ -63108,6 +63144,12 @@
       "symbol": "SPAQ",
       "name": "Horizon Kinetics SPAC Active ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SPAX",
+      "name": "T-REX 2X Long SpaceX Daily Target ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -63159,6 +63201,24 @@
       "isETF": false
     },
     {
+      "symbol": "SPCF",
+      "name": "ProShares Ultra SpaceX",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SPCG",
+      "name": "Tradr 2X Short SpaceX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SPCH",
+      "name": "Leverage Shares 2X Long SPCX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SPCI",
       "name": "Tuttle Capital Space Industry Income Blast ETF",
       "exchange": "BATS",
@@ -63177,9 +63237,27 @@
       "isETF": false
     },
     {
+      "symbol": "SPCM",
+      "name": "Tradr 2X Long SpaceX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SPCQ",
+      "name": "Defiance Daily Target 2X Short SpaceX ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SPCT",
       "name": "Liberty One Spectrum ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SPCU",
+      "name": "Defiance Daily Target 2X Long SpaceX ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -64164,6 +64242,12 @@
       "symbol": "SSP",
       "name": "E.W. Scripps Company (The) - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SSPC",
+      "name": "Leverage Shares 2X Short SPCX Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -65793,12 +65877,6 @@
       "isETF": false
     },
     {
-      "symbol": "TCGL",
-      "name": "TechCreate Group Ltd. Class A Ordinary Shares",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "TCHI",
       "name": "iShares MSCI China Multisector Tech ETF",
       "exchange": "NASDAQ",
@@ -66747,6 +66825,12 @@
       "isETF": false
     },
     {
+      "symbol": "TILC",
+      "name": "Thrivent International Large Cap ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TILE",
       "name": "Interface, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -66840,6 +66924,12 @@
       "symbol": "TIPZ",
       "name": "PIMCO Broad U.S. TIPS Index Exchange-Traded Fund",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TISC",
+      "name": "Thrivent International Small Cap ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -75940,7 +76030,7 @@
     },
     {
       "symbol": "YGLD",
-      "name": "Simplify Gold Strategy PLUS Income ETF",
+      "name": "Simplify Gold Strategy ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
