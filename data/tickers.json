@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-15T23:35:48.757909Z",
-  "count": 12819,
+  "lastUpdated": "2026-06-16T23:33:20.496541Z",
+  "count": 12825,
   "tickers": [
     {
       "symbol": "A",
@@ -426,12 +426,6 @@
       "symbol": "ABNG",
       "name": "Leverage Shares 2x Long ABNB Daily ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ABNY",
-      "name": "YieldMax ABNB Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -1134,6 +1128,12 @@
       "symbol": "ADIL",
       "name": "Adial Pharmaceuticals, Inc - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ADIU",
+      "name": "Leverage Shares 2X Long ADI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -3825,6 +3825,12 @@
       "isETF": false
     },
     {
+      "symbol": "APHG",
+      "name": "Leverage Shares 2X Long APH Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "APHU",
       "name": "T-REX 2X Long APH Daily Target ETF",
       "exchange": "BATS",
@@ -6054,6 +6060,12 @@
       "symbol": "AXTI",
       "name": "AXT Inc - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AXTL",
+      "name": "Leverage Shares 2X Long AXTI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -8367,6 +8379,12 @@
       "isETF": false
     },
     {
+      "symbol": "BITA",
+      "name": "iShares Bitcoin Premium Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BITB",
       "name": "Bitwise Bitcoin ETF",
       "exchange": "NYSE ARCA",
@@ -9114,6 +9132,12 @@
       "symbol": "BMNG",
       "name": "Leverage Shares 2X Long BMNR Daily ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BMNP",
+      "name": "BitMine Immersion Technologies, Inc. 9.5% Series A Perpetual Preferred Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -18321,12 +18345,6 @@
       "isETF": false
     },
     {
-      "symbol": "DISO",
-      "name": "YieldMax DIS Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "DISV",
       "name": "Dimensional International Small Cap Value ETF",
       "exchange": "BATS",
@@ -24243,12 +24261,6 @@
       "isETF": false
     },
     {
-      "symbol": "FEAT",
-      "name": "YieldMax Dorsey Wright Featured 5 Income ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FEBM",
       "name": "FT Vest U.S. Equity Max Buffer ETF - February",
       "exchange": "BATS",
@@ -25095,12 +25107,6 @@
       "isETF": false
     },
     {
-      "symbol": "FIVY",
-      "name": "YieldMax Dorsey Wright Hybrid 5 Income ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FIW",
       "name": "First Trust Water ETF",
       "exchange": "NYSE ARCA",
@@ -25683,6 +25689,12 @@
       "isETF": false
     },
     {
+      "symbol": "FLZH",
+      "name": "Flash Sports & Media Holdings, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FMAC",
       "name": "Future Money Acquisition Corporation - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -25944,6 +25956,12 @@
       "symbol": "FNF",
       "name": "Fidelity National Financial, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FNG",
+      "name": "Leverage Shares 2X Long FN Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -26789,6 +26807,12 @@
     {
       "symbol": "FTGS",
       "name": "First Trust Growth Strength ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FTH",
+      "name": "Faeth Therapeutics, Inc.  - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -29370,12 +29394,6 @@
       "symbol": "GOAU",
       "name": "US Global GO Gold and Precious Metal Miners ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "GOCO",
-      "name": "GoHealth, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38487,6 +38505,12 @@
       "isETF": false
     },
     {
+      "symbol": "KEYG",
+      "name": "Leverage Shares 2X Long KEYS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "KEYS",
       "name": "Keysight Technologies Inc. Common Stock",
       "exchange": "NYSE",
@@ -39539,12 +39563,6 @@
     {
       "symbol": "KVYO",
       "name": "Klaviyo, Inc. Series A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "KW",
-      "name": "Kennedy-Wilson Holdings Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -42639,6 +42657,12 @@
       "isETF": false
     },
     {
+      "symbol": "MCHG",
+      "name": "Leverage Shares 2X Long MCHP Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MCHI",
       "name": "iShares MSCI China ETF",
       "exchange": "NASDAQ",
@@ -42977,12 +43001,6 @@
     {
       "symbol": "MEGL",
       "name": "Magic Empire Global Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MEHA",
-      "name": "Functional Brands, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62229,6 +62247,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMCIP",
+      "name": "Super Micro Computer, Inc. - Depositary Shares Each Representing a 1/20th Interest in a Share of 7% Series A Mandatory Convertible Preferred Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SMCL",
       "name": "GraniteShares 2x Long SMCI Daily ETF",
       "exchange": "NASDAQ",
@@ -62723,12 +62747,6 @@
     {
       "symbol": "SNPS",
       "name": "Synopsys, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SNSE",
-      "name": "Sensei Biotherapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66261,6 +66279,12 @@
       "isETF": false
     },
     {
+      "symbol": "TELG",
+      "name": "Leverage Shares 2X Long TEL Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TELO",
       "name": "Telomir Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -68337,6 +68361,12 @@
       "isETF": false
     },
     {
+      "symbol": "TSEG",
+      "name": "Leverage Shares 2X Long TSEM Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TSEL",
       "name": "Touchstone Sands Capital US Select Growth ETF",
       "exchange": "NASDAQ",
@@ -69576,12 +69606,6 @@
       "symbol": "UGP",
       "name": "Ultrapar Participacoes S.A. (New) American Depositary Shares (Each representing one Common Share)",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "UGRO",
-      "name": "urban-gro, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -75609,6 +75633,12 @@
       "isETF": false
     },
     {
+      "symbol": "XSPC",
+      "name": "VegaShares SpaceX & Beyond Earth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XSPI",
       "name": "NEOS Boosted S&P 500 High Income ETF",
       "exchange": "NASDAQ",
@@ -76073,6 +76103,12 @@
     {
       "symbol": "YIBO",
       "name": "Planet Image International Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "YICCU",
+      "name": "Yorkville International Capital Corp. - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
