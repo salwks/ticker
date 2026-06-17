@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T23:33:20.496541Z",
-  "count": 12825,
+  "lastUpdated": "2026-06-17T23:34:15.817183Z",
+  "count": 12826,
   "tickers": [
     {
       "symbol": "A",
@@ -798,6 +798,12 @@
       "symbol": "ACOG",
       "name": "Alpha Cognition Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACOM",
+      "name": "Harbor Active Commodity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -4914,12 +4920,6 @@
       "symbol": "ASR",
       "name": "Grupo Aeroportuario del Sureste, S.A. de C.V. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ASRT",
-      "name": "Assertio Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -11325,6 +11325,12 @@
       "isETF": false
     },
     {
+      "symbol": "CAES",
+      "name": "Cantor Equity Partners VII, Inc. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CAF",
       "name": "Morgan Stanley China A Share Fund Inc. Common Stock",
       "exchange": "NYSE",
@@ -14667,12 +14673,6 @@
       "isETF": false
     },
     {
-      "symbol": "COIO",
-      "name": "Leverage Shares 2x Capped Accelerated COIN Monthly ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "COIW",
       "name": "Roundhill COIN WeeklyPay ETF",
       "exchange": "BATS",
@@ -16161,9 +16161,21 @@
       "isETF": false
     },
     {
+      "symbol": "CTGG",
+      "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "CTGO",
       "name": "Contango Silver & Gold Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "CTHH",
+      "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -16719,8 +16731,20 @@
       "isETF": false
     },
     {
+      "symbol": "CXII",
+      "name": "Churchill Capital Corp XII - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CXIIU",
       "name": "Churchill Capital Corp XII - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CXIIW",
+      "name": "Churchill Capital Corp XII - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24822,6 +24846,12 @@
       "symbol": "FHI",
       "name": "Federated Hermes, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FHIL",
+      "name": "Federated Hermes International Leaders ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -38175,6 +38205,12 @@
       "isETF": false
     },
     {
+      "symbol": "KAZR",
+      "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KB",
       "name": "KB Financial Group Inc",
       "exchange": "NYSE",
@@ -40677,19 +40713,7 @@
       "isETF": false
     },
     {
-      "symbol": "LILAV",
-      "name": "Liberty Latin America Ltd. - Class A Common Stock Ex-Distribution When Issued",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LILKV",
-      "name": "Liberty Latin America Ltd. - Class C Common Stock Ex-Distribution When Issued",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LILPV",
+      "symbol": "LILAP",
       "name": "Liberty Latin America Ltd. - 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares",
       "exchange": "NASDAQ",
       "isETF": false
@@ -45087,12 +45111,6 @@
       "isETF": false
     },
     {
-      "symbol": "MSOO",
-      "name": "Leverage Shares 2x Capped Accelerated MSTR Monthly ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "MSOS",
       "name": "AdvisorShares Pure US Cannabis ETF",
       "exchange": "NYSE ARCA",
@@ -48543,6 +48561,18 @@
       "isETF": false
     },
     {
+      "symbol": "NVA",
+      "name": "Nova Minerals Corp Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "NVA.W",
+      "name": "Nova Minerals Corp Warrants to Purchase Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "NVAX",
       "name": "Novavax, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -48612,12 +48642,6 @@
       "symbol": "NVDL",
       "name": "GraniteShares 2x Long NVDA Daily ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NVDO",
-      "name": "Leverage Shares 2x Capped Accelerated NVDA Monthly ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -53094,12 +53118,6 @@
       "symbol": "PLNT",
       "name": "Planet Fitness, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PLOO",
-      "name": "Leverage Shares 2x Capped Accelerated PLTR Monthly ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58557,6 +58575,12 @@
       "isETF": false
     },
     {
+      "symbol": "RQI.V",
+      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "RR",
       "name": "Richtech Robotics Inc. - Class B Common Stock",
       "exchange": "NASDAQ",
@@ -60225,12 +60249,6 @@
       "isETF": false
     },
     {
-      "symbol": "SCLS",
-      "name": "Stoneport Advisors Commodity Long Short ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SCLX",
       "name": "Scilex Holding Company - Common Stock",
       "exchange": "NASDAQ",
@@ -61740,12 +61758,6 @@
       "symbol": "SJT",
       "name": "San Juan Basin Royalty Trust Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SKBL",
-      "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68445,12 +68457,6 @@
       "isETF": false
     },
     {
-      "symbol": "TSLO",
-      "name": "Leverage Shares 2x Capped Accelerated TSLA Monthly ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "TSLP",
       "name": "Kurv Yield Premium Strategy Tesla (TSLA) ETF",
       "exchange": "BATS",
@@ -69155,12 +69161,6 @@
     {
       "symbol": "TYG",
       "name": "Tortoise Energy Infrastructure Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "TYG.R",
-      "name": "Tortoise Energy Infrastructure Corporation Rights (expiring June 17, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -75587,6 +75587,12 @@
     {
       "symbol": "XSHD",
       "name": "Invesco S&P SmallCap High Dividend Low Volatility ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XSHP",
+      "name": "Kurv SpaceX Enhanced Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
