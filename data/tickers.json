@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-21T23:31:48.519625Z",
-  "count": 12840,
+  "lastUpdated": "2026-06-22T23:32:08.312640Z",
+  "count": 12848,
   "tickers": [
     {
       "symbol": "A",
@@ -8356,7 +8356,7 @@
     },
     {
       "symbol": "BIRD",
-      "name": "Allbirds, Inc. - Class A Common Stock",
+      "name": "Smartbird, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10827,12 +10827,6 @@
       "isETF": false
     },
     {
-      "symbol": "BULX",
-      "name": "GraniteShares 2x Long BULL Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BULZ",
       "name": "MicroSectors FANG & Innovation 3x Leveraged ETN",
       "exchange": "NYSE ARCA",
@@ -11379,8 +11373,20 @@
       "isETF": false
     },
     {
+      "symbol": "CAII",
+      "name": "Collective Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CAIIU",
       "name": "Collective Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CAIIW",
+      "name": "Collective Acquisition Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -13433,12 +13439,6 @@
     {
       "symbol": "CIEN",
       "name": "Ciena Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CIF",
-      "name": "MFS Intermediate High Income Fund Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -19053,6 +19053,12 @@
       "isETF": false
     },
     {
+      "symbol": "DQJN",
+      "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DRAI",
       "name": "Draco Evolution AI ETF",
       "exchange": "NYSE ARCA",
@@ -22605,12 +22611,6 @@
       "isETF": false
     },
     {
-      "symbol": "ETRL",
-      "name": "GraniteShares 2x Long ETOR Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ETS",
       "name": "Elite Express Holding Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -25059,6 +25059,12 @@
       "isETF": false
     },
     {
+      "symbol": "FIRY",
+      "name": "Firy Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "FIS",
       "name": "Fidelity National Information Services, Inc. Common Stock",
       "exchange": "NYSE",
@@ -26877,8 +26883,20 @@
       "isETF": false
     },
     {
+      "symbol": "FTHA",
+      "name": "Forefront Tech Holdings Acquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FTHAU",
       "name": "Forefront Tech Holdings Acquisition Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FTHAW",
+      "name": "Forefront Tech Holdings Acquisition Corp - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -27825,8 +27843,20 @@
       "isETF": false
     },
     {
+      "symbol": "GCGR",
+      "name": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GCGRU",
       "name": "General Catalyst Global Resilience Merger Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GCGRW",
+      "name": "General Catalyst Global Resilience Merger Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30924,6 +30954,12 @@
       "symbol": "HAPI",
       "name": "Harbor Human Capital Factor US Large Cap ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HAPN",
+      "name": "Happen, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38601,8 +38637,20 @@
       "isETF": false
     },
     {
+      "symbol": "KEYY",
+      "name": "Keystone Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KEYYU",
       "name": "Keystone Acquisition Corp. - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KEYYW",
+      "name": "Keystone Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -40038,12 +40086,6 @@
       "symbol": "LBTYK",
       "name": "Liberty Global Ltd. - Class C Common Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LC",
-      "name": "LendingClub Corporation Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -42663,6 +42705,18 @@
       "isETF": false
     },
     {
+      "symbol": "MCAH",
+      "name": "Mountain Crest Acquisition 6 Corp. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MCAHR",
+      "name": "Mountain Crest Acquisition 6 Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MCAHU",
       "name": "Mountain Crest Acquisition 6 Corp. - Units",
       "exchange": "NASDAQ",
@@ -42798,12 +42852,6 @@
       "symbol": "MCOW",
       "name": "Pacer S&P MidCap 400 Quality FCF Aristocrats ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "MCR",
-      "name": "MFS Charter Income Trust Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -44278,7 +44326,7 @@
     },
     {
       "symbol": "MMT",
-      "name": "MFS Multimarket Income Trust Common Stock",
+      "name": "Aberdeen Multi-Market Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -45021,12 +45069,6 @@
       "isETF": false
     },
     {
-      "symbol": "MSDD",
-      "name": "GraniteShares 2x Short MSTR Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MSDL",
       "name": "Morgan Stanley Direct Lending Fund Common Stock",
       "exchange": "NYSE",
@@ -45423,8 +45465,20 @@
       "isETF": false
     },
     {
+      "symbol": "MTNE",
+      "name": "CH4 Natural Solutions Corporation Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MTNE.U",
       "name": "CH4 Natural Solutions Corporation Units, each consisting of one Class A ordinary share and one-half of one Warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MTNE.W",
+      "name": "CH4 Natural Solutions Corporation Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -58641,8 +58695,8 @@
       "isETF": false
     },
     {
-      "symbol": "RQI.V",
-      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights when issued",
+      "symbol": "RQI.R",
+      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -58746,12 +58800,6 @@
       "symbol": "RSG",
       "name": "Republic Services, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RSHO",
-      "name": "Tema U.S. Manufacturing & Reshoring ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -61854,12 +61902,6 @@
       "symbol": "SKK",
       "name": "SKK Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SKLZ",
-      "name": "Skillz Inc. Class A Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -73371,6 +73413,12 @@
       "isETF": false
     },
     {
+      "symbol": "WELD",
+      "name": "Tema U.S. Manufacturing & Reshoring ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "WELL",
       "name": "Welltower Inc. Common Stock",
       "exchange": "NYSE",
@@ -75988,7 +76036,7 @@
     },
     {
       "symbol": "YALL",
-      "name": "God Bless America ETF",
+      "name": "Truth Social God Bless America ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
