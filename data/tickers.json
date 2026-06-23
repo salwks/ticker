@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-22T23:32:08.312640Z",
-  "count": 12848,
+  "lastUpdated": "2026-06-23T23:26:27.125452Z",
+  "count": 12865,
   "tickers": [
     {
       "symbol": "A",
@@ -36,6 +36,12 @@
       "symbol": "AAAD",
       "name": "PGIM AAA CLO Aggregate Duration ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AAAP",
+      "name": "Pacer Barings CLO Market Flex ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -4947,6 +4953,12 @@
       "isETF": false
     },
     {
+      "symbol": "ASTG",
+      "name": "Leverage Shares 2X Long ASTS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ASTH",
       "name": "Astrana Health Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -7233,6 +7245,12 @@
       "isETF": false
     },
     {
+      "symbol": "BD",
+      "name": "Russell Investments Core Plus Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BDBT",
       "name": "Bluemonte Core Bond ETF",
       "exchange": "NYSE ARCA",
@@ -8651,6 +8669,12 @@
     {
       "symbol": "BKLC",
       "name": "BNY Mellon US Large Cap Core Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BKLG",
+      "name": "BNY Mellon US Large Cap Equity Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -12387,6 +12411,12 @@
       "isETF": false
     },
     {
+      "symbol": "CDNG",
+      "name": "Leverage Shares 2X Long CDNS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CDNL",
       "name": "Cardinal Infrastructure Group Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -15609,6 +15639,12 @@
       "isETF": false
     },
     {
+      "symbol": "CRIB",
+      "name": "Russell Investments Global Real Estate ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CRIS",
       "name": "Curis, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -15904,7 +15940,7 @@
     },
     {
       "symbol": "CSHP",
-      "name": "iShares Enhanced Short-Term Bond Active ETF",
+      "name": "iShares Dynamic Short-Term Active ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -17760,6 +17796,12 @@
       "symbol": "DFAI",
       "name": "Dimensional International Core Equity Market ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DFAL",
+      "name": "Dimensional US Large Cap Core Equity Market ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -21756,6 +21798,12 @@
       "symbol": "ENTG",
       "name": "Entegris, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ENTL",
+      "name": "Leverage Shares 2X Long ENTG Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -26151,6 +26199,12 @@
       "isETF": false
     },
     {
+      "symbol": "FOMG",
+      "name": "Leverage Shares 2X Long FORM Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "FOPC",
       "name": "Frontier Asset Opportunistic Credit ETF",
       "exchange": "NYSE ARCA",
@@ -26322,6 +26376,12 @@
       "symbol": "FPS",
       "name": "Forgent Power Solutions, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FPSX",
+      "name": "Leverage Shares 2X Long FPS Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -28419,6 +28479,12 @@
       "isETF": false
     },
     {
+      "symbol": "GFSG",
+      "name": "Leverage Shares 2X Long GFS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GGAL",
       "name": "Grupo Financiero Galicia S.A. - American Depositary Shares, Class B Shares underlying",
       "exchange": "NASDAQ",
@@ -28578,6 +28644,12 @@
       "symbol": "GHTA",
       "name": "Goose Hollow Tactical Allocation ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "GHXIU",
+      "name": "Gores Holdings XI, Inc. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -32256,6 +32328,12 @@
       "symbol": "HPE$C",
       "name": "Hewlett Packard Enterprise Company 7.625% Series C Mandatory Convertible Preferred Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HPEL",
+      "name": "Leverage Shares 2X Long HPE Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41265,24 +41343,6 @@
       "isETF": false
     },
     {
-      "symbol": "LOKV",
-      "name": "Live Oak Acquisition Corp. V - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LOKVU",
-      "name": "Live Oak Acquisition Corp. V - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LOKVW",
-      "name": "Live Oak Acquisition Corp. V - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LOMA",
       "name": "Loma Negra Compania Industrial Argentina Sociedad Anonima ADS",
       "exchange": "NYSE",
@@ -45504,6 +45564,12 @@
       "symbol": "MTRX",
       "name": "Matrix Service Company - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MTSG",
+      "name": "Leverage Shares 2X Long MTSI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -50716,13 +50782,13 @@
     },
     {
       "symbol": "OSRH",
-      "name": "OSR Holdings, Inc. - Common Stock",
+      "name": "OSR Health, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "OSRHW",
-      "name": "OSR Holdings, Inc. - Warrant",
+      "name": "OSR Health, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51737,6 +51803,12 @@
     {
       "symbol": "PBRG",
       "name": "Leverage Shares 2X Long PBR Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PBSC",
+      "name": "Pacer Barings Secured Credit Flex ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54405,6 +54477,12 @@
       "isETF": false
     },
     {
+      "symbol": "PRXI",
+      "name": "Praxis Impact International ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PRXV",
       "name": "Praxis Impact Large Cap Value ETF",
       "exchange": "NYSE ARCA",
@@ -55821,8 +55899,14 @@
       "isETF": false
     },
     {
-      "symbol": "QLEP.U",
-      "name": "Quantum Leap Acquisition Corp Units, each consisting of one Class A ordinary share and one redeemable warrant",
+      "symbol": "QLEP",
+      "name": "Quantum Leap Acquisition Corp Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "QLEP.W",
+      "name": "Quantum Leap Acquisition Corp Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -62619,6 +62703,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMTG",
+      "name": "Leverage Shares 2X Long SMTC Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SMTH",
       "name": "ALPS Smith Core Plus Bond ETF",
       "exchange": "NYSE ARCA",
@@ -62718,12 +62808,6 @@
       "symbol": "SNAV",
       "name": "Mohr Sector Nav ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "SNBR",
-      "name": "Sleep Number Corporation - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -63382,7 +63466,7 @@
     },
     {
       "symbol": "SPCQ",
-      "name": "Defiance Daily Target 2X Short SpaceX ETF",
+      "name": "Defiance Daily Target 2X Short SPCX ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -63394,7 +63478,7 @@
     },
     {
       "symbol": "SPCU",
-      "name": "Defiance Daily Target 2X Long SpaceX ETF",
+      "name": "Defiance Daily Target 2X Long SPCX ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -65643,12 +65727,6 @@
       "isETF": false
     },
     {
-      "symbol": "TALKW",
-      "name": "Talkspace, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TALO",
       "name": "Talos Energy, Inc. Common Stock",
       "exchange": "NYSE",
@@ -66861,6 +66939,12 @@
       "isETF": false
     },
     {
+      "symbol": "THOR",
+      "name": "Thornburg Premium Income Builder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "THQ",
       "name": "abrdn Healthcare Opportunities Fund Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -67497,6 +67581,12 @@
       "isETF": false
     },
     {
+      "symbol": "TMS",
+      "name": "Teamshares Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TMSF",
       "name": "T. Rowe Price Multi-Sector Income ETF",
       "exchange": "NASDAQ",
@@ -67506,6 +67596,12 @@
       "symbol": "TMSL",
       "name": "T. Rowe Price Small-Mid Cap ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TMSWW",
+      "name": "Teamshares Inc. - Warrants",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67973,6 +68069,12 @@
     {
       "symbol": "TPTA",
       "name": "Terra Property Trust, Inc. 6.00% Notes due 2026",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TPTS",
+      "name": "Terra Property Trust, Inc. 7.00% Senior Secured Notes due 2029",
       "exchange": "NYSE",
       "isETF": false
     },
