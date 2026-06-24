@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T23:26:27.125452Z",
-  "count": 12865,
+  "lastUpdated": "2026-06-24T23:27:43.107378Z",
+  "count": 12889,
   "tickers": [
     {
       "symbol": "A",
@@ -771,9 +771,21 @@
       "isETF": false
     },
     {
+      "symbol": "ACLZ",
+      "name": "Corgi ACLS 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ACM",
       "name": "AECOM Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ACMM",
+      "name": "Corgi ACMR 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -977,6 +989,12 @@
     {
       "symbol": "ACYN",
       "name": "FT Vest Laddered Autocallable Barrier & Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ACYQ",
+      "name": "FT Vest Autocallable Barrier & High Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -3117,6 +3135,18 @@
       "isETF": false
     },
     {
+      "symbol": "AMEI",
+      "name": "Amana Equity Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMEM",
+      "name": "Amana Developing World ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AMG",
       "name": "Affiliated Managers Group, Inc. Common Stock",
       "exchange": "NYSE",
@@ -3125,6 +3155,12 @@
     {
       "symbol": "AMGN",
       "name": "Amgen Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMGR",
+      "name": "Amana Growth ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -11475,6 +11511,12 @@
       "isETF": false
     },
     {
+      "symbol": "CAMC",
+      "name": "Corgi CAMT 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CAML",
       "name": "Congress Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
@@ -11658,6 +11700,12 @@
       "symbol": "CARU",
       "name": "MAX Auto Industry 3x Leveraged ETN",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CARX",
+      "name": "Corgi CART 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -15789,6 +15837,12 @@
       "isETF": false
     },
     {
+      "symbol": "CRUC",
+      "name": "Corgi CRUS 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CRUS",
       "name": "Cirrus Logic, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -17760,12 +17814,6 @@
       "symbol": "DEUS",
       "name": "Xtrackers Russell US Multifactor ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "DEVS",
-      "name": "DevvStream Corp. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20370,6 +20418,12 @@
       "symbol": "ECH",
       "name": "iShares MSCI Chile ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ECHO",
+      "name": "EchoStar Corporation - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -27282,6 +27336,12 @@
       "symbol": "FUSB",
       "name": "First US Bancshares, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FUSD",
+      "name": "Federated Hermes Ultrashort Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -34641,6 +34701,12 @@
       "isETF": false
     },
     {
+      "symbol": "IINC",
+      "name": "Alki Consolidated Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "IIPR",
       "name": "Innovative Industrial Properties, Inc. Common Stock",
       "exchange": "NYSE",
@@ -38715,6 +38781,12 @@
       "isETF": false
     },
     {
+      "symbol": "KEYX",
+      "name": "Corgi KEYS 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "KEYY",
       "name": "Keystone Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -40032,6 +40104,12 @@
       "symbol": "LARK",
       "name": "Landmark Bancorp Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LASC",
+      "name": "Corgi LASR 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41673,6 +41751,12 @@
       "isETF": false
     },
     {
+      "symbol": "LRNX",
+      "name": "Corgi LRN 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LRNZ",
       "name": "TrueShares Technology, AI & Deep Learning ETF",
       "exchange": "NYSE ARCA",
@@ -41706,6 +41790,12 @@
       "symbol": "LSCC",
       "name": "Lattice Semiconductor Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LSCP",
+      "name": "Natixis Loomis Sayles Dynamic Core Plus ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -41754,6 +41844,12 @@
       "symbol": "LSTA",
       "name": "Lisata Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LSTB",
+      "name": "Natixis Loomis Sayles Total Return Bond ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -42366,12 +42462,6 @@
       "symbol": "MARA",
       "name": "MARA Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MARB",
-      "name": "First Trust Merger Arbitrage ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -44517,6 +44607,12 @@
       "isETF": false
     },
     {
+      "symbol": "MNSX",
+      "name": "Corgi MNST 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MNTK",
       "name": "Montauk Renewables, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -45228,6 +45324,12 @@
       "symbol": "MSIF",
       "name": "MSC Income Fund, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MSIX",
+      "name": "Corgi MSI 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48417,6 +48519,12 @@
       "isETF": false
     },
     {
+      "symbol": "NTRL",
+      "name": "First Trust Equity Market Neutral ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NTRP",
       "name": "NextTrip, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -50319,6 +50427,12 @@
       "isETF": false
     },
     {
+      "symbol": "ONTX",
+      "name": "Corgi ONTO 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ONX",
       "name": "Tradr 2X Long ON Daily ETF",
       "exchange": "BATS",
@@ -50607,12 +50721,6 @@
       "isETF": false
     },
     {
-      "symbol": "ORGNW",
-      "name": "Origin Materials, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ORGO",
       "name": "Organogenesis Holdings Inc.  - Class A",
       "exchange": "NASDAQ",
@@ -50651,12 +50759,6 @@
     {
       "symbol": "ORIQW",
       "name": "Origin Investment Corp I - Redeemable Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ORIS",
-      "name": "Oriental Rise Holdings Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56025,6 +56127,12 @@
       "isETF": false
     },
     {
+      "symbol": "QNDX",
+      "name": "State Street SPDR Portfolio Nasdaq 100 ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QNRX",
       "name": "Quoin Pharmaceuticals, Ltd. - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -56754,6 +56862,12 @@
       "symbol": "RAL",
       "name": "Ralliant Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RAM",
+      "name": "Roundhill T-REX 2X Long DRAM Daily Target ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58257,6 +58371,12 @@
       "isETF": false
     },
     {
+      "symbol": "RMBC",
+      "name": "Corgi RMBS 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "RMBI",
       "name": "Richmond Mutual Bancorporation, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -58296,6 +58416,12 @@
       "symbol": "RMD",
       "name": "ResMed Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RMHY",
+      "name": "Global X Adaptive Risk Managed Yield ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -59146,13 +59272,13 @@
     },
     {
       "symbol": "RUM",
-      "name": "Rumble Inc. - Class A Common Stock",
+      "name": "RUM Group Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "RUMBW",
-      "name": "Rumble Inc. - Warrant",
+      "name": "RUM Group Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -59856,12 +59982,6 @@
       "symbol": "SATO",
       "name": "Invesco Alerian Galaxy Crypto Economy ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "SATS",
-      "name": "EchoStar Corporation - Common stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -61797,6 +61917,12 @@
       "isETF": false
     },
     {
+      "symbol": "SIMX",
+      "name": "Corgi SIMO 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SINT",
       "name": "SiNtx Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -62532,6 +62658,12 @@
       "symbol": "SMHB",
       "name": "ETRACS Monthly Pay 2x Leveraged Small Cap High Dividend ETN Series B",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SMHC",
+      "name": "VanEck China Semiconductor ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68037,6 +68169,12 @@
       "isETF": false
     },
     {
+      "symbol": "TPLX",
+      "name": "Corgi TPL 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TPOR",
       "name": "Direxion Daily Transportation Bull 3X ETF",
       "exchange": "NYSE ARCA",
@@ -70008,6 +70146,12 @@
       "symbol": "UMC",
       "name": "United Microelectronics Corporation (NEW) Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "UMCX",
+      "name": "Corgi UMC 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
