@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-24T23:27:43.107378Z",
-  "count": 12889,
+  "lastUpdated": "2026-06-25T23:30:53.752529Z",
+  "count": 12895,
   "tickers": [
     {
       "symbol": "A",
@@ -1245,12 +1245,6 @@
       "isETF": false
     },
     {
-      "symbol": "ADTX",
-      "name": "Aditxt, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ADUR",
       "name": "Aduro Clean Technologies Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -2421,6 +2415,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIX",
+      "name": "Defiance US 100 Tech AI Moat ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AIXC",
       "name": "AIxCrypto Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -2877,6 +2877,12 @@
       "isETF": false
     },
     {
+      "symbol": "ALPXU",
+      "name": "Alpex Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ALRG",
       "name": "Allspring LT Large Core ETF",
       "exchange": "NYSE ARCA",
@@ -3180,6 +3186,12 @@
       "symbol": "AMH$H",
       "name": "American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AMHI",
+      "name": "American Beacon Aberdeen Municipal High Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -9058,7 +9070,7 @@
     },
     {
       "symbol": "BLX",
-      "name": "Banco Latinoamericano de Comercio Exterior, S.A.",
+      "name": "Bladex, Inc. Class E Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -11812,7 +11824,7 @@
     },
     {
       "symbol": "CBAT",
-      "name": "CBAK Energy Technology, Inc. - Common Stock",
+      "name": "CBAK Energy Technology Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -12912,6 +12924,12 @@
       "symbol": "CGCB",
       "name": "Capital Group Core Bond ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CGCFU",
+      "name": "Cartesian Growth Corporation IV - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -14501,12 +14519,6 @@
     {
       "symbol": "CNSP",
       "name": "CNS Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CNTA",
-      "name": "Centessa Pharmaceuticals plc - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -16703,12 +16715,6 @@
     {
       "symbol": "CW",
       "name": "Curtiss-Wright Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CWAN",
-      "name": "Clearwater Analytics Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -19107,6 +19113,12 @@
       "isETF": false
     },
     {
+      "symbol": "DPC",
+      "name": "DPC Holdings PLC Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "DPG",
       "name": "Duff & Phelps Utility and Infrastructure Fund Inc.",
       "exchange": "NYSE",
@@ -19152,6 +19164,12 @@
       "symbol": "DRAI",
       "name": "Draco Evolution AI ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DRAL",
+      "name": "Defiance Daily Target 2X Long DRAM ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -19349,6 +19367,12 @@
     {
       "symbol": "DSACW",
       "name": "Daedalus Special Acquisition Corp. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DSC",
+      "name": "DSC Holdings Ltd. - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -27444,6 +27468,12 @@
       "symbol": "FVRR",
       "name": "Fiverr International Ltd. Ordinary Shares, no par value",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FWACU",
+      "name": "Futurewave Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -75258,6 +75288,12 @@
       "symbol": "XIFR",
       "name": "XPLR Infrastructure, LP Common Units representing limited partner interests",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "XIGV",
+      "name": "Defiance US 100 Tech Ex Software ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
