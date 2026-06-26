@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T23:30:53.752529Z",
-  "count": 12895,
+  "lastUpdated": "2026-06-26T23:28:12.795383Z",
+  "count": 12917,
   "tickers": [
     {
       "symbol": "A",
@@ -1341,6 +1341,12 @@
       "isETF": false
     },
     {
+      "symbol": "AEHG",
+      "name": "Leverage Shares 2X Long AEHR Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AEHL",
       "name": "Antelope Enterprise Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -2074,7 +2080,7 @@
     },
     {
       "symbol": "AIB",
-      "name": "BlockchAIn Digital Infrastructure, Inc Common Shares",
+      "name": "AIB Data Centers Inc. Common Stock",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -3015,6 +3021,12 @@
       "isETF": false
     },
     {
+      "symbol": "AMAA",
+      "name": "Corgi AMZN 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AMAL",
       "name": "Amalgamated Financial Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -3102,6 +3114,12 @@
       "symbol": "AMD",
       "name": "Advanced Micro Devices, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMDC",
+      "name": "Corgi AMD 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -4008,6 +4026,12 @@
       "symbol": "APP",
       "name": "Applovin Corporation - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "APPC",
+      "name": "Corgi APP 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -5040,6 +5064,12 @@
       "symbol": "ASTS",
       "name": "AST SpaceMobile, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ASTT",
+      "name": "Corgi ASTS 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -14769,6 +14799,12 @@
       "isETF": false
     },
     {
+      "symbol": "COIX",
+      "name": "Corgi COIN 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "COKE",
       "name": "Coca-Cola Consolidated, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -23907,6 +23943,12 @@
       "isETF": false
     },
     {
+      "symbol": "FBX",
+      "name": "Corgi META 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "FBY",
       "name": "YieldMax META Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -29664,6 +29706,12 @@
       "symbol": "GOF",
       "name": "Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GOGL",
+      "name": "Corgi GOOGL 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40041,6 +40089,12 @@
       "isETF": false
     },
     {
+      "symbol": "LADM",
+      "name": "Pacer Swan SOS Laddered Moderate ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LADR",
       "name": "Ladder Capital Corp Class A Common Stock",
       "exchange": "NYSE",
@@ -40109,12 +40163,6 @@
     {
       "symbol": "LANV",
       "name": "Lanvin Group Holdings Limited Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "LANV.W",
-      "name": "Lanvin Group Holdings Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -42747,6 +42795,12 @@
       "isETF": false
     },
     {
+      "symbol": "MBGL.V",
+      "name": "Mobility Global Inc. Common Stock When-Issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MBI",
       "name": "MBIA Inc. Common Stock",
       "exchange": "NYSE",
@@ -43617,6 +43671,12 @@
       "isETF": false
     },
     {
+      "symbol": "MFPVV",
+      "name": "Midera Food Processing, Inc. - Common Stock When Issued",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MFSB",
       "name": "MFS Active Core Plus Bond ETF",
       "exchange": "NYSE",
@@ -43923,6 +43983,12 @@
       "isETF": false
     },
     {
+      "symbol": "MIC",
+      "name": "Corgi MU 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MICC",
       "name": "The Magnum Ice Cream Company N.V. Ordinary Shares",
       "exchange": "NYSE",
@@ -43937,6 +44003,12 @@
     {
       "symbol": "MIDD",
       "name": "The Middleby Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MIDDV",
+      "name": "Middleby Corp. - Common Stock Ex-Distribution When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45273,6 +45345,12 @@
       "isETF": false
     },
     {
+      "symbol": "MSFC",
+      "name": "Corgi MSFT 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MSFD",
       "name": "Direxion Daily MSFT Bear 1X ETF",
       "exchange": "NASDAQ",
@@ -45443,6 +45521,12 @@
     {
       "symbol": "MSTB",
       "name": "LHA Market State Tactical Beta ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "MSTC",
+      "name": "Corgi MSTR 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -48899,6 +48983,12 @@
     {
       "symbol": "NVBW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Nov ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "NVC",
+      "name": "Corgi NVDA 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -53499,6 +53589,12 @@
       "isETF": false
     },
     {
+      "symbol": "PLTL",
+      "name": "Corgi PLTR 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PLTM",
       "name": "GraniteShares Platinum Shares ETF",
       "exchange": "NYSE ARCA",
@@ -54245,12 +54341,6 @@
     {
       "symbol": "PR",
       "name": "Permian Resources Corporation Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PRA",
-      "name": "ProAssurance Corporation Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -60855,12 +60945,6 @@
       "isETF": false
     },
     {
-      "symbol": "SDM",
-      "name": "Smart Digital Group Limited - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SDMF",
       "name": "Simplify DBi CTA Managed Futures Index ETF",
       "exchange": "NYSE ARCA",
@@ -61953,6 +62037,12 @@
       "isETF": false
     },
     {
+      "symbol": "SIND",
+      "name": "Sinda Ltd. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SINT",
       "name": "SiNtx Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -62985,6 +63075,12 @@
       "isETF": false
     },
     {
+      "symbol": "SNDC",
+      "name": "Corgi SNDK 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SNDG",
       "name": "Leverage Shares 2X Long SNDK Daily ETF",
       "exchange": "BATS",
@@ -63761,6 +63857,12 @@
     {
       "symbol": "SPGI",
       "name": "S&P Global Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SPGI.V",
+      "name": "S&P Global Inc. Common Stock When-Issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -66753,6 +66855,12 @@
       "isETF": false
     },
     {
+      "symbol": "TESC",
+      "name": "Corgi TSLA 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TESL",
       "name": "Simplify Volt TSLA Revolution ETF",
       "exchange": "NYSE ARCA",
@@ -69411,6 +69519,12 @@
       "isETF": false
     },
     {
+      "symbol": "TWSC",
+      "name": "Corgi TSM 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TWST",
       "name": "Twist Bioscience Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -69816,6 +69930,12 @@
       "symbol": "UCTT",
       "name": "Ultra Clean Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "UCTX",
+      "name": "Corgi UCTT 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -70668,6 +70788,18 @@
       "symbol": "USD",
       "name": "ProShares Ultra Semiconductors",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "USDE",
+      "name": "StablecoinX Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "USDEW",
+      "name": "StablecoinX Inc. - Warrants",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -72142,7 +72274,7 @@
     },
     {
       "symbol": "VIVO",
-      "name": "VivoPower PLC - Ordinary Shares",
+      "name": "VivoPower PLC - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
