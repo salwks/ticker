@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-28T23:25:40.536539Z",
-  "count": 12917,
+  "lastUpdated": "2026-06-29T23:24:13.171184Z",
+  "count": 12916,
   "tickers": [
     {
       "symbol": "A",
@@ -3977,6 +3977,18 @@
     {
       "symbol": "APM",
       "name": "Aptorum Group Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "APMC",
+      "name": "AmperCap Acquisition Company - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "APMCR",
+      "name": "AmperCap Acquisition Company - Right",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -18885,6 +18897,12 @@
       "isETF": false
     },
     {
+      "symbol": "DMC",
+      "name": "Del Monte Corporation Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "DMII",
       "name": "Drugs Made In America Acquisition II Corp. - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -24351,12 +24369,6 @@
       "isETF": false
     },
     {
-      "symbol": "FDP",
-      "name": "Del Monte Corporation Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "FDRR",
       "name": "Fidelity Dividend ETF for Rising Rates",
       "exchange": "NYSE ARCA",
@@ -27765,12 +27777,6 @@
       "isETF": false
     },
     {
-      "symbol": "GAID",
-      "name": "Guinness Atkinson International Dividend Builder ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "GAIN",
       "name": "Gladstone Investment Corporation - Business Development Company",
       "exchange": "NASDAQ",
@@ -27894,12 +27900,6 @@
       "symbol": "GAU",
       "name": "Galiano Gold Inc.",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "GAUD",
-      "name": "Guinness Atkinson US Dividend Builder ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -32337,7 +32337,7 @@
       "isETF": false
     },
     {
-      "symbol": "HONAV",
+      "symbol": "HONA",
       "name": "Honeywell Aerospace Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
@@ -32346,12 +32346,6 @@
       "symbol": "HONG",
       "name": "Leverage Shares 2X Long HON Daily ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "HONIV",
-      "name": "Honeywell International Inc. - Common Stock Ex Distribution When Issued",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -40869,12 +40863,6 @@
       "isETF": false
     },
     {
-      "symbol": "LGL.R",
-      "name": "LGL Group, Inc. (The) Rights (expiring June 23, 2026) Rights",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "LGLV",
       "name": "State Street SPDR US Large Cap Low Volatility Index ETF",
       "exchange": "NYSE ARCA",
@@ -46119,6 +46107,12 @@
       "isETF": false
     },
     {
+      "symbol": "MWHS",
+      "name": "Skylar Electricity Futures ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MWYN",
       "name": "Marwynn Holdings, Inc. - Common stock",
       "exchange": "NASDAQ",
@@ -47981,12 +47975,6 @@
     {
       "symbol": "NN",
       "name": "NextNav Inc. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NNAVW",
-      "name": "NextNav Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51048,6 +51036,18 @@
       "symbol": "OSW",
       "name": "OneSpaWorld Holdings Limited - Common Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OTAI",
+      "name": "Starlink AI Acquisition Corporation Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OTAI.R",
+      "name": "Starlink AI Acquisition Corporation Rights, each entitling the holder to receive one-fourth (1/4) of one ordinary share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -63405,12 +63405,6 @@
       "isETF": false
     },
     {
-      "symbol": "SOLR",
-      "name": "Guinness Atkinson Sustainable Energy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "SOLS",
       "name": "Solstice Advanced Materials Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -64180,7 +64174,7 @@
     },
     {
       "symbol": "SPUC",
-      "name": "Simplify US Equity PLUS Upside Convexity ETF",
+      "name": "Simplify US Equity Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -64582,7 +64576,7 @@
     },
     {
       "symbol": "SRXH",
-      "name": "SRX Health Solutions, Inc. Common Stock",
+      "name": "SRX Global Inc. Common Stock",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -67030,7 +67024,7 @@
     },
     {
       "symbol": "TGB",
-      "name": "Taseko Mines, Ltd. Common Stock",
+      "name": "Trekor Metals Limited Common Shares",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -70054,7 +70048,7 @@
     },
     {
       "symbol": "UFOX",
-      "name": "Defiance Connective Technologies ETF",
+      "name": "Defiance Space and Connective Tech ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
