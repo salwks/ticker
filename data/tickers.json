@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T23:24:13.171184Z",
-  "count": 12916,
+  "lastUpdated": "2026-06-30T23:29:40.490446Z",
+  "count": 12932,
   "tickers": [
     {
       "symbol": "A",
@@ -48,6 +48,12 @@
       "symbol": "AAAU",
       "name": "Goldman Sachs Physical Gold ETF Shares",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "AAC.U",
+      "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -708,6 +714,12 @@
       "symbol": "ACHV",
       "name": "Achieve Life Sciences, Inc.  - Common Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACHX",
+      "name": "Corgi ACHR 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -4563,6 +4575,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARMA",
+      "name": "Corgi ARM 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ARMG",
       "name": "Leverage Shares 2X Long ARM Daily ETF",
       "exchange": "NASDAQ",
@@ -4944,6 +4962,12 @@
       "symbol": "ASMU",
       "name": "Direxion Daily ASML Bull 2X ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ASMZ",
+      "name": "Corgi ASML 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -5712,6 +5736,12 @@
       "symbol": "AVGB",
       "name": "Avantis Credit ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AVGC",
+      "name": "Corgi AVGO 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -7539,6 +7569,12 @@
       "isETF": false
     },
     {
+      "symbol": "BEC",
+      "name": "Corgi BE 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BEDY",
       "name": "BNY Mellon Enhanced Dividend and Income ETF",
       "exchange": "NASDAQ",
@@ -8548,7 +8584,7 @@
     },
     {
       "symbol": "BITX",
-      "name": "2x Bitcoin Strategy ETF",
+      "name": "2x Bitcoin ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -10462,7 +10498,7 @@
     },
     {
       "symbol": "BSR",
-      "name": "Beacon Selective Risk ETF",
+      "name": "Beacon Unified Catalyst ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -10764,12 +10800,6 @@
       "symbol": "BTX",
       "name": "BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BTYB",
-      "name": "VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -13578,6 +13608,12 @@
       "symbol": "CIEN",
       "name": "Ciena Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CIFC",
+      "name": "Corgi CIFR 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -18513,6 +18549,12 @@
       "isETF": false
     },
     {
+      "symbol": "DISK",
+      "name": "Tema Memory ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DISV",
       "name": "Dimensional International Small Cap Value ETF",
       "exchange": "BATS",
@@ -21966,6 +22008,12 @@
       "symbol": "ENZL",
       "name": "iShares MSCI New Zealand ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EO",
+      "name": "Corgi EOSE 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -29073,6 +29121,12 @@
       "isETF": false
     },
     {
+      "symbol": "GLAS",
+      "name": "Glass House Brands Inc. Subordinate Voting Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "GLBE",
       "name": "Global-E Online Ltd. - ordinary shares",
       "exchange": "NASDAQ",
@@ -29136,12 +29190,6 @@
       "symbol": "GLDW",
       "name": "Roundhill Gold WeeklyPay ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "GLDY",
-      "name": "Defiance Gold Enhanced Options Income ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -29373,6 +29421,12 @@
       "isETF": false
     },
     {
+      "symbol": "GLX",
+      "name": "Corgi GLXY 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GLXG",
       "name": "Galaxy Payroll Group Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -29424,6 +29478,12 @@
       "symbol": "GME.W",
       "name": "GameStop Corporation Warrants to Purchase Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GMEC",
+      "name": "Corgi GME 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -29730,6 +29790,12 @@
       "symbol": "GOLF",
       "name": "Acushnet Holdings Corp. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "GOLI",
+      "name": "Defiance Gold Enhanced Options Income ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -32243,12 +32309,6 @@
     {
       "symbol": "HNNA",
       "name": "Hennessy Advisors, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HNNAZ",
-      "name": "Hennessy Advisors, Inc. - 4.875% Notes due 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -35721,6 +35781,12 @@
       "isETF": false
     },
     {
+      "symbol": "IONC",
+      "name": "Corgi IONQ 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "IONL",
       "name": "GraniteShares 2x Long IONQ Daily ETF",
       "exchange": "NASDAQ",
@@ -35784,6 +35850,12 @@
       "symbol": "IOSP",
       "name": "Innospec Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IOSX",
+      "name": "Corgi AAPL 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -40242,6 +40314,12 @@
       "symbol": "LAZ",
       "name": "Lazard, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LAZR",
+      "name": "Tema Photonics & Optical ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -50775,6 +50853,12 @@
       "isETF": false
     },
     {
+      "symbol": "ORAC",
+      "name": "Corgi ORCL 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ORBS",
       "name": "Eightco Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -57027,6 +57111,12 @@
       "isETF": false
     },
     {
+      "symbol": "RANK",
+      "name": "Defiance KSM TipRanks Analyst ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RAPP",
       "name": "Rapport Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -58410,6 +58500,12 @@
       "symbol": "RKTO",
       "name": "Rocket One Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RKX",
+      "name": "Corgi RKLB 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -62685,6 +62781,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMCC",
+      "name": "Corgi SMCI 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SMCF",
       "name": "Themes US Small Cap Cash Flow Champions ETF",
       "exchange": "NASDAQ",
@@ -66225,12 +66327,6 @@
       "isETF": false
     },
     {
-      "symbol": "TBLAW",
-      "name": "Taboola.com Ltd. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TBLD",
       "name": "Thornburg Income Builder Opportunities Trust - Closed End Fund",
       "exchange": "NASDAQ",
@@ -68334,12 +68430,6 @@
       "symbol": "TPST",
       "name": "Tempest Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TPTA",
-      "name": "Terra Property Trust, Inc. 6.00% Notes due 2026",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -73403,7 +73493,7 @@
     {
       "symbol": "WAGN",
       "name": "Pabrai Wagons ETF",
-      "exchange": "NYSE",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -75984,6 +76074,12 @@
       "symbol": "XQQI",
       "name": "NEOS Boosted Nasdaq-100 High Income ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XQTM",
+      "name": "Corgi Quantum Computing 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
