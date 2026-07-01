@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T23:29:40.490446Z",
-  "count": 12932,
+  "lastUpdated": "2026-07-01T23:31:21.924866Z",
+  "count": 12946,
   "tickers": [
     {
       "symbol": "A",
@@ -1467,8 +1467,26 @@
       "isETF": false
     },
     {
+      "symbol": "AESP",
+      "name": "Aeon Acquisition I Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AESPR",
+      "name": "Aeon Acquisition I Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AESPU",
       "name": "Aeon Acquisition I Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AESPW",
+      "name": "Aeon Acquisition I Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -4475,6 +4493,12 @@
     {
       "symbol": "ARKD",
       "name": "ARK DIET Q1 Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ARKE",
+      "name": "ARK DIET Q3 Buffer ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -8931,12 +8955,6 @@
       "isETF": false
     },
     {
-      "symbol": "BLD",
-      "name": "TopBuild Corp. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BLDG",
       "name": "Cambria Global Real Estate ETF",
       "exchange": "BATS",
@@ -10494,6 +10512,12 @@
       "symbol": "BSOL",
       "name": "Bitwise Solana Staking ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BSP",
+      "name": "Bending Spoons S.p.A. - Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -13608,6 +13632,12 @@
       "symbol": "CIEN",
       "name": "Ciena Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CIEX",
+      "name": "Tradr 2X Long CIEN Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -20547,6 +20577,12 @@
       "isETF": false
     },
     {
+      "symbol": "ECHX",
+      "name": "Leverage Shares 2X Long ECHO Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ECL",
       "name": "Ecolab Inc. Common Stock",
       "exchange": "NYSE",
@@ -24561,6 +24597,12 @@
       "isETF": false
     },
     {
+      "symbol": "FECM",
+      "name": "First Eagle Core Municipal ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FEDM",
       "name": "FlexShares ESG & Climate Developed Markets ex-US Core Index Fund",
       "exchange": "NYSE ARCA",
@@ -24738,6 +24780,12 @@
       "symbol": "FERG",
       "name": "Ferguson Enterprises Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FESC",
+      "name": "First Eagle Small Cap Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -32337,6 +32385,12 @@
       "isETF": false
     },
     {
+      "symbol": "HODO",
+      "name": "House of Doge Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HODU",
       "name": "Direxion Daily HOOD Bull 2X ETF",
       "exchange": "NASDAQ",
@@ -36555,6 +36609,12 @@
       "isETF": false
     },
     {
+      "symbol": "ITG",
+      "name": "ITG, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ITGR",
       "name": "Integer Holdings Corporation Common Stock",
       "exchange": "NYSE",
@@ -37701,12 +37761,6 @@
       "isETF": false
     },
     {
-      "symbol": "JHG",
-      "name": "Janus Henderson Group plc Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "JHHY",
       "name": "John Hancock High Yield ETF",
       "exchange": "NYSE ARCA",
@@ -38339,6 +38393,12 @@
     {
       "symbol": "JULH",
       "name": "Innovator Premium Income 20 Barrier ETF - July",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "JULI",
+      "name": "AllianzIM International Equity Buffer15 Uncapped Jul ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -39276,6 +39336,12 @@
       "symbol": "KMDA",
       "name": "Kamada Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KMEM",
+      "name": "Kurv Memory Select ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41109,6 +41175,12 @@
       "isETF": false
     },
     {
+      "symbol": "LIME",
+      "name": "Neutron Holdings, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LIMI",
       "name": "Themes Lithium & Battery Metal Miners ETF",
       "exchange": "BATS",
@@ -42861,8 +42933,8 @@
       "isETF": false
     },
     {
-      "symbol": "MBGL.V",
-      "name": "Mobility Global Inc. Common Stock When-Issued",
+      "symbol": "MBGL",
+      "name": "Mobility Global Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -48549,6 +48621,18 @@
       "isETF": false
     },
     {
+      "symbol": "NSLR",
+      "name": "Neostellar Capital Corp. - Closed End Fund",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NSLRL",
+      "name": "Neostellar Capital Corp. - 6.00% Notes due 2026",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NSP",
       "name": "Insperity, Inc. Common Stock",
       "exchange": "NYSE",
@@ -51071,6 +51155,12 @@
     {
       "symbol": "OSPN",
       "name": "OneSpan Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OSPRU",
+      "name": "Osprey Acquisition Corp. III - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54423,6 +54513,30 @@
       "isETF": false
     },
     {
+      "symbol": "PQV",
+      "name": "PGIM S&P 500 Quarterly Buffer 5 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PQX",
+      "name": "PGIM S&P 500 Quarterly Buffer 10 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PQXV",
+      "name": "PGIM S&P 500 Quarterly Buffer 15 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PQXX",
+      "name": "PGIM S&P 500 Quarterly Buffer 20 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PR",
       "name": "Permian Resources Corporation Class A Common Stock",
       "exchange": "NYSE",
@@ -56358,6 +56472,12 @@
       "symbol": "QNTM",
       "name": "Quantum Biopharma Ltd. - Class B Subordinate Voting Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QNTU",
+      "name": "Tradr 2X Long QNT Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58605,6 +58725,12 @@
       "isETF": false
     },
     {
+      "symbol": "RMBX",
+      "name": "Tradr 2X Long RMBS Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "RMCA",
       "name": "Rockefeller California Municipal Bond ETF",
       "exchange": "NYSE ARCA",
@@ -60177,12 +60303,6 @@
       "isETF": false
     },
     {
-      "symbol": "SATG",
-      "name": "Leverage Shares 2X Long SATS Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SATL",
       "name": "Satellogic Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -61287,12 +61407,6 @@
       "isETF": false
     },
     {
-      "symbol": "SEM",
-      "name": "Select Medical Holdings Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "SEMG",
       "name": "Suncoast Select Growth ETF",
       "exchange": "NYSE ARCA",
@@ -62064,12 +62178,6 @@
       "symbol": "SIL",
       "name": "Global X Silver Miners ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "SILA",
-      "name": "Sila Realty Trust, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -63957,12 +64065,6 @@
       "isETF": false
     },
     {
-      "symbol": "SPGI.V",
-      "name": "S&P Global Inc. Common Stock When-Issued",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "SPGM",
       "name": "State Street SPDR Portfolio MSCI Global Stock Market ETF",
       "exchange": "NYSE ARCA",
@@ -64851,18 +64953,6 @@
       "isETF": false
     },
     {
-      "symbol": "SSSS",
-      "name": "SuRo Capital Corp. - Closed End Fund",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SSSSL",
-      "name": "SuRo Capital Corp. - 6.00% Notes due 2026",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SST",
       "name": "System1, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -64961,12 +65051,6 @@
     {
       "symbol": "STE",
       "name": "STERIS plc (Ireland) Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "STEL",
-      "name": "Stellar Bancorp, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -66294,12 +66378,6 @@
       "symbol": "TBG",
       "name": "TBG Dividend Focus ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "TBH",
-      "name": "Brag House Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68973,6 +69051,12 @@
       "isETF": false
     },
     {
+      "symbol": "TSEU",
+      "name": "Tradr 2X Long TSEM Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TSHA",
       "name": "Taysha Gene Therapies, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -69294,6 +69378,12 @@
       "symbol": "TTMI",
       "name": "TTM Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TTMX",
+      "name": "Tradr 2X Long TTMI Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72204,12 +72294,6 @@
       "symbol": "VIA",
       "name": "Via Transportation, Inc. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VIASP",
-      "name": "Via Renewables, Inc. - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
