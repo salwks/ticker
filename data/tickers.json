@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-01T23:31:21.924866Z",
-  "count": 12946,
+  "lastUpdated": "2026-07-02T23:25:58.047326Z",
+  "count": 12957,
   "tickers": [
     {
       "symbol": "A",
@@ -5363,12 +5363,6 @@
     {
       "symbol": "ATLCZ",
       "name": "Atlanticus Holdings Corporation - 9.25% Senior Notes due 2029",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATLN",
-      "name": "Atlantic International Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -12819,12 +12813,6 @@
       "isETF": false
     },
     {
-      "symbol": "CEPT",
-      "name": "Cantor Equity Partners II, Inc. - Class A ordinary share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CEPU",
       "name": "Central Puerto S.A. American Depositary Shares (each represents ten Common Shares)",
       "exchange": "NYSE",
@@ -13486,7 +13474,7 @@
     },
     {
       "symbol": "CHRN",
-      "name": "ChronoScale Corporation - Common Stock",
+      "name": "ChronoScale Holdings Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -13779,6 +13767,12 @@
       "isETF": false
     },
     {
+      "symbol": "CIRC",
+      "name": "Circle8 Group, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CISO",
       "name": "CISO Global, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -13818,6 +13812,12 @@
       "symbol": "CJMB",
       "name": "Callan JMB Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CJUL",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - July Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -15060,6 +15060,18 @@
       "symbol": "COPP",
       "name": "Sprott Copper Miners ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "COPR",
+      "name": "Idaho Copper Corporation Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "COPR.W",
+      "name": "Idaho Copper Corporation Common Stock Purchase Warrant",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -16397,6 +16409,12 @@
     {
       "symbol": "CTIF",
       "name": "Castellan Targeted Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "CTJL",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - July Series",
       "exchange": "BATS",
       "isETF": false
     },
@@ -21705,6 +21723,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMJL",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - July Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "EMJN",
       "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - June Series",
       "exchange": "BATS",
@@ -23129,12 +23153,6 @@
     {
       "symbol": "EVGO",
       "name": "EVgo Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EVGOW",
-      "name": "EVgo Inc. - Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -27723,6 +27741,12 @@
       "isETF": false
     },
     {
+      "symbol": "FXHO",
+      "name": "UTime Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FXI",
       "name": "iShares China Large-Cap ETF",
       "exchange": "NYSE ARCA",
@@ -30681,6 +30705,18 @@
       "isETF": false
     },
     {
+      "symbol": "GSRV",
+      "name": "GSR V Acquisition Corp. - Class A ordinary shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GSRVR",
+      "name": "GSR V Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GSRVU",
       "name": "GSR V Acquisition Corp. - Units",
       "exchange": "NASDAQ",
@@ -31049,12 +31085,6 @@
     {
       "symbol": "GWH",
       "name": "ESS Tech, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GWH.W",
-      "name": "ESS Tech, Inc. Warrant",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -32166,6 +32196,12 @@
       "symbol": "HIYY",
       "name": "YieldMax HIMS Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HJLY",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - July Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -34293,6 +34329,12 @@
       "isETF": false
     },
     {
+      "symbol": "IDJL",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - July Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "IDJN",
       "name": "Corgi International Developed Equities 15% Structured Buffer ETF - June Series",
       "exchange": "BATS",
@@ -36162,6 +36204,18 @@
       "symbol": "IQMM",
       "name": "ProShares GENIUS Money Market ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IQMX",
+      "name": "IQM Quantum Computers Oyj - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IQMXW",
+      "name": "IQM Quantum Computers Oyj - Warrants to purchase American Depositary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -38387,6 +38441,12 @@
     {
       "symbol": "JULB",
       "name": "Aptus July Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "JULC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - July Series",
       "exchange": "BATS",
       "isETF": false
     },
@@ -44115,6 +44175,12 @@
       "isETF": false
     },
     {
+      "symbol": "MIACU",
+      "name": "Meridian3 Industrials Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MIAX",
       "name": "Miami International Holdings, Inc. Common Stock",
       "exchange": "NYSE",
@@ -47853,12 +47919,6 @@
       "isETF": false
     },
     {
-      "symbol": "NIXXW",
-      "name": "Nixxy, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NJAN",
       "name": "Innovator Growth-100 Power Buffer ETF - January",
       "exchange": "BATS",
@@ -50987,12 +51047,6 @@
     {
       "symbol": "ORCX",
       "name": "Defiance Daily Target 2X Long ORCL ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ORGN",
-      "name": "Origin Materials, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56289,6 +56343,12 @@
       "isETF": false
     },
     {
+      "symbol": "QJL",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - July Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QJN",
       "name": "Corgi Growth & Technology 10% Structured Buffer ETF - June Series",
       "exchange": "BATS",
@@ -56532,6 +56592,12 @@
       "symbol": "QQHG",
       "name": "Invesco QQQ Hedged Advantage ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QQJL",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -57078,24 +57144,6 @@
       "symbol": "RAAA",
       "name": "Reckoner Yield Enhanced AAA CLO ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "RAAQ",
-      "name": "Real Asset Acquisition Corp. - Class A Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RAAQU",
-      "name": "Real Asset Acquisition Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RAAQW",
-      "name": "Real Asset Acquisition Corp. - Warrants",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -60885,6 +60933,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCJL",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - July Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SCJN",
       "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - June Series",
       "exchange": "BATS",
@@ -61302,6 +61356,12 @@
       "symbol": "SECU",
       "name": "iShares Securitized Income Active ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SECZ",
+      "name": "Securitize Corp. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -63832,7 +63892,7 @@
     },
     {
       "symbol": "SPAX",
-      "name": "T-REX 2X Long SpaceX Daily Target ETF",
+      "name": "T-REX 2X Long SPCX Daily Target ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -71823,6 +71883,12 @@
       "isETF": false
     },
     {
+      "symbol": "VCRE",
+      "name": "Vicore Pharma Holding AB - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VCRM",
       "name": "Vanguard Core Tax-Exempt Bond ETF",
       "exchange": "BATS",
@@ -72342,6 +72408,12 @@
       "symbol": "VIGI",
       "name": "Vanguard International Dividend Appreciation ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VII.U",
+      "name": "Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -74949,12 +75021,6 @@
       "isETF": false
     },
     {
-      "symbol": "WTO",
-      "name": "UTime Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "WTPI",
       "name": "WisdomTree Equity Premium Income Fund",
       "exchange": "NYSE ARCA",
@@ -75994,7 +76060,7 @@
     },
     {
       "symbol": "XOM",
-      "name": "Exxon Mobil Corporation Common Stock",
+      "name": "ExxonMobil Holdings Corporation Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
