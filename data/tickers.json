@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T00:06:56.610131Z",
-  "count": 12964,
+  "lastUpdated": "2026-07-07T23:55:56.727148Z",
+  "count": 12990,
   "tickers": [
     {
       "symbol": "A",
@@ -222,6 +222,12 @@
       "symbol": "AAPD",
       "name": "Direxion Daily AAPL Bear 1X ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AAPE",
+      "name": "Leverage Shares 2X Long AAPL Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -2907,8 +2913,26 @@
       "isETF": false
     },
     {
+      "symbol": "ALPX",
+      "name": "Alpex Acquisition Corporation - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ALPXR",
+      "name": "Alpex Acquisition Corporation - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ALPXU",
       "name": "Alpex Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ALPXW",
+      "name": "Alpex Acquisition Corporation - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3267,6 +3291,12 @@
       "isETF": false
     },
     {
+      "symbol": "AMKX",
+      "name": "Corgi AMKR 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AMLP",
       "name": "Alerian MLP ETF",
       "exchange": "NYSE ARCA",
@@ -3504,6 +3534,12 @@
       "symbol": "AMZE",
       "name": "Amaze Holdings, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "AMZG",
+      "name": "Leverage Shares 2X Long AMZN Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -4020,6 +4056,12 @@
       "symbol": "APMCU",
       "name": "AmperCap Acquisition Company - Unit",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "APMI",
+      "name": "Corgi AMAT 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -6201,6 +6243,12 @@
       "isETF": false
     },
     {
+      "symbol": "AXTC",
+      "name": "Corgi AXTI 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AXTI",
       "name": "AXT Inc - Common Stock",
       "exchange": "NASDAQ",
@@ -6723,24 +6771,6 @@
       "isETF": false
     },
     {
-      "symbol": "BAYA",
-      "name": "Bayview Acquisition Corp - Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BAYAR",
-      "name": "Bayview Acquisition Corp - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BAYAU",
-      "name": "Bayview Acquisition Corp - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BB",
       "name": "BlackBerry Limited Common Stock",
       "exchange": "NYSE",
@@ -7029,6 +7059,12 @@
       "isETF": false
     },
     {
+      "symbol": "BBUL",
+      "name": "GraniteShares 2x Long BB Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BBUS",
       "name": "JPMorgan BetaBuilders U.S. Equity ETF",
       "exchange": "BATS",
@@ -7134,6 +7170,12 @@
       "symbol": "BCCC",
       "name": "Global X Bitcoin Covered Call ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BCCQU",
+      "name": "Bleichroeder Acquisition Corp. III - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -10056,6 +10098,12 @@
       "symbol": "BRKHU",
       "name": "Burtech Acquisition Corp II - Units",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRKL",
+      "name": "Corgi BRKB 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -13761,6 +13809,12 @@
       "isETF": false
     },
     {
+      "symbol": "CIR",
+      "name": "Corgi CRCL 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CIRC",
       "name": "Circle8 Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -14814,6 +14868,12 @@
       "symbol": "COGT",
       "name": "Cogent Biosciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "COHC",
+      "name": "Corgi COHR 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16038,6 +16098,12 @@
       "symbol": "CRWV",
       "name": "CoreWeave, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CRWX",
+      "name": "Corgi CRWV 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -27687,8 +27753,20 @@
       "isETF": false
     },
     {
+      "symbol": "FXAC",
+      "name": "FortuneX Acquisition Corporation - Ordinary shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FXACU",
       "name": "FortuneX Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FXACW",
+      "name": "FortuneX Acquisition Corporation - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -29922,6 +30000,12 @@
       "symbol": "GOOGN",
       "name": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GOOL",
+      "name": "Leverage Shares 2X Long GOOGL Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -37497,6 +37581,12 @@
       "isETF": false
     },
     {
+      "symbol": "JBLG",
+      "name": "Leverage Shares 2X Long JBL Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "JBLU",
       "name": "JetBlue Airways Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -40653,6 +40743,12 @@
       "isETF": false
     },
     {
+      "symbol": "LCTO",
+      "name": "Kurv U.S. Large Cap TaxOptimized ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LCTU",
       "name": "iShares U.S. Carbon Transition Readiness Aware Active ETF",
       "exchange": "NYSE ARCA",
@@ -41976,6 +42072,12 @@
       "symbol": "LQTI",
       "name": "FT Vest Investment Grade & Target Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "LRCC",
+      "name": "Corgi LRCX 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -43731,6 +43833,12 @@
       "isETF": false
     },
     {
+      "symbol": "METG",
+      "name": "Leverage Shares 2X Long META Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "METL",
       "name": "Sprott Active Metals & Miners ETF",
       "exchange": "NASDAQ",
@@ -43887,8 +43995,8 @@
       "isETF": false
     },
     {
-      "symbol": "MFPVV",
-      "name": "Midera Food Processing, Inc. - Common Stock When Issued",
+      "symbol": "MFP",
+      "name": "Midera Food Processing, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44225,12 +44333,6 @@
     {
       "symbol": "MIDD",
       "name": "The Middleby Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MIDDV",
-      "name": "The Middleby Corporation - Common Stock Ex-Distribution When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45234,6 +45336,12 @@
       "symbol": "MPV",
       "name": "Barings Participation Investors Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MPWC",
+      "name": "Corgi MPWR 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -47631,6 +47739,12 @@
       "isETF": false
     },
     {
+      "symbol": "NFX",
+      "name": "Corgi NFLX 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "NFXL",
       "name": "Direxion Daily NFLX Bull 2X ETF",
       "exchange": "NASDAQ",
@@ -49425,6 +49539,12 @@
       "isETF": false
     },
     {
+      "symbol": "NVTC",
+      "name": "Corgi NVTS 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "NVTS",
       "name": "Navitas Semiconductor Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -50403,6 +50523,12 @@
       "isETF": false
     },
     {
+      "symbol": "OKLC",
+      "name": "Corgi OKLO 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "OKLL",
       "name": "Defiance Daily Target 2x Long OKLO ETF",
       "exchange": "NASDAQ",
@@ -50634,6 +50760,12 @@
       "symbol": "OND",
       "name": "ProShares On-Demand ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ONDC",
+      "name": "Corgi ONDS 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -55677,6 +55809,12 @@
       "isETF": false
     },
     {
+      "symbol": "PUL",
+      "name": "GraniteShares 2x Long P Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PULM",
       "name": "Pulmatrix, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -57827,12 +57965,6 @@
     {
       "symbol": "RECT",
       "name": "Rectitude Holdings Ltd - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "REE",
-      "name": "REE Automotive Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61787,6 +61919,12 @@
     {
       "symbol": "SFYF",
       "name": "SoFi Social 50 ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SFYI",
+      "name": "SoFi Social 50 Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -67119,6 +67257,12 @@
       "isETF": false
     },
     {
+      "symbol": "TERC",
+      "name": "Corgi TER 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TERG",
       "name": "Leverage Shares 2X Long TER Daily ETF",
       "exchange": "NASDAQ",
@@ -70611,6 +70755,12 @@
       "isETF": false
     },
     {
+      "symbol": "UN",
+      "name": "Corgi UNH 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "UNB",
       "name": "Union Bankshares, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -72402,6 +72552,12 @@
       "symbol": "VIA",
       "name": "Via Transportation, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "VIAG",
+      "name": "Leverage Shares 2X Long VIAV Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
