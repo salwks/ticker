@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-06T00:03:15.988843Z",
-  "count": 12957,
+  "lastUpdated": "2026-07-07T00:06:56.610131Z",
+  "count": 12964,
   "tickers": [
     {
       "symbol": "A",
@@ -288,12 +288,6 @@
       "symbol": "AAUC",
       "name": "Allied Gold Corporation Common Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AAUM",
-      "name": "Tema Alternative Asset Managers ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -22131,6 +22125,12 @@
       "isETF": false
     },
     {
+      "symbol": "EOSER",
+      "name": "Eos Energy Enterprises, Inc. - Right",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EOSU",
       "name": "T-REX 2X Long EOSE Daily Target ETF",
       "exchange": "BATS",
@@ -30951,8 +30951,20 @@
       "isETF": false
     },
     {
+      "symbol": "GUAC",
+      "name": "Berto Acquisition Corp. II - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GUACU",
       "name": "Berto Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GUACW",
+      "name": "Berto Acquisition Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -34269,8 +34281,20 @@
       "isETF": false
     },
     {
+      "symbol": "IDAC",
+      "name": "Iron Dome Acquisition I Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IDACU",
       "name": "Iron Dome Acquisition I Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IDACW",
+      "name": "Iron Dome Acquisition I Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41373,12 +41397,6 @@
       "isETF": false
     },
     {
-      "symbol": "LIXT",
-      "name": "Lixte Biotechnology Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LJAN",
       "name": "Innovator Premium Income 15 Buffer ETF - January",
       "exchange": "BATS",
@@ -43954,7 +43972,7 @@
     },
     {
       "symbol": "MGF",
-      "name": "MFS Government Markets Income Trust Common Stock",
+      "name": "Aberdeen Government Markets Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -44212,7 +44230,7 @@
     },
     {
       "symbol": "MIDDV",
-      "name": "Middleby Corp. - Common Stock Ex-Distribution When Issued",
+      "name": "The Middleby Corporation - Common Stock Ex-Distribution When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44260,7 +44278,7 @@
     },
     {
       "symbol": "MIN",
-      "name": "MFS Intermediate Income Trust Common Stock",
+      "name": "Aberdeen Intermediate Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -48036,6 +48054,12 @@
       "symbol": "NLY$J",
       "name": "Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NMAD",
+      "name": "Nomad Power Solutions, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -54945,6 +54969,12 @@
       "isETF": false
     },
     {
+      "symbol": "PRVT",
+      "name": "Tema Alternative Asset Managers ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PRXG",
       "name": "Praxis Impact Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
@@ -55449,8 +55479,20 @@
       "isETF": false
     },
     {
+      "symbol": "PTAC",
+      "name": "Patriot Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PTACU",
       "name": "Patriot Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PTACW",
+      "name": "Patriot Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62608,7 +62650,7 @@
     },
     {
       "symbol": "SLAI",
-      "name": "SOLAI Limited American Depositary Shares (each representing one hundred (100) Class A Ordinary Shares)",
+      "name": "SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares)",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -65728,7 +65770,7 @@
     },
     {
       "symbol": "SVC",
-      "name": "Service Properties Trust - Shares of Beneficial Interest",
+      "name": "Service Properties Trust - Common Shares of Beneficial Interest",
       "exchange": "NASDAQ",
       "isETF": false
     },
