@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T23:55:56.727148Z",
-  "count": 12990,
+  "lastUpdated": "2026-07-09T00:07:29.113609Z",
+  "count": 12998,
   "tickers": [
     {
       "symbol": "A",
@@ -1726,7 +1726,7 @@
     },
     {
       "symbol": "AGGA",
-      "name": "EA Astoria Dynamic Core US Fixed Income ETF",
+      "name": "EA Astoria Beacon Dynamic Core US Fixed Income ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -8943,6 +8943,12 @@
       "isETF": false
     },
     {
+      "symbol": "BKYI",
+      "name": "BIO-key International, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BL",
       "name": "BlackLine, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -12839,6 +12845,12 @@
     {
       "symbol": "CEPI",
       "name": "REX Crypto Equity Premium Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CEPL",
+      "name": "Capstone Energy Plus, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24504,6 +24516,12 @@
       "symbol": "FDM",
       "name": "First Trust DJ Select MicroCap ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "FDMMU",
+      "name": "Freedom Metals Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -50613,12 +50631,6 @@
       "isETF": false
     },
     {
-      "symbol": "OLPX",
-      "name": "Olaplex Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "OM",
       "name": "Outset Medical, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -55830,6 +55842,12 @@
       "symbol": "PUMP",
       "name": "ProPetro Holding Corp. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PUR",
+      "name": "Defiance Daily Target 2X Long PURR ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -63693,6 +63711,12 @@
       "isETF": false
     },
     {
+      "symbol": "SNTQ",
+      "name": "MRP SynthEquity Nasdaq 100 ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SNWV",
       "name": "SANUWAVE Health, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -67492,7 +67516,7 @@
     },
     {
       "symbol": "TGLS",
-      "name": "Tecnoglass Inc. Ordinary Shares",
+      "name": "Tecnoglass Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -69177,6 +69201,18 @@
       "isETF": false
     },
     {
+      "symbol": "TRUM",
+      "name": "VanEck Materials TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRUN",
+      "name": "VanEck Energy TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TRUO",
       "name": "VanEck Consumer Staples TruSector ETF",
       "exchange": "NASDAQ",
@@ -69189,8 +69225,20 @@
       "isETF": false
     },
     {
+      "symbol": "TRUR",
+      "name": "VanEck Real Estate TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TRUT",
       "name": "VanEck Technology TruSector ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRUU",
+      "name": "VanEck Utilities TruSector ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
