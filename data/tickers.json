@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-09T00:07:29.113609Z",
-  "count": 12998,
+  "lastUpdated": "2026-07-10T00:03:00.254642Z",
+  "count": 13008,
   "tickers": [
     {
       "symbol": "A",
@@ -6335,7 +6335,7 @@
     {
       "symbol": "AZUL",
       "name": "Azul S.A. American Depositary Shares, each representing two (2) Common Shares",
-      "exchange": "AMEX",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -11271,6 +11271,12 @@
       "isETF": false
     },
     {
+      "symbol": "BWQG",
+      "name": "BWM Quality Growth ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BWTG",
       "name": "Brendan Wood TopGun Index ETF",
       "exchange": "BATS",
@@ -12275,6 +12281,12 @@
     {
       "symbol": "CCCC",
       "name": "C4 Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCCTU",
+      "name": "Columbus Circle Capital Corp III - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -19569,6 +19581,12 @@
       "isETF": false
     },
     {
+      "symbol": "DRVR",
+      "name": "Amplify S&P 500 Dividend Drivers ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DSAC",
       "name": "Daedalus Special Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -25395,6 +25413,12 @@
       "isETF": false
     },
     {
+      "symbol": "FINA",
+      "name": "Fidelity MSCI North American Subset Index ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FINS",
       "name": "Angel Oak Financial Strategies Income Term Trust Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -25738,7 +25762,7 @@
     },
     {
       "symbol": "FLDZ",
-      "name": "RiverNorth Patriot ETF",
+      "name": "TrueShares Patriot Defense ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -27084,6 +27108,12 @@
       "symbol": "FSP",
       "name": "Franklin Street Properties Corp. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "FSPC",
+      "name": "First Trust Bloomberg Space Economy ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36345,6 +36375,12 @@
       "isETF": false
     },
     {
+      "symbol": "IQQ",
+      "name": "iShares Nasdaq 100 ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IQQQ",
       "name": "ProShares Nasdaq-100 High Income ETF",
       "exchange": "NASDAQ",
@@ -42173,7 +42209,7 @@
     {
       "symbol": "LRNZ",
       "name": "TrueShares Technology, AI & Deep Learning ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -45417,6 +45453,12 @@
       "isETF": false
     },
     {
+      "symbol": "MRCOU",
+      "name": "Mercator Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MRCP",
       "name": "PGIM S&P 500 Buffer 12 ETF - March",
       "exchange": "BATS",
@@ -45930,12 +45972,6 @@
       "symbol": "MSTZ",
       "name": "T-Rex 2X Inverse MSTR Daily Target ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "MSW",
-      "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -48831,9 +48867,21 @@
       "isETF": false
     },
     {
+      "symbol": "NSIG",
+      "name": "North Square Growth Opportunities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NSIT",
       "name": "Insight Enterprises, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NSIV",
+      "name": "North Square Disciplined Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -54117,6 +54165,12 @@
       "isETF": false
     },
     {
+      "symbol": "PMA",
+      "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PMAP",
       "name": "PGIM S&P 500 Max Buffer ETF - April",
       "exchange": "BATS",
@@ -55950,6 +56004,12 @@
       "symbol": "PWRL",
       "name": "Powerlaw Corp. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PWRZ",
+      "name": "TrueShares Eagle Global Renewable Energy Income ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -59163,6 +59223,12 @@
       "isETF": false
     },
     {
+      "symbol": "RNMN",
+      "name": "RiverNorth Market Neutral ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "RNP",
       "name": "Cohen & Steers REIT and Preferred and Income Fund, Inc. Common Shares",
       "exchange": "NYSE",
@@ -59220,12 +59286,6 @@
       "symbol": "RNWWW",
       "name": "ReNew Energy Global plc - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RNWZ",
-      "name": "TrueShares Eagle Global Renewable Energy Income ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -63057,6 +63117,12 @@
       "isETF": false
     },
     {
+      "symbol": "SLVY",
+      "name": "FT Vest Silver Strategy & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SLWS",
       "name": "Wisdom Short Duration Income ETF",
       "exchange": "NYSE ARCA",
@@ -64212,12 +64278,6 @@
       "symbol": "SPCX",
       "name": "Space Exploration Technologies Corp. - Class A Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SPCZ",
-      "name": "RiverNorth Enhanced Pre-Merger SPAC ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -67067,12 +67127,6 @@
     {
       "symbol": "TE",
       "name": "T1 Energy Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "TE.W",
-      "name": "T1 Energy Inc. Warrants, each whole warrant exercisable to purchase one Common Stock at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -75114,6 +75168,12 @@
       "symbol": "WSO.B",
       "name": "Watsco, Inc. Class B Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WSPC",
+      "name": "WisdomTree Space Economy Fund",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
