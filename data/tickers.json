@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-10T00:03:00.254642Z",
-  "count": 13008,
+  "lastUpdated": "2026-07-10T23:55:30.839182Z",
+  "count": 13024,
   "tickers": [
     {
       "symbol": "A",
@@ -2568,6 +2568,12 @@
       "symbol": "AKTX",
       "name": "Akari Therapeutics Plc - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ALA",
+      "name": "Corgi ALAB 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -6381,6 +6387,12 @@
       "isETF": false
     },
     {
+      "symbol": "BABC",
+      "name": "Corgi BABA 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BABO",
       "name": "YieldMax BABA Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -9558,6 +9570,12 @@
       "symbol": "BNL",
       "name": "Broadstone Net Lease, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BNMC",
+      "name": "Corgi BMNR 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -23422,7 +23440,7 @@
     },
     {
       "symbol": "EVTV",
-      "name": "Envirotech Vehicles, Inc. - Common stock",
+      "name": "Azio AI Holdings, Inc. - Common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -28767,6 +28785,12 @@
       "isETF": false
     },
     {
+      "symbol": "GEVC",
+      "name": "Corgi GEV 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GEVG",
       "name": "Leverage Shares 2X Long GEV Daily ETF",
       "exchange": "NASDAQ",
@@ -32643,6 +32667,12 @@
       "isETF": false
     },
     {
+      "symbol": "HOOC",
+      "name": "Corgi HOOD 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HOOD",
       "name": "Robinhood Markets, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -32914,7 +32944,7 @@
     },
     {
       "symbol": "HSAI",
-      "name": "Hesai Group - American Depositary Share, each ADS represents one Class B ordinary share",
+      "name": "Hesai Group - American Depositary Share",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -35883,6 +35913,12 @@
       "isETF": false
     },
     {
+      "symbol": "INT",
+      "name": "Corgi INTC 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "INTA",
       "name": "Intapp, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -38250,6 +38286,12 @@
       "symbol": "JOB",
       "name": "GEE Group Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "JOBC",
+      "name": "Corgi JOBY 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41490,6 +41532,12 @@
       "symbol": "LITB",
       "name": "LightInTheBox Holding Co., Ltd. American Depositary Shares, each representing twelve ordinary shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LITC",
+      "name": "Corgi LITE 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -57213,6 +57261,12 @@
       "isETF": false
     },
     {
+      "symbol": "QUA",
+      "name": "Corgi QBTS 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QUAD",
       "name": "Quad Graphics, Inc Class A Common Stock",
       "exchange": "NYSE",
@@ -60525,6 +60579,12 @@
       "isETF": false
     },
     {
+      "symbol": "SAMO.U",
+      "name": "Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SAMT",
       "name": "Strategas Macro Thematic Opportunities ETF",
       "exchange": "NYSE ARCA",
@@ -62739,6 +62799,12 @@
       "isETF": false
     },
     {
+      "symbol": "SKHYV",
+      "name": "SK hynix Inc. - American Depository Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SKIL",
       "name": "Skillsoft Corp. Class A Common Stock",
       "exchange": "NYSE",
@@ -62938,7 +63004,7 @@
     },
     {
       "symbol": "SLGB",
-      "name": "Smart Logistics Global Limited - Ordinary Shares",
+      "name": "Smart Logistics Global Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63471,6 +63537,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMRX",
+      "name": "Corgi SMR 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SMSI",
       "name": "Smith Micro Software, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -63876,6 +63948,12 @@
       "symbol": "SOFA",
       "name": "Direxion Daily SOFI Bull 2X ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SOFC",
+      "name": "Corgi SOFI 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -66759,12 +66837,6 @@
       "isETF": false
     },
     {
-      "symbol": "TBRG",
-      "name": "TruBridge, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TBT",
       "name": "ProShares UltraShort Lehman 20  Year Treasury",
       "exchange": "NYSE ARCA",
@@ -67242,6 +67314,12 @@
       "symbol": "TEM",
       "name": "Tempus AI, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TEMC",
+      "name": "Corgi TEM 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -71061,6 +71139,12 @@
       "isETF": false
     },
     {
+      "symbol": "UPSC",
+      "name": "Corgi UPST 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "UPSD",
       "name": "Aptus Large Cap Upside ETF",
       "exchange": "BATS",
@@ -71706,6 +71790,12 @@
       "symbol": "UUU",
       "name": "Universal Safety Products, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "UUUC",
+      "name": "Corgi UUUU 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74214,6 +74304,12 @@
       "symbol": "WDC",
       "name": "Western Digital Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WDCC",
+      "name": "Corgi WDC 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
