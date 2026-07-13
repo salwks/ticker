@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-12T23:52:08.861821Z",
-  "count": 13024,
+  "lastUpdated": "2026-07-13T23:53:05.140998Z",
+  "count": 13023,
   "tickers": [
     {
       "symbol": "A",
@@ -1392,12 +1392,6 @@
       "symbol": "AEMD",
       "name": "Aethlon Medical, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AEMS",
-      "name": "Anfield Enhanced Market ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -6309,6 +6303,12 @@
       "isETF": false
     },
     {
+      "symbol": "AZIO",
+      "name": "Azio AI Holdings, Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AZN",
       "name": "AstraZeneca PLC Ordinary Shares",
       "exchange": "NYSE",
@@ -8610,12 +8610,6 @@
       "symbol": "BITI",
       "name": "ProShares Short Bitcoin ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "BITK",
-      "name": "Tuttle Capital IBIT 0DTE Covered Call ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -23439,12 +23433,6 @@
       "isETF": false
     },
     {
-      "symbol": "EVTV",
-      "name": "Azio AI Holdings, Inc. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EVUS",
       "name": "iShares ESG Aware MSCI USA Value ETF",
       "exchange": "BATS",
@@ -28884,6 +28872,18 @@
       "symbol": "GFSG",
       "name": "Leverage Shares 2X Long GFS Daily ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "GFUZ",
+      "name": "General Fusion Group Ltd. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GFUZW",
+      "name": "General Fusion Group Ltd. - Warrant",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -34989,12 +34989,6 @@
       "isETF": false
     },
     {
-      "symbol": "IGTR",
-      "name": "Innovator Gradient Tactical Rotation Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "IGV",
       "name": "iShares Expanded Tech-Software Sector ETF",
       "exchange": "BATS",
@@ -38487,6 +38481,12 @@
       "isETF": false
     },
     {
+      "symbol": "JPRF",
+      "name": "JPMorgan Preferred and Income Securities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "JPSE",
       "name": "JPMorgan Diversified Return U.S. Small Cap Equity ETF",
       "exchange": "NYSE ARCA",
@@ -41241,6 +41241,12 @@
       "isETF": false
     },
     {
+      "symbol": "LGDS",
+      "name": "JPMorgan Fundamental Data Science Large Growth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LGDX",
       "name": "Intech S&P Large Cap Diversified Alpha ETF",
       "exchange": "NYSE ARCA",
@@ -42834,12 +42840,6 @@
       "symbol": "MAGN",
       "name": "Magnera Corporation Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MAGO",
-      "name": "Tuttle Capital Magnificent 7 Income Blast ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48741,6 +48741,12 @@
       "isETF": false
     },
     {
+      "symbol": "NQLT",
+      "name": "Neuberger Quality Select ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NRC",
       "name": "NRC Health - Common Stock",
       "exchange": "NASDAQ",
@@ -51918,12 +51924,6 @@
       "symbol": "PAAS",
       "name": "Pan American Silver Corp. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PAAU",
-      "name": "T-REX 2X Long PAAS Daily Target ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -56607,12 +56607,6 @@
       "isETF": false
     },
     {
-      "symbol": "QHDG",
-      "name": "Innovator Hedged Nasdaq-100 ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "QHY",
       "name": "WisdomTree U.S. High Yield Corporate Bond Fund",
       "exchange": "BATS",
@@ -57497,6 +57491,12 @@
     {
       "symbol": "RACC",
       "name": "Research Alliance Corporation III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RACD",
+      "name": "Research Alliance Corporation IV - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -59550,12 +59550,6 @@
       "symbol": "RPGL",
       "name": "Republic Power Group Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RPHS",
-      "name": "Regents Park Hedged Market Strategy ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -62799,8 +62793,8 @@
       "isETF": false
     },
     {
-      "symbol": "SKHYV",
-      "name": "SK hynix Inc. - American Depository Shares",
+      "symbol": "SKHY",
+      "name": "SK hynix Inc. - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -66023,24 +66017,6 @@
     {
       "symbol": "SVA",
       "name": "Sinovac Biotech, Ltd. - Ordinary Shares (Antigua/Barbudo)",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SVAC",
-      "name": "Spring Valley Acquisition Corp. III - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SVACU",
-      "name": "Spring Valley Acquisition Corp. III - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SVACW",
-      "name": "Spring Valley Acquisition Corp. III - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69993,8 +69969,20 @@
       "isETF": false
     },
     {
+      "symbol": "TVIV",
+      "name": "Texas Ventures Acquisition IV Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TVIVU",
       "name": "Texas Ventures Acquisition IV Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TVIVW",
+      "name": "Texas Ventures Acquisition IV Corp - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -72534,12 +72522,6 @@
       "symbol": "VFH",
       "name": "Vanguard Financials ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "VFL",
-      "name": "abrdn National Municipal Income Fund Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -77301,8 +77283,20 @@
       "isETF": false
     },
     {
+      "symbol": "YICC",
+      "name": "Yorkville International Capital Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "YICCU",
       "name": "Yorkville International Capital Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "YICCW",
+      "name": "Yorkville International Capital Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
