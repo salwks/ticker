@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T23:53:05.140998Z",
-  "count": 13023,
+  "lastUpdated": "2026-07-14T23:52:05.254855Z",
+  "count": 13048,
   "tickers": [
     {
       "symbol": "A",
@@ -9435,12 +9435,6 @@
       "isETF": false
     },
     {
-      "symbol": "BNBX",
-      "name": "BNB Plus Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BNC",
       "name": "CEA Industries Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -10113,8 +10107,20 @@
       "isETF": false
     },
     {
+      "symbol": "BRKH",
+      "name": "Burtech Acquisition Corp II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BRKHU",
       "name": "Burtech Acquisition Corp II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRKHW",
+      "name": "Burtech Acquisition Corp II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10752,6 +10758,12 @@
       "symbol": "BTCZ",
       "name": "T-Rex 2X Inverse Bitcoin Daily Target ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BTDL",
+      "name": "GraniteShares 2x Long BTDR Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -12654,6 +12666,12 @@
       "symbol": "CDP",
       "name": "COPT Defense Properties Common Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CDPI",
+      "name": "Columbia High Dividend Premium Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -15795,6 +15813,12 @@
       "isETF": false
     },
     {
+      "symbol": "CRD",
+      "name": "Corgi CRDO 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CRD.A",
       "name": "Crawford & Company Common Stock",
       "exchange": "NYSE",
@@ -16098,6 +16122,12 @@
       "symbol": "CRVS",
       "name": "Corvus Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CRWC",
+      "name": "Corgi CRWD 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16733,12 +16763,6 @@
     {
       "symbol": "CURX",
       "name": "Curanex Pharmaceuticals Inc - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CUSD",
-      "name": "CrossingBridge Ultra-Short Duration ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -21027,12 +21051,6 @@
       "isETF": false
     },
     {
-      "symbol": "EEX",
-      "name": "Emerald Holding, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "EFA",
       "name": "iShares MSCI EAFE ETF",
       "exchange": "NYSE ARCA",
@@ -22799,12 +22817,6 @@
     {
       "symbol": "ESPO",
       "name": "VanEck Video Gaming and eSports ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ESPR",
-      "name": "Esperion Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32271,6 +32283,12 @@
       "isETF": false
     },
     {
+      "symbol": "HIMC",
+      "name": "Corgi HIMS 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HIMS",
       "name": "Hims & Hers Health, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -33558,6 +33576,12 @@
       "symbol": "HYNE",
       "name": "Hoyne Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HYNX",
+      "name": "T-REX 2X Long SKHY Daily Target ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36501,6 +36525,12 @@
       "isETF": false
     },
     {
+      "symbol": "IREC",
+      "name": "Corgi IREN 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "IREG",
       "name": "Leverage Shares 2X Long IREN Daily ETF",
       "exchange": "NASDAQ",
@@ -38328,6 +38358,12 @@
       "symbol": "JOJO",
       "name": "ATAC Credit Rotation ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "JONEU",
+      "name": "Jones Ventures INTL Acquisition1 Corp - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -44391,6 +44427,12 @@
       "isETF": false
     },
     {
+      "symbol": "MHX",
+      "name": "Corgi MARA 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MHY",
       "name": "Man Active High Yield ETF",
       "exchange": "NYSE ARCA",
@@ -45639,8 +45681,14 @@
       "isETF": false
     },
     {
+      "symbol": "MRVX",
+      "name": "Corgi MRVL 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MRX",
-      "name": "Marex Group plc - Ordinary Shares",
+      "name": "Marex Group Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47130,6 +47178,12 @@
       "symbol": "NBHC",
       "name": "National Bank Holdings Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NBIC",
+      "name": "Corgi NBIS 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48639,6 +48693,12 @@
       "isETF": false
     },
     {
+      "symbol": "NOWX",
+      "name": "Corgi NOW 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "NP",
       "name": "Neptune Insurance Holdings Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -48983,6 +49043,12 @@
     {
       "symbol": "NSYS",
       "name": "Nortech Systems Incorporated - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NTAL",
+      "name": "GraniteShares 2x Long NTAP Daily ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49608,6 +49674,12 @@
       "symbol": "NVO",
       "name": "Novo Nordisk A/S Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NVOC",
+      "name": "Corgi NVO 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -51624,6 +51696,12 @@
       "symbol": "OUSA",
       "name": "ALPS O'Shares U.S. Quality Dividend ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "OUSL",
+      "name": "Defiance Daily Target 2X Long OUST ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -53801,12 +53879,6 @@
     {
       "symbol": "PJAN",
       "name": "Innovator U.S. Equity Power Buffer ETF - January",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "PJBF",
-      "name": "PGIM Jennison Better Future ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -56553,6 +56625,12 @@
       "isETF": false
     },
     {
+      "symbol": "QFF",
+      "name": "Qualivian Focus Fund ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QFHD",
       "name": "Pacer S&P 500 Quality FCF High Dividend ETF",
       "exchange": "BATS",
@@ -57915,6 +57993,12 @@
       "isETF": false
     },
     {
+      "symbol": "RDDC",
+      "name": "Corgi RDDT 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "RDDT",
       "name": "Reddit, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -58086,6 +58170,12 @@
       "symbol": "REBN",
       "name": "Reborn Coffee, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RECI",
+      "name": "Columbia Research Enhanced Core Premium Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -58581,6 +58671,12 @@
       "isETF": false
     },
     {
+      "symbol": "RGTC",
+      "name": "Corgi RGTI 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "RGTI",
       "name": "Rigetti Computing, Inc.  - Common stock",
       "exchange": "NASDAQ",
@@ -58878,6 +58974,12 @@
       "symbol": "RIV$A",
       "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RIVC",
+      "name": "Corgi RIVN 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -61899,6 +62001,12 @@
       "isETF": false
     },
     {
+      "symbol": "SEUS",
+      "name": "SEI QiM U.S. Equity Factor Allocation Active ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SEV",
       "name": "Aptera Motors Corp. - Class B Common Stock",
       "exchange": "NASDAQ",
@@ -62781,6 +62889,18 @@
       "isETF": false
     },
     {
+      "symbol": "SK",
+      "name": "Corgi SK hynix 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SKDD",
+      "name": "GraniteShares 2x Short SK Hynix Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SKE",
       "name": "Skeena Resources Limited Common Shares",
       "exchange": "NYSE",
@@ -62793,9 +62913,27 @@
       "isETF": false
     },
     {
+      "symbol": "SKHU",
+      "name": "ProShares Ultra SK hynix",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SKHX",
+      "name": "Leverage Shares 2X Long SK Hynix Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SKHY",
       "name": "SK hynix Inc. - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SKHZ",
+      "name": "Leverage Shares 1X Short SK Hynix Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -62838,6 +62976,12 @@
       "symbol": "SKT",
       "name": "Tanger Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SKUU",
+      "name": "GraniteShares 2x Long SK Hynix Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67014,6 +67158,12 @@
       "symbol": "TDC",
       "name": "Teradata Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TDCL",
+      "name": "GraniteShares 2x Long TDC Daily ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -73383,6 +73533,12 @@
       "isETF": false
     },
     {
+      "symbol": "VRC",
+      "name": "Corgi VRT 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "VRCA",
       "name": "Verrica Pharmaceuticals Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -75255,12 +75411,6 @@
       "isETF": false
     },
     {
-      "symbol": "WSR",
-      "name": "Whitestone REIT Common Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "WST",
       "name": "West Pharmaceutical Services, Inc. Common Stock",
       "exchange": "NYSE",
@@ -76600,7 +76750,7 @@
     },
     {
       "symbol": "XPRO",
-      "name": "Expro Group Holdings N.V. Common Stock",
+      "name": "Expro Ltd Ordinary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
