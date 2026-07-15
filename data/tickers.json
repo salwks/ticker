@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T23:52:05.254855Z",
-  "count": 13048,
+  "lastUpdated": "2026-07-15T23:56:34.565144Z",
+  "count": 13052,
   "tickers": [
     {
       "symbol": "A",
@@ -203,6 +203,12 @@
     {
       "symbol": "AAOX",
       "name": "Tradr 2X Long AAOI Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "AAOZ",
+      "name": "Tradr 2X Short AAOI Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -8970,12 +8976,6 @@
       "symbol": "BLCK",
       "name": "Corgi Crypto Infrastructure ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "BLCN",
-      "name": "Siren NexGen Economy ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -32463,12 +32463,6 @@
       "isETF": false
     },
     {
-      "symbol": "HLLY.W",
-      "name": "Holley Inc. Warrants",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "HLMN",
       "name": "Hillman Solutions Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -32488,7 +32482,7 @@
     },
     {
       "symbol": "HLP",
-      "name": "Hongli Group Inc. - Ordinary Shares",
+      "name": "Hongli Group Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38181,6 +38175,12 @@
       "isETF": false
     },
     {
+      "symbol": "JLCO",
+      "name": "John Hancock Large Cap Opportunities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "JLHL",
       "name": "Julong Holding Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -40371,6 +40371,12 @@
       "isETF": false
     },
     {
+      "symbol": "KWH",
+      "name": "GMO Power Infrastructure ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "KWIN",
       "name": "KraneShares Wahed Alternative Income Index ETF",
       "exchange": "NYSE ARCA",
@@ -40980,12 +40986,6 @@
       "symbol": "LEA",
       "name": "Lear Corporation Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "LEAD",
-      "name": "Siren DIVCON Leaders Dividend ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -42531,6 +42531,12 @@
       "isETF": false
     },
     {
+      "symbol": "LUMA",
+      "name": "KraneShares Photonic and Optical ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "LUMN",
       "name": "Lumen Technologies, Inc. Common Stock",
       "exchange": "NYSE",
@@ -43120,7 +43126,7 @@
     },
     {
       "symbol": "MAXI",
-      "name": "Simplify Bitcoin Strategy PLUS Income ETF",
+      "name": "Simplify Bitcoin Strategy ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51393,6 +51399,12 @@
       "isETF": false
     },
     {
+      "symbol": "ORCZ",
+      "name": "Tradr 2X Short ORCL Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ORGO",
       "name": "Organogenesis Holdings Inc.  - Class A",
       "exchange": "NASDAQ",
@@ -53812,7 +53824,7 @@
     },
     {
       "symbol": "PIM",
-      "name": "Putnam Master Intermediate Income Trust Common Stock",
+      "name": "Franklin Master Intermediate Income Trust Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -54388,7 +54400,7 @@
     },
     {
       "symbol": "PMM",
-      "name": "Putnam Managed Municipal Income Trust Common Stock",
+      "name": "Franklin Managed Municipal Income Trust Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -54424,7 +54436,7 @@
     },
     {
       "symbol": "PMO",
-      "name": "Putnam Municipal Opportunities Trust Common Stock",
+      "name": "Franklin Municipal Opportunities Trust Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -54850,7 +54862,7 @@
     },
     {
       "symbol": "PPT",
-      "name": "Putnam Premier Income Trust Common Stock",
+      "name": "Franklin Premier Income Trust Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -59697,12 +59709,6 @@
       "isETF": false
     },
     {
-      "symbol": "RQI.R",
-      "name": "Cohen & Steers Quality Income Realty Fund Inc. Rights (expiring July 15, 2026) Rights",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "RR",
       "name": "Richtech Robotics Inc. - Class B Common Stock",
       "exchange": "NASDAQ",
@@ -62909,6 +62915,12 @@
     {
       "symbol": "SKF",
       "name": "ProShares UltraShort Financials",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SKHL",
+      "name": "Direxion Daily SK Hynix Bull 2X ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -67258,7 +67270,7 @@
     },
     {
       "symbol": "TDTH",
-      "name": "Trident Digital Tech Holdings Ltd - American Depository Shares",
+      "name": "Trident Digital Tech Holdings Ltd - Class B Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68495,6 +68507,12 @@
     {
       "symbol": "TMFX",
       "name": "Motley Fool Next Index ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "TMGN",
+      "name": "TappAlpha Cboe Magnificent 10 Growth & Daily Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -73479,6 +73497,12 @@
       "isETF": false
     },
     {
+      "symbol": "VPFF",
+      "name": "Virtus InfraCap Preferred and Income Securities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "VPG",
       "name": "Vishay Precision Group, Inc. Common Stock",
       "exchange": "NYSE",
@@ -76599,24 +76623,6 @@
       "isETF": false
     },
     {
-      "symbol": "XOMA",
-      "name": "XOMA Royalty Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "XOMAO",
-      "name": "XOMA Royalty Corporation - Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "XOMAP",
-      "name": "XOMA Royalty Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "XOMO",
       "name": "YieldMax XOM Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -77589,6 +77595,18 @@
       "isETF": false
     },
     {
+      "symbol": "YSAG",
+      "name": "Y'all Street Physical Silver ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "YSAU",
+      "name": "Y'all Street Physical Gold ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "YSEP",
       "name": "FT Vest International Equity Buffer ETF - September",
       "exchange": "BATS",
@@ -77598,6 +77616,12 @@
       "symbol": "YSG",
       "name": "Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "YSPC",
+      "name": "YieldMax SPCX Option Income Strategy ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
