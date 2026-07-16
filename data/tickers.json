@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-15T23:56:34.565144Z",
-  "count": 13052,
+  "lastUpdated": "2026-07-16T23:57:25.719780Z",
+  "count": 13054,
   "tickers": [
     {
       "symbol": "A",
@@ -3312,6 +3312,12 @@
       "symbol": "AMLX",
       "name": "Amylyx Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMMO",
+      "name": "VistaShares Defense Supercycle ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -15519,12 +15525,6 @@
       "isETF": false
     },
     {
-      "symbol": "CPRX",
-      "name": "Catalyst Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CPRY",
       "name": "Calamos Russell 2000 Structured Alt Protection ETF January",
       "exchange": "NYSE ARCA",
@@ -16326,6 +16326,12 @@
       "symbol": "CSQ",
       "name": "Calamos Strategic Total Return Fund - Closed End Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CSQR",
+      "name": "Csquare, Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -19407,6 +19413,12 @@
       "isETF": false
     },
     {
+      "symbol": "DPU",
+      "name": "Top KingWin Ltd - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DPZ",
       "name": "Domino's Pizza Inc - Common Stock",
       "exchange": "NASDAQ",
@@ -19548,6 +19560,12 @@
       "symbol": "DRMP",
       "name": "Tuttle Capital Memory Stack Income Blast ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DRMY",
+      "name": "XFUNDS Memory Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -28077,6 +28095,12 @@
       "isETF": false
     },
     {
+      "symbol": "GALX",
+      "name": "VistaShares Space Supercycle ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GAM",
       "name": "General American Investors, Inc. Common Stock",
       "exchange": "NYSE",
@@ -31026,12 +31050,6 @@
       "symbol": "GTLB",
       "name": "GitLab Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GTLS",
-      "name": "Chart Industries, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -40797,12 +40815,6 @@
       "isETF": false
     },
     {
-      "symbol": "LCDL",
-      "name": "GraniteShares 2x Long LCID Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LCDS",
       "name": "JPMorgan Fundamental Data Science Large Core ETF",
       "exchange": "NASDAQ",
@@ -49473,12 +49485,6 @@
       "isETF": false
     },
     {
-      "symbol": "NUVL",
-      "name": "Nuvalent, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NUW",
       "name": "Nuveen AMT-Free Municipal Value Fund",
       "exchange": "NYSE",
@@ -55929,12 +55935,6 @@
       "isETF": false
     },
     {
-      "symbol": "PTNM",
-      "name": "Pitanium Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PTNQ",
       "name": "Pacer Trendpilot 100 ETF",
       "exchange": "NASDAQ",
@@ -56853,6 +56853,12 @@
       "isETF": false
     },
     {
+      "symbol": "QMLS",
+      "name": "QumulusAI, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QMMM",
       "name": "QMMM Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -57263,12 +57269,6 @@
     {
       "symbol": "QTEX",
       "name": "QTREX Quantum Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "QTEXW",
-      "name": "QTREX Quantum Ltd. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -60030,6 +60030,12 @@
       "symbol": "RTO",
       "name": "Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares)",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RTOO",
+      "name": "VistaShares Robotics Supercycle ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -65601,6 +65607,12 @@
       "isETF": false
     },
     {
+      "symbol": "STDN",
+      "name": "Standard Nuclear, Inc. Class A Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "STE",
       "name": "STERIS plc (Ireland) Ordinary Shares",
       "exchange": "NYSE",
@@ -68214,6 +68226,12 @@
       "symbol": "TKNS",
       "name": "21Shares Active Crypto ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TKNZ",
+      "name": "T. Rowe Price Active Crypto ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -74202,12 +74220,6 @@
       "symbol": "WAGN",
       "name": "Pabrai Wagons ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "WAI",
-      "name": "Top KingWin Ltd - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
