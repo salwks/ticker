@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-16T23:57:25.719780Z",
-  "count": 13054,
+  "lastUpdated": "2026-07-17T23:50:59.671938Z",
+  "count": 13057,
   "tickers": [
     {
       "symbol": "A",
@@ -3081,6 +3081,12 @@
       "isETF": false
     },
     {
+      "symbol": "AMACU",
+      "name": "AMR Resources Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AMAL",
       "name": "Amalgamated Financial Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -4048,7 +4054,7 @@
     },
     {
       "symbol": "APM",
-      "name": "Aptorum Group Limited - Class A Ordinary Shares",
+      "name": "Aptorum Group Limited - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -18417,6 +18423,18 @@
       "isETF": false
     },
     {
+      "symbol": "DGAC",
+      "name": "Disciplined Growth Acquisition Corporation Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "DGAC.R",
+      "name": "Disciplined Growth Acquisition Corporation Rights, each right entitling the holder to receive one-fourth (1/4) of one Class A ordinary share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "DGAC.U",
       "name": "Disciplined Growth Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one Right",
       "exchange": "NYSE",
@@ -23333,12 +23351,6 @@
     {
       "symbol": "EVLV",
       "name": "Evolv Technologies Holdings, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EVLVW",
-      "name": "Evolv Technologies Holdings, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56692,7 +56704,7 @@
     },
     {
       "symbol": "QH",
-      "name": "Quhuo Limited - American Depository Shares",
+      "name": "Quhuo Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62487,6 +62499,18 @@
       "isETF": false
     },
     {
+      "symbol": "SHOT",
+      "name": "RMG ML Sports Holdings - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SHOTR",
+      "name": "RMG ML Sports Holdings - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SHOTU",
       "name": "RMG ML Sports Holdings - Unit",
       "exchange": "NASDAQ",
@@ -63084,12 +63108,6 @@
       "symbol": "SLAB",
       "name": "Silicon Laboratories, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SLAI",
-      "name": "SOLAI Limited American Depositary Shares (each representing seven hundred (700) Class A Ordinary Shares)",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
