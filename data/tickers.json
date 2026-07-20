@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-19T23:54:55.443634Z",
-  "count": 13057,
+  "lastUpdated": "2026-07-20T23:54:37.980116Z",
+  "count": 13059,
   "tickers": [
     {
       "symbol": "A",
@@ -4050,12 +4050,6 @@
       "symbol": "APLZ",
       "name": "Tradr 2X Short APLD Daily ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "APM",
-      "name": "Aptorum Group Limited - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -8397,6 +8391,12 @@
       "isETF": false
     },
     {
+      "symbol": "BID",
+      "name": "Tribeca Strategic Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BIDD",
       "name": "iShares International Dividend Active ETF",
       "exchange": "NYSE ARCA",
@@ -8411,6 +8411,12 @@
     {
       "symbol": "BIDU",
       "name": "Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BIDWR",
+      "name": "Tribeca Strategic Acquisition Corp. - Rights",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -11091,12 +11097,6 @@
       "isETF": false
     },
     {
-      "symbol": "BURU",
-      "name": "Nuburu, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "BUSA",
       "name": "Brandes U.S. Value ETF",
       "exchange": "BATS",
@@ -11340,6 +11340,12 @@
       "symbol": "BX",
       "name": "Blackstone Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BXBL",
+      "name": "BOXABL, Inc.  - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -16791,6 +16797,12 @@
       "isETF": false
     },
     {
+      "symbol": "CUVL",
+      "name": "Clinuvel Pharmaceuticals Limited - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CUZ",
       "name": "Cousins Properties Incorporated Common Stock",
       "exchange": "NYSE",
@@ -18483,6 +18495,12 @@
       "isETF": false
     },
     {
+      "symbol": "DGJL",
+      "name": "FT Vest U.S. Equity Buffer & Digital Return ETF - July",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DGLO",
       "name": "First Trust RBA Deglobalization ETF",
       "exchange": "NASDAQ",
@@ -19168,7 +19186,7 @@
     },
     {
       "symbol": "DMRA",
-      "name": "Damora Therapeutics, Inc. - Common Stock",
+      "name": "Damora Therapeutics, Inc. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25215,24 +25233,6 @@
       "isETF": false
     },
     {
-      "symbol": "FGMC",
-      "name": "FG Merger II Corp. - Common stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FGMCR",
-      "name": "FG Merger II Corp. - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FGMCU",
-      "name": "FG Merger II Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FGN",
       "name": "F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",
       "exchange": "NYSE",
@@ -30166,7 +30166,7 @@
     },
     {
       "symbol": "GORO",
-      "name": "Gold Resource Corporation Common Stock",
+      "name": "Goldgroup Mining Inc. Common Shares",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -31042,7 +31042,7 @@
     },
     {
       "symbol": "GTES",
-      "name": "Gates Industrial Corporation plc Ordinary Shares",
+      "name": "Gates Industrial Corporation Ltd. Common Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -40240,7 +40240,7 @@
     },
     {
       "symbol": "KSTR",
-      "name": "KraneShares SSE STAR Market 50 Index ETF",
+      "name": "KraneShares China Technology & Semiconductor STAR 50 Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -41951,6 +41951,12 @@
     {
       "symbol": "LODI",
       "name": "AAM SLC Low Duration Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "LOEV",
+      "name": "Harding Loevner International Developed Markets Select Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44052,6 +44058,12 @@
       "symbol": "MEXX",
       "name": "Direxion Daily MSCI Mexico Bull 3X ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MF",
+      "name": "MindForge Inc. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -48147,6 +48159,12 @@
       "isETF": false
     },
     {
+      "symbol": "NIKI",
+      "name": "Niki BioSolutions, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NIKL",
       "name": "Sprott Nickel Miners ETF",
       "exchange": "NASDAQ",
@@ -50475,18 +50493,6 @@
       "isETF": false
     },
     {
-      "symbol": "ODV",
-      "name": "Osisko Development Corp. Common Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ODVWZ",
-      "name": "Osisko Development Corp. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ODYS",
       "name": "Odysight.ai Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -50592,6 +50598,18 @@
       "symbol": "OGEN",
       "name": "Oragenics Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "OGG",
+      "name": "Osisko Gold Group Inc. Common Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OGGWZ",
+      "name": "Osisko Gold Group Inc. - Warrant",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -51215,12 +51233,6 @@
     {
       "symbol": "OPFI",
       "name": "OppFi Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "OPFI.W",
-      "name": "OppFi Inc. Warrants",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -60576,12 +60588,6 @@
       "symbol": "SACH$A",
       "name": "Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "SAEF",
-      "name": "Schwab Ariel Opportunities ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -70647,12 +70653,6 @@
       "isETF": false
     },
     {
-      "symbol": "UBXG",
-      "name": "U-BX Technology Ltd. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "UCAR",
       "name": "U Power Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -72987,8 +72987,20 @@
       "isETF": false
     },
     {
+      "symbol": "VII",
+      "name": "Viking Acquisition Corp. II Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "VII.U",
       "name": "Viking Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one Warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "VII.W",
+      "name": "Viking Acquisition Corp. II Warrants to purchase one Class A Ordinary Share",
       "exchange": "NYSE",
       "isETF": false
     },
