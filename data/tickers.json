@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T23:54:37.980116Z",
-  "count": 13059,
+  "lastUpdated": "2026-07-21T23:54:32.342649Z",
+  "count": 13057,
   "tickers": [
     {
       "symbol": "A",
@@ -1954,7 +1954,7 @@
     },
     {
       "symbol": "AGRZ",
-      "name": "Agroz Inc. - Ordinary Shares",
+      "name": "Agroz Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -2184,6 +2184,12 @@
       "symbol": "AIHS",
       "name": "Senmiao Technology Limited - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AIHY",
+      "name": "Defiance AI Hyperscale Leaders ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -3359,12 +3365,6 @@
     {
       "symbol": "AMPG",
       "name": "Amplitech Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AMPGR",
-      "name": "Amplitech Group, Inc. - Series A Right",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10275,6 +10275,12 @@
       "isETF": false
     },
     {
+      "symbol": "BRTMU",
+      "name": "B&R Technology Merger Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BRTR",
       "name": "iShares Total Return Active ETF",
       "exchange": "NASDAQ",
@@ -13785,6 +13791,12 @@
       "isETF": false
     },
     {
+      "symbol": "CIGL",
+      "name": "Concorde International Group Ltd - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CII",
       "name": "BlackRock Enhanced Large Cap Core Fund, Inc. Common Stock",
       "exchange": "NYSE",
@@ -15894,12 +15906,6 @@
       "symbol": "CRED",
       "name": "Columbia Research Enhanced Real Estate ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "CREG",
-      "name": "Smart Powerr Corp. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -22305,12 +22311,6 @@
       "isETF": false
     },
     {
-      "symbol": "EOSER",
-      "name": "Eos Energy Enterprises, Inc. - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EOSU",
       "name": "T-REX 2X Long EOSE Daily Target ETF",
       "exchange": "BATS",
@@ -25035,12 +25035,6 @@
       "isETF": false
     },
     {
-      "symbol": "FFAIW",
-      "name": "Faraday Future Intelligent Electric Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FFBC",
       "name": "First Financial Bancorp. - Common Stock",
       "exchange": "NASDAQ",
@@ -26921,6 +26915,12 @@
     {
       "symbol": "FRMM",
       "name": "Forum Markets, Incorporated - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FRNM",
+      "name": "Freenome, Inc. - Common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32520,6 +32520,12 @@
       "symbol": "HLT",
       "name": "Hilton Worldwide Holdings Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HLTH",
+      "name": "Tema Healthcare AI ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -39912,12 +39918,6 @@
       "symbol": "KOPN",
       "name": "Kopin Corporation - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KORE",
-      "name": "KORE Group Holdings, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -47427,6 +47427,12 @@
       "isETF": false
     },
     {
+      "symbol": "NCOOU",
+      "name": "Southern Cross Acquisition I Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NCPB",
       "name": "Nuveen Core Plus Bond ETF",
       "exchange": "NASDAQ",
@@ -47843,12 +47849,6 @@
     {
       "symbol": "NEXT",
       "name": "NextDecade Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NFBK",
-      "name": "Northfield Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -52931,12 +52931,6 @@
     {
       "symbol": "PCSA",
       "name": "Processa Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PCSC",
-      "name": "Perceptive Capital Solutions Corp - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -77586,12 +77580,6 @@
       "symbol": "YOLO",
       "name": "AdvisorShares Pure Cannabis ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "YOOV",
-      "name": "Concorde International Group Ltd - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
