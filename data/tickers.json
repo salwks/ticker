@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T23:54:32.342649Z",
-  "count": 13057,
+  "lastUpdated": "2026-07-22T23:59:18.586520Z",
+  "count": 13054,
   "tickers": [
     {
       "symbol": "A",
@@ -2615,12 +2615,6 @@
     {
       "symbol": "ALBG",
       "name": "Leverage Shares 2X Long ALB Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALBT",
-      "name": "Avalon GloboCare Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -12525,12 +12519,6 @@
       "isETF": false
     },
     {
-      "symbol": "CCRN",
-      "name": "Cross Country Healthcare, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CCRP",
       "name": "Columbia Corporate Bond ETF",
       "exchange": "NYSE ARCA",
@@ -13445,6 +13433,12 @@
     {
       "symbol": "CHEF",
       "name": "The Chefs' Warehouse, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CHGA",
+      "name": "Change Agents Corporation  - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15654,6 +15648,12 @@
       "symbol": "CPT",
       "name": "Camden Property Trust Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CPTL",
+      "name": "Global X Morningstar Capital Allocation Leaders ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -22032,12 +22032,6 @@
       "symbol": "EMSF",
       "name": "Matthews Emerging Markets Sustainable Future Active ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "EMTL",
-      "name": "State Street DoubleLine Emerging Markets Fixed Income ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -30496,13 +30490,13 @@
     },
     {
       "symbol": "GREE",
-      "name": "Greenidge Generation Holdings Inc. - Class A Common Stock",
+      "name": "Vulcan Infrastructure and Power Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "GREEL",
-      "name": "Greenidge Generation Holdings Inc. - 8.50% Senior Notes due 2026",
+      "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33417,6 +33411,12 @@
       "isETF": false
     },
     {
+      "symbol": "HWIV",
+      "name": "Hotchkis & Wiley International Value Fund",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HWKN",
       "name": "Hawkins, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -33426,6 +33426,12 @@
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HWO",
+      "name": "Hotchkis & Wiley Opportunities Fund",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -40089,12 +40095,6 @@
       "isETF": false
     },
     {
-      "symbol": "KRMA",
-      "name": "Global X Conscious Companies ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "KRMD",
       "name": "KORU Medical Systems, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -41759,12 +41759,6 @@
     {
       "symbol": "LMBS",
       "name": "First Trust Low Duration Opportunities ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LMFA",
-      "name": "LM Funding America, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43829,6 +43823,12 @@
     {
       "symbol": "MEDP",
       "name": "Medpace Holdings, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MEDS",
+      "name": "DataMeds AI, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48984,24 +48984,6 @@
       "symbol": "NRXS",
       "name": "Neuraxis, Inc. Common Stock",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "NSA",
-      "name": "National Storage Affiliates Trust Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NSA$A",
-      "name": "National Storage Affiliates Trust 6.000% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest (Liquidation Preference $25.00 per share)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NSA$B",
-      "name": "National Storage Affiliates Trust 6.000% Series B Cumulative Redeemable Preferred Shares of Beneficial Interest",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -55449,6 +55431,18 @@
       "isETF": false
     },
     {
+      "symbol": "PSA$T",
+      "name": "Public Storage 6.000% Cumulative Preferred Shares of beneficial interest, Series T",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PSA$U",
+      "name": "Public Storage 6.000% Cumulative Preferred Shares of Beneficial Interest, Series U",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "PSAI",
       "name": "Pacer S&P 500 3AI Top 100 ETF",
       "exchange": "BATS",
@@ -56124,6 +56118,12 @@
       "symbol": "PWB",
       "name": "Invesco Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "PWCM",
+      "name": "PowerCompute, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -57168,12 +57168,6 @@
       "symbol": "QRED.U",
       "name": "QuasarEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one right entitling the holder to receive one-fourth (1/4) of one Ordinary Share",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "QRFT",
-      "name": "QRAFT AI-Enhanced U.S. Large Cap ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -74841,20 +74835,8 @@
       "isETF": false
     },
     {
-      "symbol": "WGRX",
-      "name": "Wellgistics Health, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "WGS",
       "name": "GeneDx Holdings Corp. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "WGSWW",
-      "name": "GeneDx Holdings Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
