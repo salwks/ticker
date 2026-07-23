@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T23:59:18.586520Z",
-  "count": 13054,
+  "lastUpdated": "2026-07-23T23:58:41.332415Z",
+  "count": 13055,
   "tickers": [
     {
       "symbol": "A",
@@ -294,6 +294,12 @@
       "symbol": "AAUA",
       "name": "Alpha Architect US Equity 3 ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "AAUB",
+      "name": "Alpha Architect US Equity 4 ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -11572,8 +11578,8 @@
     },
     {
       "symbol": "CAE",
-      "name": "CAE Inc. Ordinary Shares",
-      "exchange": "NYSE",
+      "name": "CAE Inc - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -12845,12 +12851,6 @@
     {
       "symbol": "CELU",
       "name": "Celularity Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CELUW",
-      "name": "Celularity Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -22575,6 +22575,12 @@
       "isETF": false
     },
     {
+      "symbol": "EQQQ",
+      "name": "ProShares Ultra QQQ Equal Weight",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EQR",
       "name": "Equity Residential Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -28119,12 +28125,6 @@
       "isETF": false
     },
     {
-      "symbol": "GAMB",
-      "name": "Gambling.com Group Limited - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GAME",
       "name": "GameSquare Holdings, Inc. - Common stock",
       "exchange": "NASDAQ",
@@ -30665,6 +30665,12 @@
     {
       "symbol": "GRRRW",
       "name": "Gorilla Technology Group Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GRSD",
+      "name": "Grandstand Limited - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43227,24 +43233,6 @@
       "isETF": false
     },
     {
-      "symbol": "MBAV",
-      "name": "M3-Brigade Acquisition V Corp. - Class A Ordinary shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MBAVU",
-      "name": "M3-Brigade Acquisition V Corp. - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MBAVW",
-      "name": "M3-Brigade Acquisition V Corp. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MBB",
       "name": "iShares MBS ETF",
       "exchange": "NASDAQ",
@@ -46601,12 +46589,6 @@
     {
       "symbol": "MVST",
       "name": "Microvast Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MVSTW",
-      "name": "Microvast Holdings, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54483,6 +54465,12 @@
       "isETF": false
     },
     {
+      "symbol": "PMTL",
+      "name": "First Trust Indxx Quality Precious Metals Miners ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PMTR",
       "name": "Perimeter Acquisition Corp. I - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -57653,6 +57641,12 @@
     {
       "symbol": "RAM",
       "name": "Roundhill T-REX 2X Long DRAM Daily Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "RAML",
+      "name": "Leverage Shares 2X Long Memory Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -62273,12 +62267,6 @@
     {
       "symbol": "SGP",
       "name": "SpyGlass Pharma, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SGRP",
-      "name": "SPAR Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -73158,6 +73146,24 @@
       "symbol": "VLO",
       "name": "Valero Energy Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "VLOS",
+      "name": "Velos Acquisition I Corp. - Class A Ordinary shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VLOSU",
+      "name": "Velos Acquisition I Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VLOSW",
+      "name": "Velos Acquisition I Corp. - Warrant",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
