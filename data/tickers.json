@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-23T23:58:41.332415Z",
-  "count": 13055,
+  "lastUpdated": "2026-07-25T00:01:48.949879Z",
+  "count": 13057,
   "tickers": [
     {
       "symbol": "A",
@@ -1158,12 +1158,6 @@
       "symbol": "ADEA",
       "name": "Adeia Inc.  - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ADFI",
-      "name": "Anfield Dynamic Fixed Income ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -8531,6 +8525,18 @@
     {
       "symbol": "BIOA",
       "name": "BioAge Labs, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BIOT",
+      "name": "Instinct Bio Technical Company Holdings Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BIOTW",
+      "name": "Instinct Bio Technical Company Holdings Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30489,12 +30495,6 @@
       "isETF": false
     },
     {
-      "symbol": "GREE",
-      "name": "Vulcan Infrastructure and Power Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GREEL",
       "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
       "exchange": "NASDAQ",
@@ -46113,6 +46113,12 @@
       "isETF": false
     },
     {
+      "symbol": "MTAKU",
+      "name": "Market Technology Acquisition Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MTAL",
       "name": "Metals Acquisition Corp. II Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -49752,12 +49758,6 @@
       "symbol": "NVTX",
       "name": "Tradr 2X Long NVTS Daily ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "NVVE",
-      "name": "Nuvve Holding Corp. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -54035,6 +54035,12 @@
     {
       "symbol": "PLCE",
       "name": "Children's Place, Inc. (The) - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PLCIU",
+      "name": "Pelican Acquisition II Corporation - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61491,6 +61497,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCTX",
+      "name": "Scribe Therapeutics Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCUB",
       "name": "Sterling Capital Ultra Short Bond ETF",
       "exchange": "BATS",
@@ -68541,12 +68553,6 @@
       "isETF": false
     },
     {
-      "symbol": "TMHC",
-      "name": "Taylor Morrison Home Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "TMLP",
       "name": "Tortoise MLP ETF",
       "exchange": "NYSE ARCA",
@@ -73014,6 +73020,12 @@
       "symbol": "VIOV",
       "name": "Vanguard S&P Small-Cap 600 Value ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VIP",
+      "name": "Vulcan Infrastructure and Power Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
