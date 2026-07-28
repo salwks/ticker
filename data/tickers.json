@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T23:57:40.046513Z",
-  "count": 13057,
+  "lastUpdated": "2026-07-28T00:00:08.457930Z",
+  "count": 13062,
   "tickers": [
     {
       "symbol": "A",
@@ -5931,12 +5931,6 @@
       "isETF": false
     },
     {
-      "symbol": "AVNS",
-      "name": "Avanos Medical, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "AVNT",
       "name": "Avient Corporation Common Stock",
       "exchange": "NYSE",
@@ -6528,6 +6522,12 @@
       "symbol": "BAFN",
       "name": "BayFirst Financial Corp. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BAGX",
+      "name": "EA Bridgeway Aggressive Investors ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -8073,6 +8073,12 @@
       "isETF": false
     },
     {
+      "symbol": "BGFI",
+      "name": "BNY Mellon Global Fixed Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BGGG",
       "name": "Baillie Gifford Long Term Global Growth ETF",
       "exchange": "NASDAQ",
@@ -9429,6 +9435,12 @@
       "isETF": false
     },
     {
+      "symbol": "BMSI",
+      "name": "BNY Mellon Muti-Sector Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BMVP",
       "name": "Invesco Bloomberg MVP Multi-factor ETF",
       "exchange": "NYSE ARCA",
@@ -10272,6 +10284,12 @@
       "symbol": "BRSP",
       "name": "BrightSpire Capital, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BRSV",
+      "name": "EA Bridgeway Select Small-Cap Value ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -11124,6 +11142,12 @@
       "symbol": "BUSEP",
       "name": "First Busey Corporation - Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Series B Non-Cumulative Perpetual Preferred Stock, $0.001 par value",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BUSM",
+      "name": "EA Bridgeway Ultra-Small Company Market ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -15906,12 +15930,6 @@
       "symbol": "CRE",
       "name": "Cre8 Enterprise Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CRED",
-      "name": "Columbia Research Enhanced Real Estate ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -22011,12 +22029,6 @@
       "isETF": false
     },
     {
-      "symbol": "EMPG",
-      "name": "Empro Group Inc. - Ordinary shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "EMQQ",
       "name": "EMQQ The Emerging Markets Internet ETF",
       "exchange": "NYSE ARCA",
@@ -27507,8 +27519,20 @@
       "isETF": false
     },
     {
+      "symbol": "FTRA",
+      "name": "FutureCorp Space Acquisition 1 Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "FTRA.U",
       "name": "FutureCorp Space Acquisition 1 Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "FTRA.W",
+      "name": "FutureCorp Space Acquisition 1 Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -30420,24 +30444,6 @@
       "symbol": "GRABW",
       "name": "Grab Holdings Limited - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GRAF",
-      "name": "Graf Global Corp. Class A ordinary shares",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "GRAF.U",
-      "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "GRAF.W",
-      "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -36381,8 +36387,20 @@
       "isETF": false
     },
     {
+      "symbol": "IPVV",
+      "name": "InterPrivate Investment Partners V, Inc. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IPVVU",
       "name": "InterPrivate Investment Partners V, Inc. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IPVVW",
+      "name": "InterPrivate Investment Partners V, Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41333,7 +41351,7 @@
     {
       "symbol": "LGHT",
       "name": "Langar Global HealthTech ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -42465,6 +42483,12 @@
       "isETF": false
     },
     {
+      "symbol": "LTGRW",
+      "name": "Long Table Growth Corp. - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LTH",
       "name": "Life Time Group Holdings, Inc. Common Stock",
       "exchange": "NYSE",
@@ -42886,8 +42910,8 @@
     },
     {
       "symbol": "MAGA",
-      "name": "Point Bridge America First ETF",
-      "exchange": "BATS",
+      "name": "Truth Social America First ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -46371,6 +46395,12 @@
       "isETF": false
     },
     {
+      "symbol": "MUA.V",
+      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MUB",
       "name": "iShares National Muni Bond ETF",
       "exchange": "NYSE ARCA",
@@ -46566,12 +46596,6 @@
       "symbol": "MVLL",
       "name": "GraniteShares 2x Long MRVL Daily ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MVO",
-      "name": "MV Oil Trust Units of Beneficial Interests",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -56446,8 +56470,8 @@
     },
     {
       "symbol": "QBTS",
-      "name": "D-Wave Quantum Inc. Common Shares",
-      "exchange": "NYSE",
+      "name": "D-Wave Quantum Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68829,6 +68853,24 @@
       "isETF": false
     },
     {
+      "symbol": "TONT",
+      "name": "Graf Global Corp. Class A ordinary shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "TONT.U",
+      "name": "Graf Global Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "TONT.W",
+      "name": "Graf Global Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "TONX",
       "name": "TON Strategy Company - Common Stock",
       "exchange": "NASDAQ",
@@ -69244,20 +69286,8 @@
     },
     {
       "symbol": "TRIN",
-      "name": "Trinity Capital Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TRINI",
-      "name": "Trinity Capital Inc. - 7.875% Notes Due 2029",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TRINZ",
-      "name": "Trinity Capital Inc. - 7.875% Notes due 2029",
-      "exchange": "NASDAQ",
+      "name": "Trinity Capital Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -69309,6 +69339,12 @@
       "isETF": false
     },
     {
+      "symbol": "TRNI",
+      "name": "Trinity Capital Inc. 7.875% Notes Due 2029",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "TRNO",
       "name": "Terreno Realty Corporation Common Stock",
       "exchange": "NYSE",
@@ -69324,6 +69360,12 @@
       "symbol": "TRNS",
       "name": "Transcat, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRNZ",
+      "name": "Trinity Capital Inc. 7.875% Notes due 2029",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -73149,12 +73191,6 @@
       "isETF": false
     },
     {
-      "symbol": "VLN.W",
-      "name": "Valens Semiconductor Ltd. Warrants, each warrant to purchase one-half of one Ordinary Share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "VLO",
       "name": "Valero Energy Corporation Common Stock",
       "exchange": "NYSE",
@@ -73836,12 +73872,6 @@
       "symbol": "VST",
       "name": "Vistra Corp. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VSTD",
-      "name": "Vestand Inc.  - Class A Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
