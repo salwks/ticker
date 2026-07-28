@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T00:00:08.457930Z",
-  "count": 13062,
+  "lastUpdated": "2026-07-28T23:56:42.637287Z",
+  "count": 13067,
   "tickers": [
     {
       "symbol": "A",
@@ -8193,6 +8193,12 @@
       "isETF": false
     },
     {
+      "symbol": "BGUS",
+      "name": "Baillie Gifford U.S. Equity Growth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BGX",
       "name": "Blackstone Long Short Credit Income Fund Common Shares",
       "exchange": "NYSE",
@@ -12009,6 +12015,12 @@
       "isETF": false
     },
     {
+      "symbol": "CATLU",
+      "name": "Catalyst Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CATO",
       "name": "Cato Corporation (The) Class A Common Stock",
       "exchange": "NYSE",
@@ -12455,24 +12467,6 @@
     {
       "symbol": "CCIIW",
       "name": "Cohen Circle Acquisition Corp. II - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCIX",
-      "name": "Churchill Capital Corp IX - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCIXU",
-      "name": "Churchill Capital Corp IX - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCIXW",
-      "name": "Churchill Capital Corp IX - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36141,6 +36135,12 @@
       "isETF": false
     },
     {
+      "symbol": "IOND",
+      "name": "Ionic Digital Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IONL",
       "name": "GraniteShares 2x Long IONQ Daily ETF",
       "exchange": "NASDAQ",
@@ -42477,6 +42477,12 @@
       "isETF": false
     },
     {
+      "symbol": "LTGR",
+      "name": "Long Table Growth Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LTGRU",
       "name": "Long Table Growth Corp. - Units",
       "exchange": "NASDAQ",
@@ -46011,6 +46017,12 @@
       "isETF": false
     },
     {
+      "symbol": "MSOL",
+      "name": "Morgan Stanley Solana Trust",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MSOS",
       "name": "AdvisorShares Pure US Cannabis ETF",
       "exchange": "NYSE ARCA",
@@ -46032,6 +46044,12 @@
       "symbol": "MSS",
       "name": "Maison Solutions Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MSSE",
+      "name": "Morgan Stanley Ethereum Trust",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -46181,6 +46199,12 @@
     {
       "symbol": "MTB$K",
       "name": "M&T Bank Corporation Depositary Shares each representing a 1/400th interest in a share of Perpetual 6.350% Non-Cumulative Preferred Stock, Series K",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MTB$L",
+      "name": "M&T Bank Corporation Depositary Shares each representing a 1/400th ownership interest in a share of Perpetual 6.625% Non-Cumulative Preferred Stock, Series L",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -57687,6 +57711,12 @@
       "isETF": false
     },
     {
+      "symbol": "RAMZ",
+      "name": "T-REX 2X Inverse DRAM Daily Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "RAND",
       "name": "Rand Capital Corporation - Closed End Fund",
       "exchange": "NASDAQ",
@@ -59277,12 +59307,6 @@
       "isETF": false
     },
     {
-      "symbol": "RMIF",
-      "name": "LHA Risk-Managed Income ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "RMIX",
       "name": "Suncrete, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -60017,12 +60041,6 @@
     {
       "symbol": "RSVR",
       "name": "Reservoir Media, Inc.. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RSVRW",
-      "name": "Reservoir Media, Inc.. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62967,9 +62985,21 @@
       "isETF": false
     },
     {
+      "symbol": "SKHA",
+      "name": "Tradr 2X Long SK hynix Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SKHL",
       "name": "Direxion Daily SK Hynix Bull 2X ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SKHN",
+      "name": "Tradr 2X Short SK hynix Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -65638,7 +65668,7 @@
     },
     {
       "symbol": "STCE",
-      "name": "Schwab Crypto Thematic ETF",
+      "name": "Schwab Crypto Thematic Natural Language Processing ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -74217,12 +74247,6 @@
       "isETF": false
     },
     {
-      "symbol": "VYNE",
-      "name": "VYNE Therapeutics Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VYX",
       "name": "NCR Voyix Corporation Common Stock",
       "exchange": "NYSE",
@@ -77304,6 +77328,12 @@
       "symbol": "YANG",
       "name": "Direxion Daily FTSE China Bear 3X ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "YARW",
+      "name": "Yarrow Bioscience, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
