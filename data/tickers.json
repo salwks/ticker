@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T23:56:42.637287Z",
-  "count": 13067,
+  "lastUpdated": "2026-07-29T23:58:00.584684Z",
+  "count": 13065,
   "tickers": [
     {
       "symbol": "A",
@@ -443,12 +443,6 @@
     {
       "symbol": "ABNB",
       "name": "Airbnb, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ABNG",
-      "name": "Leverage Shares 2x Long ABNB Daily ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -1170,6 +1164,12 @@
       "symbol": "ADI",
       "name": "Analog Devices, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ADIG.V",
+      "name": "ADI Global Distribution Inc. Common Stock When-Issued",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -6207,12 +6207,6 @@
       "isETF": false
     },
     {
-      "symbol": "AXPG",
-      "name": "Leverage Shares 2x Long AXP Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "AXR",
       "name": "AMREP Corporation Common Stock",
       "exchange": "NYSE",
@@ -9474,6 +9468,12 @@
       "symbol": "BNAIW",
       "name": "Brand Engagement Network Inc. - Warrant",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BNAV",
+      "name": "Amplify Fairlead Tactical Bitcoin ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -14445,12 +14445,6 @@
       "isETF": false
     },
     {
-      "symbol": "CMGG",
-      "name": "Leverage Shares 2X Long CMG Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CMI",
       "name": "Cummins Inc. Common Stock",
       "exchange": "NYSE",
@@ -14622,12 +14616,6 @@
       "symbol": "CNC",
       "name": "Centene Corporation Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CNCG",
-      "name": "Leverage Shares 2X Long CNC Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -16120,7 +16108,7 @@
     },
     {
       "symbol": "CRTO",
-      "name": "Criteo S.A. - American Depositary Shares",
+      "name": "Criteo S.A. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17238,12 +17226,6 @@
       "symbol": "CZA",
       "name": "Invesco Zacks Mid-Cap ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "CZAR",
-      "name": "Themes Natural Monopoly ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -19272,12 +19254,6 @@
       "symbol": "DNN",
       "name": "Denison Mines Corp Ordinary Shares (Canada)",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "DNNG",
-      "name": "Leverage Shares 2x Long DNN Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -30069,6 +30045,12 @@
       "isETF": false
     },
     {
+      "symbol": "GOIB",
+      "name": "Direxion GOOGL Defined Income Boost ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GOLD",
       "name": "Gold.com, Inc. Common Stock",
       "exchange": "NYSE",
@@ -33387,12 +33369,6 @@
       "isETF": false
     },
     {
-      "symbol": "HWAY",
-      "name": "Themes US Infrastructure ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HWBK",
       "name": "Hawthorn Bancshares, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -35376,6 +35352,12 @@
       "symbol": "IMAY",
       "name": "Innovator International Developed Power Buffer ETF - May",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IMC",
+      "name": "IMC Rare Earths Ltd Ordinary Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -40575,12 +40557,6 @@
       "isETF": false
     },
     {
-      "symbol": "LACG",
-      "name": "Leverage Shares 2X Long LAC Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LAD",
       "name": "Lithia Motors, Inc. Common Stock",
       "exchange": "NYSE",
@@ -43875,6 +43851,12 @@
       "isETF": false
     },
     {
+      "symbol": "MEIB",
+      "name": "Direxion META Defined Income Boost ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MELI",
       "name": "MercadoLibre, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -44266,7 +44248,7 @@
     },
     {
       "symbol": "MGC",
-      "name": "Vanguard Mega Cap ETF",
+      "name": "Vanguard Morningstar Mega Cap ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44290,7 +44272,7 @@
     },
     {
       "symbol": "MGK",
-      "name": "Vanguard Mega Cap Growth ETF",
+      "name": "Vanguard Morningstar Mega Cap Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44404,7 +44386,7 @@
     },
     {
       "symbol": "MGV",
-      "name": "Vanguard Mega Cap Value ETF",
+      "name": "Vanguard Morningstar Mega Cap Value ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -46446,6 +46428,12 @@
       "symbol": "MUFG",
       "name": "Mitsubishi UFJ Financial Group, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MUIB",
+      "name": "Direxion MU Defined Income Boost ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -49689,6 +49677,12 @@
       "isETF": false
     },
     {
+      "symbol": "NVIB",
+      "name": "Direxion NVDA Defined Income Boost ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "NVII",
       "name": "REX NVDA Growth & Income ETF",
       "exchange": "BATS",
@@ -51507,12 +51501,6 @@
       "isETF": false
     },
     {
-      "symbol": "ORLG",
-      "name": "Leverage Shares 2X Long ORLY Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ORLY",
       "name": "O'Reilly Automotive, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -51551,12 +51539,6 @@
     {
       "symbol": "OSBC",
       "name": "Old Second Bancorp, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OSCG",
-      "name": "Leverage Shares 2X Long OSCR Daily ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54114,6 +54096,12 @@
       "symbol": "PLGO",
       "name": "Pelagos Insurance Capital Limited Common Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PLIB",
+      "name": "Direxion PLTR Defined Income Boost ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58527,6 +58515,12 @@
       "isETF": false
     },
     {
+      "symbol": "REZI.V",
+      "name": "Resideo Technologies, Inc. Common Stock When-Issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "RF",
       "name": "Regions Financial Corporation Common Stock",
       "exchange": "NYSE",
@@ -61044,12 +61038,6 @@
       "symbol": "SBTU",
       "name": "T-REX 2X Long SBET Daily Target ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "SBU",
-      "name": "Leverage Shares 2X Long SBUX Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69735,6 +69723,12 @@
       "isETF": false
     },
     {
+      "symbol": "TSIB",
+      "name": "Direxion TSLA Defined Income Boost ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TSIC",
       "name": "Truth Social American Icons ETF",
       "exchange": "NYSE ARCA",
@@ -71397,12 +71391,6 @@
       "isETF": false
     },
     {
-      "symbol": "UPSG",
-      "name": "Leverage Shares 2X Long UPS Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "UPST",
       "name": "Upstart Holdings, Inc. - Common stock",
       "exchange": "NASDAQ",
@@ -71865,12 +71853,6 @@
       "isETF": false
     },
     {
-      "symbol": "USRD",
-      "name": "Themes US R&D Champions ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "USRT",
       "name": "iShares Core U.S. REIT ETF",
       "exchange": "NYSE ARCA",
@@ -72328,7 +72310,7 @@
     },
     {
       "symbol": "VB",
-      "name": "Vanguard Small-Cap ETF",
+      "name": "Vanguard Morningstar Small-Cap ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -72412,7 +72394,7 @@
     },
     {
       "symbol": "VBK",
-      "name": "Vanguard Small-Cap Growth ETF",
+      "name": "Vanguard Morningstar Small-Cap Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -72436,7 +72418,7 @@
     },
     {
       "symbol": "VBR",
-      "name": "Vanguard Small-Cap Value ETF",
+      "name": "Vanguard Morningstar Small-Cap Value ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -73486,7 +73468,7 @@
     },
     {
       "symbol": "VO",
-      "name": "Vanguard Mid-Cap ETF",
+      "name": "Vanguard Morningstar Mid-Cap ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -73504,7 +73486,7 @@
     },
     {
       "symbol": "VOE",
-      "name": "Vanguard Mid-Cap Value ETF",
+      "name": "Vanguard Morningstar Mid-Cap Value ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -73564,7 +73546,7 @@
     },
     {
       "symbol": "VOT",
-      "name": "Vanguard Mid-Cap Growth ETF",
+      "name": "Vanguard Morningstar Mid-Cap Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -74002,7 +73984,7 @@
     },
     {
       "symbol": "VTI",
-      "name": "Vanguard Total Stock Market ETF",
+      "name": "Vanguard Morningstar Total Stock Market ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -74068,7 +74050,7 @@
     },
     {
       "symbol": "VTV",
-      "name": "Vanguard Value ETF",
+      "name": "Vanguard Morningstar Value ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -74098,7 +74080,7 @@
     },
     {
       "symbol": "VUG",
-      "name": "Vanguard Growth ETF",
+      "name": "Vanguard Morningstar Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -74146,7 +74128,7 @@
     },
     {
       "symbol": "VV",
-      "name": "Vanguard Large-Cap ETF",
+      "name": "Vanguard Morningstar Large-Cap ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -75498,6 +75480,12 @@
       "symbol": "WSM",
       "name": "Williams-Sonoma, Inc. Common Stock (DE)",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WSMD",
+      "name": "Wasatch Small/Mid Cap ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
