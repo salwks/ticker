@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-29T23:58:00.584684Z",
-  "count": 13065,
+  "lastUpdated": "2026-07-30T23:59:44.287915Z",
+  "count": 13074,
   "tickers": [
     {
       "symbol": "A",
@@ -4437,6 +4437,12 @@
       "isETF": false
     },
     {
+      "symbol": "ARCP",
+      "name": "Aristotle Core Plus Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "ARCT",
       "name": "Arcturus Therapeutics Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -4668,6 +4674,12 @@
       "symbol": "ARMP",
       "name": "Armata Pharmaceuticals, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "ARMS",
+      "name": "Aristotle Multi-Sector Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -21657,6 +21669,12 @@
       "isETF": false
     },
     {
+      "symbol": "ELOL",
+      "name": "Leverage Shares 100% TSLA AND 100% SPCX Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ELOX",
       "name": "Eloxx Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -29601,12 +29619,6 @@
       "isETF": false
     },
     {
-      "symbol": "GLP$B",
-      "name": "Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units representing limited partner interests",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "GLPI",
       "name": "Gaming and Leisure Properties, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -31380,6 +31392,12 @@
       "symbol": "GXUS",
       "name": "Goldman Sachs MarketBeta Total International Equity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "GYGY",
+      "name": "Game Your Game, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36753,8 +36771,20 @@
       "isETF": false
     },
     {
+      "symbol": "ISNR",
+      "name": "Snow Rothschild Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ISNRU",
       "name": "Snow Rothschild Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ISNRW",
+      "name": "Snow Rothschild Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38280,6 +38310,12 @@
       "symbol": "JMID",
       "name": "Janus Henderson Mid Cap Growth Alpha ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "JMKE",
+      "name": "Jersey Mike's Subs Inc. Class A Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -52419,6 +52455,12 @@
       "isETF": false
     },
     {
+      "symbol": "PBAM",
+      "name": "Private Bancorp of America, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PBAP",
       "name": "PGIM S&P 500 Buffer 20 ETF - April",
       "exchange": "BATS",
@@ -58269,6 +58311,12 @@
       "isETF": false
     },
     {
+      "symbol": "REF",
+      "name": "Reformation Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "REFA",
       "name": "Columbia Research Enhanced International Equity ETF",
       "exchange": "NYSE ARCA",
@@ -61740,6 +61788,12 @@
       "symbol": "SDTY",
       "name": "YieldMax S&P 500 0DTE Covered Call Strategy ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SDUR",
+      "name": "Aristotle Short Term Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -70216,13 +70270,13 @@
     },
     {
       "symbol": "TVGN",
-      "name": "Tevogen Bio Holdings Inc. - Common Stock",
+      "name": "Tevogen Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "TVGNW",
-      "name": "Tevogen Bio Holdings Inc. - Warrant",
+      "name": "Tevogen Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
