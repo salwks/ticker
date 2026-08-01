@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T23:59:44.287915Z",
-  "count": 13074,
+  "lastUpdated": "2026-08-01T00:00:03.135976Z",
+  "count": 13081,
   "tickers": [
     {
       "symbol": "A",
@@ -4065,6 +4065,12 @@
       "isETF": false
     },
     {
+      "symbol": "APMD",
+      "name": "Apnimed, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "APMI",
       "name": "Corgi AMAT 2x Daily ETF",
       "exchange": "BATS",
@@ -4079,12 +4085,6 @@
     {
       "symbol": "APO",
       "name": "Apollo Global Management, Inc. (New) Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "APO$A",
-      "name": "Apollo Global Management, Inc. 6.75% Series A Mandatory Convertible Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -12387,8 +12387,20 @@
       "isETF": false
     },
     {
+      "symbol": "CCCT",
+      "name": "Columbus Circle Capital Corp III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CCCTU",
       "name": "Columbus Circle Capital Corp III - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCCTW",
+      "name": "Columbus Circle Capital Corp III - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -23535,6 +23547,12 @@
       "isETF": false
     },
     {
+      "symbol": "EWAVU",
+      "name": "East West Ave Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EWBC",
       "name": "East West Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -27819,8 +27837,26 @@
       "isETF": false
     },
     {
+      "symbol": "FWAC",
+      "name": "Futurewave Acquisition Corporation - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FWACR",
+      "name": "Futurewave Acquisition Corporation - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FWACU",
       "name": "Futurewave Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FWACW",
+      "name": "Futurewave Acquisition Corporation - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30172,7 +30208,7 @@
     },
     {
       "symbol": "GOP",
-      "name": "Unusual Whales Subversive Republican Trading ETF",
+      "name": "Subversive Congressional Republicans Trading ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -31223,12 +31259,6 @@
     {
       "symbol": "GUTS",
       "name": "Fractyl Health, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GV",
-      "name": "Visionary Holdings Inc. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38283,6 +38313,12 @@
       "isETF": false
     },
     {
+      "symbol": "JLVP",
+      "name": "JPMorgan U.S. Large Cap Value Plus ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "JMBS",
       "name": "Janus Henderson Mortgage-Backed Securities ETF",
       "exchange": "NYSE ARCA",
@@ -42180,12 +42216,6 @@
       "symbol": "LPRE",
       "name": "Long Pond Real Estate Select ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LPRO",
-      "name": "Open Lending Corporation - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -47122,7 +47152,7 @@
     },
     {
       "symbol": "NANC",
-      "name": "Unusual Whales Subversive Democratic Trading ETF",
+      "name": "Subversive Congressional Democrats Trading ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -47487,8 +47517,26 @@
       "isETF": false
     },
     {
+      "symbol": "NCO",
+      "name": "Southern Cross Acquisition I Corp. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NCOOR",
+      "name": "Southern Cross Acquisition I Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NCOOU",
       "name": "Southern Cross Acquisition I Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NCOOW",
+      "name": "Southern Cross Acquisition I Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51528,12 +51576,6 @@
       "symbol": "ORKT",
       "name": "Orangekloud Technology Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ORLA",
-      "name": "Orla Mining Ltd. Common Shares",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -57822,12 +57864,6 @@
       "symbol": "RAYA",
       "name": "Erayak Power Solution Group Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RAYJ",
-      "name": "Rayliant SMDAM Japan Equity ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -67906,7 +67942,7 @@
     },
     {
       "symbol": "TGLS",
-      "name": "Tecnoglass Inc. Common Stock",
+      "name": "Tecnoglass Holdings Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -76350,6 +76386,12 @@
       "symbol": "XIGV",
       "name": "Defiance US 100 Tech Ex Software ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XIIIU",
+      "name": "Churchill Capital Corp XIII - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
