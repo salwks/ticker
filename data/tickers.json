@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04T00:07:16.902249Z",
-  "count": 13076,
+  "lastUpdated": "2026-08-04T23:59:48.601214Z",
+  "count": 13095,
   "tickers": [
     {
       "symbol": "A",
@@ -1167,8 +1167,8 @@
       "isETF": false
     },
     {
-      "symbol": "ADIG.V",
-      "name": "ADI Global Distribution Inc. Common Stock When-Issued",
+      "symbol": "ADIG",
+      "name": "ADI Global Distribution Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -5562,6 +5562,12 @@
       "symbol": "AUDC",
       "name": "AudioCodes Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AUGC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -12057,6 +12063,12 @@
       "isETF": false
     },
     {
+      "symbol": "CAUG",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CAVA",
       "name": "CAVA Group, Inc. Common Stock",
       "exchange": "NYSE",
@@ -13452,6 +13464,12 @@
       "symbol": "CHD",
       "name": "Church & Dwight Company, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CHDG",
+      "name": "Calamos Active Hedged Equity ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16506,6 +16524,12 @@
       "symbol": "CTAS",
       "name": "Cintas Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CTAU",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -21795,6 +21819,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMAU",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "EMB",
       "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
       "exchange": "NASDAQ",
@@ -22337,6 +22367,12 @@
     {
       "symbol": "EOSE",
       "name": "Eos Energy Enterprises, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EOSEW",
+      "name": "Eos Energy Enterprises, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24645,8 +24681,20 @@
       "isETF": false
     },
     {
+      "symbol": "FDMM",
+      "name": "Freedom Metals Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FDMMU",
       "name": "Freedom Metals Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FDMMW",
+      "name": "Freedom Metals Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25683,6 +25731,12 @@
       "isETF": false
     },
     {
+      "symbol": "FIZY",
+      "name": "Fitz-Gerald Must Have Portfolio and Options Overlay ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FIZZ",
       "name": "National Beverage Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -25692,6 +25746,12 @@
       "symbol": "FJAN",
       "name": "FT Vest U.S. Equity Buffer ETF - January",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FJDIU",
+      "name": "ARC Group Securities Acquisition I - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -31593,6 +31653,12 @@
       "isETF": false
     },
     {
+      "symbol": "HAUG",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HAUS",
       "name": "Residential REIT ETF",
       "exchange": "BATS",
@@ -34554,6 +34620,12 @@
       "symbol": "IDAI",
       "name": "T Stamp Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IDAU",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -42411,12 +42483,6 @@
       "isETF": false
     },
     {
-      "symbol": "LSH",
-      "name": "Lakeside Holding Limited - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LSPD",
       "name": "Lightspeed Commerce Inc. Subordinate Voting Shares",
       "exchange": "NYSE",
@@ -46425,8 +46491,8 @@
       "isETF": false
     },
     {
-      "symbol": "MUA.V",
-      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights when issued",
+      "symbol": "MUA.R",
+      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -50339,6 +50405,12 @@
     {
       "symbol": "OBTC",
       "name": "Osprey Bitcoin Trust",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OBX",
+      "name": "Obsidian Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56469,6 +56541,12 @@
       "isETF": false
     },
     {
+      "symbol": "QAU",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QB",
       "name": "ProShares Nasdaq-100 Dynamic Buffer ETF",
       "exchange": "NASDAQ",
@@ -57015,6 +57093,12 @@
       "isETF": false
     },
     {
+      "symbol": "QNME",
+      "name": "Quanome Technologies, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QNRX",
       "name": "Quoin Pharmaceuticals, Ltd. - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -57072,6 +57156,12 @@
       "symbol": "QQA",
       "name": "Invesco QQQ Income Advantage ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QQAU",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58571,12 +58661,6 @@
     {
       "symbol": "REZI",
       "name": "Resideo Technologies, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "REZI.V",
-      "name": "Resideo Technologies, Inc. Common Stock When-Issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -60268,7 +60352,7 @@
     },
     {
       "symbol": "RVNU",
-      "name": "Xtrackers Municipal Infrastructure Revenue Bond ETF",
+      "name": "Xtrackers Municipal Infrastructure Revenue Bond Active ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61170,6 +61254,12 @@
       "symbol": "SCAP",
       "name": "Infrastructure Capital Small Cap Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SCAU",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -63663,9 +63753,21 @@
       "isETF": false
     },
     {
+      "symbol": "SMHD",
+      "name": "MicroSectors -3x Short Semiconductor ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SMHI",
       "name": "SEACOR Marine Holdings Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SMHU",
+      "name": "MicroSectors 3x Long Semiconductor ETNs",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -65853,6 +65955,18 @@
       "isETF": false
     },
     {
+      "symbol": "STLN",
+      "name": "Starling Oncology Institute, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "STLNW",
+      "name": "Starling Oncology Institute, Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "STLR",
       "name": "Stellar ETF",
       "exchange": "BATS",
@@ -67977,6 +68091,12 @@
       "isETF": false
     },
     {
+      "symbol": "THEOU",
+      "name": "BOA Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "THEQ",
       "name": "T. Rowe Price Hedged Equity ETF",
       "exchange": "NYSE ARCA",
@@ -68892,18 +69012,6 @@
       "symbol": "TOGA",
       "name": "Managed Portfolio Series Tremblant Global ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "TOI",
-      "name": "The Oncology Institute, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TOIIW",
-      "name": "The Oncology Institute, Inc. - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -70391,6 +70499,12 @@
     {
       "symbol": "TWN",
       "name": "Taiwan Fund, Inc. (The) Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TWO",
+      "name": "Two Harbors Investment Corp",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -77716,7 +77830,7 @@
     },
     {
       "symbol": "YPF",
-      "name": "YPF Sociedad Anonima Common Stock",
+      "name": "YPF Sociedad Anonima American Depositary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
