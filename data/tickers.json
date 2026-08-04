@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-02T23:57:13.201618Z",
-  "count": 13081,
+  "lastUpdated": "2026-08-04T00:07:16.902249Z",
+  "count": 13076,
   "tickers": [
     {
       "symbol": "A",
@@ -1524,12 +1524,6 @@
       "symbol": "AFB",
       "name": "AllianceBernstein National Municipal Income Fund Inc",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AFBI",
-      "name": "Affinity Bancshares, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7197,8 +7191,20 @@
       "isETF": false
     },
     {
+      "symbol": "BCCQ",
+      "name": "Bleichroeder Acquisition Corp. III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BCCQU",
       "name": "Bleichroeder Acquisition Corp. III - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BCCQW",
+      "name": "Bleichroeder Acquisition Corp. III - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -14793,6 +14799,12 @@
       "isETF": false
     },
     {
+      "symbol": "CNSY",
+      "name": "Cerenome, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CNTB",
       "name": "Connect Biopharma Holdings Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -17763,6 +17775,12 @@
       "isETF": false
     },
     {
+      "symbol": "DDFG",
+      "name": "Innovator Equity Dual Directional 15 Buffer ETF - August",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DDFJ",
       "name": "Innovator Equity Dual Directional 15 Buffer ETF - January",
       "exchange": "BATS",
@@ -17885,6 +17903,12 @@
     {
       "symbol": "DDTF",
       "name": "Innovator Equity Dual Directional 10 Buffer ETF - February",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DDTG",
+      "name": "Innovator Equity Dual Directional 10 Buffer ETF - August",
       "exchange": "BATS",
       "isETF": false
     },
@@ -21708,12 +21732,6 @@
       "symbol": "ELS",
       "name": "Equity Lifestyle Properties, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ELSE",
-      "name": "Electro-Sensors, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -28833,12 +28851,6 @@
       "isETF": false
     },
     {
-      "symbol": "GEOA",
-      "name": "WisdomTree GeoAlpha Opportunities Fund",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "GEOS",
       "name": "Geospace Technologies Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -34449,12 +34461,6 @@
       "isETF": false
     },
     {
-      "symbol": "ICOI",
-      "name": "Bitwise COIN Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "ICON",
       "name": "Icon Energy Corp. - Common stock",
       "exchange": "NASDAQ",
@@ -34488,12 +34494,6 @@
       "symbol": "ICR$A",
       "name": "InPoint Commercial Real Estate Income, Inc. 6.75% Series A Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ICRC",
-      "name": "Bitwise CRCL Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -34809,12 +34809,6 @@
       "isETF": false
     },
     {
-      "symbol": "IETH",
-      "name": "Bitwise Ethereum Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "IEUR",
       "name": "iShares Core MSCI Europe ETF",
       "exchange": "NYSE ARCA",
@@ -35039,12 +35033,6 @@
     {
       "symbol": "IGM",
       "name": "iShares Expanded Tech Sector ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "IGME",
-      "name": "Bitwise GME Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -35523,12 +35511,6 @@
       "isETF": false
     },
     {
-      "symbol": "IMRA",
-      "name": "Bitwise MARA Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "IMRN",
       "name": "Immuron Limited - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -35550,12 +35532,6 @@
       "symbol": "IMSRW",
       "name": "Terrestrial Energy Inc. - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IMST",
-      "name": "Bitwise MSTR Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -39334,7 +39310,7 @@
     },
     {
       "symbol": "KEMQ",
-      "name": "KraneShares Emerging Markets Consumer Technology Index ETF",
+      "name": "KraneShares Public-Private Emerging Markets Internet and Technology ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -40427,24 +40403,6 @@
     {
       "symbol": "KUST",
       "name": "Kustom Entertainment, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KVAC",
-      "name": "Keen Vision Acquisition Corporation - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KVACU",
-      "name": "Keen Vision Acquisition Corporation - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KVACW",
-      "name": "Keen Vision Acquisition Corporation - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50391,8 +50349,26 @@
       "isETF": false
     },
     {
+      "symbol": "OCAC",
+      "name": "Ocean Capital Acquisition Corporation Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OCAC.R",
+      "name": "Ocean Capital Acquisition Corporation Rights, each entitling the holder to receive one ordinary share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "OCAC.U",
       "name": "Ocean Capital Acquisition Corporation Units, each consisting of one Class A Ordinary Share, one redeemable Warrant and one Right",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OCAC.W",
+      "name": "Ocean Capital Acquisition Corporation Warrants, each exercisable for one ordinary share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -51377,6 +51353,12 @@
     {
       "symbol": "OPPE",
       "name": "WisdomTree European Opportunities Fund",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "OPPG",
+      "name": "WisdomTree GeoAlpha Opportunities Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -54016,7 +53998,7 @@
     },
     {
       "symbol": "PJIO",
-      "name": "PGIM Jennison International Opportunities ETF",
+      "name": "PGIM Jennison Focused International Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -55907,12 +55889,6 @@
     {
       "symbol": "PSTR",
       "name": "PeakShares Sector Rotation ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PSTV",
-      "name": "PLUS THERAPEUTICS, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -59148,6 +59124,12 @@
       "symbol": "RIZE",
       "name": "Principal Inflation Protection ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "RJCA",
+      "name": "RJ ClariVest Capital Appreciation ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -63197,12 +63179,6 @@
     {
       "symbol": "SKYQ",
       "name": "Sky Quarry Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SKYT",
-      "name": "SkyWater Technology, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70415,12 +70391,6 @@
     {
       "symbol": "TWN",
       "name": "Taiwan Fund, Inc. (The) Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "TWO",
-      "name": "Two Harbors Investment Corp",
       "exchange": "NYSE",
       "isETF": false
     },
