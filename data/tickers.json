@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-04T23:59:48.601214Z",
-  "count": 13095,
+  "lastUpdated": "2026-08-05T23:58:13.422588Z",
+  "count": 13101,
   "tickers": [
     {
       "symbol": "A",
@@ -5502,6 +5502,12 @@
       "symbol": "ATS",
       "name": "ATS Corporation Common Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ATTO",
+      "name": "Attovia Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -19041,6 +19047,12 @@
       "isETF": false
     },
     {
+      "symbol": "DLCU",
+      "name": "U.S. Large Company Portfolio: ETF Class Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DLFE",
       "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - February",
       "exchange": "BATS",
@@ -20592,12 +20604,6 @@
       "symbol": "E",
       "name": "ENI S.p.A. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "EA",
-      "name": "Electronic Arts Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -37629,8 +37635,26 @@
       "isETF": false
     },
     {
+      "symbol": "JAB",
+      "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "JABRR",
+      "name": "JAB Acquisition Corp I - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "JABRU",
       "name": "JAB Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "JABRW",
+      "name": "JAB Acquisition Corp I - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -39396,6 +39420,12 @@
       "symbol": "KEN",
       "name": "Kenon Holdings Ltd. Ordinary Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "KEO",
+      "name": "Kurv Equity Option Income ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -65956,13 +65986,13 @@
     },
     {
       "symbol": "STLN",
-      "name": "Starling Oncology Institute, Inc. - Common Stock",
+      "name": "Starling Oncology, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "STLNW",
-      "name": "Starling Oncology Institute, Inc. - Warrant",
+      "name": "Starling Oncology, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67296,6 +67326,12 @@
       "symbol": "TCBX",
       "name": "Third Coast Bancshares, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TCGX",
+      "name": "TCGX Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
