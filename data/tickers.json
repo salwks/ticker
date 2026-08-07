@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-05T23:58:13.422588Z",
-  "count": 13101,
+  "lastUpdated": "2026-08-07T01:40:43.597517Z",
+  "count": 13109,
   "tickers": [
     {
       "symbol": "A",
@@ -2517,6 +2517,12 @@
       "isETF": false
     },
     {
+      "symbol": "AKAL",
+      "name": "T-REX 2X Long AKAM Daily Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "AKAM",
       "name": "Akamai Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -3671,6 +3677,12 @@
     {
       "symbol": "ANGO",
       "name": "AngioDynamics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ANGU",
+      "name": "SEI Ang Research Enhanced U.S. Large Cap ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10361,6 +10373,12 @@
     {
       "symbol": "BRUNW",
       "name": "Boost Run Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRVE",
+      "name": "Braveheart Bio, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42087,6 +42105,12 @@
       "isETF": false
     },
     {
+      "symbol": "LOFD",
+      "name": "Direxion Daily SpaceX Bear 2X ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "LOFF",
       "name": "Direxion Daily SpaceX Bull 2X ETF",
       "exchange": "NYSE ARCA",
@@ -42899,6 +42923,12 @@
     {
       "symbol": "LYLD",
       "name": "Cambria Large Cap Shareholder Yield ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "LYTE",
+      "name": "Roundhill Photonics & Optics ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -47541,6 +47571,12 @@
       "isETF": false
     },
     {
+      "symbol": "NCLD",
+      "name": "Roundhill Neocloud ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NCLH",
       "name": "Norwegian Cruise Line Holdings Ltd. Ordinary Shares",
       "exchange": "NYSE",
@@ -50529,6 +50565,12 @@
       "isETF": false
     },
     {
+      "symbol": "OCNL",
+      "name": "T-REX 2X Long DOCN Daily Target ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "OCS",
       "name": "Oculis Holding AG - Ordinary shares",
       "exchange": "NASDAQ",
@@ -53400,6 +53442,12 @@
       "symbol": "PENN",
       "name": "PENN Entertainment, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PENU",
+      "name": "T-REX 2X Long PENG Daily Target ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58079,6 +58127,12 @@
     {
       "symbol": "RCAX",
       "name": "Defiance Daily Target 2x Long RCAT ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RCBC",
+      "name": "River City Bank - Common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68301,6 +68355,12 @@
       "isETF": false
     },
     {
+      "symbol": "TIH",
+      "name": "The Investment House ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TII",
       "name": "Titan Mining Corporation Common Shares",
       "exchange": "AMEX",
@@ -74021,18 +74081,6 @@
     {
       "symbol": "VSECU",
       "name": "VSE Corporation - Tangible Equity Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VSEE",
-      "name": "VSee Health, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VSEEW",
-      "name": "VSee Health, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
