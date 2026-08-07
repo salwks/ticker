@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T01:40:43.597517Z",
-  "count": 13109,
+  "lastUpdated": "2026-08-07T23:31:24.143944Z",
+  "count": 13113,
   "tickers": [
     {
       "symbol": "A",
@@ -6189,18 +6189,6 @@
       "isETF": false
     },
     {
-      "symbol": "AXIA",
-      "name": "AXIA Energia American Depositary Shares (Each representing one Common Share)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AXIA$C",
-      "name": "AXIA Energia American Depositary Shares, each representing one Preferred Class C Share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "AXIL",
       "name": "AXIL Brands, Inc. Common Stock",
       "exchange": "AMEX",
@@ -9213,6 +9201,12 @@
       "isETF": false
     },
     {
+      "symbol": "BLSM",
+      "name": "BlossomHill Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BLST",
       "name": "Bluemonte Short Term Bond ETF",
       "exchange": "NYSE ARCA",
@@ -9708,18 +9702,6 @@
       "symbol": "BNY$K",
       "name": "The Bank Of New York Mellon Corporation  Depositary Shares, each representing a 1/4,000th interest in a share of Series K Noncumulative Perpetual Preferred Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BNZI",
-      "name": "Banzai International, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BNZIW",
-      "name": "Banzai International, Inc. - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -10511,6 +10493,12 @@
     {
       "symbol": "BSCZ",
       "name": "Invesco BulletShares 2035 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BSEM",
+      "name": "BioStem Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38781,12 +38769,6 @@
       "isETF": false
     },
     {
-      "symbol": "JRE",
-      "name": "Janus Henderson U.S. Real Estate ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "JRI",
       "name": "Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -42593,6 +42575,12 @@
     {
       "symbol": "LTCC",
       "name": "Canary Litecoin ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LTGO",
+      "name": "Latigo Biotherapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50565,6 +50553,12 @@
       "isETF": false
     },
     {
+      "symbol": "OCLTU",
+      "name": "OceanLight Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "OCNL",
       "name": "T-REX 2X Long DOCN Daily Target ETF",
       "exchange": "BATS",
@@ -52464,6 +52458,18 @@
       "symbol": "PAR",
       "name": "PAR Technology Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PARA",
+      "name": "Banzai International, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PARAW",
+      "name": "Banzai International, Inc. - Warrant",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -54780,6 +54786,12 @@
       "symbol": "PN",
       "name": "PN Smart Energy Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PNAQ.U",
+      "name": "Pinnacle Acquisition Corporation Units, each consisting of one Class A ordinary share and one right",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -57707,6 +57719,12 @@
     {
       "symbol": "QVAL",
       "name": "Alpha Architect U.S. Quantitative Value ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QVC",
+      "name": "QVC Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69282,6 +69300,12 @@
       "symbol": "TOYO",
       "name": "TOYO Co., Ltd - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TP",
+      "name": "Ticketplus Ltd. Ordinary Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
