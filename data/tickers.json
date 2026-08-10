@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-09T23:29:02.815656Z",
-  "count": 13113,
+  "lastUpdated": "2026-08-10T23:32:30.365921Z",
+  "count": 13117,
   "tickers": [
     {
       "symbol": "A",
@@ -4530,6 +4530,12 @@
       "symbol": "ARI",
       "name": "Apollo Commercial Real Estate Finance, Inc",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ARIA",
+      "name": "ARIA Opportunities ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -24531,12 +24537,6 @@
       "isETF": false
     },
     {
-      "symbol": "FCT",
-      "name": "First Trust Senior Floating Rate Income Fund II Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "FCTE",
       "name": "SMI 3Fourteen Full-Cycle Trend ETF",
       "exchange": "NASDAQ",
@@ -25218,6 +25218,12 @@
       "symbol": "FFLV",
       "name": "Fidelity Fundamental Large Cap Value ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "FFLX",
+      "name": "First Trust Flexible Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -28527,6 +28533,12 @@
       "isETF": false
     },
     {
+      "symbol": "GCPB",
+      "name": "Goldman Sachs Core Plus Bond ETF",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "GCSH",
       "name": "Guggenheim Ultra Short Income ETF",
       "exchange": "NYSE ARCA",
@@ -29340,6 +29352,12 @@
       "symbol": "GILT",
       "name": "Gilat Satellite Networks Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GINC",
+      "name": "Goldman Sachs Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -38529,12 +38547,6 @@
       "isETF": false
     },
     {
-      "symbol": "JOBY.W",
-      "name": "Joby Aviation, Inc. Warrants",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "JOE",
       "name": "St. Joe Company (The) Common Stock",
       "exchange": "NYSE",
@@ -46084,7 +46096,7 @@
     },
     {
       "symbol": "MSGY",
-      "name": "Masonglory Limited - Ordinary Shares",
+      "name": "Masonglory Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53949,6 +53961,18 @@
       "isETF": false
     },
     {
+      "symbol": "PHOS",
+      "name": "First Phosphate Corp. - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PHOX",
+      "name": "Aura AI Photonics ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PHR",
       "name": "Phreesia, Inc. Common Stock",
       "exchange": "NYSE",
@@ -57723,7 +57747,7 @@
       "isETF": false
     },
     {
-      "symbol": "QVC",
+      "symbol": "QVCG",
       "name": "QVC Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
@@ -65673,12 +65697,6 @@
       "isETF": false
     },
     {
-      "symbol": "SRZNW",
-      "name": "Surrozen, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SSAC",
       "name": "SPACSphere Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -66191,12 +66209,6 @@
     {
       "symbol": "STRRP",
       "name": "Star Equity Holdings, Inc. - 10% Series A Cumulative Perpetual Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "STRS",
-      "name": "Stratus Properties Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -75357,8 +75369,20 @@
       "isETF": false
     },
     {
+      "symbol": "WLCO",
+      "name": "Wilco 63 Corporation - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "WLCOU",
       "name": "Wilco 63 Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WLCOW",
+      "name": "Wilco 63 Corporation - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -76006,7 +76030,7 @@
     },
     {
       "symbol": "WVE",
-      "name": "Wave Life Sciences Ltd. - Ordinary Shares",
+      "name": "Wave Life Sciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
