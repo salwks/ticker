@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-11T23:37:38.762175Z",
-  "count": 13126,
+  "lastUpdated": "2026-08-12T23:38:27.706584Z",
+  "count": 13135,
   "tickers": [
     {
       "symbol": "A",
@@ -16431,6 +16431,12 @@
       "isETF": false
     },
     {
+      "symbol": "CSRA",
+      "name": "Cohen & Steers Real Assets Active ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CSRE",
       "name": "Cohen & Steers Real Estate Active ETF",
       "exchange": "NYSE ARCA",
@@ -23859,6 +23865,12 @@
       "isETF": false
     },
     {
+      "symbol": "EXPN",
+      "name": "Horizon Expansion Leaders ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "EXPO",
       "name": "Exponent, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -26709,6 +26721,12 @@
       "isETF": false
     },
     {
+      "symbol": "FOIL",
+      "name": "Londian Wason New Energy Tech Inc. American Depositary Shares, each representing five Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "FOMG",
       "name": "Leverage Shares 2X Long FORM Daily ETF",
       "exchange": "BATS",
@@ -28236,6 +28254,12 @@
       "symbol": "GAINZ",
       "name": "Gladstone Investment Corporation - 4.875% Notes due 2028",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GAIQ",
+      "name": "Guinness Atkinson Global Innovators Fund: ETF Class Shares",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -43917,18 +43941,6 @@
       "isETF": false
     },
     {
-      "symbol": "MDV",
-      "name": "Modiv Industrial, Inc. Class C Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MDV$A",
-      "name": "Modiv Industrial, Inc. 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "MDWD",
       "name": "MediWound Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -45417,12 +45429,6 @@
       "isETF": false
     },
     {
-      "symbol": "MNTSW",
-      "name": "Momentus Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MNVR",
       "name": "Pacer Swan SOS Moderate (November) ETF",
       "exchange": "BATS",
@@ -45639,9 +45645,33 @@
       "isETF": false
     },
     {
+      "symbol": "MPDB",
+      "name": "m+ DynaBuffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "MPDY",
+      "name": "m+ DualYield Autocall ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MPG",
       "name": "Leverage Shares 2X Long MP Daily ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MPIA",
+      "name": "m+ Nasdaq-100 Accelerator Autocall ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MPIM",
+      "name": "m+ Income Momentum Autocall ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -49704,12 +49734,6 @@
       "symbol": "NUSC",
       "name": "Nuveen ESG Small-Cap ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "NUTR",
-      "name": "Nusatrip Incorporated - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -54347,6 +54371,18 @@
     {
       "symbol": "PLCE",
       "name": "Children's Place, Inc. (The) - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PLCI",
+      "name": "Pelican Acquisition II Corporation - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PLCIR",
+      "name": "Pelican Acquisition II Corporation - Right",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64365,6 +64401,12 @@
       "isETF": false
     },
     {
+      "symbol": "SNSC",
+      "name": "SunScout Holding Limited Class A Ordinary Shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "SNSR",
       "name": "Global X Internet of Things ETF",
       "exchange": "NASDAQ",
@@ -68584,7 +68626,7 @@
     },
     {
       "symbol": "TJGC",
-      "name": "TJGC Group Limited - ordinary shares",
+      "name": "TJGC Group Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -73851,6 +73893,12 @@
       "isETF": false
     },
     {
+      "symbol": "VOGX",
+      "name": "Vogenx Inc - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VOLT",
       "name": "Tema Electrification ETF",
       "exchange": "NASDAQ",
@@ -77940,6 +77988,12 @@
       "symbol": "YLDW",
       "name": "Westwood Enhanced Income Opportunity ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "YLDY",
+      "name": "Horizon High Income ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
