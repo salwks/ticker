@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-12T23:38:27.706584Z",
-  "count": 13135,
+  "lastUpdated": "2026-08-13T23:38:33.670937Z",
+  "count": 13137,
   "tickers": [
     {
       "symbol": "A",
@@ -1929,12 +1929,6 @@
       "isETF": false
     },
     {
-      "symbol": "AGRH",
-      "name": "iShares Interest Rate Hedged U.S. Aggregate Bond ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "AGRO",
       "name": "Adecoagro S.A. Common Shares",
       "exchange": "NYSE",
@@ -3747,27 +3741,15 @@
       "isETF": false
     },
     {
-      "symbol": "ANSC",
-      "name": "Agriculture & Natural Solutions Acquisition Corporation - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ANSCU",
-      "name": "Agriculture & Natural Solutions Acquisition Corporation - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ANSCW",
-      "name": "Agriculture & Natural Solutions Acquisition Corporation - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ANTA",
       "name": "Antalpha Platform Holding Company - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ANTW",
+      "name": "Anthropic AI Lab Ecosystem ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -7743,12 +7725,6 @@
       "isETF": false
     },
     {
-      "symbol": "BELT",
-      "name": "iShares U.S. Select Equity Active ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BEMB",
       "name": "iShares J.P. Morgan Broad USD Emerging Markets Bond ETF",
       "exchange": "BATS",
@@ -11373,12 +11349,6 @@
       "isETF": false
     },
     {
-      "symbol": "BWNB",
-      "name": "Babcock & Wilcox Enterprises, Inc. 6.50% Senior Notes due 2026",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BWOW",
       "name": "Bitwise Dogecoin ETF",
       "exchange": "NYSE ARCA",
@@ -13347,6 +13317,12 @@
       "isETF": false
     },
     {
+      "symbol": "CGPT",
+      "name": "VegaShares AI Inference ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CGRO",
       "name": "CoreValues Alpha Greater China Growth ETF",
       "exchange": "NYSE ARCA",
@@ -15216,6 +15192,12 @@
       "symbol": "COOK",
       "name": "Traeger, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "COOL",
+      "name": "VegaShares AI Thermal, Cooling & Power Management ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -17367,6 +17349,12 @@
       "isETF": false
     },
     {
+      "symbol": "DACL",
+      "name": "REX Defensive Autocallable Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DADS",
       "name": "Digital Asset Debt Strategy ETF",
       "exchange": "NASDAQ",
@@ -18162,6 +18150,12 @@
       "symbol": "DEO",
       "name": "Diageo plc Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "DEPW",
+      "name": "Google DeepMind AI Lab Ecosystem ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -20657,30 +20651,6 @@
     {
       "symbol": "EALT",
       "name": "Innovator U.S. Equity 5 to 15 Buffer ETF - Quarterly",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "EAOA",
-      "name": "iShares ESG Aware 80/20 Aggressive Allocation ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "EAOK",
-      "name": "iShares ESG Aware 30/70 Conservative Allocation ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "EAOM",
-      "name": "iShares ESG Aware 40/60 Moderate Allocation ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "EAOR",
-      "name": "iShares ESG Aware 60/40 Balanced Allocation ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -28492,7 +28462,7 @@
     },
     {
       "symbol": "GCDT",
-      "name": "Green Circle Decarbonize Technology Limited Ordinary Shares",
+      "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -29259,8 +29229,20 @@
       "isETF": false
     },
     {
+      "symbol": "GHXI",
+      "name": "Gores Holdings XI, Inc. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GHXIU",
       "name": "Gores Holdings XI, Inc. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GHXIW",
+      "name": "Gores Holdings XI, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31800,6 +31782,12 @@
       "symbol": "HBDC",
       "name": "Hilton BDC Corporate Bond ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HBIL",
+      "name": "Harbor Short Term Treasury ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -37308,12 +37296,6 @@
       "symbol": "IVR$C",
       "name": "INVESCO MORTGAGE CAPITAL INC 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, Liquation Preference $25.00 per Share",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "IVRS",
-      "name": "iShares Future Metaverse Tech and Communications ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -46371,6 +46353,12 @@
       "isETF": false
     },
     {
+      "symbol": "MTAW",
+      "name": "Meta AI Lab Ecosystem ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MTB",
       "name": "M&T Bank Corporation Common Stock",
       "exchange": "NYSE",
@@ -50405,6 +50393,12 @@
     {
       "symbol": "OAIM",
       "name": "OneAscent International Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "OAIW",
+      "name": "OpenAI Lab Ecosystem ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -60525,6 +60519,12 @@
       "isETF": false
     },
     {
+      "symbol": "RVII",
+      "name": "Robinhood Ventures Fund II Common Shares of Beneficial Interest",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "RVLV",
       "name": "Revolve Group, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -67337,6 +67337,12 @@
     {
       "symbol": "TBCH",
       "name": "Turtle Beach Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TBCVU",
+      "name": "Thunder Bridge Capital Partners V, Ltd. - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -76260,6 +76266,12 @@
       "symbol": "XAIR",
       "name": "Beyond Air, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XAIW",
+      "name": "SpaceXAI Lab Ecosystem ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
