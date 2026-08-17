@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T23:17:10.658804Z",
-  "count": 13144,
+  "lastUpdated": "2026-08-17T23:19:56.301866Z",
+  "count": 13146,
   "tickers": [
     {
       "symbol": "A",
@@ -1091,6 +1091,12 @@
     {
       "symbol": "ADAMI",
       "name": "Adamas Trust, Inc. - 9.125% Senior Notes Due 2029",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ADAMK",
+      "name": "Adamas Trust, Inc. - 9.600% Senior Notes Due 2031",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5757,12 +5763,6 @@
       "isETF": false
     },
     {
-      "symbol": "AVB",
-      "name": "AvalonBay Communities, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "AVBC",
       "name": "Avidia Bancorp, Inc. Common Stock",
       "exchange": "NYSE",
@@ -6867,15 +6867,9 @@
       "isETF": false
     },
     {
-      "symbol": "BBBY",
-      "name": "Bed Bath & Beyond, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BBBY.W",
-      "name": "Bed Bath & Beyond, Inc. Warrants to Purchase Common Stock",
-      "exchange": "NYSE",
+      "symbol": "BBBYW",
+      "name": "Bed Bath  - Warrant",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7290,12 +7284,6 @@
       "symbol": "BCH",
       "name": "Banco De Chile ADS",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BCHI",
-      "name": "GMO Beyond China ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -7756,7 +7744,7 @@
     },
     {
       "symbol": "BEN",
-      "name": "Franklin Resources, Inc. Common Stock",
+      "name": "Franklin Templeton, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -9538,7 +9526,7 @@
     },
     {
       "symbol": "BNDC",
-      "name": "FlexShares Core Select Bond Fund",
+      "name": "Northern Trust Core Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -12880,7 +12868,7 @@
     },
     {
       "symbol": "CEFS",
-      "name": "Saba Closed-End Funds ETF",
+      "name": "Saba Opportunistic Hedged Closed-End Funds ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -13191,8 +13179,20 @@
       "isETF": false
     },
     {
+      "symbol": "CGCF",
+      "name": "Cartesian Growth Corporation IV - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CGCFU",
       "name": "Cartesian Growth Corporation IV - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CGCFW",
+      "name": "Cartesian Growth Corporation IV - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -20133,6 +20133,12 @@
       "isETF": false
     },
     {
+      "symbol": "DUKU",
+      "name": "Duke Energy Corporation Corporate Units",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "DUKX",
       "name": "Ocean Park International ETF",
       "exchange": "NASDAQ",
@@ -22840,7 +22846,7 @@
     },
     {
       "symbol": "ESG",
-      "name": "FlexShares STOXX US ESG Select Index Fund",
+      "name": "Northern Trust STOXX US ESG Select ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -22858,7 +22864,7 @@
     },
     {
       "symbol": "ESGG",
-      "name": "FlexShares STOXX Global ESG Select Index Fund",
+      "name": "Northern Trust STOXX Global ESG Select ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -24904,7 +24910,7 @@
     },
     {
       "symbol": "FEDM",
-      "name": "FlexShares ESG & Climate Developed Markets ex-US Core Index Fund",
+      "name": "Northern Trust ESG & Climate Developed Markets ex-US Core ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -24928,7 +24934,7 @@
     },
     {
       "symbol": "FEIG",
-      "name": "FlexShares ESG & Climate Investment Grade Corporate Core Index Fund",
+      "name": "Northern Trust ESG & Climate Investment Grade Corporate Core ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -25108,7 +25114,7 @@
     },
     {
       "symbol": "FEUS",
-      "name": "FlexShares ESG & Climate US Large Cap Core Index Fund",
+      "name": "Northern Trust ESG & Climate US Large Cap Core ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -30598,7 +30604,7 @@
     },
     {
       "symbol": "GQRE",
-      "name": "FlexShares Global Quality Real Estate Index Fund",
+      "name": "Northern Trust Global Quality Real Estate ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -31354,7 +31360,7 @@
     },
     {
       "symbol": "GUNR",
-      "name": "FlexShares Global Upstream Natural Resources Index Fund ETF",
+      "name": "Northern Trust Morningstar Global Upstream Natural Resources ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -33754,7 +33760,7 @@
     },
     {
       "symbol": "HYGV",
-      "name": "FlexShares High Yield Value-Scored Bond Index Fund",
+      "name": "Northern Trust High Yield Value-Scored Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -36447,24 +36453,6 @@
       "isETF": false
     },
     {
-      "symbol": "IPCX",
-      "name": "Inflection Point Acquisition Corp. III - Class A ordinary shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPCXR",
-      "name": "Inflection Point Acquisition Corp. III - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPCXU",
-      "name": "Inflection Point Acquisition Corp. III - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IPDN",
       "name": "Professional Diversity Network, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -36604,7 +36592,7 @@
     },
     {
       "symbol": "IQDF",
-      "name": "FlexShares International Quality Dividend Index Fund",
+      "name": "Northern Trust International Quality Dividend ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -36616,7 +36604,7 @@
     },
     {
       "symbol": "IQDY",
-      "name": "FlexShares International Quality Dividend Dynamic Index Fund",
+      "name": "Northern Trust International Quality Dividend Dynamic ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -41890,7 +41878,7 @@
     },
     {
       "symbol": "LKOR",
-      "name": "FlexShares Credit-Scored US Long Corporate Bond Index Fund",
+      "name": "Northern Trust Credit-Scored US Long Corporate Bond ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -43582,7 +43570,7 @@
     },
     {
       "symbol": "MBSD",
-      "name": "FlexShares Disciplined Duration MBS Index Fund",
+      "name": "Northern Trust Disciplined Duration MBS ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -45819,8 +45807,20 @@
       "isETF": false
     },
     {
+      "symbol": "MRCO",
+      "name": "Mercator Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MRCOU",
       "name": "Mercator Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MRCOW",
+      "name": "Mercator Acquisition Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47157,12 +47157,6 @@
       "isETF": false
     },
     {
-      "symbol": "MYSEW",
-      "name": "Myseum.AI, Inc. - Series A Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MYSZ",
       "name": "My Size, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -48214,7 +48208,7 @@
     },
     {
       "symbol": "NFRA",
-      "name": "FlexShares STOXX Global Broad Infrastructure Index Fund",
+      "name": "Northern Trust STOXX Global Broad Infrastructure ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -49737,6 +49731,12 @@
       "isETF": false
     },
     {
+      "symbol": "NUR",
+      "name": "Nuran Wireless Inc. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NURE",
       "name": "Nuveen Short-Term REIT ETF",
       "exchange": "BATS",
@@ -50213,6 +50213,12 @@
     {
       "symbol": "NXGLW",
       "name": "NexGel, Inc - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NXH",
+      "name": "Bed Bath  - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53037,12 +53043,6 @@
       "isETF": false
     },
     {
-      "symbol": "PCCE",
-      "name": "Polen Capital China Growth ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "PCEB",
       "name": "Polen Euro High Yield Bond ETF",
       "exchange": "NYSE ARCA",
@@ -53127,12 +53127,6 @@
       "isETF": false
     },
     {
-      "symbol": "PCGG",
-      "name": "Polen Capital Global Growth ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "PCHI",
       "name": "Polen High Income ETF",
       "exchange": "NYSE ARCA",
@@ -53142,12 +53136,6 @@
       "symbol": "PCI",
       "name": "PGIM Corporate Bond 5-10 Year ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "PCIG",
-      "name": "Polen Capital International Growth ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -56956,7 +56944,7 @@
     },
     {
       "symbol": "QDEF",
-      "name": "FlexShares Quality Dividend Defensive Index Fund",
+      "name": "Northern Trust Quality Dividend Defensive ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -56968,7 +56956,7 @@
     },
     {
       "symbol": "QDF",
-      "name": "FlexShares Quality Dividend Index Fund",
+      "name": "Northern Trust Quality Dividend ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -57160,7 +57148,7 @@
     },
     {
       "symbol": "QLC",
-      "name": "FlexShares US Quality Large Cap Index Fund",
+      "name": "Northern Trust US Quality Large Cap ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -57208,19 +57196,19 @@
     },
     {
       "symbol": "QLV",
-      "name": "FlexShares US Quality Low Volatility Index Fund",
+      "name": "Northern Trust US Quality Low Volatility ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "QLVD",
-      "name": "FlexShares Developed Markets ex-US Quality Low Volatility Index Fund",
+      "name": "Northern Trust Developed Markets ex-US Quality Low Volatility ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "QLVE",
-      "name": "FlexShares Emerging Markets  Quality Low Volatility Index Fund",
+      "name": "Northern Trust Emerging Markets Quality Low Volatility ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -58138,7 +58126,7 @@
     },
     {
       "symbol": "RAVI",
-      "name": "FlexShares Ultra-Short Income Fund",
+      "name": "Northern Trust Ultra-Short Fixed Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -63027,6 +63015,12 @@
       "isETF": false
     },
     {
+      "symbol": "SIC",
+      "name": "Tema Power Semiconductor ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SID",
       "name": "Companhia Siderurgica Nacional S.A. Common Stock",
       "exchange": "NYSE",
@@ -63436,7 +63430,7 @@
     },
     {
       "symbol": "SKOR",
-      "name": "FlexShares Credit-Scored US Corporate Bond Index Fund",
+      "name": "Northern Trust Credit-Scored US Corporate Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67756,7 +67750,7 @@
     },
     {
       "symbol": "TDTF",
-      "name": "FlexShares iBoxx 5 Year Target Duration TIPS Index Fund",
+      "name": "Northern Trust iBoxx 5-Year Target Duration TIPS ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -67768,7 +67762,7 @@
     },
     {
       "symbol": "TDTT",
-      "name": "FlexShares iBoxx 3 Year Target Duration TIPS Index Fund",
+      "name": "Northern Trust iBoxx 3-Year Target Duration TIPS ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -68566,7 +68560,7 @@
     },
     {
       "symbol": "TILT",
-      "name": "FlexShares Mornigstar US Market Factors Tilt Index Fund ETF",
+      "name": "Northern Trust Morningstar US Market Factor Tilt ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -68866,13 +68860,13 @@
     },
     {
       "symbol": "TLTD",
-      "name": "FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund",
+      "name": "Northern Trust Morningstar Developed Markets ex-US Factor Tilt ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "TLTE",
-      "name": "FlexShares Morningstar Emerging Markets Factor Tilt Index Fund",
+      "name": "Northern Trust Morningstar Emerging Markets Factor Tilt ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -74799,6 +74793,12 @@
       "isETF": false
     },
     {
+      "symbol": "WATR",
+      "name": "Air Water Ventures Limited - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "WATS",
       "name": "Corgi Battery Energy Storage Systems ETF",
       "exchange": "BATS",
@@ -78405,6 +78405,12 @@
       "isETF": false
     },
     {
+      "symbol": "ZDIS",
+      "name": "Virtus Zevenbergen Discovery Growth ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "ZECP",
       "name": "Zacks Earnings Consistent Portfolio ETF",
       "exchange": "BATS",
@@ -78509,6 +78515,12 @@
     {
       "symbol": "ZINC",
       "name": "Zacks Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ZINN",
+      "name": "Virtus Zevenbergen Innovative Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
