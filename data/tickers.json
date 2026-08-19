@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-18T23:19:17.614635Z",
-  "count": 13153,
+  "lastUpdated": "2026-08-19T23:20:18.845874Z",
+  "count": 13161,
   "tickers": [
     {
       "symbol": "A",
@@ -1995,6 +1995,12 @@
       "isETF": false
     },
     {
+      "symbol": "AHBM",
+      "name": "Amplify Top 10 Asia Memory ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AHCO",
       "name": "AdaptHealth Corp.  - Common Stock",
       "exchange": "NASDAQ",
@@ -3897,12 +3903,6 @@
       "isETF": false
     },
     {
-      "symbol": "AOTS",
-      "name": "AOT Software Platform ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "AOUT",
       "name": "American Outdoor Brands, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -4631,6 +4631,12 @@
     {
       "symbol": "ARKX",
       "name": "ARK Space & Defense Innovation ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ARKY",
+      "name": "ARK Active Autocallable Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -12880,7 +12886,7 @@
     },
     {
       "symbol": "CEFS",
-      "name": "Saba Opportunistic Hedged Closed-End Funds ETF",
+      "name": "Saba Closed-End Funds ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -25767,6 +25773,12 @@
       "isETF": false
     },
     {
+      "symbol": "FIXX",
+      "name": "Leverage Shares 2X Long FIX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "FIYY",
       "name": "GraniteShares YieldBOOST 20Y Treasuries ETF",
       "exchange": "NASDAQ",
@@ -25956,6 +25968,12 @@
       "symbol": "FLEE",
       "name": "Franklin FTSE Europe ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "FLEL",
+      "name": "Leverage Shares 2X Long FLEX Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -37431,12 +37449,6 @@
       "isETF": false
     },
     {
-      "symbol": "IWDL",
-      "name": "ETRACS 2x Leveraged US Value Factor TR ETN",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "IWF",
       "name": "iShares Russell 1000 Growth Fund",
       "exchange": "NYSE ARCA",
@@ -37445,12 +37457,6 @@
     {
       "symbol": "IWFG",
       "name": "NYLI Winslow Focused Large Cap Growth ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "IWFL",
-      "name": "ETRACS 2x Leveraged US Growth Factor TR ETN",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -37476,12 +37482,6 @@
       "symbol": "IWMI",
       "name": "NEOS Russell 2000 High Income ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "IWML",
-      "name": "ETRACS 2x Leveraged US Size Factor TR ETN",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -39147,6 +39147,12 @@
       "isETF": false
     },
     {
+      "symbol": "KAIT",
+      "name": "KraneShares Asia AI Technology ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "KALA",
       "name": "KALA BIO, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -40446,6 +40452,12 @@
       "symbol": "KSLV",
       "name": "Kurv Silver Enhanced Income ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "KSMH",
+      "name": "xETFs Korea AI Semiconductor",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -43005,6 +43017,12 @@
       "isETF": false
     },
     {
+      "symbol": "LYNX",
+      "name": "Lyntris Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "LYTE",
       "name": "Roundhill Photonics & Optics ETF",
       "exchange": "BATS",
@@ -44061,6 +44079,12 @@
       "isETF": false
     },
     {
+      "symbol": "MEGX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MEI",
       "name": "Methode Electronics, Inc. Common Stock",
       "exchange": "NYSE",
@@ -44496,12 +44520,6 @@
       "symbol": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MGKX",
-      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -46605,12 +46623,6 @@
       "isETF": false
     },
     {
-      "symbol": "MTUL",
-      "name": "ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "MTUM",
       "name": "iShares MSCI USA Momentum Factor ETF",
       "exchange": "BATS",
@@ -46692,6 +46704,12 @@
       "symbol": "MUFG",
       "name": "Mitsubishi UFJ Financial Group, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MUG",
+      "name": "Leverage Shares 2X Long MU Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -53229,6 +53247,12 @@
       "isETF": false
     },
     {
+      "symbol": "PCOV",
+      "name": "Principal Equity Premium Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PCPI",
       "name": "PIMCO Inflation PLUS Active Exchange-Traded Fund",
       "exchange": "NASDAQ",
@@ -57819,12 +57843,6 @@
       "isETF": false
     },
     {
-      "symbol": "QULL",
-      "name": "ETRACS 2x Leveraged MSCI US Quality Factor TR ETN",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "QUMS",
       "name": "Quantumsphere Acquisition Corp. - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -59943,6 +59961,12 @@
       "isETF": false
     },
     {
+      "symbol": "ROBX",
+      "name": "Amplify Top 10 Robotics ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "ROC",
       "name": "Rank One Computing Corporation - Common stock",
       "exchange": "NASDAQ",
@@ -61560,12 +61584,6 @@
       "symbol": "SCD",
       "name": "LMP Capital and Income Fund Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SCDL",
-      "name": "ETRACS 2x Leveraged US Dividend Factor TR ETN",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -66246,6 +66264,12 @@
       "symbol": "STM",
       "name": "STMicroelectronics N.V. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "STMX",
+      "name": "Leverage Shares 2X Long STM Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72195,6 +72219,12 @@
       "isETF": false
     },
     {
+      "symbol": "USGX",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "USHY",
       "name": "iShares Broad USD High Yield Corporate Bond ETF",
       "exchange": "BATS",
@@ -72243,6 +72273,12 @@
       "isETF": false
     },
     {
+      "symbol": "USLX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "USMC",
       "name": "Principal U.S. Mega-Cap ETF",
       "exchange": "NASDAQ",
@@ -72261,14 +72297,14 @@
       "isETF": false
     },
     {
-      "symbol": "USML",
-      "name": "ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN",
-      "exchange": "NYSE ARCA",
+      "symbol": "USMV",
+      "name": "iShares MSCI USA Min Vol Factor ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
-      "symbol": "USMV",
-      "name": "iShares MSCI USA Min Vol Factor ETF",
+      "symbol": "USMX",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -72342,6 +72378,12 @@
       "symbol": "USSH",
       "name": "WisdomTree 1-3 Year Laddered Treasury Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "USSX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72888,12 +72930,6 @@
       "symbol": "VBR",
       "name": "Vanguard Morningstar Small-Cap Value ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "VBX",
-      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74010,12 +74046,6 @@
       "symbol": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "VOOX",
-      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -75352,7 +75382,7 @@
     },
     {
       "symbol": "WGMI",
-      "name": "CoinShares Bitcoin Mining ETF",
+      "name": "CoinShares Bitcoin Mining and Digital Power ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -77343,6 +77373,12 @@
       "isETF": false
     },
     {
+      "symbol": "XQBT",
+      "name": "Amplify Top 10 Quantum ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "XQQI",
       "name": "NEOS Boosted Nasdaq-100 High Income ETF",
       "exchange": "NASDAQ",
@@ -77697,14 +77733,20 @@
       "isETF": false
     },
     {
-      "symbol": "XVO",
-      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
+      "symbol": "XVAP",
+      "name": "FT Vest AAPL & Target Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
     {
-      "symbol": "XVUG",
-      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "symbol": "XVNV",
+      "name": "FT Vest NVDA & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVTS",
+      "name": "FT Vest TSLA & Target Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -77724,6 +77766,12 @@
       "symbol": "XWEL",
       "name": "XWELL, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XWNG",
+      "name": "Amplify Top 10 Space ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
