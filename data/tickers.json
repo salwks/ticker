@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T23:20:18.845874Z",
-  "count": 13161,
+  "lastUpdated": "2026-08-20T23:22:53.891406Z",
+  "count": 13168,
   "tickers": [
     {
       "symbol": "A",
@@ -54,24 +54,6 @@
       "symbol": "AAC.U",
       "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AACB",
-      "name": "Artius II Acquisition Inc. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AACBR",
-      "name": "Artius II Acquisition Inc. - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AACBU",
-      "name": "Artius II Acquisition Inc. - Units",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7035,6 +7017,12 @@
       "isETF": false
     },
     {
+      "symbol": "BBLS",
+      "name": "Munificent Seven ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BBLU",
       "name": "EA Bridgeway Blue Chip ETF",
       "exchange": "NYSE ARCA",
@@ -10383,9 +10371,21 @@
       "isETF": false
     },
     {
+      "symbol": "BRZD",
+      "name": "MicroSectors -3x Short Brazil ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "BRZE",
       "name": "Braze, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRZL",
+      "name": "MicroSectors 3x Long Brazil ETNs",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -10902,6 +10902,12 @@
       "symbol": "BTI",
       "name": "British American Tobacco  Industries, p.l.c. Common Stock ADR",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BTLN",
+      "name": "Brightline Interactive, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -12886,7 +12892,7 @@
     },
     {
       "symbol": "CEFS",
-      "name": "Saba Closed-End Funds ETF",
+      "name": "Saba Opportunistically Hedged Closed-End Funds ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -13751,6 +13757,12 @@
     {
       "symbol": "CHTR",
       "name": "Charter Communications, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CHTRP",
+      "name": "Charter Communications, Inc. - Series A Cumulative Redeemable Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24237,6 +24249,12 @@
       "isETF": false
     },
     {
+      "symbol": "FBDT",
+      "name": "First Breach Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FBGL",
       "name": "FBS Global Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -28557,6 +28575,12 @@
       "isETF": false
     },
     {
+      "symbol": "GCLO",
+      "name": "Guggenheim Investment Grade CLO ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GCLWW",
       "name": "GCL Global Holdings Ltd - Warrants",
       "exchange": "NASDAQ",
@@ -28842,6 +28866,12 @@
       "symbol": "GECCI",
       "name": "Great Elm Capital Corp. - 8.50% NOTES DUE 2029",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GEEQ",
+      "name": "Guggenheim Enhanced Equity Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -29207,12 +29237,6 @@
     {
       "symbol": "GGROW",
       "name": "Gogoro Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GGRP",
-      "name": "The Glimpse Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38775,6 +38799,18 @@
       "isETF": false
     },
     {
+      "symbol": "JPND",
+      "name": "MicroSectors -3x Short Japan ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "JPNU",
+      "name": "MicroSectors 3x Long Japan ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "JPO",
       "name": "YieldMax JP Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -44079,12 +44115,6 @@
       "isETF": false
     },
     {
-      "symbol": "MEGX",
-      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "MEI",
       "name": "Methode Electronics, Inc. Common Stock",
       "exchange": "NYSE",
@@ -44520,6 +44550,12 @@
       "symbol": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MGKX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -46673,12 +46709,6 @@
     {
       "symbol": "MUA",
       "name": "Blackrock MuniAssets Fund, Inc Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MUA.R",
-      "name": "Blackrock MuniAssets Fund, Inc. Rights (expiring August 20, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -57333,6 +57363,12 @@
       "isETF": false
     },
     {
+      "symbol": "QNBC",
+      "name": "QNB Corp. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QNC",
       "name": "Quantum eMotion Corp. Common Shares",
       "exchange": "AMEX",
@@ -64515,6 +64551,18 @@
       "isETF": false
     },
     {
+      "symbol": "SNUS$H",
+      "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SNUS$I",
+      "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SNWV",
       "name": "SANUWAVE Health, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -67335,6 +67383,12 @@
       "isETF": false
     },
     {
+      "symbol": "TAWN",
+      "name": "MicroSectors 3x Long Taiwan ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TAX",
       "name": "Cambria Tax Aware ETF",
       "exchange": "NASDAQ",
@@ -69525,6 +69579,12 @@
       "isETF": false
     },
     {
+      "symbol": "TPEI",
+      "name": "MicroSectors -3x Short Taiwan ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TPET",
       "name": "Trio Petroleum Corp. Common Stock",
       "exchange": "AMEX",
@@ -69731,6 +69791,12 @@
     {
       "symbol": "TREE",
       "name": "LendingTree, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TREO",
+      "name": "Tactical Resources Corp. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -72219,12 +72285,6 @@
       "isETF": false
     },
     {
-      "symbol": "USGX",
-      "name": "Corgi U.S. Growth 2x Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "USHY",
       "name": "iShares Broad USD High Yield Corporate Bond ETF",
       "exchange": "BATS",
@@ -72273,12 +72333,6 @@
       "isETF": false
     },
     {
-      "symbol": "USLX",
-      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "USMC",
       "name": "Principal U.S. Mega-Cap ETF",
       "exchange": "NASDAQ",
@@ -72299,12 +72353,6 @@
     {
       "symbol": "USMV",
       "name": "iShares MSCI USA Min Vol Factor ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "USMX",
-      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -72378,12 +72426,6 @@
       "symbol": "USSH",
       "name": "WisdomTree 1-3 Year Laddered Treasury Fund",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "USSX",
-      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72930,6 +72972,12 @@
       "symbol": "VBR",
       "name": "Vanguard Morningstar Small-Cap Value ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VBX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74049,6 +74097,12 @@
       "isETF": false
     },
     {
+      "symbol": "VOOX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "VOR",
       "name": "Vor Biopharma Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -74921,24 +74975,6 @@
     {
       "symbol": "WBIY",
       "name": "WBI Power Factor High Dividend ETF",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WBS",
-      "name": "Webster Financial Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WBS$F",
-      "name": "Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.25% Series F Non-Cumulative Perpetual Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WBS$G",
-      "name": "Webster Financial Corporation Depositary Shares, each representing a 1/40th interest in a share of 6.50% Series G non-cumulative perpetual preferred stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -77265,12 +77301,6 @@
       "isETF": false
     },
     {
-      "symbol": "XOSWW",
-      "name": "Xos, Inc. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "XOVL",
       "name": "Defiance Daily Target 2X Long XOVR ETF",
       "exchange": "BATS",
@@ -77745,8 +77775,20 @@
       "isETF": false
     },
     {
+      "symbol": "XVO",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XVTS",
       "name": "FT Vest TSLA & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVUG",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
