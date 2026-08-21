@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-20T23:22:53.891406Z",
-  "count": 13168,
+  "lastUpdated": "2026-08-21T23:20:58.484099Z",
+  "count": 13169,
   "tickers": [
     {
       "symbol": "A",
@@ -3724,7 +3724,7 @@
     },
     {
       "symbol": "ANL",
-      "name": "Adlai Nortye Ltd. - American Depositary Shares",
+      "name": "Adlai Nortye Group Ltd. - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32499,6 +32499,12 @@
       "isETF": false
     },
     {
+      "symbol": "HIAI",
+      "name": "Ai Funds High Conviction US Equity AI-Managed ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HIBL",
       "name": "Direxion Daily S&P 500 High Beta Bull 3X ETF",
       "exchange": "NYSE ARCA",
@@ -33684,6 +33690,24 @@
       "symbol": "HWSM",
       "name": "Hotchkis & Wiley SMID Cap Diversified Value Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HXA",
+      "name": "Mast HedgeIndex Corporate Arbitrage ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HXC",
+      "name": "Mast HedgeIndex Strategic Commodities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "HXE",
+      "name": "Mast HedgeIndex Adaptive Equities ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -34986,12 +35010,6 @@
       "symbol": "IEAGU",
       "name": "Infinite Eagle Acquisition Corp. - Unit",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IEDI",
-      "name": "iShares U.S. Consumer Focused ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41007,24 +41025,6 @@
       "isETF": false
     },
     {
-      "symbol": "LBRDA",
-      "name": "Liberty Broadband Corporation - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LBRDK",
-      "name": "Liberty Broadband Corporation - Class C Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LBRDP",
-      "name": "Liberty Broadband Corporation - Series A Cumulative Redeemable Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LBRT",
       "name": "Liberty Energy Inc. Class A common stock",
       "exchange": "NYSE",
@@ -44115,6 +44115,12 @@
       "isETF": false
     },
     {
+      "symbol": "MEGX",
+      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MEI",
       "name": "Methode Electronics, Inc. Common Stock",
       "exchange": "NYSE",
@@ -44550,12 +44556,6 @@
       "symbol": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MGKX",
-      "name": "Corgi U.S. Mega-Cap Growth 2x Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -51981,8 +51981,20 @@
       "isETF": false
     },
     {
+      "symbol": "OSPR",
+      "name": "Osprey Acquisition Corp. III - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "OSPRU",
       "name": "Osprey Acquisition Corp. III - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OSPRW",
+      "name": "Osprey Acquisition Corp. III - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62457,6 +62469,12 @@
       "isETF": false
     },
     {
+      "symbol": "SEPQ",
+      "name": "STF Tactical Growth & Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SEPT",
       "name": "AllianzIM U.S. Large Cap Buffer10 Sep ETF",
       "exchange": "BATS",
@@ -70653,12 +70671,6 @@
       "isETF": false
     },
     {
-      "symbol": "TUGN",
-      "name": "STF Tactical Growth & Income ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TULP",
       "name": "Bloomia Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -72285,6 +72297,12 @@
       "isETF": false
     },
     {
+      "symbol": "USGX",
+      "name": "Corgi U.S. Growth 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "USHY",
       "name": "iShares Broad USD High Yield Corporate Bond ETF",
       "exchange": "BATS",
@@ -72333,6 +72351,12 @@
       "isETF": false
     },
     {
+      "symbol": "USLX",
+      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "USMC",
       "name": "Principal U.S. Mega-Cap ETF",
       "exchange": "NASDAQ",
@@ -72353,6 +72377,12 @@
     {
       "symbol": "USMV",
       "name": "iShares MSCI USA Min Vol Factor ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "USMX",
+      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -72426,6 +72456,12 @@
       "symbol": "USSH",
       "name": "WisdomTree 1-3 Year Laddered Treasury Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "USSX",
+      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72972,12 +73008,6 @@
       "symbol": "VBR",
       "name": "Vanguard Morningstar Small-Cap Value ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "VBX",
-      "name": "Corgi U.S. Small-Cap 2x Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -74094,12 +74124,6 @@
       "symbol": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "VOOX",
-      "name": "Corgi U.S. Large-Cap 2x Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -77775,20 +77799,8 @@
       "isETF": false
     },
     {
-      "symbol": "XVO",
-      "name": "Corgi U.S. Mid-Cap 2x Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "XVTS",
       "name": "FT Vest TSLA & Target Income ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "XVUG",
-      "name": "Corgi U.S. Growth 2x Daily ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -77934,12 +77946,6 @@
       "symbol": "YBIT",
       "name": "YieldMax Bitcoin Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "YBMN",
-      "name": "Defiance BMNR Option Income ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
