@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T23:18:31.588908Z",
+  "lastUpdated": "2026-08-24T23:19:45.645588Z",
   "count": 13169,
   "tickers": [
     {
@@ -7674,12 +7674,6 @@
       "symbol": "BEDY",
       "name": "BNY Mellon Enhanced Dividend and Income ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BEDZ",
-      "name": "AdvisorShares Hotel ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -21123,6 +21117,12 @@
       "isETF": false
     },
     {
+      "symbol": "EDVA",
+      "name": "Endovia Health Sciences, Inc. Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "EDZ",
       "name": "Direxion Emerging Markets Bear 3X ETF",
       "exchange": "NYSE ARCA",
@@ -21556,13 +21556,13 @@
     },
     {
       "symbol": "EIC",
-      "name": "Eagle Point Income Company Inc. Common Stock",
+      "name": "Eagle Point Income Company Common Shares of Beneficial Interest",
       "exchange": "NYSE",
       "isETF": false
     },
     {
       "symbol": "EICA",
-      "name": "Eagle Point Income Company Inc. 5.00% Series A Term Preferred Stock due 2026",
+      "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -39945,6 +39945,12 @@
       "isETF": false
     },
     {
+      "symbol": "KLXER",
+      "name": "KLX Energy Services Holdings, Inc.  - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "KMAR",
       "name": "Innovator U.S. Small Cap Power Buffer ETF - March",
       "exchange": "BATS",
@@ -44763,8 +44769,20 @@
       "isETF": false
     },
     {
+      "symbol": "MIAC",
+      "name": "Meridian3 Industrials Acquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MIACU",
       "name": "Meridian3 Industrials Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MIACW",
+      "name": "Meridian3 Industrials Acquisition Corp - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -47724,12 +47742,6 @@
       "symbol": "NCIQ",
       "name": "Hashdex Nasdaq CME Crypto Index ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NCL",
-      "name": "Northann Corp. Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -58684,7 +58696,7 @@
     },
     {
       "symbol": "REAX",
-      "name": "The Real Brokerage, Inc. - Common Shares",
+      "name": "The Real Brokerage, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -59963,12 +59975,6 @@
     {
       "symbol": "RNW",
       "name": "ReNew Energy Global plc - Class A Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RNWWW",
-      "name": "ReNew Energy Global plc - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61398,12 +61404,6 @@
       "symbol": "SBET",
       "name": "Sharplink, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SBEV",
-      "name": "Splash Beverage Group, Inc. (NV) Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -65694,6 +65694,12 @@
       "symbol": "SPYX",
       "name": "State Street SPDR S&P 500 Fossil Fuel Reserves Free ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SQBA",
+      "name": "FT Vest U.S. Equity Quarterly 15 Buffer ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -73560,12 +73566,6 @@
       "symbol": "VIAV",
       "name": "Viavi Solutions Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VICE",
-      "name": "AdvisorShares Vice ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
