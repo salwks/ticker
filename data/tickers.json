@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T23:19:45.645588Z",
-  "count": 13169,
+  "lastUpdated": "2026-08-25T23:22:50.565988Z",
+  "count": 13173,
   "tickers": [
     {
       "symbol": "A",
@@ -1121,6 +1121,12 @@
     {
       "symbol": "ADBG",
       "name": "Leverage Shares 2X Long ADBE Daily ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ADBT",
+      "name": "Advasa Holdings, Inc. - Common stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10752,6 +10758,12 @@
       "symbol": "BSY",
       "name": "Bentley Systems, Incorporated - Class B Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BTA",
+      "name": "Beacon Tactical Alternatives Risk ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -29139,8 +29151,8 @@
       "isETF": false
     },
     {
-      "symbol": "GFR.V",
-      "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights when issued",
+      "symbol": "GFR.R",
+      "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -39057,6 +39069,12 @@
       "isETF": false
     },
     {
+      "symbol": "JULV",
+      "name": "VanEck U.S. Equity Buffer ETF - July",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "JULW",
       "name": "AllianzIM U.S. Large Cap Buffer20 Jul ETF",
       "exchange": "BATS",
@@ -41027,6 +41045,12 @@
     {
       "symbol": "LBO",
       "name": "WHITEWOLF Publicly Listed Private Equity ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "LBOX",
+      "name": "GraniteShares Short Term Box ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -50362,7 +50386,7 @@
     },
     {
       "symbol": "NXT",
-      "name": "Nextpower Inc. - Class A Common Stock",
+      "name": "Nextpower Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -58696,7 +58720,7 @@
     },
     {
       "symbol": "REAX",
-      "name": "The Real Brokerage, Inc. - Common Stock",
+      "name": "Real REMAX Group Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -59699,12 +59723,6 @@
     {
       "symbol": "RM",
       "name": "Regional Management Corp. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RMAX",
-      "name": "RE/MAX Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -70899,12 +70917,6 @@
       "isETF": false
     },
     {
-      "symbol": "TWO",
-      "name": "Two Harbors Investment Corp",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "TWO$A",
       "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)",
       "exchange": "NYSE",
@@ -78279,6 +78291,12 @@
       "isETF": false
     },
     {
+      "symbol": "YRAM",
+      "name": "YieldMax Memory and Storage Portfolio Option Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "YRD",
       "name": "Yiren Digital Ltd. American Depositary Shares, each representing two ordinary shares",
       "exchange": "NYSE",
@@ -78510,6 +78528,12 @@
       "symbol": "ZCMD",
       "name": "Zhongchao Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZCSH",
+      "name": "The Zcash ETF Shares",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
