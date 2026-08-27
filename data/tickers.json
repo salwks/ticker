@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-25T23:22:50.565988Z",
-  "count": 13173,
+  "lastUpdated": "2026-08-27T04:14:29.094719Z",
+  "count": 13181,
   "tickers": [
     {
       "symbol": "A",
@@ -10347,12 +10347,6 @@
       "isETF": false
     },
     {
-      "symbol": "BRUNW",
-      "name": "Boost Run Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BRVE",
       "name": "Braveheart Bio, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -11867,6 +11861,12 @@
     {
       "symbol": "CAOS",
       "name": "Alpha Architect Tail Risk ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "CAPA",
+      "name": "Defiance AI Capacitors Leaders ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -26379,12 +26379,6 @@
       "isETF": false
     },
     {
-      "symbol": "FLZH",
-      "name": "Flash Sports & Media Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FMAC",
       "name": "Future Money Acquisition Corporation - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -28697,12 +28691,6 @@
     {
       "symbol": "GDEV",
       "name": "GDEV Inc. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GDEVW",
-      "name": "GDEV Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33533,12 +33521,6 @@
     {
       "symbol": "HUMA",
       "name": "Humacyte, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HUMAW",
-      "name": "Humacyte, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38994,6 +38976,12 @@
       "symbol": "JTNY",
       "name": "JPMorgan New York Tax Free Bond ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "JTTT",
+      "name": "JATT III Acquisition Corp - Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -46833,8 +46821,32 @@
       "isETF": false
     },
     {
+      "symbol": "MUNF",
+      "name": "Northern Trust 2036 Tax-Exempt Distributing Ladder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MUNG",
+      "name": "Northern Trust 2046 Tax-Exempt Distributing Ladder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MUNH",
+      "name": "Northern Trust 2056 Tax-Exempt Distributing Ladder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MUNI",
       "name": "PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "MUNJ",
+      "name": "Northern Trust 2031 Tax-Exempt Distributing Ladder ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -52035,18 +52047,6 @@
       "isETF": false
     },
     {
-      "symbol": "OSRH",
-      "name": "OSR Health, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OSRHW",
-      "name": "OSR Health, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "OSS",
       "name": "One Stop Systems, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -52097,6 +52097,12 @@
     {
       "symbol": "OTAI.U",
       "name": "Starlink AI Acquisition Corporation Units, each consisting of one Ordinary Share, and one Right to receive one-fourth (1/4) of one ordinary share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OTAX",
+      "name": "Optimal Tax Managed Equity ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -56238,6 +56244,12 @@
       "symbol": "PSO",
       "name": "Pearson, Plc Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PSOX",
+      "name": "Tema MLCC & PowerSemi ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -61599,6 +61611,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCATU",
+      "name": "Southern Cross Acquisition II Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCAU",
       "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - August Series",
       "exchange": "BATS",
@@ -63132,12 +63150,6 @@
       "symbol": "SIBN",
       "name": "SI-BONE, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SIC",
-      "name": "Tema Power Semiconductor ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -68433,6 +68445,12 @@
       "isETF": false
     },
     {
+      "symbol": "TGRZ",
+      "name": "China AI Tigers LLM ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TGS",
       "name": "Transportadora de Gas del Sur SA TGS Common Stock",
       "exchange": "NYSE",
@@ -68765,6 +68783,30 @@
     {
       "symbol": "TIPD",
       "name": "Northern Trust 2055 Inflation-Linked Distributing Ladder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TIPE",
+      "name": "Northern Trust 2031 Inflation-Linked Distributing Ladder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TIPF",
+      "name": "Northern Trust 2036 Inflation-Linked Distributing Ladder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TIPG",
+      "name": "Northern Trust 2046 Inflation-Linked Distributing Ladder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TIPH",
+      "name": "Northern Trust 2056 Inflation-Linked Distributing Ladder ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -77807,6 +77849,12 @@
     {
       "symbol": "XVNV",
       "name": "FT Vest NVDA & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVSP",
+      "name": "FT Vest SPCX & Target Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
