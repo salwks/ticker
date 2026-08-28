@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-27T04:14:29.094719Z",
-  "count": 13181,
+  "lastUpdated": "2026-08-28T06:45:36.571099Z",
+  "count": 13184,
   "tickers": [
     {
       "symbol": "A",
@@ -51,8 +51,20 @@
       "isETF": false
     },
     {
+      "symbol": "AAC",
+      "name": "Ares Acquisition Corporation III Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "AAC.U",
       "name": "Ares Acquisition Corporation III Units, each consisting of one Class A ordinary share and one-tenth of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AAC.W",
+      "name": "Ares Acquisition Corporation III Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -1407,9 +1419,27 @@
       "isETF": false
     },
     {
+      "symbol": "AEMC",
+      "name": "Harbor AlphaEdge Mid Cap Core ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AEMD",
       "name": "Aethlon Medical, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AEMG",
+      "name": "Harbor AlphaEdge Mid Cap Growth ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AEMV",
+      "name": "Harbor AlphaEdge Mid Cap Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -1473,9 +1503,27 @@
       "isETF": false
     },
     {
+      "symbol": "AESB",
+      "name": "Harbor AlphaEdge Small Cap Core ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AESG",
+      "name": "Harbor AlphaEdge Small Cap Growth ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AESI",
       "name": "Atlas Energy Solutions Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AESL",
+      "name": "Harbor AlphaEdge Small Cap Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -2184,12 +2232,6 @@
       "symbol": "AIG",
       "name": "American International Group, Inc. New Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "AIHS",
-      "name": "Senmiao Technology Limited - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -14547,24 +14589,6 @@
       "isETF": false
     },
     {
-      "symbol": "CMII",
-      "name": "Columbus Circle Capital Corp II - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CMIIU",
-      "name": "Columbus Circle Capital Corp II - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CMIIW",
-      "name": "Columbus Circle Capital Corp II - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CMMB",
       "name": "Chemomab Therapeutics Ltd.  - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -19911,6 +19935,12 @@
       "isETF": false
     },
     {
+      "symbol": "DSPC",
+      "name": "Leverage Shares 1X Short SPCX Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DSPY",
       "name": "Tema S&P 500 Historical Weight ETF Strategy",
       "exchange": "NYSE ARCA",
@@ -20295,12 +20325,6 @@
       "isETF": false
     },
     {
-      "symbol": "DVIN",
-      "name": "WEBs Industrials XLI Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DVLT",
       "name": "Datavault AI Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -20337,20 +20361,8 @@
       "isETF": false
     },
     {
-      "symbol": "DVRE",
-      "name": "WEBs Real Estate XLRE Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DVSP",
       "name": "WEBs SPY Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVUT",
-      "name": "WEBs Utilities XLU Defined Volatility ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -20358,54 +20370,6 @@
       "symbol": "DVVY",
       "name": "Invesco Diversified Dividend Opportunities ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXB",
-      "name": "WEBs Materials XLB Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXC",
-      "name": "WEBs Communication Services XLC Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXE",
-      "name": "WEBs Energy XLE Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXF",
-      "name": "WEBs Financial XLF Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXK",
-      "name": "WEBs Technology XLK Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXP",
-      "name": "WEBs Consumer Staples XLP Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXV",
-      "name": "WEBs Health Care XLV Defined Volatility ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVXY",
-      "name": "WEBs Consumer Discretionary XLY Defined Volatility ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -31899,6 +31863,12 @@
       "isETF": false
     },
     {
+      "symbol": "HBIT",
+      "name": "Hedgeye Hedged Bitcoin ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "HBM",
       "name": "Hudbay Minerals Inc. Ordinary Shares (Canada)",
       "exchange": "NYSE",
@@ -33647,6 +33617,12 @@
     {
       "symbol": "HWCPZ",
       "name": "Hancock Whitney Corporation - 6.25% Subordinated Notes due 2060",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HWGV",
+      "name": "Hotchkis & Wiley Global Value Fund",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36653,6 +36629,24 @@
     {
       "symbol": "IPX",
       "name": "IperionX Limited - American Depositary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IPXG",
+      "name": "Inection Point Acquisition Corp. VII  - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IPXGU",
+      "name": "Inection Point Acquisition Corp. VII  - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IPXGW",
+      "name": "Inection Point Acquisition Corp. VII  - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41301,12 +41295,6 @@
       "isETF": false
     },
     {
-      "symbol": "LEG",
-      "name": "Leggett & Platt, Incorporated Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "LEGH",
       "name": "Legacy Housing Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -45462,6 +45450,12 @@
       "symbol": "MNDY",
       "name": "monday.com Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MNGU",
+      "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -49692,12 +49686,6 @@
       "symbol": "NTWOW",
       "name": "Newbury Street II Acquisition Corp - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NTZ",
-      "name": "Natuzzi, S.p.A.",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -55491,6 +55479,12 @@
       "isETF": false
     },
     {
+      "symbol": "PRAM",
+      "name": "Defiance Memory & Photonics ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PRAX",
       "name": "Praxis Precision Medicines, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -59895,6 +59889,12 @@
       "isETF": false
     },
     {
+      "symbol": "RNAQU",
+      "name": "Rainier Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RNAZ",
       "name": "TransCode Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -61362,6 +61362,12 @@
       "symbol": "SAWS",
       "name": "AAM Sawgrass US Small Cap Quality Growth ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SAX",
+      "name": "Saratoga Investment Corp 8.00% Notes due 2031",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -67870,7 +67876,7 @@
     },
     {
       "symbol": "TDOT",
-      "name": "21shares Polkadot ETF",
+      "name": "21shares Polkadot Staking ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68650,7 +68656,7 @@
     },
     {
       "symbol": "THYP",
-      "name": "21shares Hyperliquid ETF",
+      "name": "21shares Hyperliquid Staking ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70564,7 +70570,7 @@
     },
     {
       "symbol": "TSUI",
-      "name": "21Shares Sui ETF",
+      "name": "21Shares Sui Staking ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -72876,6 +72882,12 @@
       "symbol": "VACI.W",
       "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "VAI",
+      "name": "Valor Energy Incorporated - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -75597,12 +75609,6 @@
       "isETF": false
     },
     {
-      "symbol": "WILC",
-      "name": "G. Willi-Food International,  Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "WIMA",
       "name": "WisdomTree International Adaptive Moving Average Fund",
       "exchange": "NASDAQ",
@@ -77745,8 +77751,20 @@
       "isETF": false
     },
     {
+      "symbol": "XTER",
+      "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XTERU",
       "name": "Karman Line Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XTERW",
+      "name": "Karman Line Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
