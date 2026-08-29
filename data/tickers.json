@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-28T06:45:36.571099Z",
-  "count": 13184,
+  "lastUpdated": "2026-08-29T04:00:40.589218Z",
+  "count": 13174,
   "tickers": [
     {
       "symbol": "A",
@@ -2933,12 +2933,6 @@
     {
       "symbol": "ALNY",
       "name": "Alnylam Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALOT",
-      "name": "AstroNova, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -6945,24 +6939,6 @@
       "isETF": false
     },
     {
-      "symbol": "BBCQ",
-      "name": "Bleichroeder Acquisition Corp. II - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BBCQU",
-      "name": "Bleichroeder Acquisition Corp. II - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BBCQW",
-      "name": "Bleichroeder Acquisition Corp. II - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BBD",
       "name": "Banco Bradesco Sa American Depositary Shares",
       "exchange": "NYSE",
@@ -7205,24 +7181,6 @@
     {
       "symbol": "BCAL",
       "name": "California BanCorp - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BCAR",
-      "name": "D. Boral ARC Acquisition I Corp. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BCARU",
-      "name": "D. Boral ARC Acquisition I Corp. - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BCARW",
-      "name": "D. Boral ARC Acquisition I Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -8154,12 +8112,6 @@
       "symbol": "BGH",
       "name": "Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BGI",
-      "name": "Birks Group Inc. Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -14332,7 +14284,7 @@
     },
     {
       "symbol": "CLOO",
-      "name": "NYLI Investment Grade CLO ETF",
+      "name": "NYLIM Investment Grade CLO ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -15610,7 +15562,7 @@
     },
     {
       "symbol": "CPLB",
-      "name": "NYLI MacKay Core Plus Bond ETF",
+      "name": "NYLIM MacKay Core Plus Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19119,12 +19071,6 @@
       "isETF": false
     },
     {
-      "symbol": "DKNX",
-      "name": "Defiance Daily Target 2X Long DKNG ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DKS",
       "name": "Dick's Sporting Goods Inc Common Stock",
       "exchange": "NYSE",
@@ -19782,12 +19728,6 @@
       "symbol": "DRN",
       "name": "Direxion Daily Real Estate Bull 3X ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "DRNL",
-      "name": "Defiance 2X Daily Long Pure Drone and Aerial Automation ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -24318,12 +24258,6 @@
       "symbol": "FBRT$E",
       "name": "Franklin BSP Realty Trust, Inc. 7.50% Series E Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "FBRX",
-      "name": "Forte Biosciences, Inc.  - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -32410,7 +32344,7 @@
     },
     {
       "symbol": "HFXI",
-      "name": "NYLI FTSE International Equity Currency Neutral ETF",
+      "name": "NYLIM FTSE International Equity Currency Neutral ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -32969,12 +32903,6 @@
     {
       "symbol": "HOOY",
       "name": "YieldMax HOOD Option Income Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "HOOZ",
-      "name": "Defiance Daily Target 2X Short HOOD ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -34804,7 +34732,7 @@
     },
     {
       "symbol": "IDEF",
-      "name": "iShares Defense Industrials Active ETF",
+      "name": "iShares Defense Industrials and Tech Active ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36555,6 +36483,12 @@
       "isETF": false
     },
     {
+      "symbol": "IPHXU",
+      "name": "Inflection Point Acquisition Corp. VIII - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IPI",
       "name": "Intrepid Potash, Inc Common Stock",
       "exchange": "NYSE",
@@ -36676,7 +36610,7 @@
     },
     {
       "symbol": "IQHI",
-      "name": "NYLI MacKay High Income ETF",
+      "name": "NYLIM MacKay High Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -36729,20 +36663,14 @@
       "isETF": false
     },
     {
-      "symbol": "IQRA",
-      "name": "NYLI CBRE Real Assets ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "IQSI",
-      "name": "NYLI Candriam International Equity ETF",
+      "name": "NYLIM Candriam International Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "IQSM",
-      "name": "NYLI Candriam U.S. Mid Cap Equity ETF",
+      "name": "NYLIM Candriam U.S. Mid Cap Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -36754,7 +36682,7 @@
     },
     {
       "symbol": "IQSU",
-      "name": "NYLI Candriam U.S. Large Cap Equity ETF",
+      "name": "NYLIM Candriam U.S. Large Cap Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -37486,7 +37414,7 @@
     },
     {
       "symbol": "IWFG",
-      "name": "NYLI Winslow Focused Large Cap Growth ETF",
+      "name": "NYLIM Winslow Focused Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -37498,7 +37426,7 @@
     },
     {
       "symbol": "IWLG",
-      "name": "NYLI Winslow Large Cap Growth ETF",
+      "name": "NYLIM Winslow Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -40299,6 +40227,12 @@
       "isETF": false
     },
     {
+      "symbol": "KPO",
+      "name": "Kensington Premium Opportunities ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "KPRO",
       "name": "KraneShares 100% KWEB Defined Outcome January 2027 ETF",
       "exchange": "NYSE ARCA",
@@ -41128,7 +41062,7 @@
     },
     {
       "symbol": "LCLG",
-      "name": "Logan Capital Broad Innovative Growth ETF",
+      "name": "Logan Capital Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -42033,12 +41967,6 @@
       "isETF": false
     },
     {
-      "symbol": "LMNX",
-      "name": "Defiance Daily Target 2x Long LMND ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LMRI",
       "name": "Lumexa Imaging Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -42580,7 +42508,7 @@
     },
     {
       "symbol": "LRND",
-      "name": "NYLI U.S. Large Cap R&D Leaders ETF",
+      "name": "NYLIM U.S. Large Cap R&D Leaders ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44110,7 +44038,7 @@
     },
     {
       "symbol": "MEGI",
-      "name": "NYLI CBRE Global Infrastructure Megatrends Term Fund Common Shares",
+      "name": "NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -45286,13 +45214,13 @@
     },
     {
       "symbol": "MMCA",
-      "name": "NYLI MacKay California Muni Intermediate ETF",
+      "name": "NYLIM MacKay California Muni Intermediate ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "MMD",
-      "name": "NYLI MacKay DefinedTerm Muni Opportunities Fund Common Shares",
+      "name": "NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -45316,13 +45244,13 @@
     },
     {
       "symbol": "MMIN",
-      "name": "NYLI MacKay Muni Insured ETF",
+      "name": "NYLIM MacKay Muni Insured ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "MMIT",
-      "name": "NYLI MacKay Muni Intermediate ETF",
+      "name": "NYLIM MacKay Muni Intermediate ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -45352,7 +45280,7 @@
     },
     {
       "symbol": "MMMA",
-      "name": "NYLI MacKay Muni Allocation ETF",
+      "name": "NYLIM MacKay Muni Allocation ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -45370,7 +45298,7 @@
     },
     {
       "symbol": "MMSD",
-      "name": "NYLI MacKay Muni Short Duration ETF",
+      "name": "NYLIM MacKay Muni Short Duration ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -45424,7 +45352,7 @@
     },
     {
       "symbol": "MNA",
-      "name": "NYLI Merger Arbitrage ETF",
+      "name": "NYLIM Merger Arbitrage ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -45785,12 +45713,6 @@
     {
       "symbol": "MPIM",
       "name": "m+ Income Momentum Autocall ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MPL",
-      "name": "Defiance Daily Target 2X Long MP ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -48616,7 +48538,7 @@
     },
     {
       "symbol": "NISM",
-      "name": "NYLI International Small-Mid Cap Equity ETF",
+      "name": "NYLIM International Small-Mid Cap Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -51204,12 +51126,6 @@
       "symbol": "OKLO",
       "name": "Oklo Inc. Class A common stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "OKLS",
-      "name": "Defiance Daily Target 2X Short OKLO ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -56277,6 +56193,18 @@
       "isETF": false
     },
     {
+      "symbol": "PSQL",
+      "name": "Pasqal Holding SA - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PSQLW",
+      "name": "Pasqal Holding SA - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PSQO",
       "name": "Palmer Square Credit Opportunities ETF",
       "exchange": "NYSE ARCA",
@@ -56866,7 +56794,7 @@
     },
     {
       "symbol": "QAI",
-      "name": "NYLI Hedge Multi-Strategy Tracker ETF",
+      "name": "NYLIM Hedge Multi-Strategy Tracker ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -58839,6 +58767,12 @@
       "isETF": false
     },
     {
+      "symbol": "REIX",
+      "name": "NYLIM CBRE Real Estate & Infrastructure ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "REK",
       "name": "ProShares Short Real Estate",
       "exchange": "NYSE ARCA",
@@ -59547,6 +59481,12 @@
       "isETF": false
     },
     {
+      "symbol": "RIV.V",
+      "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "RIVC",
       "name": "Corgi RIVN 2x Daily ETF",
       "exchange": "BATS",
@@ -59640,12 +59580,6 @@
       "symbol": "RKT",
       "name": "Rocket Companies, Inc. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RKTL",
-      "name": "Defiance Daily Target 2X Long RKT ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -62326,7 +62260,7 @@
     },
     {
       "symbol": "SECR",
-      "name": "NYLI MacKay Securitized Income ETF",
+      "name": "NYLIM MacKay Securitized Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -76036,7 +75970,7 @@
     },
     {
       "symbol": "WRND",
-      "name": "NYLI Global Equity R&D Leaders ETF",
+      "name": "NYLIM Global Equity R&D Leaders ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -77019,6 +76953,18 @@
       "isETF": false
     },
     {
+      "symbol": "XLAB",
+      "name": "Exascale Labs Holdings Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XLABW",
+      "name": "Exascale Labs Holdings Inc. - Warrant",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XLB",
       "name": "State Street Materials Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
@@ -77470,7 +77416,7 @@
     },
     {
       "symbol": "XPON",
-      "name": "Expion360 Inc. - Common Stock",
+      "name": "Expion Energy, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -78672,12 +78618,6 @@
       "symbol": "ZETA",
       "name": "Zeta Global Holdings Corp. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ZETX",
-      "name": "Defiance Daily Target 2x Long ZETA ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
