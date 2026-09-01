@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-31T01:05:04.188666Z",
-  "count": 13174,
+  "lastUpdated": "2026-09-01T01:38:29.305588Z",
+  "count": 13177,
   "tickers": [
     {
       "symbol": "A",
@@ -1410,6 +1410,12 @@
       "symbol": "AEIS",
       "name": "Advanced Energy Industries, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AELV",
+      "name": "Harbor AlphaEdge Large Cap Value ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -4527,12 +4533,6 @@
       "isETF": false
     },
     {
-      "symbol": "AREN",
-      "name": "The Arena Group Holdings, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "ARES",
       "name": "Ares Management Corporation Class A Common Stock",
       "exchange": "NYSE",
@@ -5477,6 +5477,30 @@
     {
       "symbol": "ATLO",
       "name": "Ames National Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ATLQ",
+      "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ATLQR",
+      "name": "JAB Acquisition Corp I - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ATLQU",
+      "name": "JAB Acquisition Corp I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ATLQW",
+      "name": "JAB Acquisition Corp I - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7170,12 +7194,6 @@
       "symbol": "BC$C",
       "name": "Brunswick Corporation 6.375% Notes due 2049",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BCAB",
-      "name": "BioAtla, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -27087,6 +27105,12 @@
       "isETF": false
     },
     {
+      "symbol": "FRUT",
+      "name": "Yorkville America MANGOS Plus Index ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "FRVO",
       "name": "Fervo Energy Company - Class A common stock",
       "exchange": "NASDAQ",
@@ -37677,30 +37701,6 @@
       "isETF": false
     },
     {
-      "symbol": "JAB",
-      "name": "JAB Acquisition Corp I - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "JABRR",
-      "name": "JAB Acquisition Corp I - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "JABRU",
-      "name": "JAB Acquisition Corp I - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "JABRW",
-      "name": "JAB Acquisition Corp I - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "JABS",
       "name": "Janus Henderson Asset-Backed Securities ETF",
       "exchange": "NYSE ARCA",
@@ -43239,12 +43239,6 @@
       "isETF": false
     },
     {
-      "symbol": "MAPP",
-      "name": "Harbor Multi-Asset Explorer ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "MAR",
       "name": "Marriott International - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -43338,6 +43332,12 @@
       "symbol": "MATH",
       "name": "Metalpha Technology Holding Limited - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MATR",
+      "name": "Harbor Multi-Asset Explorer ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -43450,7 +43450,7 @@
     },
     {
       "symbol": "MBAI",
-      "name": "Check-Cap Ltd. - Ordinary Share",
+      "name": "MBody AI Ltd. - Ordinary Share",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51514,8 +51514,8 @@
     },
     {
       "symbol": "OPAD",
-      "name": "Offerpad Solutions Inc. Class A Common Stock",
-      "exchange": "NYSE",
+      "name": "Offerpad Solutions Inc.  - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52380,6 +52380,12 @@
       "symbol": "PAACW",
       "name": "Proem Acquisition Corp I - Warrants",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PAAI",
+      "name": "Paradium.AI, Inc. Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -57040,7 +57046,7 @@
     },
     {
       "symbol": "QDTE",
-      "name": "Roundhill Innovation-100 0DTE Covered Call Strategy ETF",
+      "name": "Roundhill Nasdaq-100 0DTE Covered Call ETF Strategy ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -61173,8 +61179,20 @@
       "isETF": false
     },
     {
+      "symbol": "SAMO",
+      "name": "Samos Energy Acquisition Corporation Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SAMO.U",
       "name": "Samos Energy Acquisition Corporation Units, each consisting of one Class A Ordinary Share and one-half of one Warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SAMO.W",
+      "name": "Samos Energy Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -66856,7 +66874,7 @@
     },
     {
       "symbol": "SVRN",
-      "name": "OceanPal Inc. - Common Stock",
+      "name": "SVRN, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69797,6 +69815,12 @@
     {
       "symbol": "TRBF",
       "name": "Angel Oak Total Return ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRBG",
+      "name": "TurboGen Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -73770,12 +73794,6 @@
       "symbol": "VLGEA",
       "name": "Village Super Market, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VLLU",
-      "name": "Harbor AlphaEdge Large Cap Value ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
