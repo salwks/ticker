@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-01T01:38:29.305588Z",
-  "count": 13177,
+  "lastUpdated": "2026-09-02T00:48:52.625486Z",
+  "count": 13182,
   "tickers": [
     {
       "symbol": "A",
@@ -1793,6 +1793,12 @@
     {
       "symbol": "AGGH",
       "name": "Simplify Aggregate Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AGGM",
+      "name": "iShares 1-10 Year U.S. Aggregate Bond ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -28383,12 +28389,6 @@
       "isETF": false
     },
     {
-      "symbol": "GBF",
-      "name": "iShares Government/Credit Bond ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "GBFH",
       "name": "GBank Financial Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -29447,6 +29447,12 @@
     {
       "symbol": "GIX",
       "name": "GigCapital9 Corp. - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GIXI",
+      "name": "Gix Internet Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33633,6 +33639,12 @@
       "isETF": false
     },
     {
+      "symbol": "HXF",
+      "name": "Mast HedgeIndex Managed Futures Strategy ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "HXHX",
       "name": "Haoxin Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -37001,6 +37013,12 @@
     {
       "symbol": "ISRG",
       "name": "Intuitive Surgical, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ISRL",
+      "name": "Defiance KSM Israel 120 ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -46895,7 +46913,7 @@
     {
       "symbol": "MVPA",
       "name": "Miller Value Partners Appreciation ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -62751,6 +62769,12 @@
       "isETF": false
     },
     {
+      "symbol": "SGLD",
+      "name": "Scorpio Gold Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SGLY",
       "name": "Singularity Future Technology Ltd. - Common Stock",
       "exchange": "NASDAQ",
@@ -68891,6 +68915,12 @@
     {
       "symbol": "TLA",
       "name": "GraniteShares Autocallable TSLA ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TLACU",
+      "name": "Three Lions Acquisition Corp. - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -78850,7 +78880,7 @@
     },
     {
       "symbol": "ZONE",
-      "name": "CleanCore Solutions Inc. Class B Common Stock",
+      "name": "Zone Frontier Inc. Class B Common Stock",
       "exchange": "AMEX",
       "isETF": false
     },
