@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-02T00:48:52.625486Z",
-  "count": 13182,
+  "lastUpdated": "2026-09-03T00:56:34.991654Z",
+  "count": 13186,
   "tickers": [
     {
       "symbol": "A",
@@ -16161,12 +16161,6 @@
       "isETF": false
     },
     {
-      "symbol": "CRNX",
-      "name": "Crinetics Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CROB",
       "name": "Defiance China Robotics ETF",
       "exchange": "NASDAQ",
@@ -18959,6 +18953,12 @@
     {
       "symbol": "DIVG",
       "name": "Invesco S&P 500 High Dividend Growers ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "DIVH",
+      "name": "Integrity Dividend Harvest ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -32715,12 +32715,6 @@
       "isETF": false
     },
     {
-      "symbol": "HLX",
-      "name": "Helix Energy Solutions Group, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "HLXC",
       "name": "Helix Acquisition Corp. III - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -32940,6 +32934,12 @@
       "symbol": "HOPE",
       "name": "Hope Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HOS",
+      "name": "Hornbeck Offshore Services, Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -47799,12 +47799,6 @@
       "isETF": false
     },
     {
-      "symbol": "NCSM",
-      "name": "NCS Multistage Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NCT",
       "name": "Intercont (Cayman) Limited - Class A Ordinary shares",
       "exchange": "NASDAQ",
@@ -49329,8 +49323,26 @@
       "isETF": false
     },
     {
+      "symbol": "NSAI",
+      "name": "NorthStrive Acquisition Corp I. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NSAIR",
+      "name": "NorthStrive Acquisition Corp I. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NSAIU",
       "name": "NorthStrive Acquisition Corp I. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NSAIW",
+      "name": "NorthStrive Acquisition Corp I. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63495,6 +63507,12 @@
       "isETF": false
     },
     {
+      "symbol": "SKHQ",
+      "name": "Leverage Shares 2X Short Sk Hynix Daily ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SKHU",
       "name": "ProShares Ultra SK hynix",
       "exchange": "NYSE ARCA",
@@ -71331,6 +71349,12 @@
       "isETF": false
     },
     {
+      "symbol": "UCBG",
+      "name": "State Street SPDR UC Investments 90/10 Endowment Strategy Index ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "UCC",
       "name": "ProShares Ultra Consumer Discretionary",
       "exchange": "NYSE ARCA",
@@ -74171,6 +74195,12 @@
     {
       "symbol": "VOOV",
       "name": "Vanguard S&P 500 Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VOOY",
+      "name": "XFUNDS Large Cap Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -78147,6 +78177,12 @@
       "isETF": false
     },
     {
+      "symbol": "YFOR",
+      "name": "YYForce Inc. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "YFYA",
       "name": "Yields for You Income Strategy A ETF",
       "exchange": "NYSE ARCA",
@@ -78455,12 +78491,6 @@
     {
       "symbol": "YYAI",
       "name": "AiRWA Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "YYGH",
-      "name": "YY Group Holding Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -78948,12 +78978,6 @@
       "symbol": "ZTAX",
       "name": "X-Square Municipal Income ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ZTEK",
-      "name": "Zentek Ltd. - common stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
