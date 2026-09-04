@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-03T00:56:34.991654Z",
-  "count": 13186,
+  "lastUpdated": "2026-09-04T00:46:31.913720Z",
+  "count": 13187,
   "tickers": [
     {
       "symbol": "A",
@@ -4781,12 +4781,6 @@
     {
       "symbol": "ARQQ",
       "name": "Arqit Quantum Inc. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ARQQW",
-      "name": "Arqit Quantum Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -38607,6 +38601,18 @@
       "isETF": false
     },
     {
+      "symbol": "JONE",
+      "name": "Jones Ventures INTL Acquisition1 Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "JONER",
+      "name": "Jones Ventures INTL Acquisition1 Corp - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "JONEU",
       "name": "Jones Ventures INTL Acquisition1 Corp - Units",
       "exchange": "NASDAQ",
@@ -54351,6 +54357,12 @@
       "isETF": false
     },
     {
+      "symbol": "PJSM",
+      "name": "PGIM Jennison Small-Mid Cap Core Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "PJT",
       "name": "PJT Partners Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -55764,12 +55776,6 @@
       "symbol": "PRVS",
       "name": "Parnassus Value Select ETF",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PRVT",
-      "name": "Tema Alternative Asset Managers ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58403,12 +58409,6 @@
     {
       "symbol": "RCKT",
       "name": "Rocket Pharmaceuticals, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RCKTW",
-      "name": "Rocket Pharmaceuticals, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -70307,6 +70307,12 @@
     {
       "symbol": "TSCV",
       "name": "Thrivent Small Cap Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TSCZ",
+      "name": "T. Rowe Price Securitized Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
