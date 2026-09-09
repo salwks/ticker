@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-08T00:54:00.287143Z",
-  "count": 13188,
+  "lastUpdated": "2026-09-09T01:02:34.351290Z",
+  "count": 13189,
   "tickers": [
     {
       "symbol": "A",
@@ -2974,7 +2974,7 @@
     },
     {
       "symbol": "ALP",
-      "name": "Alpha Compute Corp  - Common Stock",
+      "name": "Alpha Compute Corp  - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -3147,8 +3147,20 @@
       "isETF": false
     },
     {
+      "symbol": "AMAC",
+      "name": "AMR Resources Acquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AMACU",
       "name": "AMR Resources Acquisition Corp - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AMACW",
+      "name": "AMR Resources Acquisition Corp - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5772,6 +5784,12 @@
       "symbol": "AUUD",
       "name": "Auddia Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AUXX",
+      "name": "Gold X2 Mining Inc. Common Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -10767,12 +10785,6 @@
       "isETF": false
     },
     {
-      "symbol": "BTAI",
-      "name": "BioXcel Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BTAL",
       "name": "AGF U.S. Market Neutral Anti-Beta Fund",
       "exchange": "NYSE ARCA",
@@ -13445,6 +13457,12 @@
     {
       "symbol": "CHA",
       "name": "Chagee Holdings Limited - American Depositary Shares, each representing 1 Class A ordinary share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CHAD",
+      "name": "DeFi Development Corp. - Variable Rate Series C Perpetual Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -29385,12 +29403,6 @@
       "isETF": false
     },
     {
-      "symbol": "GIPRW",
-      "name": "Generation Income Properties Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GIS",
       "name": "General Mills, Inc. Common Stock",
       "exchange": "NYSE",
@@ -42348,12 +42360,6 @@
       "symbol": "LPRE",
       "name": "Long Pond Real Estate Select ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LPSN",
-      "name": "LivePerson, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
