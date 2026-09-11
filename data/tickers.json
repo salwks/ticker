@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-10T00:50:23.852479Z",
-  "count": 13193,
+  "lastUpdated": "2026-09-11T00:49:22.162128Z",
+  "count": 13209,
   "tickers": [
     {
       "symbol": "A",
@@ -575,6 +575,18 @@
     {
       "symbol": "ACB",
       "name": "Aurora Cannabis Inc. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACBE",
+      "name": "Pacer Metaurus Enhanced Core Income Autocallable ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACBH",
+      "name": "Pacer Metaurus High Income Autocallable ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -2235,6 +2247,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIFR",
+      "name": "Defiance Global Foundries ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AIFU",
       "name": "AIFU Inc. - Class A Ordinary Share",
       "exchange": "NASDAQ",
@@ -2309,6 +2327,12 @@
     {
       "symbol": "AIMDW",
       "name": "Ainos, Inc. - warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AIMG",
+      "name": "Defiance AI Magnificent 10 ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5604,6 +5628,12 @@
       "symbol": "ATTR",
       "name": "Arin Tactical Tail Risk ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ATTT",
+      "name": "Atlas Trinity Tech Limited - Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -10341,8 +10371,20 @@
       "isETF": false
     },
     {
+      "symbol": "BRTM",
+      "name": "B&R Technology Merger Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BRTMU",
       "name": "B&R Technology Merger Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRTMW",
+      "name": "B&R Technology Merger Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -15852,6 +15894,12 @@
       "symbol": "CRAK",
       "name": "VanEck Oil Refiners ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CRAM",
+      "name": "Defiance China Memory ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -22302,6 +22350,12 @@
       "symbol": "EO",
       "name": "Corgi EOSE 2x Daily ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "EOCN",
+      "name": "Eocene Ltd. - Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -29688,12 +29742,6 @@
       "symbol": "GLL",
       "name": "ProShares UltraShort Gold",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "GLMD",
-      "name": "Galmed Pharmaceuticals Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -44421,6 +44469,12 @@
       "isETF": false
     },
     {
+      "symbol": "MFSD",
+      "name": "MFS Active Short Duration Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MFSG",
       "name": "MFS Active Growth ETF",
       "exchange": "NYSE",
@@ -44442,6 +44496,12 @@
       "symbol": "MFSV",
       "name": "MFS Active Value ETF",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MFSX",
+      "name": "MFS Active Short Muni Bond ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -48753,8 +48813,8 @@
       "isETF": false
     },
     {
-      "symbol": "NMCO.V",
-      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights when issued",
+      "symbol": "NMCO.R",
+      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -49187,6 +49247,12 @@
     {
       "symbol": "NQLT",
       "name": "Neuberger Quality Select ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "NRAM",
+      "name": "Yorkville America Next Generation Memory Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -54772,7 +54838,7 @@
     },
     {
       "symbol": "PMA",
-      "name": "Ming Shing Group Holdings Limited - Ordinary Shares",
+      "name": "PMA Graphene Technology Group Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -58248,12 +58314,6 @@
       "symbol": "RAVI",
       "name": "Northern Trust Ultra-Short Fixed Income ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "RAY",
-      "name": "Raytech Holding Limited - Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67023,6 +67083,12 @@
       "isETF": false
     },
     {
+      "symbol": "SWRD",
+      "name": "Stewards Inc - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SWVL",
       "name": "Swvl Holdings Corp - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -69161,12 +69227,6 @@
     {
       "symbol": "TMCR",
       "name": "The Metals Royalty Company Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TMCWW",
-      "name": "TMC the metals company Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -73323,6 +73383,12 @@
       "isETF": false
     },
     {
+      "symbol": "VEEM",
+      "name": "VanEck MSCI EM Analyst Sentiment ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VEEV",
       "name": "Veeva Systems Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -73349,6 +73415,12 @@
     {
       "symbol": "VEGN",
       "name": "US Vegan Climate ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "VEGX",
+      "name": "International Vegan Climate ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -77103,9 +77175,21 @@
       "isETF": false
     },
     {
+      "symbol": "XLCD",
+      "name": "MicroSectors -3x Short Communication Services (XLC) ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XLCI",
       "name": "State Street Communication Services Select Sector SPDR Premium Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XLCU",
+      "name": "MicroSectors 3x Long Communication Services (XLC) ETNs",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -77196,6 +77280,18 @@
       "symbol": "XLP",
       "name": "State Street Consumer Staples Select Sector SPDR ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XLPD",
+      "name": "MicroSectors -3x Short Consumer Staples (XLP) ETNs",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XLPU",
+      "name": "MicroSectors 3x Long Consumer Staples (XLP) ETNs",
+      "exchange": "BATS",
       "isETF": false
     },
     {
