@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-11T00:49:22.162128Z",
-  "count": 13209,
+  "lastUpdated": "2026-09-12T00:54:27.713989Z",
+  "count": 13214,
   "tickers": [
     {
       "symbol": "A",
@@ -28923,6 +28923,12 @@
       "isETF": false
     },
     {
+      "symbol": "GEMQ",
+      "name": "Goldman Sachs Data Enhanced Emerging Markets Equity ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GEN",
       "name": "Gen Digital Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -32742,6 +32748,12 @@
       "symbol": "HLP",
       "name": "Hongli Group Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HLSQ",
+      "name": "Tessera Defense and Homeland Security Inc. Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -45135,6 +45147,12 @@
       "isETF": false
     },
     {
+      "symbol": "MLCC",
+      "name": "Global X MLCC & Electronic Components ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MLCI",
       "name": "Mount Logan Capital Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -50811,8 +50829,26 @@
       "isETF": false
     },
     {
+      "symbol": "OCLT",
+      "name": "OceanLight Acquisition Corporation - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OCLTR",
+      "name": "OceanLight Acquisition Corporation - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "OCLTU",
       "name": "OceanLight Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OCLTW",
+      "name": "OceanLight Acquisition Corporation - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54150,12 +54186,6 @@
       "symbol": "PHG",
       "name": "Koninklijke Philips N.V. NY Registry Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PHGE",
-      "name": "BiomX Inc. Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
