@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-14T00:43:31.848582Z",
-  "count": 13214,
+  "lastUpdated": "2026-09-15T01:09:48.398747Z",
+  "count": 13220,
   "tickers": [
     {
       "symbol": "A",
@@ -438,6 +438,12 @@
       "symbol": "ABNB",
       "name": "Airbnb, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ABND",
+      "name": "American Century Core Plus Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -1607,6 +1613,18 @@
     {
       "symbol": "AFCG",
       "name": "Advanced Flower Capital Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AFDM",
+      "name": "First Trust Active Factor International ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AFEM",
+      "name": "First Trust Active Factor Emerging Markets ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -5303,12 +5321,6 @@
     {
       "symbol": "ASYS",
       "name": "Amtech Systems, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATAI",
-      "name": "AtaiBeckley Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -11229,6 +11241,12 @@
       "isETF": false
     },
     {
+      "symbol": "BURU",
+      "name": "Nuburu, Inc. Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "BUSA",
       "name": "Brandes U.S. Value ETF",
       "exchange": "BATS",
@@ -11914,7 +11932,7 @@
     },
     {
       "symbol": "CAPA",
-      "name": "Defiance AI Capacitors Leaders ETF",
+      "name": "Defiance AI Capacitors & MLCC ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -19413,6 +19431,12 @@
       "isETF": false
     },
     {
+      "symbol": "DMXU",
+      "name": "Xtrackers Bloomberg Developed Markets ex US Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DNA",
       "name": "Ginkgo Bioworks Holdings, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -20712,12 +20736,6 @@
       "symbol": "EART",
       "name": "Global X Rare Earth & Critical Materials ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EASG",
-      "name": "Xtrackers MSCI EAFE Selection Equity ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -27898,7 +27916,7 @@
     },
     {
       "symbol": "FUSI",
-      "name": "American Century Multisector Floating Income ETF",
+      "name": "American Century Ultrashort Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -29117,12 +29135,6 @@
     {
       "symbol": "GFR",
       "name": "Greenfire Resources Ltd. Common Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GFR.R",
-      "name": "Greenfire Resources Ltd. Rights (expiring September 15, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -33928,7 +33940,7 @@
     },
     {
       "symbol": "HYSA",
-      "name": "BondBloxx USD High Yield Bond Sector Rotation ETF",
+      "name": "BondBloxx High Yield Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -39748,8 +39760,8 @@
     },
     {
       "symbol": "KHC",
-      "name": "The Kraft Heinz Company - Common Stock",
-      "exchange": "NASDAQ",
+      "name": "The Kraft Heinz Company Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -46893,12 +46905,6 @@
       "isETF": false
     },
     {
-      "symbol": "MUSI",
-      "name": "American Century Multisector Income ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "MUSQ",
       "name": "MUSQ Global Music Industry Index ETF",
       "exchange": "NYSE ARCA",
@@ -48276,6 +48282,12 @@
       "symbol": "NFEB",
       "name": "Innovator Growth-100 Power Buffer ETF - February",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "NFEGP",
+      "name": "New Fortress Energy Inc. - Series A Mandatorily Convertible Preferred Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -55546,7 +55558,7 @@
     },
     {
       "symbol": "PRAE",
-      "name": "PlanRock Alternative Growth ETF",
+      "name": "PlanRock Equity Plus Alternatives ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -59160,18 +59172,6 @@
       "symbol": "RFDA",
       "name": "ALPS Dynamic US Dividend Advantage ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "RFDI",
-      "name": "First Trust RiverFront Dynamic Developed International ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RFEM",
-      "name": "First Trust RiverFront Dynamic Emerging Markets ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68356,7 +68356,7 @@
     },
     {
       "symbol": "TEVA",
-      "name": "Teva Pharmaceutical Industries Limited American Depositary Shares",
+      "name": "Teva Pharmaceutical Industries Limited Ordinary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -68964,6 +68964,12 @@
       "symbol": "TITN",
       "name": "Titan Machinery Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TIZE",
+      "name": "TCW Securitized Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -79284,6 +79290,36 @@
       "symbol": "ZYME",
       "name": "Zymeworks Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZZZTA",
+      "name": "TXSE Test Stk 1 Common Stock",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
+      "symbol": "ZZZTE",
+      "name": "TXSE Test Stk 2 ETF",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
+      "symbol": "ZZZTS",
+      "name": "TXSE Test Stk 3 Common Stock",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
+      "symbol": "ZZZTT",
+      "name": "ETF",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
+      "symbol": "ZZZTX",
+      "name": "TXSE Test Stk 5 Common Stock",
+      "exchange": "OTHER",
       "isETF": false
     }
   ]
