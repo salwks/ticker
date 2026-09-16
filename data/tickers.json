@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-15T01:09:48.398747Z",
-  "count": 13220,
+  "lastUpdated": "2026-09-16T01:05:43.076388Z",
+  "count": 13237,
   "tickers": [
     {
       "symbol": "A",
@@ -719,12 +719,6 @@
     {
       "symbol": "ACHR",
       "name": "Archer Aviation Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ACHR.W",
-      "name": "Archer Aviation Inc. Redeemable Warrants, each whole warrant exercisable for one Class A common stock at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -5322,6 +5316,12 @@
       "symbol": "ASYS",
       "name": "Amtech Systems, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AT",
+      "name": "Defiance Robotics Actuators ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16443,6 +16443,12 @@
       "isETF": false
     },
     {
+      "symbol": "CSEP",
+      "name": "Corgi U.S. Equities 15% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "CSEX",
       "name": "Tradr 2X Long CLS Daily ETF",
       "exchange": "BATS",
@@ -16860,6 +16866,12 @@
       "symbol": "CTS",
       "name": "CTS Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "CTSE",
+      "name": "Corgi U.S. Equities 30% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -22146,6 +22158,12 @@
       "symbol": "EMSC",
       "name": "Sophus Capital Emerging Market Small Cap ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "EMSE",
+      "name": "Corgi Emerging Markets Equities 15% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -33285,6 +33303,12 @@
       "isETF": false
     },
     {
+      "symbol": "HSEP",
+      "name": "Corgi U.S. Equities 100% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HSHP",
       "name": "Himalaya Shipping Ltd. Common Shares",
       "exchange": "NYSE",
@@ -34926,6 +34950,12 @@
       "symbol": "IDRV",
       "name": "iShares Self-Driving EV and Tech ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IDSE",
+      "name": "Corgi International Developed Equities 15% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -39453,6 +39483,12 @@
       "isETF": false
     },
     {
+      "symbol": "KCHP",
+      "name": "KICK Korea Semiconductor Index ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "KCHV",
       "name": "Kochav Defense Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -42431,6 +42467,12 @@
     {
       "symbol": "LPRE",
       "name": "Long Pond Real Estate Select ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "LPSV",
+      "name": "Lone Peak SMID Value ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -49839,6 +49881,12 @@
       "isETF": false
     },
     {
+      "symbol": "NUIB",
+      "name": "Nuveen Impact Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NUIF",
       "name": "Nuveen US Infrastructure ETF",
       "exchange": "NASDAQ",
@@ -53399,6 +53447,12 @@
     {
       "symbol": "PCOV",
       "name": "Principal Equity Premium Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PCPC",
+      "name": "Porter & Company Property & Casualty Index ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -57747,6 +57801,12 @@
       "isETF": false
     },
     {
+      "symbol": "QQSE",
+      "name": "Corgi Growth & Technology 15% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QQUP",
       "name": "ProShares Ultra QQQ Mega",
       "exchange": "NASDAQ",
@@ -57810,6 +57870,12 @@
       "symbol": "QS",
       "name": "QuantumScape Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "QSE",
+      "name": "Corgi Growth & Technology 10% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -59967,8 +60033,20 @@
       "isETF": false
     },
     {
+      "symbol": "RNAQ",
+      "name": "Rainier Acquisition Corporation - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RNAQU",
       "name": "Rainier Acquisition Corporation - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "RNAQW",
+      "name": "Rainier Acquisition Corporation - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61299,6 +61377,12 @@
       "isETF": false
     },
     {
+      "symbol": "SALI",
+      "name": "Schroders US Autocallable Ladder Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SAM",
       "name": "Boston Beer Company, Inc. (The) Common Stock",
       "exchange": "NYSE",
@@ -62133,6 +62217,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCSE",
+      "name": "Corgi U.S. Small-Cap 15% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SCTX",
       "name": "Scribe Therapeutics Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -62574,6 +62664,12 @@
       "symbol": "SENS",
       "name": "Senseonics Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SEPC",
+      "name": "Corgi U.S. Equities 10% Structured Buffer ETF - September Series",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -78042,6 +78138,12 @@
       "symbol": "XUDV",
       "name": "Franklin U.S. Dividend Booster Index ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XUSM",
+      "name": "MarketDesk International Momentum ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
