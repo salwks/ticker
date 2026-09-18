@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-17T01:04:52.758563Z",
-  "count": 13241,
+  "lastUpdated": "2026-09-18T01:01:45.121879Z",
+  "count": 13253,
   "tickers": [
     {
       "symbol": "A",
@@ -3894,12 +3894,6 @@
       "symbol": "ANVS",
       "name": "Annovis Bio, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ANY",
-      "name": "Sphere 3D Corp. - Common Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -10882,7 +10876,7 @@
     },
     {
       "symbol": "BTCC",
-      "name": "Grayscale Bitcoin Covered Call ETF",
+      "name": "Grayscale Bitcoin High Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -12153,6 +12147,18 @@
       "isETF": false
     },
     {
+      "symbol": "CATL",
+      "name": "Catalyst Acquisition Corp. - Class A Ordinary Share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CATLR",
+      "name": "Catalyst Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CATLU",
       "name": "Catalyst Acquisition Corp. - Units",
       "exchange": "NASDAQ",
@@ -13356,6 +13362,12 @@
       "symbol": "CGEN",
       "name": "Compugen Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CGFS",
+      "name": "CG Flagship Equity ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -19827,6 +19839,12 @@
       "isETF": false
     },
     {
+      "symbol": "DRK",
+      "name": "DarkHorse Technologies Inc. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DRKY",
       "name": "VistaShares Target 15 DRUKMacro Distribution ETF",
       "exchange": "NYSE ARCA",
@@ -23104,7 +23122,7 @@
     },
     {
       "symbol": "ETCO",
-      "name": "Grayscale Ethereum Covered Call ETF",
+      "name": "Grayscale Ethereum High Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -33567,6 +33585,12 @@
       "isETF": false
     },
     {
+      "symbol": "HUMM",
+      "name": "800VDC AI Datacenter Ecosystem ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "HUMN",
       "name": "Roundhill Humanoid Robotics ETF",
       "exchange": "BATS",
@@ -33773,6 +33797,12 @@
     {
       "symbol": "HY",
       "name": "Hyster-Yale, Inc. Class A common stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HYAC.U",
+      "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -39760,19 +39790,19 @@
     },
     {
       "symbol": "KFII",
-      "name": "K - Class A Ordinary shares",
+      "name": "K&F Growth Acquisition Corp. II - Class A Ordinary shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "KFIIR",
-      "name": "K - Rights",
+      "name": "K&F Growth Acquisition Corp. II - Rights",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "KFIIU",
-      "name": "K - Unit",
+      "name": "K&F Growth Acquisition Corp. II - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -40703,12 +40733,6 @@
     {
       "symbol": "KTTA",
       "name": "Pasithea Therapeutics Corp. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KTTAW",
-      "name": "Pasithea Therapeutics Corp. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45567,6 +45591,12 @@
       "isETF": false
     },
     {
+      "symbol": "MNGZ",
+      "name": "Yorkville America 2X Long MANGOS Plus Daily Target ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MNKD",
       "name": "MannKind Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -46575,8 +46605,20 @@
       "isETF": false
     },
     {
+      "symbol": "MTAK",
+      "name": "Market Technology Acquisition Corp - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MTAKU",
       "name": "Market Technology Acquisition Corp - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MTAKW",
+      "name": "Market Technology Acquisition Corp - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -56841,6 +56883,12 @@
       "isETF": false
     },
     {
+      "symbol": "PWRX",
+      "name": "Westwood Salient Enhanced Power & Infrastructure ETF",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
       "symbol": "PWRZ",
       "name": "TrueShares Eagle Global Renewable Energy Income ETF",
       "exchange": "BATS",
@@ -59694,12 +59742,6 @@
       "symbol": "RITM$F",
       "name": "Rithm Capital Corp. 8.750% Series F Fixed-Rate Reset Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RITR",
-      "name": "Reitar Logtech Holdings Limited - Ordinary shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68097,6 +68139,12 @@
       "isETF": false
     },
     {
+      "symbol": "TDNA",
+      "name": "T. Rowe Price Biotech ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TDOC",
       "name": "Teladoc Health, Inc. Common Stock",
       "exchange": "NYSE",
@@ -69183,8 +69231,20 @@
       "isETF": false
     },
     {
+      "symbol": "TLAC",
+      "name": "Three Lions Acquisition Corp. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TLACU",
       "name": "Three Lions Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TLACW",
+      "name": "Three Lions Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69468,6 +69528,12 @@
       "symbol": "TMH",
       "name": "Toyota Motor Corporation ADRhedged",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TMID",
+      "name": "T. Rowe Price Mid Cap Equity Research ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -70572,6 +70638,12 @@
       "symbol": "TSEC",
       "name": "Touchstone Securitized Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TSEE",
+      "name": "T. Rowe Price Small Cap ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
