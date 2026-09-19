@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-18T01:01:45.121879Z",
-  "count": 13253,
+  "lastUpdated": "2026-09-19T00:57:53.461026Z",
+  "count": 13258,
   "tickers": [
     {
       "symbol": "A",
@@ -5049,6 +5049,12 @@
       "isETF": false
     },
     {
+      "symbol": "ASGI.V",
+      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "ASGM",
       "name": "Virtus AlphaSimplex Global Macro ETF",
       "exchange": "NYSE ARCA",
@@ -5226,6 +5232,12 @@
       "symbol": "ASST",
       "name": "Strive, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ASSX",
+      "name": "T-REX 2X Long ASST Daily Target ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -23259,6 +23271,12 @@
       "isETF": false
     },
     {
+      "symbol": "ETRA",
+      "name": "Electra Therapeutics, Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ETS",
       "name": "Elite Express Holding Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -28096,13 +28114,13 @@
     },
     {
       "symbol": "FWONA",
-      "name": "Liberty Media Corporation - Series A Liberty Formula One Common Stock",
+      "name": "Liberty Media Corporation - Series A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "FWONK",
-      "name": "Liberty Media Corporation - Series C Liberty Formula One Common Stock",
+      "name": "Liberty Media Corporation - Series C Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32139,12 +32157,6 @@
       "isETF": false
     },
     {
-      "symbol": "HCWC",
-      "name": "Healthy Choice Wellness Corp. Class A Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "HCXY",
       "name": "Hercules Capital, Inc. 6.25% Notes due 2033",
       "exchange": "NYSE",
@@ -33060,6 +33072,12 @@
       "symbol": "HOS",
       "name": "Hornbeck Offshore Services, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HOST",
+      "name": "Host Digital Inc. Class A Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -35693,7 +35711,7 @@
     {
       "symbol": "ILS",
       "name": "Brookmont Catastrophic Bond ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -41399,6 +41417,12 @@
     {
       "symbol": "LECO",
       "name": "Lincoln Electric Holdings, Inc. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LEDRU",
+      "name": "Leader's Advantage Acquisition Corp. - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51306,6 +51330,12 @@
       "symbol": "OIA",
       "name": "Invesco Municipal Income Opportunities Trust Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OIG",
+      "name": "Orion180 Insurance Group Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -61557,12 +61587,6 @@
       "isETF": false
     },
     {
-      "symbol": "SAT",
-      "name": "Saratoga Investment Corp 6.00% Notes due 2027",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "SATA",
       "name": "Strive, Inc. - Variable Rate Series A Perpetual Preferred Stock",
       "exchange": "NASDAQ",
@@ -64913,12 +64937,6 @@
     {
       "symbol": "SNY",
       "name": "Sanofi - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SNYR",
-      "name": "Synergy CHC Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -77301,8 +77319,20 @@
       "isETF": false
     },
     {
+      "symbol": "XIII",
+      "name": "Churchill Capital Corp XIII - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "XIIIU",
       "name": "Churchill Capital Corp XIII - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XIIIW",
+      "name": "Churchill Capital Corp XIII - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
