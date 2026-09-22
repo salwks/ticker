@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-21T00:50:20.511982Z",
-  "count": 13258,
+  "lastUpdated": "2026-09-22T01:25:56.990584Z",
+  "count": 13261,
   "tickers": [
     {
       "symbol": "A",
@@ -16443,12 +16443,6 @@
       "isETF": false
     },
     {
-      "symbol": "CSAN",
-      "name": "Cosan S.A. ADS",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "CSB",
       "name": "VictoryShares US Small Cap High Div Volatility Wtd ETF",
       "exchange": "NASDAQ",
@@ -16698,6 +16692,12 @@
       "symbol": "CTAAU",
       "name": "ClearThink 1 Acquisition Corp. - Units",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CTAG",
+      "name": "Calamos Timpani Active SMID Growth ETF",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -19751,6 +19751,12 @@
     {
       "symbol": "DQJN",
       "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - June",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DQSE",
+      "name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF - September",
       "exchange": "BATS",
       "isETF": false
     },
@@ -57765,6 +57771,12 @@
       "isETF": false
     },
     {
+      "symbol": "QQBF",
+      "name": "FT Vest Nasdaq-100 Quarterly 15 Buffer ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QQDN",
       "name": "ProShares UltraShort QQQ Mega",
       "exchange": "NASDAQ",
@@ -62598,6 +62610,12 @@
       "symbol": "SEB",
       "name": "Seaboard Corporation Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "SECA",
+      "name": "Main Active Rotation ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
