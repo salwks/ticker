@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T01:25:56.990584Z",
+  "lastUpdated": "2026-09-23T01:14:53.168119Z",
   "count": 13261,
   "tickers": [
     {
@@ -10353,20 +10353,8 @@
       "isETF": false
     },
     {
-      "symbol": "BRR",
-      "name": "ProCap Financial, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BRRR",
       "name": "Coinshares Bitcoin ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BRRWW",
-      "name": "ProCap Financial, Inc. - Warrant.",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -22377,6 +22365,12 @@
       "isETF": false
     },
     {
+      "symbol": "ENRG",
+      "name": "Ninepoint North American Energy Independence ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "ENS",
       "name": "EnerSys Common Stock",
       "exchange": "NYSE",
@@ -23118,6 +23112,12 @@
       "symbol": "ESUM",
       "name": "Eventide US Market ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ESYN",
+      "name": "EnerSyn Global Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -28695,6 +28695,12 @@
       "isETF": false
     },
     {
+      "symbol": "GCPU",
+      "name": "Grayscale AI Compute ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GCSH",
       "name": "Guggenheim Ultra Short Income ETF",
       "exchange": "NYSE ARCA",
@@ -33743,12 +33749,6 @@
     {
       "symbol": "HWGV",
       "name": "Hotchkis & Wiley Global Value Fund",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HWH",
-      "name": "HWH International Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -41691,12 +41691,6 @@
       "isETF": false
     },
     {
-      "symbol": "LGCF",
-      "name": "Themes US Cash Flow Champions ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LGCL",
       "name": "Lucas GC Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -41922,12 +41916,6 @@
       "symbol": "LIME",
       "name": "Neutron Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LIMI",
-      "name": "Themes Lithium & Battery Metal Miners ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -45615,6 +45603,12 @@
       "isETF": false
     },
     {
+      "symbol": "MNGB",
+      "name": "Yorkville America 2X Inverse MANGOS Plus Daily Target ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MNGU",
       "name": "MicroSectors 3x Long MANGOS+ ex Private Companies ETNs",
       "exchange": "NYSE ARCA",
@@ -45654,12 +45648,6 @@
       "symbol": "MNRO",
       "name": "Monro, Inc.  - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MNRS",
-      "name": "Grayscale Bitcoin Miners ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -48609,24 +48597,6 @@
       "isETF": false
     },
     {
-      "symbol": "NHIC",
-      "name": "NewHold Investment Corp III - Class A Ordinary shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NHICU",
-      "name": "NewHold Investment Corp III - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NHICW",
-      "name": "NewHold Investment Corp III - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NHIV",
       "name": "NewHold Investment Corp IV - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -50411,6 +50381,18 @@
     {
       "symbol": "NWBI",
       "name": "Northwest Bancshares, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NWCL",
+      "name": "newcleo plc - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NWCLW",
+      "name": "newcleo plc - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -57843,6 +57825,12 @@
       "isETF": false
     },
     {
+      "symbol": "QQQB",
+      "name": "VistaShares Shield Nasdaq 100 Enhanced Protection ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QQQD",
       "name": "Direxion Daily Magnificent 7 Bear 1X ETF",
       "exchange": "NYSE ARCA",
@@ -64335,12 +64323,6 @@
       "isETF": false
     },
     {
-      "symbol": "SMCF",
-      "name": "Themes US Small Cap Cash Flow Champions ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -67169,6 +67151,18 @@
     {
       "symbol": "SVCO",
       "name": "Silvaco Group, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SVIA",
+      "name": "Silvia, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SVIAW",
+      "name": "Silvia, Inc. - Warrant.",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -74556,6 +74550,12 @@
       "symbol": "VOO",
       "name": "Vanguard S&P 500 ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VOOB",
+      "name": "VistaShares Shield S&P 500 Enhanced Protection ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
