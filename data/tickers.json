@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-23T01:14:53.168119Z",
-  "count": 13261,
+  "lastUpdated": "2026-09-24T01:04:50.673257Z",
+  "count": 13277,
   "tickers": [
     {
       "symbol": "A",
@@ -2207,6 +2207,12 @@
     {
       "symbol": "AIBD",
       "name": "Direxion Daily AI and Big Data Bear 2X ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AIBF",
+      "name": "iShares Future AI Beneficiaries ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -13691,6 +13697,12 @@
     {
       "symbol": "CHI",
       "name": "Calamos Convertible Opportunities and Income Fund - Closed End Fund",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CHIP",
+      "name": "REX AI Chipmaking ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36442,7 +36454,7 @@
     },
     {
       "symbol": "INVE",
-      "name": "Identiv, Inc. - Common Stock",
+      "name": "INVE Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42441,6 +42453,12 @@
       "isETF": false
     },
     {
+      "symbol": "LOVIU",
+      "name": "Live Oak Acquisition Corp. VI - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LOW",
       "name": "Lowe's Companies, Inc. Common Stock",
       "exchange": "NYSE",
@@ -47301,6 +47319,12 @@
       "isETF": false
     },
     {
+      "symbol": "MYCP",
+      "name": "State Street My2036 Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MYE",
       "name": "Myers Industries, Inc. Common Stock",
       "exchange": "NYSE",
@@ -47349,6 +47373,12 @@
       "isETF": false
     },
     {
+      "symbol": "MYHF",
+      "name": "State Street My2032 High Yield Corporate Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MYI",
       "name": "Blackrock MuniYield Quality Fund III, Inc Common Stock",
       "exchange": "NYSE",
@@ -47393,6 +47423,12 @@
     {
       "symbol": "MYMK",
       "name": "State Street My2031 Municipal Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MYML",
+      "name": "State Street My2032 Municipal Bond ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48150,6 +48186,12 @@
       "symbol": "NECB",
       "name": "NorthEast Community Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NECK",
+      "name": "xETFs AI Bottlenecks ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -54909,12 +54951,6 @@
       "isETF": false
     },
     {
-      "symbol": "PLTS",
-      "name": "Platinum Analytics Cayman Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PLTU",
       "name": "Direxion Daily PLTR Bull 2X ETF",
       "exchange": "NASDAQ",
@@ -57783,6 +57819,12 @@
       "isETF": false
     },
     {
+      "symbol": "QQI",
+      "name": "Invesco Nasdaq International Innovators 100 ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QQJL",
       "name": "Corgi Growth & Technology 15% Structured Buffer ETF - July Series",
       "exchange": "BATS",
@@ -59783,12 +59825,6 @@
     {
       "symbol": "RIV$A",
       "name": "RiverNorth Opportunities Fund, Inc. 6.00% Series A Perpetual Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "RIV.R",
-      "name": "RiverNorth Opportunities Fund, Inc. Rights (expiring September 23, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -71379,6 +71415,12 @@
       "isETF": false
     },
     {
+      "symbol": "TXCA",
+      "name": "Northern Trust California Intermediate Tax-Exempt Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TXG",
       "name": "10x Genomics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -71406,6 +71448,12 @@
       "symbol": "TXNU",
       "name": "Direxion Daily TXN Bull 2X ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TXNY",
+      "name": "Northern Trust New York Intermediate Tax-Exempt Bond ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -74337,6 +74385,12 @@
       "isETF": false
     },
     {
+      "symbol": "VMHY",
+      "name": "VictoryShares Municipal High Yield ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "VMI",
       "name": "Valmont Industries, Inc. Common Stock",
       "exchange": "NYSE",
@@ -74358,6 +74412,12 @@
       "symbol": "VMSB",
       "name": "Voya Multi-Sector Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VMSD",
+      "name": "VictoryShares Short-Duration Municipal ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -78309,14 +78369,50 @@
       "isETF": false
     },
     {
+      "symbol": "XVAD",
+      "name": "FT Vest AMD & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XVAP",
       "name": "FT Vest AAPL & Target Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
     {
+      "symbol": "XVAZ",
+      "name": "FT Vest AMZN & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVGL",
+      "name": "FT Vest GOOG & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVMS",
+      "name": "FT Vest MSFT & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVMT",
+      "name": "FT Vest META & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XVNV",
       "name": "FT Vest NVDA & Target Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XVPT",
+      "name": "FT Vest PLTR & Target Income ETF",
       "exchange": "BATS",
       "isETF": false
     },
