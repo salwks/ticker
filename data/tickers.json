@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T01:04:50.673257Z",
-  "count": 13277,
+  "lastUpdated": "2026-09-25T01:08:15.077002Z",
+  "count": 13283,
   "tickers": [
     {
       "symbol": "A",
@@ -5055,8 +5055,8 @@
       "isETF": false
     },
     {
-      "symbol": "ASGI.V",
-      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights when issued",
+      "symbol": "ASGI.R",
+      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -7283,6 +7283,12 @@
     {
       "symbol": "BCAT",
       "name": "BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BCAT.V",
+      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -11022,12 +11028,6 @@
       "symbol": "BTQ",
       "name": "BTQ Technologies Corp. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BTR",
-      "name": "Beacon Tactical Risk ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -17859,6 +17859,12 @@
       "isETF": false
     },
     {
+      "symbol": "DCAP",
+      "name": "T-Strive Digital Credit Preferred Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DCBG",
       "name": "Dime Commercial Bancshares, Inc. 9.000% Junior Subordinated Notes",
       "exchange": "NYSE",
@@ -19643,12 +19649,6 @@
     {
       "symbol": "DOMH",
       "name": "Dominari Holdings Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DOMO",
-      "name": "Domo, Inc. - Class B Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25917,8 +25917,26 @@
       "isETF": false
     },
     {
+      "symbol": "FJDI",
+      "name": "ARC Group Securities Acquisition I - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FJDIR",
+      "name": "ARC Group Securities Acquisition I - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FJDIU",
       "name": "ARC Group Securities Acquisition I - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FJDIW",
+      "name": "ARC Group Securities Acquisition I - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -33591,6 +33609,12 @@
       "isETF": false
     },
     {
+      "symbol": "HUCK",
+      "name": "Huckleberry.ai, Inc. - Class B Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HUDI",
       "name": "Huadi International Group Co., Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -33693,24 +33717,6 @@
       "isETF": false
     },
     {
-      "symbol": "HVII",
-      "name": "Hennessy Capital Investment Corp. VII - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HVIIR",
-      "name": "Hennessy Capital Investment Corp. VII - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HVIIU",
-      "name": "Hennessy Capital Investment Corp. VII - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HVMC",
       "name": "Highview Merger Corp. - Class A Ordinary Share",
       "exchange": "NASDAQ",
@@ -33780,6 +33786,12 @@
       "symbol": "HWM",
       "name": "Howmet Aerospace Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HWMV",
+      "name": "Hotchkis & Wiley Mid-Cap Value Fund",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -44721,6 +44733,12 @@
       "isETF": false
     },
     {
+      "symbol": "MGIN",
+      "name": "Man Active Global Infrastructure ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MGK",
       "name": "Vanguard Morningstar Mega Cap Growth ETF",
       "exchange": "NYSE ARCA",
@@ -51714,6 +51732,12 @@
       "symbol": "ONEH",
       "name": "TrueShares Equity Hedge ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ONEN",
+      "name": "ONE Nuclear Energy Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67947,12 +67971,6 @@
       "isETF": false
     },
     {
-      "symbol": "TBPH",
-      "name": "Theravance Biopharma, Inc. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "TBT",
       "name": "ProShares UltraShort Lehman 20  Year Treasury",
       "exchange": "NYSE ARCA",
@@ -69345,6 +69363,12 @@
       "isETF": false
     },
     {
+      "symbol": "TLIE",
+      "name": "American Beacon The London Company Income Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TLIH",
       "name": "Ten-League International Holdings Limited - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -69930,6 +69954,12 @@
       "symbol": "TOPW",
       "name": "Roundhill Top WeeklyPay ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "TORK",
+      "name": "KraneShares Actuator ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -73302,6 +73332,12 @@
       "symbol": "VAI",
       "name": "Valor Energy Incorporated - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VAIC",
+      "name": "VegaShares US Equity Autocallable Conservative Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
