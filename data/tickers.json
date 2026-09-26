@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T01:08:15.077002Z",
-  "count": 13283,
+  "lastUpdated": "2026-09-26T01:11:14.576760Z",
+  "count": 13288,
   "tickers": [
     {
       "symbol": "A",
@@ -1266,6 +1266,12 @@
       "symbol": "ADPV",
       "name": "Adaptiv Select ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ADRX",
+      "name": "ADARx Pharmaceuticals, Inc. - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -10362,6 +10368,12 @@
       "symbol": "BROS",
       "name": "Dutch Bros Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BRRKU",
+      "name": "Bluerock Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -39105,12 +39117,6 @@
       "isETF": false
     },
     {
-      "symbol": "JSPRW",
-      "name": "Jasper Therapeutics, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "JSTC",
       "name": "Adasina Social Justice All Cap Global ETF",
       "exchange": "NYSE ARCA",
@@ -40115,12 +40121,6 @@
     {
       "symbol": "KLXE",
       "name": "KLX Energy Services Holdings, Inc.  - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KLXER",
-      "name": "KLX Energy Services Holdings, Inc.  - Rights",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53163,6 +53163,12 @@
       "isETF": false
     },
     {
+      "symbol": "PBCS",
+      "name": "Portfolio Building Block World Consumer Staples ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PBD",
       "name": "Invesco Global Clean Energy ETF",
       "exchange": "NYSE ARCA",
@@ -53391,6 +53397,12 @@
       "isETF": false
     },
     {
+      "symbol": "PBUB",
+      "name": "Portfolio Building Block US Banks ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PBUS",
       "name": "Invesco MSCI USA ETF",
       "exchange": "BATS",
@@ -53400,6 +53412,12 @@
       "symbol": "PBW",
       "name": "Invesco WilderHill Clean Energy ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "PBWN",
+      "name": "Portfolio Building Block World Ex US Industrials ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -55320,6 +55338,18 @@
       "symbol": "PN",
       "name": "PN Smart Energy Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PNAQ",
+      "name": "Pinnacle Acquisition Corporation Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PNAQ.R",
+      "name": "Pinnacle Acquisition Corporation Rights, each right entitling the holder to receive one-eighth (1/8) of one Class A ordinary share",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
