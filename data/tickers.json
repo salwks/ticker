@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-28T01:24:02.336345Z",
-  "count": 13288,
+  "lastUpdated": "2026-09-29T02:28:35.200656Z",
+  "count": 13282,
   "tickers": [
     {
       "symbol": "A",
@@ -17932,7 +17932,7 @@
     },
     {
       "symbol": "DCOR",
-      "name": "Dimensional US Core Equity 1 ETF",
+      "name": "US Core Equity 1 Portfolio ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18424,7 +18424,7 @@
     },
     {
       "symbol": "DFAR",
-      "name": "Dimensional US Real Estate ETF",
+      "name": "DFA Real Estate Securities Portfolio ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18676,7 +18676,7 @@
     },
     {
       "symbol": "DFSV",
-      "name": "Dimensional US Small Cap Value ETF",
+      "name": "US Small Cap Value Portfolio ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -20272,7 +20272,7 @@
     },
     {
       "symbol": "DUHP",
-      "name": "Dimensional US High Profitability ETF",
+      "name": "US High Relative Profitability Portfolio ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -20650,7 +20650,7 @@
     },
     {
       "symbol": "DXUV",
-      "name": "Dimensional US Vector Equity ETF",
+      "name": "US Vector Equity Portfolio ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -25437,6 +25437,18 @@
       "isETF": false
     },
     {
+      "symbol": "FGC",
+      "name": "FG Communities Holdings Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FGCPP",
+      "name": "FG Communities Holdings Inc. - 8.00% Cumulative Series A Preferred Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FGD",
       "name": "First Trust DJ Global Select Dividend",
       "exchange": "NYSE ARCA",
@@ -25494,18 +25506,6 @@
       "symbol": "FGN",
       "name": "F&G Annuities & Life, Inc. 7.950% Senior Notes due 2053",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "FGNX",
-      "name": "FG Nexus Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FGNXP",
-      "name": "FG Nexus Inc. - 8.00% Cumulative Series A Preferred Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -30576,6 +30576,12 @@
       "symbol": "GOVZ",
       "name": "iShares 25  Year Treasury STRIPS Bond ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "GOW",
+      "name": "GOWell Energy Technology - Ordinary shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36681,24 +36687,6 @@
       "isETF": false
     },
     {
-      "symbol": "IPEX",
-      "name": "Inflection Point Acquisition Corp. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPEXR",
-      "name": "Inflection Point Acquisition Corp. - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPEXU",
-      "name": "Inflection Point Acquisition Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IPFX",
       "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -41291,6 +41279,12 @@
     {
       "symbol": "LCII",
       "name": "LCI Industries",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LCIV",
+      "name": "Logan Capital International ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -53853,12 +53847,6 @@
       "isETF": false
     },
     {
-      "symbol": "PDYNW",
-      "name": "Palladyne AI Corp. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PEB",
       "name": "Pebblebrook Hotel Trust Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -54245,6 +54233,12 @@
     {
       "symbol": "PFRL",
       "name": "PGIM Floating Rate Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "PFRX",
+      "name": "Putnam Focused U.S. Research ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61917,24 +61911,6 @@
       "isETF": false
     },
     {
-      "symbol": "SBXD",
-      "name": "SilverBox Corp IV Class A Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SBXD.U",
-      "name": "SilverBox Corp IV Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SBXD.W",
-      "name": "SilverBox Corp IV Redeemable warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "SBXE",
       "name": "SilverBox Corp V Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -69003,6 +68979,12 @@
       "isETF": false
     },
     {
+      "symbol": "THRMV",
+      "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "THRO",
       "name": "iShares U.S. Thematic Rotation Active ETF",
       "exchange": "NYSE ARCA",
@@ -71417,24 +71399,6 @@
     {
       "symbol": "TWN",
       "name": "Taiwan Fund, Inc. (The) Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "TWO$A",
-      "name": "Two Harbors Investments Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock ($25.00 liquidation preference per share)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "TWO$B",
-      "name": "Two Harbors Investments Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "TWO$C",
-      "name": "Two Harbors Investments Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
