@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-29T02:28:35.200656Z",
-  "count": 13282,
+  "lastUpdated": "2026-09-30T01:49:59.881284Z",
+  "count": 13283,
   "tickers": [
     {
       "symbol": "A",
@@ -28623,12 +28623,6 @@
       "isETF": false
     },
     {
-      "symbol": "GBTG",
-      "name": "Global Business Travel Group, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "GBUG",
       "name": "Sprott Active Gold & Silver Miners ETF",
       "exchange": "NASDAQ",
@@ -34857,6 +34851,12 @@
       "isETF": false
     },
     {
+      "symbol": "ICMO",
+      "name": "Symmetry Panoramic International Country Momentum ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ICON",
       "name": "Icon Energy Corp. - Common stock",
       "exchange": "NASDAQ",
@@ -36557,12 +36557,6 @@
     {
       "symbol": "IONQ",
       "name": "IonQ, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "IONQ.W",
-      "name": "IonQ, Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Stock, each at an exercise price of $11.50 per share",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -41283,12 +41277,6 @@
       "isETF": false
     },
     {
-      "symbol": "LCIV",
-      "name": "Logan Capital International ETF",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "LCLG",
       "name": "Logan Capital Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
@@ -43002,6 +42990,12 @@
       "symbol": "LUMN",
       "name": "Lumen Technologies, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LUNC",
+      "name": "Longnook Uncommon Compounders ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -47091,6 +47085,12 @@
       "isETF": false
     },
     {
+      "symbol": "MUY",
+      "name": "YieldMax MU Option Income Strategy ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MUYY",
       "name": "GraniteShares YieldBOOST MU ETF",
       "exchange": "NASDAQ",
@@ -49542,6 +49542,12 @@
       "symbol": "NRP",
       "name": "Natural Resource Partners LP Limited Partnership",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NRR",
+      "name": "Common Shares of Beneficial Interest of Bitwise NEAR ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -59733,12 +59739,6 @@
       "isETF": false
     },
     {
-      "symbol": "RILYN",
-      "name": "BRC Group Holdings, Inc. - 6.50% Senior Notes Due 2026",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RILYP",
       "name": "BRC Group Holdings, Inc. - Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",
       "exchange": "NASDAQ",
@@ -61338,6 +61338,12 @@
       "symbol": "RYZ",
       "name": "Ryerson Holding Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RZAI",
+      "name": "Roze AI Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69976,7 +69982,7 @@
     },
     {
       "symbol": "TORO",
-      "name": "Toro Corp. - Common stock",
+      "name": "Toro Corp. - Common Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
