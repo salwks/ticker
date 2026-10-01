@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-30T01:49:59.881284Z",
-  "count": 13283,
+  "lastUpdated": "2026-10-01T01:48:00.569233Z",
+  "count": 13289,
   "tickers": [
     {
       "symbol": "A",
@@ -615,6 +615,12 @@
       "isETF": false
     },
     {
+      "symbol": "ACCV",
+      "name": "Accelevation Holdings Corp. - Class A ordinary shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ACDC",
       "name": "ProFrac Holding Corp. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -744,6 +750,12 @@
       "symbol": "ACIC",
       "name": "American Coastal Insurance Corporation - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACIG",
+      "name": "Hartford Alpha Capture International Growth ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -929,6 +941,12 @@
     {
       "symbol": "ACSI",
       "name": "American Customer Satisfaction ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "ACSM",
+      "name": "Hartford Alpha Capture SMID Cap ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -2583,12 +2601,6 @@
       "isETF": false
     },
     {
-      "symbol": "AIXC",
-      "name": "AIxCrypto Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "AIXI",
       "name": "XIAO-I Corporation - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -3672,12 +3684,6 @@
       "symbol": "AMZD",
       "name": "Direxion Daily AMZN Bear 1X ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AMZE",
-      "name": "Amaze Holdings, Inc. Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -6101,6 +6107,12 @@
     {
       "symbol": "AVMV",
       "name": "Avantis U.S. Mid Cap Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AVNC",
+      "name": "Avantis All International Core Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -9610,19 +9622,19 @@
     },
     {
       "symbol": "BNC",
-      "name": "CEA Industries Inc. - Common Stock",
+      "name": "BNB Standard Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "BNCWW",
-      "name": "CEA Industries Inc. - Warrant",
+      "name": "BNB Standard Corporation - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "BNCWZ",
-      "name": "CEA Industries Inc. - Warrants",
+      "name": "BNB Standard Corporation - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17709,6 +17721,12 @@
       "isETF": false
     },
     {
+      "symbol": "DBAR",
+      "name": "IMGP DBI Absolute Return ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "DBAW",
       "name": "Xtrackers MSCI All World ex US Hedged Equity ETF",
       "exchange": "NYSE ARCA",
@@ -17826,12 +17844,6 @@
       "symbol": "DBP",
       "name": "Invesco DB Precious Metals Fund",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "DBRG",
-      "name": "DigitalBridge Group, Inc.",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -22311,6 +22323,12 @@
       "isETF": false
     },
     {
+      "symbol": "ENHE",
+      "name": "iShares Enhanced Emerging Markets Active ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ENHI",
       "name": "iShares Enhanced International Active ETF",
       "exchange": "NASDAQ",
@@ -25398,6 +25416,12 @@
       "symbol": "FFOX",
       "name": "FundX Future Fund Opportunities ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "FFR",
+      "name": "FF EAI Robotics Ecosystem Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -29154,12 +29178,6 @@
       "symbol": "GERN",
       "name": "Geron Corporation - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GETY",
-      "name": "Getty Images Holdings, Inc. Class A Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -37479,6 +37497,12 @@
       "isETF": false
     },
     {
+      "symbol": "IVAI",
+      "name": "Ives Ultra AI Opportunities Inc. Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "IVAL",
       "name": "Alpha Architect International Quantitative Value ETF",
       "exchange": "NASDAQ",
@@ -39030,6 +39054,12 @@
       "symbol": "JQC",
       "name": "Nuveen Credit Strategies Income Fund Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "JQTY",
+      "name": "Jensen U.S. Quality Index ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -41273,6 +41303,12 @@
     {
       "symbol": "LCII",
       "name": "LCI Industries",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LCIV",
+      "name": "Logan Capital International ETF",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -68134,7 +68170,7 @@
     },
     {
       "symbol": "TCV",
-      "name": "Towle Value ETF",
+      "name": "Towle Small-Cap Value ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
