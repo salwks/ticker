@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-01T01:48:00.569233Z",
-  "count": 13289,
+  "lastUpdated": "2026-10-02T02:00:18.241045Z",
+  "count": 13299,
   "tickers": [
     {
       "symbol": "A",
@@ -13929,6 +13929,12 @@
       "isETF": false
     },
     {
+      "symbol": "CHWM",
+      "name": "Chilwa Minerals Limited - American Depository Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CHWY",
       "name": "Chewy, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -20790,6 +20796,12 @@
       "symbol": "EAFG",
       "name": "Pacer Developed Markets Cash Cows Growth Leaders ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "EAFH",
+      "name": "Xtrackers MSCI EAFE 50% Hedged Equity ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -32398,7 +32410,7 @@
     },
     {
       "symbol": "HELP",
-      "name": "Cybin Inc. - Common Stock",
+      "name": "Helus Pharma Inc.  - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42159,6 +42171,12 @@
       "isETF": false
     },
     {
+      "symbol": "LLMA",
+      "name": "Global X LLM ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LLY",
       "name": "Eli Lilly and Company Common Stock",
       "exchange": "NYSE",
@@ -43313,12 +43331,6 @@
     {
       "symbol": "MAA",
       "name": "Mid-America Apartment Communities, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MAA$I",
-      "name": "Mid-America Apartment Communities, Inc. 8.50% Series I Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -44500,7 +44512,7 @@
     },
     {
       "symbol": "METV",
-      "name": "Roundhill Ball Metaverse ETF",
+      "name": "Roundhill Metaverse ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -45510,6 +45522,18 @@
       "symbol": "MMED",
       "name": "MiniMed Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MMEDV",
+      "name": "MiniMed Group, Inc. - Common Stock When Issued",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MMHI",
+      "name": "NYLIM MacKay Muni High Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -48987,12 +49011,6 @@
       "isETF": false
     },
     {
-      "symbol": "NLY$I",
-      "name": "Annaly Capital Management Inc 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "NLY$J",
       "name": "Annaly Capital Management Inc. 8.875% Series J Fixed-Rate Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
@@ -49853,12 +49871,6 @@
     {
       "symbol": "NTRB",
       "name": "Nutriband Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NTRBW",
-      "name": "Nutriband Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51117,6 +51129,12 @@
       "isETF": false
     },
     {
+      "symbol": "OCT",
+      "name": "VanEck U.S. Equity Buffer ETF - October",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "OCTB",
       "name": "Aptus October Buffer ETF",
       "exchange": "BATS",
@@ -51125,6 +51143,12 @@
     {
       "symbol": "OCTH",
       "name": "Innovator Premium Income 20 Barrier ETF - October",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "OCTI",
+      "name": "AllianzIM International Equity Buffer15 Uncapped Oct ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -52002,6 +52026,12 @@
       "symbol": "OPLN",
       "name": "OPENLANE, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "OPNW",
+      "name": "OpenWorld, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -55589,6 +55619,12 @@
     {
       "symbol": "POR",
       "name": "Portland General Electric Co Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PORT.U",
+      "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -59686,7 +59722,7 @@
     },
     {
       "symbol": "RHRX",
-      "name": "RH Tactical Rotation ETF",
+      "name": "Adaptive Tactical Rotation ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -68241,6 +68277,12 @@
       "isETF": false
     },
     {
+      "symbol": "TDEM",
+      "name": "T. Rowe Price Dynamic Emerging Markets Bond ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TDF",
       "name": "Templeton Dragon Fund, Inc. Common Stock",
       "exchange": "NYSE",
@@ -70404,6 +70446,12 @@
       "symbol": "TRIB",
       "name": "Trinity Biotech plc - American Depositary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TRIL",
+      "name": "VegaShares Trillions ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -73215,6 +73263,12 @@
       "isETF": false
     },
     {
+      "symbol": "UWMC.V",
+      "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "UX",
       "name": "Roundhill Uranium ETF",
       "exchange": "BATS",
@@ -74865,12 +74919,6 @@
       "isETF": false
     },
     {
-      "symbol": "VRME",
-      "name": "VerifyMe, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VRNS",
       "name": "Varonis Systems, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -75372,6 +75420,12 @@
       "symbol": "VYLD",
       "name": "Inverse VIX Short-Term Futures ETNs due March 22, 2045",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VYLR",
+      "name": "Vylor Inc. Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -78268,7 +78322,7 @@
     },
     {
       "symbol": "XSPC",
-      "name": "VegaShares SpaceX & Beyond Earth ETF",
+      "name": "VegaShares Space & AI ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -78522,6 +78576,12 @@
       "symbol": "XWNG",
       "name": "Amplify Top 10 Space ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XX",
+      "name": "Roundhill S&P 500 Target 10,000 2030 ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
