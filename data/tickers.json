@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-02T02:00:18.241045Z",
-  "count": 13299,
+  "lastUpdated": "2026-10-03T01:42:59.234072Z",
+  "count": 13295,
   "tickers": [
     {
       "symbol": "A",
@@ -7470,6 +7470,12 @@
       "symbol": "BCO",
       "name": "Brinks Company (The) Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BCOM",
+      "name": "Rareview Bloomberg Commodity Index ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -15279,24 +15285,6 @@
       "isETF": false
     },
     {
-      "symbol": "COLA",
-      "name": "Columbus Acquisition Corp - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "COLAR",
-      "name": "Columbus Acquisition Corp - Rights",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "COLAU",
-      "name": "Columbus Acquisition Corp - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "COLB",
       "name": "Columbia Banking System, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -20603,6 +20591,12 @@
     {
       "symbol": "DX$C",
       "name": "Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "DX$D",
+      "name": "Dynex Capital, Inc. 9.375% Series D Fixed-Rate Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -27387,12 +27381,6 @@
       "isETF": false
     },
     {
-      "symbol": "FSEA",
-      "name": "First Seacoast Bancorp, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FSEC",
       "name": "Fidelity Investment Grade Securitized ETF",
       "exchange": "NYSE ARCA",
@@ -29237,12 +29225,6 @@
     {
       "symbol": "GFAI",
       "name": "Guardforce AI Co., Limited - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GFAIW",
-      "name": "Guardforce AI Co., Limited - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -45657,6 +45639,12 @@
       "isETF": false
     },
     {
+      "symbol": "MN",
+      "name": "Corgi MANGOS ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "MNA",
       "name": "NYLIM Merger Arbitrage ETF",
       "exchange": "NYSE ARCA",
@@ -49749,9 +49737,15 @@
       "isETF": false
     },
     {
-      "symbol": "NSTS",
-      "name": "NSTS Bancorp, Inc. - Common Stock",
-      "exchange": "NASDAQ",
+      "symbol": "NSTR",
+      "name": "NorthStar Earth & Space Enterprises, Inc. Common Shares",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "NSTR.W",
+      "name": "NorthStar Earth & Space Enterprises, Inc. Warrants",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -56962,7 +56956,7 @@
     },
     {
       "symbol": "PUSA",
-      "name": "Aureus Greenway Holdings Inc. - Common Stock",
+      "name": "Powerus Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -61631,6 +61625,12 @@
     {
       "symbol": "SAIL",
       "name": "SailPoint, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SAIQ",
+      "name": "WISeSat.Space Holdings Corp. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69063,12 +69063,6 @@
       "isETF": false
     },
     {
-      "symbol": "THRMV",
-      "name": "Gentherm Inc - Gentherm Inc Common Stock When-Issued",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "THRO",
       "name": "iShares U.S. Thematic Rotation Active ETF",
       "exchange": "NYSE ARCA",
@@ -73397,24 +73391,6 @@
     {
       "symbol": "VAC",
       "name": "Marriott Vacations Worldwide Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VACI",
-      "name": "Viking Acquisition Corp. I Class A Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VACI.U",
-      "name": "Viking Acquisition Corp. I Units, each consisting of one Class A ordinary share and one-third of one Warrant",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VACI.W",
-      "name": "Viking Acquisition Corp. I Warrants to purchase one Class A Ordinary Share",
       "exchange": "NYSE",
       "isETF": false
     },
