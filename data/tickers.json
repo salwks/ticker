@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-05T01:36:09.971387Z",
-  "count": 13295,
+  "lastUpdated": "2026-10-06T02:41:10.404155Z",
+  "count": 13289,
   "tickers": [
     {
       "symbol": "A",
@@ -1596,12 +1596,6 @@
       "symbol": "AESR",
       "name": "Anfield U.S. Equity Sector Rotation ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "AETH",
-      "name": "Bitwise Trendwise Ether and Treasuries Rotation Strategy ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -7305,8 +7299,8 @@
       "isETF": false
     },
     {
-      "symbol": "BCAT.V",
-      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights when issued",
+      "symbol": "BCAT.R",
+      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -17841,24 +17835,6 @@
       "isETF": false
     },
     {
-      "symbol": "DBRG$H",
-      "name": "DigitalBridge Group, Inc. 7.125% Series H",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "DBRG$I",
-      "name": "DigitalBridge Group, Inc. 7.15% Series I",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "DBRG$J",
-      "name": "DigitalBridge Group, Inc. 7.125% Series J",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "DBVT",
       "name": "DBV Technologies S.A. - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -18113,7 +18089,7 @@
     {
       "symbol": "DDS",
       "name": "Dillard's, Inc. Common Stock",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -18125,7 +18101,7 @@
     {
       "symbol": "DDT",
       "name": "Dillard's Capital Trust I",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -18406,7 +18382,7 @@
     },
     {
       "symbol": "DFAC",
-      "name": "Dimensional U.S. Core Equity 2 ETF",
+      "name": "U.S. Core Equity 2 Portfolio ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -18436,13 +18412,13 @@
     },
     {
       "symbol": "DFAS",
-      "name": "Dimensional U.S. Small Cap ETF",
+      "name": "U.S. Small Cap Portfolio: ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "DFAT",
-      "name": "Dimensional U.S. Targeted Value ETF",
+      "name": "U.S. Targeted Value Portfolio ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19800,12 +19776,6 @@
       "symbol": "DRAY",
       "name": "YieldMax DKNG Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "DRCT",
-      "name": "Direct Digital Holdings, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -23171,13 +23141,13 @@
     {
       "symbol": "ET",
       "name": "Energy Transfer LP Common Units",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
       "symbol": "ET$I",
       "name": "Energy Transfer L.P. Series I Fixed Rate Perpetual Preferred Units",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -31641,12 +31611,6 @@
       "isETF": false
     },
     {
-      "symbol": "GWH",
-      "name": "ESS Tech, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "GWRE",
       "name": "Guidewire Software, Inc. Common Stock",
       "exchange": "NYSE",
@@ -35685,12 +35649,6 @@
       "isETF": false
     },
     {
-      "symbol": "ILCB",
-      "name": "iShares Morningstar Large-Cap ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "ILCG",
       "name": "iShares Morningstar Large-Cap Growth ETF",
       "exchange": "NYSE ARCA",
@@ -36723,8 +36681,20 @@
       "isETF": false
     },
     {
+      "symbol": "IPHX",
+      "name": "Inflection Point Acquisition Corp. VIII - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IPHXU",
       "name": "Inflection Point Acquisition Corp. VIII - Unit",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IPHXW",
+      "name": "Inflection Point Acquisition Corp. VIII - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -37110,12 +37080,6 @@
       "symbol": "ISBG",
       "name": "IncomeSTKd 1x Bitcoin & 1x Gold Premium ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "ISCB",
-      "name": "iShares Morningstar Small-Cap ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -45447,6 +45411,12 @@
       "isETF": false
     },
     {
+      "symbol": "MLRG",
+      "name": "iShares MSCI USA ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "MLSS",
       "name": "Milestone Scientific, Inc. Common Stock",
       "exchange": "AMEX",
@@ -46542,6 +46512,12 @@
       "symbol": "MSM",
       "name": "MSC Industrial Direct Company, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MSML",
+      "name": "iShares MSCI USA Small-Cap ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -61185,6 +61161,12 @@
       "isETF": false
     },
     {
+      "symbol": "RWAYM",
+      "name": "Runway Growth Finance Corp. - 7.75% Notes Due 2031",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RWEM",
       "name": "Rayliant Wilshire NxtGen Emerging Markets Equity ETF",
       "exchange": "NYSE ARCA",
@@ -67133,7 +67115,7 @@
     {
       "symbol": "SUN",
       "name": "Sunoco LP Common Units representing limited partner interests",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -67145,7 +67127,7 @@
     {
       "symbol": "SUNC",
       "name": "SunocoCorp LLC Common Units, representing limited liability company interests",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -67977,8 +67959,20 @@
       "isETF": false
     },
     {
+      "symbol": "TBCV",
+      "name": "Thunder Bridge Capital Partners V, Ltd. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TBCVU",
       "name": "Thunder Bridge Capital Partners V, Ltd. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TBCVW",
+      "name": "Thunder Bridge Capital Partners V, Ltd. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -71487,12 +71481,6 @@
       "isETF": false
     },
     {
-      "symbol": "TWOD",
-      "name": "Two Harbors Investments Corp 9.375% Senior Notes due 2030",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "TWOX",
       "name": "iShares Large Cap Accelerated Outcome ETF",
       "exchange": "BATS",
@@ -72677,7 +72665,7 @@
     {
       "symbol": "USAC",
       "name": "USA Compression Partners, LP Common Units Representing Limited Partner Interests",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -74343,6 +74331,12 @@
       "isETF": false
     },
     {
+      "symbol": "VJET",
+      "name": "Flyte Aviation, Inc. Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "VKI",
       "name": "Invesco Advantage Municipal Income Trust II Common Shares of Beneficial Interest (DE)",
       "exchange": "AMEX",
@@ -75099,12 +75093,6 @@
       "isETF": false
     },
     {
-      "symbol": "VTAK",
-      "name": "Catheter Precision, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "VTC",
       "name": "Vanguard Total Corporate Bond ETF",
       "exchange": "NASDAQ",
@@ -75492,18 +75480,6 @@
       "symbol": "WAL$A",
       "name": "Western Alliance Bancorporation Depositary Shares, Each Representing a 1/400th Interest in a Share of 4.250% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WALD",
-      "name": "Waldencast plc - Class A Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "WALDW",
-      "name": "Waldencast plc - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -76233,12 +76209,6 @@
       "isETF": false
     },
     {
-      "symbol": "WKEY",
-      "name": "WISeKey International Holding Ltd - American Depositary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "WKHS",
       "name": "Workhorse Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -76511,6 +76481,12 @@
     {
       "symbol": "WPRT",
       "name": "Westport Fuel Systems Inc - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WQEY",
+      "name": "WISeQey Corp - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -77142,12 +77118,6 @@
       "symbol": "XBJL",
       "name": "Innovator U.S. Equity Accelerated 9 Buffer ETF - July",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "XBNB",
-      "name": "Teucrium xETFs 2x Long Daily BNB ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -79571,12 +79541,6 @@
     {
       "symbol": "ZSB",
       "name": "USCF Sustainable Battery Metals Strategy Fund",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ZSC",
-      "name": "USCF Sustainable Commodity Strategy Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
