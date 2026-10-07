@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T02:41:10.404155Z",
+  "lastUpdated": "2026-10-07T02:05:31.044540Z",
   "count": 13289,
   "tickers": [
     {
@@ -16804,8 +16804,8 @@
     },
     {
       "symbol": "CTGG",
-      "name": "Qwest Corporation 6.500% Senior Notes due 2051 (denominations of $25)",
-      "exchange": "NYSE",
+      "name": "Qwest Corporation - 6.500% Notes due 2051",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -16816,8 +16816,8 @@
     },
     {
       "symbol": "CTHH",
-      "name": "Qwest Corporation 6.750% Senior Notes due 2052 (denominations of $25)",
-      "exchange": "NYSE",
+      "name": "Qwest Corporation - 6.750% Notes due 2052",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -30057,6 +30057,12 @@
       "isETF": false
     },
     {
+      "symbol": "GMAC",
+      "name": "Simplify Brookwood Global Macro ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GMAR",
       "name": "FT Vest U.S. Equity Moderate Buffer ETF - March",
       "exchange": "BATS",
@@ -32478,6 +32484,12 @@
       "symbol": "HFGO",
       "name": "Hartford Large Cap Growth ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "HFIX",
+      "name": "Nomura High Yield Total Return ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -41523,12 +41535,6 @@
       "isETF": false
     },
     {
-      "symbol": "LESL",
-      "name": "Leslie's, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LEU",
       "name": "Centrus Energy Corp. Class A Common Stock",
       "exchange": "NYSE",
@@ -42988,8 +42994,8 @@
     },
     {
       "symbol": "LUMN",
-      "name": "Lumen Technologies, Inc. Common Stock",
-      "exchange": "NYSE",
+      "name": "Lumen Technologies, Inc.  - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -48699,12 +48705,6 @@
       "isETF": false
     },
     {
-      "symbol": "NHPBP",
-      "name": "National Healthcare Properties, Inc. - 7.125% Series B Cumulative Redeemable Perpetual Preferred Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NHS",
       "name": "Neuberger High Yield Strategies Fund Inc. Common Stock",
       "exchange": "AMEX",
@@ -53109,6 +53109,12 @@
       "isETF": false
     },
     {
+      "symbol": "PAXGU",
+      "name": "Pine Tree Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PAXS",
       "name": "PIMCO Access Income Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -56517,12 +56523,6 @@
       "isETF": false
     },
     {
-      "symbol": "PSKY",
-      "name": "Paramount Skydance Corporation - Class B Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PSL",
       "name": "Invesco Dorsey Wright Consumer Staples Momentum ETF",
       "exchange": "NASDAQ",
@@ -58103,12 +58103,6 @@
     {
       "symbol": "QRMI",
       "name": "Global X NASDAQ 100 Risk Managed Income ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "QRVO",
-      "name": "Qorvo, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64044,6 +64038,12 @@
       "symbol": "SKYAW",
       "name": "SkyAI, Inc. - Warrant",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SKYD",
+      "name": "Skydance Corporation Class B Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -71793,6 +71793,12 @@
       "isETF": false
     },
     {
+      "symbol": "UBIQ",
+      "name": "AAM Ubiquitous ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "UBND",
       "name": "VictoryShares Core Plus Bond ETF",
       "exchange": "NASDAQ",
@@ -73241,12 +73247,6 @@
     {
       "symbol": "UWMC",
       "name": "UWM Holdings Corporation Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "UWMC.V",
-      "name": "UWM Holdings Corporation Rights (November 12, 2026) Rights when issued",
       "exchange": "NYSE",
       "isETF": false
     },
