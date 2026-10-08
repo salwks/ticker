@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-07T02:05:31.044540Z",
-  "count": 13289,
+  "lastUpdated": "2026-10-08T02:31:04.294627Z",
+  "count": 13288,
   "tickers": [
     {
       "symbol": "A",
@@ -1044,6 +1044,12 @@
       "symbol": "ACXP",
       "name": "Acurx Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACYB",
+      "name": "FT Vest Laddered Autocallable Buffer & Resilient Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -3916,7 +3922,7 @@
     },
     {
       "symbol": "AOCT",
-      "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2026",
+      "name": "Innovator Equity Defined Protection ETF - 2 Yr to October 2028",
       "exchange": "BATS",
       "isETF": false
     },
@@ -4463,12 +4469,6 @@
     {
       "symbol": "ARBE",
       "name": "Arbe Robotics Ltd. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ARBEW",
-      "name": "Arbe Robotics Ltd. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -7023,12 +7023,6 @@
       "isETF": false
     },
     {
-      "symbol": "BBBYW",
-      "name": "Neighborhood Intelligence, Inc.  - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BBC",
       "name": "Virtus Biotech Clinical Trials ETF",
       "exchange": "NYSE ARCA",
@@ -7044,6 +7038,18 @@
       "symbol": "BBCB",
       "name": "JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "BBCI",
+      "name": "Bradbury Capital Inc. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BBCIW",
+      "name": "Bradbury Capital Inc. - Warrants",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -9192,12 +9198,6 @@
       "symbol": "BLES",
       "name": "Inspire Global Hope ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "BLFS",
-      "name": "BioLife Solutions, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -15900,6 +15900,12 @@
       "symbol": "CPTL",
       "name": "Global X Morningstar Capital Allocation Leaders ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CPU",
+      "name": "Amplify Top 10 Semiconductors ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -35691,18 +35697,6 @@
       "isETF": false
     },
     {
-      "symbol": "ILLR",
-      "name": "Triller Group Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ILLRW",
-      "name": "Triller Group Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ILLU",
       "name": "Illumination Acquisition Corp I - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -49029,12 +49023,6 @@
       "isETF": false
     },
     {
-      "symbol": "NMCO.R",
-      "name": "Nuveen Municipal Credit Opportunities Fund Rights (expiring October 7, 2026) Rights",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "NMFC",
       "name": "New Mountain Finance Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -50855,6 +50843,12 @@
     {
       "symbol": "OAKI",
       "name": "Oakmark International Large Cap ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "OAKL",
+      "name": "Oakmark U.S. Concentrated ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -59811,6 +59805,12 @@
       "isETF": false
     },
     {
+      "symbol": "RINK",
+      "name": "Russell Investments Multisector Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RINT",
       "name": "Russell Investments International Developed Equity ETF",
       "exchange": "NASDAQ",
@@ -64263,12 +64263,6 @@
       "isETF": false
     },
     {
-      "symbol": "SLP",
-      "name": "Simulations Plus, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SLQD",
       "name": "iShares 0-5 Year Investment Grade Corporate Bond ETF",
       "exchange": "NASDAQ",
@@ -64314,6 +64308,12 @@
       "symbol": "SLV",
       "name": "iShares Silver Trust",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SLVI",
+      "name": "NEOS Silver High Income ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -64746,6 +64746,12 @@
       "symbol": "SMTI",
       "name": "Sanara MedTech Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SMTJ",
+      "name": "Synera Funds Takumi+ ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -65727,24 +65733,6 @@
       "isETF": false
     },
     {
-      "symbol": "SPKL",
-      "name": "Spark I Acquisition Corp. - Class A Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SPKLU",
-      "name": "Spark I Acquisition Corp. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SPKLW",
-      "name": "Spark I Acquisition Corp. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SPLB",
       "name": "State Street SPDR Portfolio Long Term Corporate Bond ETF",
       "exchange": "NYSE ARCA",
@@ -66035,6 +66023,12 @@
     {
       "symbol": "SPXN",
       "name": "ProShares S&P 500 Ex-Financials ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SPXP",
+      "name": "Direxion U.S. 500 Plus ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -75555,12 +75549,6 @@
       "isETF": false
     },
     {
-      "symbol": "WBD",
-      "name": "Warner Bros. Discovery, Inc. - Series A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "WBI",
       "name": "WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests",
       "exchange": "NYSE",
@@ -76440,6 +76428,12 @@
       "symbol": "WOR",
       "name": "Worthington Enterprises, Inc. Common Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WORX",
+      "name": "SCWorx Corp. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
