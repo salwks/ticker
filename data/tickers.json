@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T02:31:04.294627Z",
-  "count": 13288,
+  "lastUpdated": "2026-10-09T02:47:01.244235Z",
+  "count": 13293,
   "tickers": [
     {
       "symbol": "A",
@@ -62007,8 +62007,26 @@
       "isETF": false
     },
     {
+      "symbol": "SCAT",
+      "name": "Southern Cross Acquisition II Corp. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCATR",
+      "name": "Southern Cross Acquisition II Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCATU",
       "name": "Southern Cross Acquisition II Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCATW",
+      "name": "Southern Cross Acquisition II Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -68098,14 +68116,14 @@
     },
     {
       "symbol": "TCBI",
-      "name": "Texas Capital Bancshares, Inc. - Common Stock",
-      "exchange": "NASDAQ",
+      "name": "Texas Capital Bancshares, Inc. Common Stock",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
-      "symbol": "TCBIO",
-      "name": "Texas Capital Bancshares, Inc. - Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
-      "exchange": "NASDAQ",
+      "symbol": "TCBI$B",
+      "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -76635,6 +76653,12 @@
       "isETF": false
     },
     {
+      "symbol": "WSLS",
+      "name": "WisdomTree Efficient Long/Short U.S. SmallCap Equity Fund",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
       "symbol": "WSM",
       "name": "Williams-Sonoma, Inc. Common Stock (DE)",
       "exchange": "NYSE",
@@ -76704,6 +76728,12 @@
       "symbol": "WTAI",
       "name": "WisdomTree Artificial Intelligence and Innovation Fund",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "WTAL",
+      "name": "WisdomTree Global Alpha Fund",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
