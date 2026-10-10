@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T02:47:01.244235Z",
-  "count": 13293,
+  "lastUpdated": "2026-10-10T02:04:59.978287Z",
+  "count": 13297,
   "tickers": [
     {
       "symbol": "A",
@@ -2418,6 +2418,12 @@
       "symbol": "AIO",
       "name": "Virtus Artificial Intelligence & Technology Opportunities Fund Common Shares of Beneficial Interest",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AIOK",
+      "name": "AI OKTO CORP. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7596,6 +7602,12 @@
       "symbol": "BD",
       "name": "Russell Investments Core Plus Bond ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "BDAI",
+      "name": "Biddance AI Systems, Inc. - Class A Ordinary Share",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -19732,7 +19744,7 @@
     },
     {
       "symbol": "DPU",
-      "name": "Top KingWin Ltd - Class A Ordinary Shares",
+      "name": "Nexpu Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32793,12 +32805,6 @@
       "isETF": false
     },
     {
-      "symbol": "HKIT",
-      "name": "Hitek Global Inc. - Class A Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HKPD",
       "name": "Cellyan Biotechnology Co., Ltd  - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -43413,12 +43419,6 @@
       "isETF": false
     },
     {
-      "symbol": "MAMK",
-      "name": "MaxsMaking Inc. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MAMO",
       "name": "Massimo Group - Common Stock",
       "exchange": "NASDAQ",
@@ -44968,7 +44968,7 @@
     },
     {
       "symbol": "MID",
-      "name": "American Century Mid Cap Growth Impact ETF",
+      "name": "American Century Mid Cap Growth Insights ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -50319,18 +50319,6 @@
       "isETF": false
     },
     {
-      "symbol": "NVNI",
-      "name": "Nvni Group Limited - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NVNIW",
-      "name": "Nvni Group Limited - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NVNO",
       "name": "enVVeno Medical Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -52062,6 +52050,12 @@
       "symbol": "OPTH",
       "name": "Optimi Health Corp. - Common Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OPTO",
+      "name": "Tuttle Capital Photonics Income Blast ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -60972,6 +60966,12 @@
       "symbol": "RTRE",
       "name": "Rareview Total Return Bond ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "RTSN",
+      "name": "Retension Pharmaceuticals, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -70779,6 +70779,12 @@
       "isETF": false
     },
     {
+      "symbol": "TRXB",
+      "name": "TRex Bio, Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TRXS",
       "name": "Canary Staked TRX ETF",
       "exchange": "BATS",
@@ -74081,6 +74087,12 @@
     {
       "symbol": "VGT",
       "name": "Vanguard Information Tech ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VGTX",
+      "name": "XFUNDS Technology Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -78567,9 +78579,21 @@
       "isETF": false
     },
     {
+      "symbol": "XXQQ",
+      "name": "Subversive Growth 100 Redacted ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "XXRP",
       "name": "Teucrium 2x Long Daily XRP ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XXSP",
+      "name": "Subversive S&P 500 Redacted ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
