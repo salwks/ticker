@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-12T02:03:33.258323Z",
-  "count": 13297,
+  "lastUpdated": "2026-10-13T03:20:58.918935Z",
+  "count": 13296,
   "tickers": [
     {
       "symbol": "A",
@@ -816,6 +816,12 @@
       "symbol": "ACM",
       "name": "AECOM Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ACMG",
+      "name": "American Century Mid Cap Growth Insights ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -37023,6 +37029,12 @@
       "isETF": false
     },
     {
+      "symbol": "IRLA",
+      "name": "IRulya Therapeutics Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "IRM",
       "name": "Iron Mountain Incorporated (Delaware)Common Stock REIT",
       "exchange": "NYSE",
@@ -44964,12 +44976,6 @@
       "symbol": "MICC",
       "name": "The Magnum Ice Cream Company N.V. Ordinary Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MID",
-      "name": "American Century Mid Cap Growth Insights ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -57786,12 +57792,6 @@
       "symbol": "QNC",
       "name": "Quantum eMotion Corp. Common Shares",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "QNCX",
-      "name": "Quince Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -75484,7 +75484,7 @@
     },
     {
       "symbol": "WAFU",
-      "name": "Wah Fu Education Group Limited - Ordinary Shares",
+      "name": "Wah Fu Education & Technology Group Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -78172,19 +78172,13 @@
     },
     {
       "symbol": "XRPN",
-      "name": "Armada Acquisition Corp. II - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "XRPNU",
-      "name": "Armada Acquisition Corp. II - Units",
+      "name": "Evernorth Holdings Inc. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "XRPNW",
-      "name": "Armada Acquisition Corp. II - Warrant",
+      "name": "Evernorth Holdings Inc. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
