@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T03:20:58.918935Z",
-  "count": 13296,
+  "lastUpdated": "2026-10-14T01:35:11.093340Z",
+  "count": 13285,
   "tickers": [
     {
       "symbol": "A",
@@ -3783,12 +3783,6 @@
       "isETF": false
     },
     {
-      "symbol": "ANEW",
-      "name": "ProShares MSCI Transformational Changes ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "ANF",
       "name": "Abercrombie & Fitch Company Common Stock",
       "exchange": "NYSE",
@@ -6381,6 +6375,12 @@
       "isETF": false
     },
     {
+      "symbol": "AXNX",
+      "name": "Axonex AI Group Limited - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AXON",
       "name": "Axon Enterprise, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -7163,12 +7163,6 @@
     {
       "symbol": "BBLG",
       "name": "Bone Biologics Corp - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BBLGW",
-      "name": "Bone Biologics Corp - warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -14385,12 +14379,6 @@
       "isETF": false
     },
     {
-      "symbol": "CLIX",
-      "name": "ProShares Long Online/Short Stores ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "CLLS",
       "name": "Cellectis S.A. - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -16821,12 +16809,6 @@
       "isETF": false
     },
     {
-      "symbol": "CTEX",
-      "name": "ProShares S&P Kensho Cleantech ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "CTGG",
       "name": "Qwest Corporation - 6.500% Notes due 2051",
       "exchange": "NASDAQ",
@@ -17682,12 +17664,6 @@
       "symbol": "DASH",
       "name": "DoorDash, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DAT",
-      "name": "ProShares Big Data Refiners ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -30849,12 +30825,6 @@
       "isETF": false
     },
     {
-      "symbol": "GREEL",
-      "name": "Vulcan Infrastructure and Power Inc. - 8.50% Senior Notes due 2026",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GREK",
       "name": "Global X MSCI Greece ETF",
       "exchange": "NYSE ARCA",
@@ -43413,12 +43383,6 @@
       "isETF": false
     },
     {
-      "symbol": "MAKX",
-      "name": "ProShares S&P Kensho Smart Factories ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "MAMA",
       "name": "Mama's Creations, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -45017,12 +44981,6 @@
     {
       "symbol": "MILN",
       "name": "Global X Millennial Consumer ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MIMI",
-      "name": "Mint Incorporation Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50921,7 +50879,7 @@
     {
       "symbol": "OBK",
       "name": "Origin Bancorp, Inc. Common Stock",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -51702,12 +51660,6 @@
       "symbol": "ONCY",
       "name": "Oncolytics Biotech Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OND",
-      "name": "ProShares On-Demand ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -60375,6 +60327,12 @@
       "isETF": false
     },
     {
+      "symbol": "RNTZ",
+      "name": "Rantizo - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RNW",
       "name": "ReNew Energy Global plc - Class A Shares",
       "exchange": "NASDAQ",
@@ -63999,12 +63957,6 @@
       "isETF": false
     },
     {
-      "symbol": "SKK",
-      "name": "SKK Holdings Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SKM",
       "name": "SK Telecom Co., Ltd. Common Stock",
       "exchange": "NYSE",
@@ -64061,6 +64013,12 @@
     {
       "symbol": "SKYD",
       "name": "Skydance Corporation Class B Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "SKYD.V",
+      "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -67155,12 +67113,6 @@
       "isETF": false
     },
     {
-      "symbol": "SUPL",
-      "name": "ProShares Supply Chain Logistics ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "SUPN",
       "name": "Supernus Pharmaceuticals, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -69209,12 +69161,6 @@
     {
       "symbol": "TINS",
       "name": "Templeton International Insights ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "TINT",
-      "name": "ProShares Smart Materials ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -71943,12 +71889,6 @@
       "isETF": false
     },
     {
-      "symbol": "UCYB",
-      "name": "ProShares Ultra Nasdaq Cybersecurity",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "UDEC",
       "name": "Innovator U.S. Equity Ultra Buffer ETF - December",
       "exchange": "BATS",
@@ -73890,12 +73830,6 @@
       "symbol": "VERI",
       "name": "Veritone, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "VERS",
-      "name": "ProShares Metaverse ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
