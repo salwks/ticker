@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T01:35:11.093340Z",
-  "count": 13285,
+  "lastUpdated": "2026-10-15T01:12:06.948157Z",
+  "count": 13287,
   "tickers": [
     {
       "symbol": "A",
@@ -719,6 +719,12 @@
     {
       "symbol": "ACHC",
       "name": "Acadia Healthcare Company, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACHP",
+      "name": "Global X Asia Semiconductor ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -9045,12 +9051,6 @@
       "isETF": false
     },
     {
-      "symbol": "BKKT.W",
-      "name": "Bakkt, Inc. Warrants to purchase Class A Common Stock, each Warrant entitles a holder to purchase 1/25th of a share of Class A common stock at an exercise price of $287.50 for one share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BKLC",
       "name": "BNY Mellon US Large Cap Core Equity ETF",
       "exchange": "NYSE ARCA",
@@ -10812,6 +10812,12 @@
       "symbol": "BSRR",
       "name": "Sierra Bancorp - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BSRT",
+      "name": "BSR Real Estate Investment Trust Units",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -12726,12 +12732,6 @@
       "symbol": "CCNR",
       "name": "ALPS/CoreCommodity Natural Resources ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCO",
-      "name": "Clear Channel Outdoor Holdings, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -18507,6 +18507,12 @@
       "isETF": false
     },
     {
+      "symbol": "DFGV",
+      "name": "DFA Intermediate Government Fixed Income Portfolio: ETF Class Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DFGX",
       "name": "Dimensional International Core Fixed Income ETF",
       "exchange": "NASDAQ",
@@ -22212,12 +22218,6 @@
       "symbol": "EMR",
       "name": "Emerson Electric Company Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "EMSC",
-      "name": "Sophus Capital Emerging Market Small Cap ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -26352,6 +26352,12 @@
       "symbol": "FLSA",
       "name": "Franklin FTSE Saudi Arabia ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "FLSC",
+      "name": "Frazier Life Sciences Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -34149,12 +34155,6 @@
       "isETF": false
     },
     {
-      "symbol": "IAE",
-      "name": "Voya Asia Pacific High Dividend Equity Income Fund ING Asia Pacific High Dividend Equity Income Fund Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "IAF",
       "name": "abrdn Australia Equity Fund, Inc. Common Stock",
       "exchange": "AMEX",
@@ -35466,12 +35466,6 @@
       "symbol": "IHAK",
       "name": "iShares Cybersecurity and Tech ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "IHD",
-      "name": "Voya Emerging Markets High Income Dividend Equity Fund Common Shares",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -41140,7 +41134,7 @@
     },
     {
       "symbol": "LB",
-      "name": "LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests",
+      "name": "LandBridge Corporation Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -44741,6 +44735,12 @@
     {
       "symbol": "MGNX",
       "name": "MacroGenics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MGOL",
+      "name": "Leverage Shares MANGOS ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -50500,8 +50500,8 @@
     },
     {
       "symbol": "NXDR",
-      "name": "Nextdoor Holdings, Inc. Class A Common Stock",
-      "exchange": "NYSE",
+      "name": "Nextdoor Holdings, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -53991,6 +53991,12 @@
       "isETF": false
     },
     {
+      "symbol": "PEPT",
+      "name": "REX Peptide ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PERF",
       "name": "Perfect Corp. Class A Ordinary Share",
       "exchange": "NYSE",
@@ -55929,12 +55935,6 @@
       "isETF": false
     },
     {
-      "symbol": "PRIF$L",
-      "name": "Priority Income Fund, Inc. 6.375% Series L Term Preferred Stock Due 2029",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "PRIM",
       "name": "Primoris Services Corporation Common Stock",
       "exchange": "NYSE",
@@ -57456,24 +57456,6 @@
       "symbol": "QEMM",
       "name": "State Street SPDR MSCI Emerging Markets StrategicFactors ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "QETA",
-      "name": "Quetta Acquisition Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "QETAR",
-      "name": "Quetta Acquisition Corporation - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "QETAU",
-      "name": "Quetta Acquisition Corporation - Unit",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -60909,6 +60891,12 @@
       "isETF": false
     },
     {
+      "symbol": "RTHY",
+      "name": "F/m Long-Term Treasury Inflation-Protected Security (TIPS) ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RTO",
       "name": "Rentokil Initial plc American Depositary Shares (each representing five (5) Ordinary Shares)",
       "exchange": "NYSE",
@@ -64017,8 +64005,8 @@
       "isETF": false
     },
     {
-      "symbol": "SKYD.V",
-      "name": "Skydance Corporation Warrants to Purchase Class B Common Stock When-Issued",
+      "symbol": "SKYD.W",
+      "name": "Skydance Corporation Warrants to Purchase Class B Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -77589,6 +77577,12 @@
       "isETF": false
     },
     {
+      "symbol": "XLEM",
+      "name": "State Street S&P 500 Energy Market Sector SPDR ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "XLEX",
       "name": "Corgi U.S. Energy 2x Daily ETF",
       "exchange": "BATS",
@@ -77649,6 +77643,12 @@
       "isETF": false
     },
     {
+      "symbol": "XLKM",
+      "name": "State Street S&P 500 Technology Market Sector SPDR ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "XLKX",
       "name": "Corgi U.S. Technology 2x Daily ETF",
       "exchange": "BATS",
@@ -77670,6 +77670,12 @@
       "symbol": "XLPD",
       "name": "MicroSectors -3x Short Consumer Staples (XLP) ETNs",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XLPM",
+      "name": "State Street S&P 500 Consumer Staples Market Sector SPDR ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -77753,6 +77759,12 @@
     {
       "symbol": "XLYI",
       "name": "State Street Consumer Discretionary Select Sector SPDR Premium Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "XLYM",
+      "name": "State Street S&P 500 Consumer Discretionary Market Sector SPDR ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
