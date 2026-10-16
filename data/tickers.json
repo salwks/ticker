@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T01:12:06.948157Z",
-  "count": 13287,
+  "lastUpdated": "2026-10-16T00:59:33.946558Z",
+  "count": 13292,
   "tickers": [
     {
       "symbol": "A",
@@ -3585,6 +3585,12 @@
       "isETF": false
     },
     {
+      "symbol": "AMRO",
+      "name": "Amaero Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AMRX",
       "name": "Amneal Pharmaceuticals, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -5073,12 +5079,6 @@
       "isETF": false
     },
     {
-      "symbol": "ASGI.R",
-      "name": "abrdn Global Infrastructure Income Fund Rights (expiring October 15, 2026) Rights",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "ASGM",
       "name": "Virtus AlphaSimplex Global Macro ETF",
       "exchange": "NYSE ARCA",
@@ -6240,6 +6240,12 @@
       "symbol": "AVTX",
       "name": "Avalo Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AVUC",
+      "name": "Avantis U.S. Core Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -9519,6 +9525,12 @@
       "isETF": false
     },
     {
+      "symbol": "BMMX",
+      "name": "Black Mammoth Metals Corporation - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BMN",
       "name": "BlackRock 2037 Municipal Target Term Trust Common Shares of Beneficial Interest",
       "exchange": "NYSE",
@@ -11514,12 +11526,6 @@
       "symbol": "BWMX",
       "name": "Betterware de Mexico, S.A.P.I. de C.V. Ordinary Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BWOW",
-      "name": "Bitwise Dogecoin ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -28491,6 +28497,12 @@
       "isETF": false
     },
     {
+      "symbol": "GANZ",
+      "name": "Tuttle Capital Thematic ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "GAP",
       "name": "Gap, Inc. (The) Common Stock",
       "exchange": "NYSE",
@@ -33958,7 +33970,7 @@
     },
     {
       "symbol": "HYGW",
-      "name": "iShares High Yield Corporate Bond BuyWrite Strategy ETF",
+      "name": "iShares HYG Premium Income+ ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -34187,6 +34199,12 @@
     {
       "symbol": "IALT",
       "name": "iShares Systematic Alternatives Active ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IAM",
+      "name": "Iambic Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -37582,7 +37600,7 @@
     },
     {
       "symbol": "IVVW",
-      "name": "iShares S&P 500 BuyWrite ETF",
+      "name": "iShares IVV Premium Income+ ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -37654,7 +37672,7 @@
     },
     {
       "symbol": "IWMW",
-      "name": "iShares Russell 2000 BuyWrite ETF",
+      "name": "iShares IWM Premium Income+ ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -42622,7 +42640,7 @@
     },
     {
       "symbol": "LQDW",
-      "name": "iShares Investment Grade Corporate Bond BuyWrite Strategy ETF",
+      "name": "iShares LQD Premium Income+ ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -64677,6 +64695,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMRZ",
+      "name": "Global X Small Modular Reactor ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SMSI",
       "name": "Smith Micro Software, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -65003,12 +65027,6 @@
     {
       "symbol": "SNUS$H",
       "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series H",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SNUS$I",
-      "name": "Santander Holdings USA, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series I",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -69502,7 +69520,7 @@
     },
     {
       "symbol": "TLTW",
-      "name": "iShares 20+ Year Treasury Bond BuyWrite Strategy ETF",
+      "name": "iShares TLT Premium Income+ ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -75501,9 +75519,21 @@
       "isETF": false
     },
     {
+      "symbol": "WBEM",
+      "name": "William Blair Emerging Markets Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "WBI",
       "name": "WaterBridge Infrastructure LLC Class A Shares Representing Limited Liability Company Interests",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "WBIE",
+      "name": "William Blair International Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
