@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T00:59:33.946558Z",
-  "count": 13292,
+  "lastUpdated": "2026-10-17T01:03:11.640823Z",
+  "count": 13308,
   "tickers": [
     {
       "symbol": "A",
@@ -23,6 +23,12 @@
     {
       "symbol": "AAAA",
       "name": "Amplius Aggressive Asset Allocation ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "AAAB",
+      "name": "Corgi FTSE Aaa-A Intermediate Corporate Bond ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -1467,12 +1473,6 @@
       "isETF": false
     },
     {
-      "symbol": "AELV",
-      "name": "Harbor AlphaEdge Large Cap Value ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "AEM",
       "name": "Agnico Eagle Mines Limited Common Stock",
       "exchange": "NYSE",
@@ -1848,6 +1848,12 @@
       "symbol": "AGGA",
       "name": "EA Astoria Beacon Dynamic Core US Fixed Income ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AGGB",
+      "name": "Corgi FTSE U.S. Aggregate Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -3798,6 +3804,12 @@
       "symbol": "ANF",
       "name": "Abercrombie & Fitch Company Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ANG",
+      "name": "Corgi FTSE Fallen Angels Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -7026,6 +7038,12 @@
       "symbol": "BBB",
       "name": "CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BBBB",
+      "name": "Corgi FTSE BBB Rated Corporate Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -16979,6 +16997,12 @@
     {
       "symbol": "CTXR",
       "name": "Citius Pharmaceuticals, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CTY",
+      "name": "City Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -27789,6 +27813,12 @@
       "isETF": false
     },
     {
+      "symbol": "FTN",
+      "name": "Corgi FTSE 5-10 Year IG Corporate Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "FTNJ",
       "name": "Franklin New Jersey Municipal Income ETF",
       "exchange": "NYSE ARCA",
@@ -28656,6 +28686,12 @@
       "symbol": "GCAL",
       "name": "Goldman Sachs Dynamic California Municipal Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "GCB",
+      "name": "Corgi FTSE Intermediate Government/Credit Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -32601,6 +32637,12 @@
       "isETF": false
     },
     {
+      "symbol": "HH",
+      "name": "Corgi FTSE High Yield Corporate Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "HHH",
       "name": "Howard Hughes Holdings Inc. Common Stock",
       "exchange": "NYSE",
@@ -33018,6 +33060,12 @@
       "symbol": "HOG",
       "name": "Harley-Davidson, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HOID",
+      "name": "Tuttle - Rareview Humanoid Robotics ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -34473,12 +34521,6 @@
       "isETF": false
     },
     {
-      "symbol": "IBIC",
-      "name": "iShares iBonds Oct 2026 Term TIPS ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "IBID",
       "name": "iShares iBonds Oct 2027 Term TIPS ETF",
       "exchange": "NYSE ARCA",
@@ -35340,6 +35382,12 @@
       "symbol": "IGACU",
       "name": "Invest Green Acquisition Corporation - Units",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IGB",
+      "name": "Corgi FTSE U.S. IG Corporate Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -41889,6 +41937,12 @@
       "isETF": false
     },
     {
+      "symbol": "LIGB",
+      "name": "Corgi FTSE 10 Year IG Corporate Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "LII",
       "name": "Lennox International, Inc. Common Stock",
       "exchange": "NYSE",
@@ -42840,6 +42894,12 @@
       "symbol": "LTAX",
       "name": "Nomura Tax-Free USA ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "LTB",
+      "name": "Corgi FTSE 20 Year U.S. Treasury Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -45462,6 +45522,12 @@
       "symbol": "MMEDV",
       "name": "MiniMed Group, Inc. - Common Stock When Issued",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MMF",
+      "name": "Corgi Money Market ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -67323,6 +67389,12 @@
       "isETF": false
     },
     {
+      "symbol": "SVTN",
+      "name": "Corgi FTSE 7-10 Year U.S. Treasury Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SVV",
       "name": "Savers Value Village, Inc. Common Stock",
       "exchange": "NYSE",
@@ -68177,6 +68249,12 @@
     {
       "symbol": "TCX",
       "name": "Tucows Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "TCXB",
+      "name": "TCGX Acquisition Corp. II - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -69861,6 +69939,12 @@
       "isETF": false
     },
     {
+      "symbol": "TNTW",
+      "name": "Corgi FTSE 10-20 Year U.S. Treasury Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TNUK",
       "name": "Tortoise Nuclear Renaissance ETF",
       "exchange": "NYSE ARCA",
@@ -71193,6 +71277,12 @@
       "isETF": false
     },
     {
+      "symbol": "TTTT",
+      "name": "Corgi FTSE U.S. TIPS Bond ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "TTWO",
       "name": "Take-Two Interactive Software, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -71742,6 +71832,12 @@
       "symbol": "UAVS",
       "name": "AgEagle Aerial Systems, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "UB",
+      "name": "Corgi FTSE U.S. Treasury Bond ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
