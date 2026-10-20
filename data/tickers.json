@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T00:48:40.841021Z",
-  "count": 13308,
+  "lastUpdated": "2026-10-20T01:34:46.673480Z",
+  "count": 13306,
   "tickers": [
     {
       "symbol": "A",
@@ -789,6 +789,12 @@
       "isETF": false
     },
     {
+      "symbol": "ACIV",
+      "name": "Hartford Alpha Capture International Value ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "ACIW",
       "name": "ACI Worldwide, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -1013,12 +1019,6 @@
     {
       "symbol": "ACV",
       "name": "Virtus Diversified Income & Convertible Fund Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ACVA",
-      "name": "ACV Auctions Inc. Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -2283,6 +2283,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIED",
+      "name": "Defiance LLM Catalyst Momentum ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AIEQ",
       "name": "Amplify AI Powered Equity ETF",
       "exchange": "NYSE ARCA",
@@ -3513,12 +3519,6 @@
       "isETF": false
     },
     {
-      "symbol": "AMOM",
-      "name": "QRAFT AI-Enhanced U.S. Large Cap Momentum ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "AMP",
       "name": "Ameriprise Financial, Inc. Common Stock",
       "exchange": "NYSE",
@@ -3652,7 +3652,7 @@
     },
     {
       "symbol": "AMTD",
-      "name": "AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares",
+      "name": "AMTD IDEA Group American Depositary Shares, each representing three hundred sixty (360) Class A Ordinary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -5538,12 +5538,6 @@
       "symbol": "ATIIW",
       "name": "Archimedes Tech SPAC Partners II Co. - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATKR",
-      "name": "Atkore Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -11103,12 +11097,6 @@
       "isETF": false
     },
     {
-      "symbol": "BTRN",
-      "name": "Global X Bitcoin Trend Strategy ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "BTSG",
       "name": "BrightSpring Health Services, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -13036,8 +13024,8 @@
     },
     {
       "symbol": "CECO",
-      "name": "CECO Environmental Corp. - Common Stock",
-      "exchange": "NASDAQ",
+      "name": "CECO Environmental Corp. Common Stock",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -17919,6 +17907,12 @@
       "isETF": false
     },
     {
+      "symbol": "DCM",
+      "name": "DeFi Capital Markets, Inc. Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "DCMT",
       "name": "DoubleLine Commodity Strategy ETF",
       "exchange": "NYSE ARCA",
@@ -21484,7 +21478,7 @@
     },
     {
       "symbol": "EFTY",
-      "name": "Etoiles Capital Group Co., Ltd. - Class A Ordinary Shares",
+      "name": "Etoiles Capital Group Co., Ltd. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32751,6 +32745,12 @@
       "isETF": false
     },
     {
+      "symbol": "HINC",
+      "name": "Hartford High Yield ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HIND",
       "name": "Vyome Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -34690,8 +34690,8 @@
     },
     {
       "symbol": "IBOC",
-      "name": "International Bancshares Corporation - Common Stock",
-      "exchange": "NASDAQ",
+      "name": "International Bancshares Corporation Common Stock",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -37109,12 +37109,6 @@
     {
       "symbol": "IRTR",
       "name": "iShares LifePath Retirement ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "IRVH",
-      "name": "Global X Interest Rate Volatility & Inflation Hedge ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -41385,6 +41379,12 @@
       "isETF": false
     },
     {
+      "symbol": "LCU",
+      "name": "Lion Copper Corp. - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LCUT",
       "name": "Lifetime Brands, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -42756,12 +42756,6 @@
       "symbol": "LRGG",
       "name": "Nomura Focused Large Growth ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "LRHC",
-      "name": "La Rosa Holdings Corp. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -45515,12 +45509,6 @@
     {
       "symbol": "MMED",
       "name": "MiniMed Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MMEDV",
-      "name": "MiniMed Group, Inc. - Common Stock When Issued",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48742,7 +48730,7 @@
     },
     {
       "symbol": "NHP",
-      "name": "National Healthcare Properties, Inc. - Class A Common Stock",
+      "name": "National Healthcare Properties, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -57429,12 +57417,6 @@
       "isETF": false
     },
     {
-      "symbol": "QCLR",
-      "name": "Global X NASDAQ 100 Collar 95-110 ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "QCLS",
       "name": "Q/C Technologies, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -62757,12 +62739,6 @@
       "isETF": false
     },
     {
-      "symbol": "SEATW",
-      "name": "Vivid Seats Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SEB",
       "name": "Seaboard Corporation Common Stock",
       "exchange": "AMEX",
@@ -62994,6 +62970,12 @@
       "symbol": "SEPZ",
       "name": "TrueShares Structured Outcome (September) ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "SEQ",
+      "name": "Sequoia ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -66195,6 +66177,12 @@
       "isETF": false
     },
     {
+      "symbol": "SQBR",
+      "name": "FT Vest U.S. Equity Quarterly 20 Barrier ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "SQFT",
       "name": "Presidio Property Trust, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -66377,6 +66365,12 @@
     {
       "symbol": "SRTA",
       "name": "Strata Critical Medical, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SRTM",
+      "name": "Stratum Holdings Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -73245,12 +73239,6 @@
       "isETF": false
     },
     {
-      "symbol": "UUU",
-      "name": "Universal Safety Products, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "UUUC",
       "name": "Corgi UUUU 2x Daily ETF",
       "exchange": "BATS",
@@ -76221,6 +76209,12 @@
       "isETF": false
     },
     {
+      "symbol": "WINC",
+      "name": "William Blair Emerging Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "WING",
       "name": "Wingstop Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -77279,12 +77273,6 @@
     {
       "symbol": "XCHG",
       "name": "AB US Equity ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "XCLR",
-      "name": "Global X S&P 500 Collar 95-110 ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
