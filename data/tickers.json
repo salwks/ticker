@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T01:34:46.673480Z",
-  "count": 13306,
+  "lastUpdated": "2026-10-21T01:17:00.549207Z",
+  "count": 13293,
   "tickers": [
     {
       "symbol": "A",
@@ -2259,6 +2259,12 @@
       "isETF": false
     },
     {
+      "symbol": "AIBN",
+      "name": "Defiance AI Infrastructure Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "AIBU",
       "name": "Direxion Daily AI and Big Data Bull 2X ETF",
       "exchange": "NYSE ARCA",
@@ -2778,12 +2784,6 @@
       "symbol": "ALB$A",
       "name": "Albemarle Corporation Depositary Shares each representing a 1/20th of 7.25% Series A Mandatory Convertible Preferred Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ALBG",
-      "name": "Leverage Shares 2X Long ALB Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -5309,12 +5309,6 @@
     {
       "symbol": "ASTL",
       "name": "Algoma Steel Group Inc. - Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ASTLW",
-      "name": "Algoma Steel Group Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -9327,12 +9321,6 @@
       "isETF": false
     },
     {
-      "symbol": "BLSG",
-      "name": "Leverage Shares 2X Long BLSH Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BLSH",
       "name": "Bullish Ordinary Shares",
       "exchange": "NYSE",
@@ -11688,12 +11676,6 @@
       "symbol": "BZFDW",
       "name": "BuzzFeed, Inc. - Warrant",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BZH",
-      "name": "Beazer Homes USA, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -16283,12 +16265,6 @@
     {
       "symbol": "CRMT",
       "name": "America's Car-Mart, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CRMU",
-      "name": "Leverage Shares 2x Long CRML Daily ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24753,12 +24729,6 @@
       "isETF": false
     },
     {
-      "symbol": "FCXG",
-      "name": "Leverage Shares 2x Long FCX Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FDAT",
       "name": "Tactical Advantage ETF",
       "exchange": "NYSE ARCA",
@@ -29091,12 +29061,6 @@
       "isETF": false
     },
     {
-      "symbol": "GEMG",
-      "name": "Leverage Shares 2X Long GEMI Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GEMI",
       "name": "Gemini Space Station, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
@@ -29874,12 +29838,6 @@
       "symbol": "GLED.U",
       "name": "GalaxyEdge Acquisition Corporation Units, each consisting of one Ordinary Share and one Right entitling the holder to receive 1/4th of one ordinary share",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GLGG",
-      "name": "Leverage Shares 2X Long GLXY Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -46845,6 +46803,12 @@
       "isETF": false
     },
     {
+      "symbol": "MTGG",
+      "name": "MayTech Global Growth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MTGP",
       "name": "WisdomTree Mortgage Plus Bond Fund",
       "exchange": "NYSE ARCA",
@@ -48336,12 +48300,6 @@
       "symbol": "NEMD",
       "name": "Neuberger Emerging Markets Debt Hard Currency ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NEMG",
-      "name": "Leverage Shares 2x Long NEM Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -50022,12 +49980,6 @@
       "symbol": "NUEM",
       "name": "Nuveen ESG Emerging Markets Equity ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "NUG",
-      "name": "Leverage Shares 2X Long NU Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -51939,12 +51891,6 @@
       "isETF": false
     },
     {
-      "symbol": "OPEG",
-      "name": "Leverage Shares 2X Long OPEN Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "OPEN",
       "name": "Opendoor Technologies Inc  - Common Stock",
       "exchange": "NASDAQ",
@@ -53424,12 +53370,6 @@
       "symbol": "PBR.A",
       "name": "Petroleo Brasileiro S.A. Petrobras American Depositary Shares representing Preferred Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PBRG",
-      "name": "Leverage Shares 2X Long PBR Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -56448,12 +56388,6 @@
       "symbol": "PSEP",
       "name": "Innovator U.S. Equity Power Buffer ETF - September",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "PSET",
-      "name": "Principal Quality ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -61761,6 +61695,12 @@
       "isETF": false
     },
     {
+      "symbol": "SATS",
+      "name": "Strive, Inc. - 15.00% Series A Perpetual SATS Preferred Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SAUG",
       "name": "FT Vest U.S. Small Cap Moderate Buffer ETF - August",
       "exchange": "BATS",
@@ -65110,7 +65050,7 @@
     },
     {
       "symbol": "SOAR",
-      "name": "Volato Group, Inc. Class A Common Stock",
+      "name": "SOAR AI, Inc. Class A Common Stock",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -72033,12 +71973,6 @@
       "isETF": false
     },
     {
-      "symbol": "UECG",
-      "name": "Leverage Shares 2x Long UEC Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "UEIC",
       "name": "Universal Electronics Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -73464,12 +73398,6 @@
       "symbol": "VALE",
       "name": "VALE S.A.  American Depositary Shares Each Representing one common share",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "VALG",
-      "name": "Leverage Shares 2X Long VALE Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -79638,12 +79566,6 @@
       "symbol": "ZS",
       "name": "Zscaler, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ZSB",
-      "name": "USCF Sustainable Battery Metals Strategy Fund",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
