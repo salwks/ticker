@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T01:17:00.549207Z",
+  "lastUpdated": "2026-10-22T01:12:59.329539Z",
   "count": 13293,
   "tickers": [
     {
@@ -1221,12 +1221,6 @@
       "isETF": false
     },
     {
-      "symbol": "ADDS",
-      "name": "Hedgeye Index Adds ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "ADEA",
       "name": "Adeia Inc.  - Common Stock",
       "exchange": "NASDAQ",
@@ -2133,6 +2127,12 @@
       "isETF": false
     },
     {
+      "symbol": "AHIC",
+      "name": "Allspring Short-Term High Income Fund ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AHL$D",
       "name": "Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares",
       "exchange": "NYSE",
@@ -2220,6 +2220,12 @@
       "symbol": "AHYB",
       "name": "American Century Select High Yield ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AHYM",
+      "name": "Allspring High Yield Municipal Bond Fund ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -5313,6 +5319,12 @@
       "isETF": false
     },
     {
+      "symbol": "ASTM",
+      "name": "Allspring Strategic Municipal Bond Fund ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ASTN",
       "name": "Defiance Daily Target 2X Short ASTS ETF",
       "exchange": "BATS",
@@ -7325,12 +7337,6 @@
     {
       "symbol": "BCAT",
       "name": "BlackRock Capital Allocation Term Trust Common Shares of Beneficial Interest",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BCAT.R",
-      "name": "BlackRock Capital Allocation Term Trust Rights (expiring October 21, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -11016,12 +11022,6 @@
       "symbol": "BTE",
       "name": "Baytex Energy Corp Common Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BTF",
-      "name": "CoinShares Bitcoin and Ether ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -15747,12 +15747,6 @@
       "isETF": false
     },
     {
-      "symbol": "CPNX",
-      "name": "Tradr 2X Long CPNG Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "CPOP",
       "name": "Pop Culture Group Co., Ltd - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -18984,12 +18978,6 @@
       "symbol": "DIM",
       "name": "WisdomTree International MidCap Dividend Fund",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "DIME",
-      "name": "CoinShares Altcoins ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -30135,6 +30123,12 @@
       "isETF": false
     },
     {
+      "symbol": "GMIE",
+      "name": "GMO International Equity Fund, ETF Class",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GMM",
       "name": "Global Mofy AI Limited  - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -32367,12 +32361,6 @@
       "isETF": false
     },
     {
-      "symbol": "HELS",
-      "name": "Hedgeye 130/30 Equity ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "HELX",
       "name": "Franklin Genomic Advancements ETF",
       "exchange": "BATS",
@@ -33072,12 +33060,6 @@
       "symbol": "HONA",
       "name": "Honeywell Aerospace Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "HONG",
-      "name": "Leverage Shares 2X Long HON Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -35597,6 +35579,12 @@
     {
       "symbol": "IIPR$A",
       "name": "Innovative Industrial Properties, Inc. 9.00% Series A Cumulative Redeemable Preferred Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "IIPR$B",
+      "name": "Innovative Industrial Properties, Inc. 9.25% Series B Cumulative Redeemable Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -46455,9 +46443,21 @@
       "isETF": false
     },
     {
+      "symbol": "MSGK.V",
+      "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "MSGM",
       "name": "Motorsport Games Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MSGR.V",
+      "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -47082,12 +47082,6 @@
       "symbol": "MUSE",
       "name": "TCW Multisector Credit Income ETF",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MUSQ",
-      "name": "MUSQ Global Music Industry Index ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -50598,12 +50592,6 @@
       "symbol": "NXPL",
       "name": "NextPlat Corp - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "NXPX",
-      "name": "Tradr 2X Long NXPI Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -55516,8 +55504,14 @@
     },
     {
       "symbol": "POM",
-      "name": "POMDOCTOR LIMITED - American Depositary Shares",
+      "name": "POMDOCTOR LIMITED - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "POMG",
+      "name": "PRIMECAP Odyssey Discovery ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -55536,12 +55530,6 @@
       "symbol": "PONOU",
       "name": "Pono Capital Four, Inc. - Units",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PONX",
-      "name": "Tradr 2X Long PONY Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -58674,6 +58662,12 @@
       "symbol": "RBRK",
       "name": "Rubrik, Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "RBTX",
+      "name": "iShares Future Robotics and Related Technologies Active ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -62253,6 +62247,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCIN",
+      "name": "Schwab International Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SCIO",
       "name": "First Trust Structured Credit Income Opportunities ETF",
       "exchange": "NYSE ARCA",
@@ -64776,12 +64776,6 @@
       "symbol": "SMYY",
       "name": "GraniteShares YieldBOOST SMCI ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SMZ",
-      "name": "Tradr 2X Short SMR Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -69393,6 +69387,12 @@
       "isETF": false
     },
     {
+      "symbol": "TLCE",
+      "name": "Thrivent Large Cap Stock ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "TLCI",
       "name": "Touchstone International Equity ETF",
       "exchange": "NYSE ARCA",
@@ -69598,7 +69598,7 @@
     },
     {
       "symbol": "TMDE",
-      "name": "TMD Energy Limited Ordinary Shares",
+      "name": "TMD Energy Limited Class A Ordinary Shares",
       "exchange": "AMEX",
       "isETF": false
     },
@@ -70851,12 +70851,6 @@
       "isETF": false
     },
     {
-      "symbol": "TSEU",
-      "name": "Tradr 2X Long TSEM Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "TSHA",
       "name": "Taysha Gene Therapies, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -70878,6 +70872,12 @@
       "symbol": "TSIC",
       "name": "Truth Social American Icons ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "TSIE",
+      "name": "Thrivent Securitized Income ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
