@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-22T01:12:59.329539Z",
-  "count": 13293,
+  "lastUpdated": "2026-10-23T01:12:12.951632Z",
+  "count": 13297,
   "tickers": [
     {
       "symbol": "A",
@@ -5526,24 +5526,6 @@
       "symbol": "ATI",
       "name": "ATI Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ATII",
-      "name": "Archimedes Tech SPAC Partners II Co. - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATIIU",
-      "name": "Archimedes Tech SPAC Partners II Co. - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATIIW",
-      "name": "Archimedes Tech SPAC Partners II Co. - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -17679,6 +17661,12 @@
       "isETF": false
     },
     {
+      "symbol": "DAVI",
+      "name": "Davion Healthcare Plc - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DAX",
       "name": "Global X DAX Germany ETF",
       "exchange": "NASDAQ",
@@ -21933,6 +21921,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMAG",
+      "name": "Emerging Markets AI Mag 3 ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "EMAT",
       "name": "Evolution Metals & Technologies Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -25638,6 +25632,12 @@
       "symbol": "FIEE",
       "name": "FiEE, Inc - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FIFT",
+      "name": "HCM Select 50 ETF",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -34830,6 +34830,12 @@
       "symbol": "ICMO",
       "name": "Symmetry Panoramic International Country Momentum ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ICOM",
+      "name": "Tema Commodity Income ETF",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -47670,6 +47676,18 @@
       "symbol": "NANC",
       "name": "Subversive Congressional Democrats Trading ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "NANO",
+      "name": "Forge Nano Holdings Inc. - Common stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "NANOW",
+      "name": "Forge Nano Holdings Inc. - Warrants",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -69036,6 +69054,12 @@
       "symbol": "THRO",
       "name": "iShares U.S. Thematic Rotation Active ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "THRU",
+      "name": "Tema Commodity Infrastructure ETF",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
