@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-23T01:12:12.951632Z",
-  "count": 13297,
+  "lastUpdated": "2026-10-24T01:21:47.287082Z",
+  "count": 13299,
   "tickers": [
     {
       "symbol": "A",
@@ -4385,6 +4385,12 @@
     {
       "symbol": "APWC",
       "name": "Asia Pacific Wire & Cable Corporation Limited  - Common shares, Par value .01 per share",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "APXC",
+      "name": "Apex Critical Metals Corp. - American Depositary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -23511,12 +23517,6 @@
       "isETF": false
     },
     {
-      "symbol": "EVEX.W",
-      "name": "Eve Holding, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "EVF",
       "name": "Eaton Vance Senior Income Trust Common Stock",
       "exchange": "NYSE",
@@ -38584,7 +38584,7 @@
     },
     {
       "symbol": "JKS",
-      "name": "JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)",
+      "name": "Jinko Holdings Limited American Depositary Shares (each representing 4 Ordinary Shares)",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -42940,7 +42940,7 @@
     },
     {
       "symbol": "LU",
-      "name": "Lufax Holding Ltd American Depositary Shares, each representing two (2) Ordinary Shares",
+      "name": "Lufax Holding Ltd American Depositary Shares (each representing twenty (20) Ordinary Shares)",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -43188,6 +43188,12 @@
       "symbol": "LYB",
       "name": "LyondellBasell Industries NV Ordinary Shares Class A (Netherlands)",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "LYCA",
+      "name": "Lycia Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52521,6 +52527,12 @@
       "isETF": false
     },
     {
+      "symbol": "OVQ",
+      "name": "Overlay Shares Nasdaq 100 Income ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "OVS",
       "name": "Overlay Shares Small Cap Equity ETF",
       "exchange": "BATS",
@@ -53075,6 +53087,18 @@
     {
       "symbol": "PAX",
       "name": "Patria Investments Limited - Class A Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PAXG",
+      "name": "Pine Tree Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PAXGR",
+      "name": "Pine Tree Acquisition Corp. - Rights",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54012,12 +54036,6 @@
       "symbol": "PEPT",
       "name": "REX Peptide ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "PERF",
-      "name": "Perfect Corp. Class A Ordinary Share",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -57819,6 +57837,12 @@
       "isETF": false
     },
     {
+      "symbol": "QQDH",
+      "name": "Tuttle Capital Innovation 100 Income & Hedge ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "QQDN",
       "name": "ProShares UltraShort QQQ Mega",
       "exchange": "NASDAQ",
@@ -61437,12 +61461,6 @@
       "isETF": false
     },
     {
-      "symbol": "SABSW",
-      "name": "SAB Biotherapeutics, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SAC",
       "name": "Safeguard Acquisition Corp. Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -62621,18 +62639,6 @@
     {
       "symbol": "SDSI",
       "name": "American Century Short Duration Strategic Income ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SDST",
-      "name": "Stardust Power Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SDSTW",
-      "name": "Stardust Power Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -64632,6 +64638,12 @@
       "symbol": "SMN",
       "name": "ProShares UltraShort Materials",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SMNG",
+      "name": "xETFs Samsung Group ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
