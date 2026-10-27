@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-26T00:58:22.220557Z",
-  "count": 13299,
+  "lastUpdated": "2026-10-27T01:48:52.016904Z",
+  "count": 13298,
   "tickers": [
     {
       "symbol": "A",
@@ -555,12 +555,6 @@
       "isETF": false
     },
     {
-      "symbol": "ACA",
-      "name": "Arcosa, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "ACAA",
       "name": "Averin Capital Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -774,6 +768,12 @@
       "symbol": "ACII",
       "name": "Innovator Index Autocallable Income Strategy ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "ACIN",
+      "name": "Hartford Alpha Capture International Equity ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -1608,6 +1608,12 @@
       "symbol": "AESR",
       "name": "Anfield U.S. Equity Sector Rotation ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "AETR",
+      "name": "Aetherion Technologies Inc. - Common Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -12225,6 +12231,12 @@
       "isETF": false
     },
     {
+      "symbol": "CAYN",
+      "name": "Calamos Least-Of Autocallable Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CB",
       "name": "Chubb Limited  Common Stock",
       "exchange": "NYSE",
@@ -12828,12 +12840,6 @@
       "symbol": "CDE",
       "name": "Coeur Mining, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "CDEI",
-      "name": "Calvert US Large-Cap Diversity, Equity and Inclusion Index ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -21825,12 +21831,6 @@
       "isETF": false
     },
     {
-      "symbol": "ELME",
-      "name": "Elme Communities Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "ELMT",
       "name": "The Elmet Group Co. - Common Stock",
       "exchange": "NASDAQ",
@@ -24539,6 +24539,12 @@
     {
       "symbol": "FCCO",
       "name": "First Community Corporation - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FCDH",
+      "name": "Forcendra Holding Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -29211,12 +29217,6 @@
       "isETF": false
     },
     {
-      "symbol": "GFGF",
-      "name": "Guru Favorite Stocks ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "GFI",
       "name": "Gold Fields Limited American Depositary Shares",
       "exchange": "NYSE",
@@ -31500,6 +31500,12 @@
       "symbol": "GUMI",
       "name": "Goldman Sachs Ultra Short Municipal Income ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "GUNN",
+      "name": "Gunnison Copper Corp. American Depositary Shares (each representing thirty (30) Common Shares)",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -52977,12 +52983,6 @@
       "isETF": false
     },
     {
-      "symbol": "PAPL",
-      "name": "Pineapple Financial Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "PAPR",
       "name": "Innovator U.S. Equity Power Buffer ETF - April",
       "exchange": "BATS",
@@ -56763,6 +56763,12 @@
       "isETF": false
     },
     {
+      "symbol": "PTIV",
+      "name": "Pineapple Financial Inc. Common Stock",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "PTL",
       "name": "Inspire 500 ETF",
       "exchange": "NYSE ARCA",
@@ -58488,6 +58494,12 @@
       "symbol": "RACK",
       "name": "VanEck Data Center Supply Chain ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "RADD",
+      "name": "AB US Research Advanced ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -75039,12 +75051,6 @@
       "isETF": false
     },
     {
-      "symbol": "VSME",
-      "name": "VS Media Holdings Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VSMV",
       "name": "VictoryShares US Multi-Factor Minimum Volatility ETF",
       "exchange": "NASDAQ",
@@ -75825,12 +75831,6 @@
       "isETF": false
     },
     {
-      "symbol": "WEAV",
-      "name": "Weave Communications, Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "WEBL",
       "name": "Direxion Daily Dow Jones Internet Bull 3X ETF",
       "exchange": "NYSE ARCA",
@@ -76506,12 +76506,6 @@
       "symbol": "WPP",
       "name": "WPP plc American Depositary Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WPRT",
-      "name": "Westport Fuel Systems Inc - Common Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
