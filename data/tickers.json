@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-27T01:48:52.016904Z",
-  "count": 13298,
+  "lastUpdated": "2026-10-28T02:00:42.788907Z",
+  "count": 13291,
   "tickers": [
     {
       "symbol": "A",
@@ -39435,21 +39435,9 @@
       "isETF": false
     },
     {
-      "symbol": "KBAB",
-      "name": "KraneShares 2x Long BABA Daily ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "KBDC",
       "name": "Kayne Anderson BDC, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "KBDU",
-      "name": "KraneShares 2x Long BIDU Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -39552,12 +39540,6 @@
       "symbol": "KCAC.W",
       "name": "Kensington Capital Acquisition Corp. VI Class 1 redeemable warrants, each exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "KCAI",
-      "name": "KraneShares China Alpha Index ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -39897,12 +39879,6 @@
       "isETF": false
     },
     {
-      "symbol": "KHYB",
-      "name": "KraneShares Asia Pacific High Income USD Bond ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "KIDS",
       "name": "OrthoPediatrics Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -39984,12 +39960,6 @@
       "symbol": "KJAN",
       "name": "Innovator U.S. Small Cap Power Buffer ETF - January",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "KJD",
-      "name": "KraneShares 2x Long JD Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -40146,12 +40116,6 @@
       "symbol": "KMID",
       "name": "Virtus KAR Mid-Cap ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "KMLI",
-      "name": "KraneShares 2x Long MELI Daily ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -40409,12 +40373,6 @@
     {
       "symbol": "KOYNW",
       "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KPDD",
-      "name": "KraneShares 2x Long PDD Daily ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -46461,8 +46419,8 @@
       "isETF": false
     },
     {
-      "symbol": "MSGK.V",
-      "name": "Madison Square Garden Sports Corp. Class A Common Stock When-Issued",
+      "symbol": "MSGK",
+      "name": "MSG Knickerbockers Corp. Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -46473,14 +46431,8 @@
       "isETF": false
     },
     {
-      "symbol": "MSGR.V",
-      "name": "MSG Rangers Corp. Class A Common Stock When-Issued",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MSGS",
-      "name": "Madison Square Garden Sports Corp. Class A Common Stock (New)",
+      "symbol": "MSGR",
+      "name": "MSG Rangers Corp. Class A Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -47724,12 +47676,6 @@
       "symbol": "NAT",
       "name": "Nordic American Tankers Limited Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "NATH",
-      "name": "Nathan's Famous, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -52996,13 +52942,13 @@
     },
     {
       "symbol": "PARA",
-      "name": "Banzai International, Inc. - Class A Common Stock",
+      "name": "Parabolic Technologies, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "PARAW",
-      "name": "Banzai International, Inc. - Warrant",
+      "name": "Parabolic Technologies, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -62439,6 +62385,12 @@
       "isETF": false
     },
     {
+      "symbol": "SCQCU",
+      "name": "SPACCircle Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCSB",
       "name": "Sterling Capital Short Duration Bond ETF",
       "exchange": "BATS",
@@ -70095,12 +70047,6 @@
       "isETF": false
     },
     {
-      "symbol": "TOT",
-      "name": "LionShares U.S. Equity Total Return ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "TOTL",
       "name": "State Street DoubleLine Total Return Tactical ETF",
       "exchange": "NYSE ARCA",
@@ -75615,6 +75561,12 @@
       "isETF": false
     },
     {
+      "symbol": "WBMO",
+      "name": "VanEck Wealth Builder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "WBTN",
       "name": "WEBTOON Entertainment Inc. - Common stock",
       "exchange": "NASDAQ",
@@ -79080,6 +79032,12 @@
       "symbol": "YSG",
       "name": "Yatsen Holding Limited American Depositary Shares, each representing twenty (20) Class A Ordinary Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "YSKH",
+      "name": "YieldMax SKHY Option Income Strategy ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
