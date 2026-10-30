@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-29T02:05:18.946026Z",
-  "count": 13287,
+  "lastUpdated": "2026-10-30T02:24:06.455786Z",
+  "count": 13291,
   "tickers": [
     {
       "symbol": "A",
@@ -1242,12 +1242,6 @@
       "symbol": "ADIG",
       "name": "ADI Global Distribution Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ADIL",
-      "name": "Adial Pharmaceuticals, Inc - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -6525,6 +6519,12 @@
       "isETF": false
     },
     {
+      "symbol": "AZR",
+      "name": "Azora Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "AZTA",
       "name": "Azenta, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -8394,6 +8394,12 @@
       "symbol": "BH.A",
       "name": "Biglari Holdings Inc. Class A Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BHAIU",
+      "name": "BHAV Acquisition Corp II - Units",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -14662,7 +14668,7 @@
     },
     {
       "symbol": "CMDT",
-      "name": "PIMCO Commodity Strategy Active Exchange-Traded Fund",
+      "name": "PIMCO Commodity and Bond Strategy Active Exchange-Traded Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -15496,7 +15502,7 @@
     },
     {
       "symbol": "CORP",
-      "name": "PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund",
+      "name": "PIMCO Investment Grade Corporate Bond Exchange-Traded Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -21627,12 +21633,6 @@
       "isETF": false
     },
     {
-      "symbol": "EICA",
-      "name": "Eagle Point Income Company 5.00% Series A Term Preferred Shares due 2026",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "EIDO",
       "name": "iShares MSCI Indonesia ETF",
       "exchange": "NYSE ARCA",
@@ -21756,6 +21756,12 @@
       "symbol": "ELC",
       "name": "Entergy Louisiana, Inc. Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ELCF",
+      "name": "Eventide Large Cap Focus ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -22144,7 +22150,7 @@
     },
     {
       "symbol": "EMNT",
-      "name": "PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund",
+      "name": "PIMCO Enhanced Short Maturity Active ESG and Bond Exchange-Traded Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -23142,6 +23148,12 @@
       "symbol": "ETD",
       "name": "Ethan Allen Interiors Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ETDG",
+      "name": "Eventide Dividend Growth ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -24335,6 +24347,12 @@
     {
       "symbol": "FBDT",
       "name": "First Breach Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FBEQ",
+      "name": "Franklin US Equity Bitcoin Drip Index ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -25595,6 +25613,12 @@
     {
       "symbol": "FIBK",
       "name": "First Interstate BancSystem, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FIBT",
+      "name": "Franklin US Innovation Bitcoin DRIP Index ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -28563,6 +28587,12 @@
       "isETF": false
     },
     {
+      "symbol": "GBC",
+      "name": "Georgia Banking Company, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "GBCI",
       "name": "Glacier Bancorp, Inc. Common Stock",
       "exchange": "NYSE",
@@ -30065,12 +30095,6 @@
     {
       "symbol": "GME",
       "name": "GameStop Corporation Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GME.W",
-      "name": "GameStop Corporation Warrants to Purchase Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -34048,7 +34072,7 @@
     },
     {
       "symbol": "HYS",
-      "name": "PIMCO 0-5 Year High Yield Corporat Bond Index Exchange-Traded Fund",
+      "name": "PIMCO 0-5 Year High Yield Corporate Bond Exchange-Traded Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -39064,7 +39088,7 @@
     },
     {
       "symbol": "JSM",
-      "name": "Navient Corporation - 6% Senior Notes due December 15, 2043",
+      "name": "Navient LLC - 6% Senior Notes due December 15, 2043",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42358,7 +42382,7 @@
     },
     {
       "symbol": "LONZ",
-      "name": "PIMCO Senior Loan Active Exchange-Traded Fund",
+      "name": "PIMCO Senior Loan and Short-Term Active ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -47692,7 +47716,7 @@
     },
     {
       "symbol": "NAVI",
-      "name": "Navient Corporation - Common Stock",
+      "name": "Navient Holdings, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -54467,7 +54491,7 @@
     {
       "symbol": "PHYL",
       "name": "PGIM Active High Yield Bond ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -64150,7 +64174,7 @@
     },
     {
       "symbol": "SLMT",
-      "name": "Brera Holdings PLC - Class B Ordinary Shares",
+      "name": "Solmate Infrastructure Public Limited Company - Class B Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
