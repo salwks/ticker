@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-30T02:24:06.455786Z",
-  "count": 13291,
+  "lastUpdated": "2026-10-31T02:00:44.529777Z",
+  "count": 13286,
   "tickers": [
     {
       "symbol": "A",
@@ -5235,6 +5235,12 @@
       "isETF": false
     },
     {
+      "symbol": "ASPE",
+      "name": "Aspen Neuroscience, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ASPI",
       "name": "ASP Isotopes Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -7260,6 +7266,12 @@
       "symbol": "BBT",
       "name": "Beacon Financial Corporation Common stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BBTX",
+      "name": "Bambusa Therapeutics, Inc. - Common stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20679,24 +20691,6 @@
       "isETF": false
     },
     {
-      "symbol": "DYNC",
-      "name": "Dynamix Corporation - Class A Ordinary Share",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DYNCU",
-      "name": "Dynamix Corporation - Unit",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DYNCW",
-      "name": "Dynamix Corporation - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DYNF",
       "name": "iShares U.S. Equity Factor Rotation Active ETF",
       "exchange": "NYSE ARCA",
@@ -28775,12 +28769,6 @@
     {
       "symbol": "GCT",
       "name": "GigaCloud Technology Inc - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "GCTK",
-      "name": "GlucoTrack, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -42189,12 +42177,6 @@
       "isETF": false
     },
     {
-      "symbol": "LNAI",
-      "name": "Lunai Bioworks Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LNC",
       "name": "Lincoln National Corporation Common Stock",
       "exchange": "NYSE",
@@ -42905,12 +42887,6 @@
     {
       "symbol": "LTRX",
       "name": "Lantronix, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LTRYW",
-      "name": "Sports Entertainment Gaming Global Corporation  - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44381,6 +44357,12 @@
     {
       "symbol": "META",
       "name": "Meta Platforms, Inc. - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "METAM",
+      "name": "Meta Platforms, Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49254,6 +49236,12 @@
       "symbol": "NOMD",
       "name": "Nomad Foods Limited Ordinary Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NORD",
+      "name": "Nordicus Partners Corporation - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -78815,24 +78803,6 @@
     {
       "symbol": "YHGJ",
       "name": "Yunhong Green CTI Ltd. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "YHNA",
-      "name": "YHN Acquisition I Limited - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "YHNAR",
-      "name": "YHN Acquisition I Limited - Right",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "YHNAU",
-      "name": "YHN Acquisition I Limited - Unit",
       "exchange": "NASDAQ",
       "isETF": false
     },
