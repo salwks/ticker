@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-02T02:05:35.882218Z",
-  "count": 13286,
+  "lastUpdated": "2026-11-03T03:49:51.918079Z",
+  "count": 13279,
   "tickers": [
     {
       "symbol": "A",
@@ -798,6 +798,12 @@
       "symbol": "ACIW",
       "name": "ACI Worldwide, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ACJL",
+      "name": "Buffered Bulldog ETF by C.J. Lawrence, a division of Apollon",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -2255,6 +2261,12 @@
     {
       "symbol": "AIBD",
       "name": "Direxion Daily AI and Big Data Bear 2X ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AIBE",
+      "name": "FINQ CORE U.S. Large Cap AI-Managed Equity ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -8181,12 +8193,6 @@
       "isETF": false
     },
     {
-      "symbol": "BFRIW",
-      "name": "Biofrontera Inc. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BFRZ",
       "name": "Innovator Equity Managed 100 Buffer ETF",
       "exchange": "NYSE ARCA",
@@ -12159,6 +12165,12 @@
       "isETF": false
     },
     {
+      "symbol": "CASK",
+      "name": "Sempreon, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CASS",
       "name": "Cass Information Systems, Inc - Common Stock",
       "exchange": "NASDAQ",
@@ -12522,12 +12534,6 @@
       "symbol": "CBXY",
       "name": "Calamos Bitcoin 90 Series Structured Alt Protection ETF - July",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "CBZ",
-      "name": "CBIZ, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -14998,7 +15004,7 @@
     },
     {
       "symbol": "CNRG",
-      "name": "State Street SPDR S&P Kensho Clean Power ETF",
+      "name": "State Street SPDR S&P Kensho Grid Innovation ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -19005,12 +19011,6 @@
       "isETF": false
     },
     {
-      "symbol": "DINE",
-      "name": "Simplify Tax Aware Diversified Income Strategy ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "DINO",
       "name": "HF Sinclair Corporation Common Stock",
       "exchange": "NYSE",
@@ -21370,7 +21370,7 @@
     },
     {
       "symbol": "EFIV",
-      "name": "State Street SPDR S&P 500 ESG ETF",
+      "name": "State Street SPDR S&P 500 Scored and Screened ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -27622,7 +27622,7 @@
     },
     {
       "symbol": "FTEC",
-      "name": "Fidelity MSCI Information Technology Index ETF",
+      "name": "ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -37636,7 +37636,7 @@
     },
     {
       "symbol": "IWD",
-      "name": "iShares Russell 1000 Value ETF",
+      "name": "iShares Russell 1000 Value Index Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -37858,7 +37858,7 @@
     },
     {
       "symbol": "IYW",
-      "name": "iShares U.S. Technology ETF",
+      "name": "iShares Dow Jones U.S. Technology Sector Index Fund",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -38080,7 +38080,7 @@
     },
     {
       "symbol": "JBDI",
-      "name": "JBDI Holdings Limited - Ordinary Shares",
+      "name": "JBDI Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -40785,12 +40785,6 @@
       "isETF": false
     },
     {
-      "symbol": "KVUE",
-      "name": "Kenvue Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "KVYO",
       "name": "Klaviyo, Inc. Series A Common Stock",
       "exchange": "NYSE",
@@ -41697,12 +41691,6 @@
       "isETF": false
     },
     {
-      "symbol": "LGHT",
-      "name": "Langar Global HealthTech ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "LGI",
       "name": "Lazard Global Total Return and Income Fund Common Stock",
       "exchange": "NYSE",
@@ -42543,12 +42531,6 @@
       "isETF": false
     },
     {
-      "symbol": "LQ",
-      "name": "Simplify Tax Aware Alternatives ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "LQAI",
       "name": "LG QRAFT AI-Powered U.S. Large Cap Core ETF",
       "exchange": "NYSE ARCA",
@@ -43115,18 +43097,6 @@
     {
       "symbol": "LXFR",
       "name": "Luxfer Holdings PLC Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "LXP",
-      "name": "LXP Industrial Trust Common Stock (Maryland REIT)",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "LXP$C",
-      "name": "LXP Industrial Trust 6.5% Series C Cumulative Convertible Preferred Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -44742,12 +44712,6 @@
       "symbol": "MGOV",
       "name": "First Trust Intermediate Government Opportunities ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MGPI",
-      "name": "MGP Ingredients, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -47655,6 +47619,12 @@
       "isETF": false
     },
     {
+      "symbol": "NARA",
+      "name": "Narragansett Bancorp, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NASA",
       "name": "Tema Space Innovators ETF",
       "exchange": "NYSE ARCA",
@@ -49073,6 +49043,12 @@
     {
       "symbol": "NMZ",
       "name": "Nuveen Municipal High Income Opportunity Fund Common Stock, $0.01 par value, per share",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "NMZ.V",
+      "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -50601,12 +50577,6 @@
       "isETF": false
     },
     {
-      "symbol": "NXTI",
-      "name": "Simplify Next Intangible Core Index ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "NXTS",
       "name": "Nexentis Technologies Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -51834,6 +51804,12 @@
       "symbol": "OPAL",
       "name": "OPAL Fuels Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "OPAY",
+      "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -53616,12 +53592,6 @@
       "symbol": "PCQ",
       "name": "PIMCO California Municipal Income Fund Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PCR",
-      "name": "Simplify VettaFi Private Credit Strategy ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -58096,7 +58066,7 @@
     },
     {
       "symbol": "QTEC",
-      "name": "First Trust NASDAQ-100-Technology Sector Index Fund",
+      "name": "First Trust NASDAQ-100- Technology Index Fund",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -58488,12 +58458,6 @@
       "symbol": "RAML",
       "name": "Leverage Shares 2X Long Memory Daily ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "RAMP",
-      "name": "LiveRamp Holdings, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -65344,7 +65308,7 @@
     },
     {
       "symbol": "SPAB",
-      "name": "State Street SPDR Portfolio Aggregate Bond ETF",
+      "name": "State Street SPDR Portfolio Aggregate Bond Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65392,7 +65356,7 @@
     },
     {
       "symbol": "SPBO",
-      "name": "State Street SPDR Portfolio Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Corporate Bond Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65650,13 +65614,13 @@
     },
     {
       "symbol": "SPHY",
-      "name": "State Street SPDR Portfolio High Yield Bond ETF",
+      "name": "State Street SPDR Portfolio High Yield Bond Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "SPIB",
-      "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65668,7 +65632,7 @@
     },
     {
       "symbol": "SPIP",
-      "name": "State Street SPDR Portfolio TIPS ETF",
+      "name": "State Street SPDR Portfolio TIPS Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65686,7 +65650,7 @@
     },
     {
       "symbol": "SPLB",
-      "name": "State Street SPDR Portfolio Long Term Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Long Term Corporate Bond Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65710,7 +65674,7 @@
     },
     {
       "symbol": "SPMB",
-      "name": "State Street SPDR Portfolio Mortgage Backed Bond ETF",
+      "name": "State Street SPDR Portfolio Mortgage Backed Bond Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65818,7 +65782,7 @@
     },
     {
       "symbol": "SPSB",
-      "name": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
+      "name": "State Street SPDR Portfolio Short Term Corporate Bond Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65848,7 +65812,7 @@
     },
     {
       "symbol": "SPTB",
-      "name": "State Street SPDR Portfolio Treasury ETF",
+      "name": "State Street SPDR Portfolio Treasury Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65860,13 +65824,13 @@
     },
     {
       "symbol": "SPTI",
-      "name": "State Street SPDR Portfolio Intermediate Term Treasury ETF",
+      "name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "SPTL",
-      "name": "State Street SPDR Portfolio Long Term Treasury ETF",
+      "name": "State Street SPDR Portfolio Long Term Treasury Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -65878,13 +65842,13 @@
     },
     {
       "symbol": "SPTS",
-      "name": "State Street SPDR Portfolio Short Term Treasury ETF",
+      "name": "State Street SPDR Portfolio Short Term Treasury Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "SPTU",
-      "name": "State Street SPDR Portfolio Ultra Short T-Bill ETF",
+      "name": "State Street SPDR Portfolio Ultra Short T-Bill Index ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -68628,12 +68592,6 @@
       "symbol": "TESC",
       "name": "Corgi TSLA 2x Daily ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "TESL",
-      "name": "Simplify Volt TSLA Revolution ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -75526,19 +75484,19 @@
     },
     {
       "symbol": "WBIF",
-      "name": "WBI BullBear Value 3000 ETF",
+      "name": "WBI Fundamental Factors Hedged ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "WBIG",
-      "name": "WBI BullBear Yield 3000 ETF",
+      "name": "WBI Income Generators Hedged ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
       "symbol": "WBIL",
-      "name": "WBI BullBear Quality 3000 ETF",
+      "name": "WBI Trend Leaders Hedged ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
