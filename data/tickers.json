@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-03T03:49:51.918079Z",
-  "count": 13279,
+  "lastUpdated": "2026-11-04T02:54:40.433530Z",
+  "count": 13276,
   "tickers": [
     {
       "symbol": "A",
@@ -5849,12 +5849,6 @@
     {
       "symbol": "AURE",
       "name": "Aurelion Inc.  - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AUROW",
-      "name": "Aurora Innovation, Inc.  - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -22071,6 +22065,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMIL",
+      "name": "VanEck EM Focus Inflation Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "EMIS",
       "name": "Emmis Acquisition Corp. - Class A Ordinary Share",
       "exchange": "NASDAQ",
@@ -32997,12 +32997,6 @@
       "isETF": false
     },
     {
-      "symbol": "HODO",
-      "name": "House of Doge Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HODU",
       "name": "Direxion Daily HOOD Bull 2X ETF",
       "exchange": "NASDAQ",
@@ -36114,12 +36108,6 @@
       "symbol": "INDS",
       "name": "Pacer Industrial Real Estate ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "INDV",
-      "name": "Indivior Pharmaceuticals, Inc.  - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -45240,18 +45228,6 @@
       "symbol": "MLDR",
       "name": "Global X Intermediate-Term Treasury Ladder ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MLEC",
-      "name": "Moolec Science SA - Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "MLECW",
-      "name": "Moolec Science SA - Warrant",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -67066,7 +67042,7 @@
     },
     {
       "symbol": "SUPN",
-      "name": "Supernus Pharmaceuticals, Inc. - Common Stock",
+      "name": "Supernus, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67326,12 +67302,6 @@
       "symbol": "SWK",
       "name": "Stanley Black & Decker, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SWKHL",
-      "name": "SWK Holdings Corporation - 9.00% Senior Notes due 2027",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -68862,6 +68832,12 @@
       "symbol": "THCH",
       "name": "TH International Limited - Ordinary shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "THCR",
+      "name": "THOR Conservative Risk Dynamic ETF",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -75138,6 +75114,12 @@
       "symbol": "VTVT",
       "name": "vTv Therapeutics Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VTVX",
+      "name": "XFUNDS Value Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
