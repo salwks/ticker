@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-04T02:54:40.433530Z",
-  "count": 13276,
+  "lastUpdated": "2026-11-05T03:09:14.595907Z",
+  "count": 13275,
   "tickers": [
     {
       "symbol": "A",
@@ -1770,12 +1770,6 @@
       "symbol": "AFRM",
       "name": "Affirm Holdings, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AFRU",
-      "name": "T-REX 2X Long AFRM Daily Target ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -5375,12 +5369,6 @@
     {
       "symbol": "ASTY",
       "name": "Defiance Daily Target 2X Long ASTS ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "ASUP",
-      "name": "T-REX 2X Long ASTS Daily Target ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -28683,12 +28671,6 @@
       "isETF": false
     },
     {
-      "symbol": "GCDT",
-      "name": "Green Circle Decarbonize Technology Limited Class A Ordinary Shares",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "GCGR",
       "name": "General Catalyst Global Resilience Merger Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -30324,12 +30306,6 @@
       "symbol": "GNT$A",
       "name": "GAMCO Natural Resources, Gold & Income Tust  5.20% Series A Cumulative Preferred Shares (Liquidation Preference $25.00 per share)",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "GNTA",
-      "name": "Genenta Science S.p.A. - American Depositary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36213,6 +36189,12 @@
       "isETF": false
     },
     {
+      "symbol": "INK",
+      "name": "AB Equity Premium Income ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "INKM",
       "name": "State Street Income Allocation ETF",
       "exchange": "NYSE ARCA",
@@ -41032,7 +41014,7 @@
     },
     {
       "symbol": "LASE",
-      "name": "Laser Photonics Corporation - Common Stock",
+      "name": "LASE Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -49023,8 +49005,8 @@
       "isETF": false
     },
     {
-      "symbol": "NMZ.V",
-      "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights when issued",
+      "symbol": "NMZ.R",
+      "name": "Nuveen Municipal High Income Opportunity Fund Rights (expiring December 2, 2026) Rights",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -55900,7 +55882,7 @@
     },
     {
       "symbol": "PRM",
-      "name": "Perimeter Solutions, SA Common Stock",
+      "name": "Perimeter Group Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -58971,8 +58953,20 @@
       "isETF": false
     },
     {
+      "symbol": "RECD",
+      "name": "Columbia RECS Laddered Deep Buffer ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "RECI",
       "name": "Columbia Research Enhanced Core Premium Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "RECM",
+      "name": "Columbia RECS Laddered Moderate Buffer ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -61383,6 +61377,12 @@
       "isETF": false
     },
     {
+      "symbol": "SAEN",
+      "name": "Genenta Science S.p.A. - American Depositary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SAFE",
       "name": "Safehold Inc. New Common Stock",
       "exchange": "NYSE",
@@ -61824,12 +61824,6 @@
       "symbol": "SBSW",
       "name": "D/B/A Sibanye-Stillwater Limited ADS",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "SBTU",
-      "name": "T-REX 2X Long SBET Daily Target ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -63678,6 +63672,12 @@
       "symbol": "SIVR",
       "name": "abrdn Physical Silver Shares ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "SIX",
+      "name": "Global X Magnificent Six ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -68573,12 +68573,6 @@
     {
       "symbol": "TETH",
       "name": "21Shares Ethereum ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "TEUP",
-      "name": "T-REX 2X Long TE Daily Target ETF",
       "exchange": "BATS",
       "isETF": false
     },
