@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T03:09:14.595907Z",
-  "count": 13275,
+  "lastUpdated": "2026-11-06T03:09:59.676684Z",
+  "count": 13281,
   "tickers": [
     {
       "symbol": "A",
@@ -636,6 +636,12 @@
       "symbol": "ACEL",
       "name": "Accel Entertainment, Inc.",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ACEM",
+      "name": "American Century Emerging Markets Insights ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -1908,6 +1914,18 @@
       "symbol": "AGL",
       "name": "agilon health, inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AGLT",
+      "name": "Agility Robotics, Inc. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "AGLTW",
+      "name": "Agility Robotics, Inc. - Warrants",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -7203,6 +7221,12 @@
       "isETF": false
     },
     {
+      "symbol": "BBLX",
+      "name": "BondBloxx Core Plus ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BBMC",
       "name": "JPMorgan BetaBuilders U.S. Mid Cap Equity ETF",
       "exchange": "BATS",
@@ -8105,6 +8129,12 @@
     {
       "symbol": "BFH$B",
       "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of 8.875% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BFH$C",
+      "name": "Bread Financial Holdings, Inc. Depositary Shares, each representing a 1/40th interest in a share of its 9.375% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series C",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -12807,24 +12837,6 @@
       "isETF": false
     },
     {
-      "symbol": "CCXI",
-      "name": "Churchill Capital Corp XI - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCXIU",
-      "name": "Churchill Capital Corp XI - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CCXIW",
-      "name": "Churchill Capital Corp XI - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "CCZ",
       "name": "Comcast Holdings ZONES",
       "exchange": "NYSE",
@@ -12874,7 +12886,7 @@
     },
     {
       "symbol": "CDLR",
-      "name": "Cadeler A/S American Depositary Share (each representing four (4) Ordinary Shares)",
+      "name": "Cadeler plc Ordinary Shares",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -18555,6 +18567,12 @@
       "isETF": false
     },
     {
+      "symbol": "DFIT",
+      "name": "Davidson Intermediate Taxable ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "DFIV",
       "name": "Dimensional International Value ETF",
       "exchange": "NYSE ARCA",
@@ -19223,6 +19241,12 @@
     {
       "symbol": "DLAG",
       "name": "FT Vest U.S. Equity Dual Directional Buffer ETF - August",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "DLAY",
+      "name": "Tuttle Capital AI Bottleneck ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -23350,7 +23374,7 @@
     },
     {
       "symbol": "EUDA",
-      "name": "Euda Health Holdings Limited - Ordinary Shares",
+      "name": "Euda Health Holdings Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26598,6 +26622,12 @@
       "symbol": "FMHI",
       "name": "First Trust Municipal High Income ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FMIG",
+      "name": "FMI Global Equity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -32860,8 +32890,8 @@
     },
     {
       "symbol": "HLT",
-      "name": "Hilton Worldwide Holdings Inc. Common Stock",
-      "exchange": "NYSE",
+      "name": "Hilton Worldwide Holdings Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -36185,6 +36215,12 @@
     {
       "symbol": "INIO",
       "name": "INNIO N.V. - Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "INJC",
+      "name": "Canary Staked INJ ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -78244,19 +78280,19 @@
     },
     {
       "symbol": "XTER",
-      "name": "Karman Line Acquisition Corp. - Class A Ordinary Shares",
+      "name": "Xterax Corporation II - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "XTERU",
-      "name": "Karman Line Acquisition Corp. - Units",
+      "name": "Xterax Corporation II - Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
     {
       "symbol": "XTERW",
-      "name": "Karman Line Acquisition Corp. - Warrants",
+      "name": "Xterax Corporation II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -79594,7 +79630,7 @@
     },
     {
       "symbol": "ZWZZT",
-      "name": "NASDAQ TEST STOCK",
+      "name": "NASDAQ TEST STOCK NC",
       "exchange": "NASDAQ",
       "isETF": false
     },
