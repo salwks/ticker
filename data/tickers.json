@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-06T03:09:59.676684Z",
-  "count": 13281,
+  "lastUpdated": "2026-11-07T02:31:37.219453Z",
+  "count": 13276,
   "tickers": [
     {
       "symbol": "A",
@@ -2832,24 +2832,6 @@
       "symbol": "ALDB",
       "name": "Aptus Laddered Deep Buffer ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "ALDF",
-      "name": "Aldel Financial II Inc. - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALDFU",
-      "name": "Aldel Financial II Inc. - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ALDFW",
-      "name": "Aldel Financial II Inc. - Warrants",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -41403,8 +41385,20 @@
       "isETF": false
     },
     {
+      "symbol": "LEDR",
+      "name": "Leader's Advantage Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LEDRU",
       "name": "Leader's Advantage Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LEDRW",
+      "name": "Leader's Advantage Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -63849,21 +63843,9 @@
       "isETF": false
     },
     {
-      "symbol": "SKHA",
-      "name": "Tradr 2X Long SK hynix Daily ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "SKHL",
       "name": "Direxion Daily SK Hynix Bull 2X ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "SKHN",
-      "name": "Tradr 2X Short SK hynix Daily ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -72753,12 +72735,6 @@
       "isETF": false
     },
     {
-      "symbol": "USE",
-      "name": "USCF Energy Commodity Strategy Absolute Return Fund",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "USEA",
       "name": "United Maritime Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -76710,12 +76686,6 @@
       "symbol": "WTI",
       "name": "W&T Offshore, Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "WTIB",
-      "name": "USCF Oil Plus Bitcoin Strategy Fund",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
