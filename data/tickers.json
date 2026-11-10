@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T02:21:32.613078Z",
-  "count": 13276,
+  "lastUpdated": "2026-11-10T04:29:03.185811Z",
+  "count": 13279,
   "tickers": [
     {
       "symbol": "A",
@@ -4668,12 +4668,6 @@
       "symbol": "ARHS",
       "name": "Arhaus, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ARI",
-      "name": "Apollo Commercial Real Estate Finance, Inc",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -11520,12 +11514,6 @@
       "symbol": "BWLP",
       "name": "BW LPG Limited Common Shares",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "BWMN",
-      "name": "Bowman Consulting Group Ltd. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -33837,9 +33825,27 @@
       "isETF": false
     },
     {
+      "symbol": "HYAC",
+      "name": "Haymaker Acquisition Corp V Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "HYAC.U",
       "name": "Haymaker Acquisition Corp V Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HYAC.W",
+      "name": "Haymaker Acquisition Corp V Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "HYB",
+      "name": "Lazard US High Yield ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -33912,6 +33918,12 @@
       "symbol": "HYFT",
       "name": "MindWalk Holdings Corp. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HYFY",
+      "name": "Lazard Hybrid Financial Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -36234,12 +36246,6 @@
       "symbol": "INLX",
       "name": "Intellinetics, Inc. Common Stock",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "INM",
-      "name": "InMed Pharmaceuticals Inc. - Common Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -43155,6 +43161,18 @@
       "isETF": false
     },
     {
+      "symbol": "LYR",
+      "name": "Lyrical U.S. Value Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "LYRI",
+      "name": "Lyrical International Value Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "LYTE",
       "name": "Roundhill Photonics & Optics ETF",
       "exchange": "BATS",
@@ -43953,12 +43971,6 @@
       "isETF": false
     },
     {
-      "symbol": "MCTA",
-      "name": "Charming Medical Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "MCVT",
       "name": "Miller Convertible Total Return ETF",
       "exchange": "NYSE ARCA",
@@ -44520,6 +44532,12 @@
       "symbol": "MFIN",
       "name": "Medallion Financial Corp. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "MFIX",
+      "name": "Nomura Strategic Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -46782,6 +46800,12 @@
       "symbol": "MTRA",
       "name": "Invesco International Growth Focus ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "MTRI",
+      "name": "Mentari Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -60375,12 +60399,6 @@
       "isETF": false
     },
     {
-      "symbol": "ROKU",
-      "name": "Roku, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "ROL",
       "name": "Rollins, Inc. Common Stock",
       "exchange": "NYSE",
@@ -64407,6 +64425,12 @@
       "isETF": false
     },
     {
+      "symbol": "SMDC",
+      "name": "Nomura Small and Mid Cap ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SMDD",
       "name": "UltraPro Short MidCap400",
       "exchange": "NYSE ARCA",
@@ -68013,18 +68037,6 @@
       "isETF": false
     },
     {
-      "symbol": "TCBI",
-      "name": "Texas Capital Bancshares, Inc. Common Stock",
-      "exchange": "OTHER",
-      "isETF": false
-    },
-    {
-      "symbol": "TCBI$B",
-      "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
-      "exchange": "OTHER",
-      "isETF": false
-    },
-    {
       "symbol": "TCBK",
       "name": "TriCo Bancshares - Common Stock",
       "exchange": "NASDAQ",
@@ -69336,12 +69348,6 @@
       "symbol": "TLCI",
       "name": "Touchstone International Equity ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "TLDR",
-      "name": "The Laddered T-Bill ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -71445,6 +71451,18 @@
       "isETF": false
     },
     {
+      "symbol": "TXCP",
+      "name": "Texas Capital Bancshares, Inc. Common Stock",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
+      "symbol": "TXCP$B",
+      "name": "Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",
+      "exchange": "OTHER",
+      "isETF": false
+    },
+    {
       "symbol": "TXG",
       "name": "10x Genomics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -72143,12 +72161,6 @@
     {
       "symbol": "ULTA",
       "name": "Ulta Beauty, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ULTI",
-      "name": "REX IncomeMax Option Strategy ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -77166,6 +77178,12 @@
       "symbol": "XDIV",
       "name": "Roundhill S&P 500 No Dividend Target ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "XDLR",
+      "name": "Lazard Non-Dollar Active Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
