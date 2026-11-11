@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-10T04:29:03.185811Z",
-  "count": 13279,
+  "lastUpdated": "2026-11-11T02:31:33.408377Z",
+  "count": 13281,
   "tickers": [
     {
       "symbol": "A",
@@ -738,12 +738,6 @@
       "symbol": "ACHR",
       "name": "Archer Aviation Inc. Class A Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "ACHV",
-      "name": "Achieve Life Sciences, Inc.  - Common Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -8334,6 +8328,12 @@
       "symbol": "BGR",
       "name": "BlackRock Energy and Resources Trust",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "BGRD",
+      "name": "BNY Mellon Power Ecosystem ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -21975,6 +21975,12 @@
       "isETF": false
     },
     {
+      "symbol": "EMDI",
+      "name": "Principal Finisterre Emerging Markets Diversified Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "EMDM",
       "name": "First Trust Bloomberg Emerging Market Democracies ETF",
       "exchange": "NYSE ARCA",
@@ -24096,12 +24102,6 @@
       "symbol": "EZPZ",
       "name": "Franklin Crypto Index ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "EZRA",
-      "name": "Reliance Global Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -28660,7 +28660,7 @@
     },
     {
       "symbol": "GCBC",
-      "name": "Greene County Bancorp, Inc. - Common Stock",
+      "name": "Greene Bancorp, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -31859,12 +31859,6 @@
     {
       "symbol": "HAUG",
       "name": "Corgi U.S. Equities 100% Structured Buffer ETF - August Series",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "HAUS",
-      "name": "Residential REIT ETF",
       "exchange": "BATS",
       "isETF": false
     },
@@ -42816,6 +42810,12 @@
       "symbol": "LTCC",
       "name": "Canary Litecoin ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LTEQ",
+      "name": "Equity Partners ETF",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -54321,6 +54321,12 @@
       "isETF": false
     },
     {
+      "symbol": "PGRW",
+      "name": "Principal Growth ETF",
+      "exchange": "BATS",
+      "isETF": false
+    },
+    {
       "symbol": "PGX",
       "name": "Invesco Preferred ETF",
       "exchange": "NYSE ARCA",
@@ -56517,18 +56523,6 @@
       "isETF": false
     },
     {
-      "symbol": "PSQH",
-      "name": "PSQ Holdings, Inc. Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "PSQH.W",
-      "name": "PSQ Holdings, Inc. Warrants, each exercisable for one share of Class A common stock at an exercise price of $11.50 per share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "PSQL",
       "name": "Pasqal Holding SA - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -58203,6 +58197,12 @@
       "isETF": false
     },
     {
+      "symbol": "QUIT",
+      "name": "Achieve Life Sciences, Inc.  - Common Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "QUIZ",
       "name": "Zacks Quality International ETF",
       "exchange": "NYSE ARCA",
@@ -58980,12 +58980,6 @@
       "symbol": "REA",
       "name": "Rare Earths Americas, Inc. Common Stock",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "REAI",
-      "name": "Intelligent Real Estate ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -62361,8 +62355,26 @@
       "isETF": false
     },
     {
+      "symbol": "SCQC",
+      "name": "SPACCircle Acquisition Corp. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCQCR",
+      "name": "SPACCircle Acquisition Corp. - Rights",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SCQCU",
       "name": "SPACCircle Acquisition Corp. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SCQCW",
+      "name": "SPACCircle Acquisition Corp. - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -67313,12 +67325,6 @@
     {
       "symbol": "SWAG",
       "name": "Stran & Company, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SWAGW",
-      "name": "Stran & Company, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -77321,6 +77327,12 @@
     {
       "symbol": "XGN",
       "name": "Exagen Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "XGPU",
+      "name": "Reliance Global Group, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
