@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-11T02:31:33.408377Z",
-  "count": 13281,
+  "lastUpdated": "2026-11-12T03:36:13.606891Z",
+  "count": 13282,
   "tickers": [
     {
       "symbol": "A",
@@ -5394,12 +5394,6 @@
       "symbol": "ATC",
       "name": "GraniteShares Autocallable COIN ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ATCH",
-      "name": "AtlasClear Holdings, Inc. Common Stock",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -32847,12 +32841,6 @@
       "isETF": false
     },
     {
-      "symbol": "HLSQ",
-      "name": "Tessera Defense and Homeland Security Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "HLT",
       "name": "Hilton Worldwide Holdings Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -34542,6 +34530,12 @@
       "symbol": "IBLC",
       "name": "iShares Blockchain and Tech ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IBLY",
+      "name": "FT Vest Equity Target Income Plus 0-3 Month Treasury ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -36815,6 +36809,30 @@
     {
       "symbol": "IQDY",
       "name": "Northern Trust International Quality Dividend Dynamic ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IQEE",
+      "name": "Invesco Emerging Markets Enhanced ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IQEI",
+      "name": "Invesco International Developed Enhanced ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IQEL",
+      "name": "Invesco U.S. Large Cap Enhanced ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IQES",
+      "name": "Invesco U.S. Small Cap Enhanced ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -40415,12 +40433,6 @@
     {
       "symbol": "KPRX",
       "name": "Kiora Pharmaceuticals, Inc.  - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KPTI",
-      "name": "Karyopharm Therapeutics Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44256,12 +44268,6 @@
       "symbol": "MEMX",
       "name": "Matthews Emerging Markets ex China Active ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "MEMY",
-      "name": "Tuttle Capital Meme Stock Income Blast ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
