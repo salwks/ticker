@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-12T03:36:13.606891Z",
-  "count": 13282,
+  "lastUpdated": "2026-11-13T03:07:54.825924Z",
+  "count": 13285,
   "tickers": [
     {
       "symbol": "A",
@@ -13265,13 +13265,13 @@
     {
       "symbol": "CFR",
       "name": "Cullen/Frost Bankers, Inc. Common Stock",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
       "symbol": "CFR$B",
       "name": "Cullen/Frost Bankers, Inc. Depositary Shares, each representing a 1/40th ownership interest in a share of 4.450% non-cumulative perpetual preferred stock, Series B",
-      "exchange": "NYSE",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -16229,6 +16229,12 @@
     {
       "symbol": "CRMLW",
       "name": "Critical Metals Corp. - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CRMN",
+      "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -29847,6 +29853,12 @@
       "isETF": false
     },
     {
+      "symbol": "GLLD",
+      "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GLND",
       "name": "Greenland Energy Company - Common Stock",
       "exchange": "NASDAQ",
@@ -39429,12 +39441,6 @@
       "isETF": false
     },
     {
-      "symbol": "KAZR",
-      "name": "Skyline Builders Group Holding Limited - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "KB",
       "name": "KB Financial Group Inc",
       "exchange": "NYSE",
@@ -39498,6 +39504,12 @@
       "symbol": "KBSX",
       "name": "FST Corp. - Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "KBTY",
+      "name": "Guinness Atkinson K-Beauty ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -40236,12 +40248,6 @@
       "symbol": "KNRG",
       "name": "Simplify Kayne Anderson Energy and Infrastructure Credit ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "KNRX",
-      "name": "KNOREX LTD. Class A Ordinary Shares",
-      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -43320,6 +43326,12 @@
       "symbol": "MAGN",
       "name": "Magnera Corporation Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "MAGP",
+      "name": "Roundhill Magnificent Seven Plus ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48813,6 +48825,12 @@
       "isETF": false
     },
     {
+      "symbol": "NJPN",
+      "name": "Nomura Japan Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "NJR",
       "name": "NewJersey Resources Corporation Common Stock",
       "exchange": "NYSE",
@@ -50610,12 +50628,6 @@
       "symbol": "NXUS",
       "name": "Nuveen International Aggregate Bond ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "NXXT",
-      "name": "NextNRG, Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -56640,6 +56652,12 @@
       "symbol": "PTEN",
       "name": "Patterson-UTI Energy, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "PTEST",
+      "name": "Nyse Arca Test Symbol",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -63366,12 +63384,6 @@
       "symbol": "SHMDW",
       "name": "SCHMID Group N.V. - Warrants",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SHNY",
-      "name": "MicroSectors Gold 3X Leveraged ETNs due January 29, 2043",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -73764,6 +73776,12 @@
       "symbol": "VEM",
       "name": "Virtus Emerging Markets Dividend ETF",
       "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "VEMB",
+      "name": "Vanguard Emerging Markets Bond Active ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
