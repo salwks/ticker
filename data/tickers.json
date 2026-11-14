@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-13T03:07:54.825924Z",
-  "count": 13285,
+  "lastUpdated": "2026-11-14T02:54:02.874972Z",
+  "count": 13286,
   "tickers": [
     {
       "symbol": "A",
@@ -11505,6 +11505,12 @@
       "isETF": false
     },
     {
+      "symbol": "BWLB",
+      "name": "Brandywine Large Cap ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "BWLP",
       "name": "BW LPG Limited Common Shares",
       "exchange": "NYSE",
@@ -14309,12 +14315,6 @@
     {
       "symbol": "CLFD",
       "name": "Clearfield, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "CLGN",
-      "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -24741,12 +24741,6 @@
       "isETF": false
     },
     {
-      "symbol": "FDFF",
-      "name": "Fidelity Disruptive Finance ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FDG",
       "name": "American Century Focused Dynamic Growth ETF",
       "exchange": "NYSE ARCA",
@@ -24756,12 +24750,6 @@
       "symbol": "FDHY",
       "name": "Fidelity Enhanced High Yield ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "FDIF",
-      "name": "Fidelity Disruptors ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -26565,18 +26553,6 @@
       "isETF": false
     },
     {
-      "symbol": "FMED",
-      "name": "Fidelity Disruptive Medicine ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "FMET",
-      "name": "Fidelity Metaverse ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "FMF",
       "name": "First Trust Managed Futures Strategy Fund",
       "exchange": "NYSE ARCA",
@@ -27060,12 +27036,6 @@
       "symbol": "FPI",
       "name": "Farmland Partners Inc. Common Stock",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "FPRO",
-      "name": "Fidelity Real Estate Investment ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -42285,6 +42255,12 @@
       "isETF": false
     },
     {
+      "symbol": "LOB$B",
+      "name": "Live Oak Bancshares, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 8.750% Fixed Rate Series B Non-Cumulative Perpetual Preferred Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "LOBO",
       "name": "LOBO TECHNOLOGIES LTD. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -42423,8 +42399,20 @@
       "isETF": false
     },
     {
+      "symbol": "LOVI",
+      "name": "Live Oak Acquisition Corp. VI - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "LOVIU",
       "name": "Live Oak Acquisition Corp. VI - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "LOVIW",
+      "name": "Live Oak Acquisition Corp. VI - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -44112,6 +44100,12 @@
       "symbol": "MDPL",
       "name": "Monarch Dividend Plus Index ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "MDRN",
+      "name": "Modern Mining Technology Corp. Common Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -51484,7 +51478,7 @@
     },
     {
       "symbol": "OLMA",
-      "name": "Olema Pharmaceuticals, Inc. - Common Stock",
+      "name": "Olema Oncology, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -51900,6 +51894,12 @@
       "symbol": "OPHC",
       "name": "OptimumBank Holdings, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "OPHI",
+      "name": "CollPlant Biotechnologies Ltd. - Ordinary Shares",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -56718,12 +56718,6 @@
       "symbol": "PTLC",
       "name": "Pacer Trendpilot US Large Cap ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "PTLE",
-      "name": "PTL LTD - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -72807,12 +72801,6 @@
       "isETF": false
     },
     {
-      "symbol": "USG",
-      "name": "USCF Gold Strategy Plus Income Fund",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "USGG",
       "name": "Leverage Shares 2X Long USAR Daily ETF",
       "exchange": "NASDAQ",
@@ -75261,6 +75249,12 @@
       "isETF": false
     },
     {
+      "symbol": "VVVV",
+      "name": "vVARDIS Holding AG Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "VVX",
       "name": "V2X, Inc. Common Stock",
       "exchange": "NYSE",
@@ -75976,7 +75970,7 @@
     },
     {
       "symbol": "WFRD",
-      "name": "Weatherford International plc - Ordinary shares",
+      "name": "Weatherford International Corp - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -76865,6 +76859,12 @@
     {
       "symbol": "WW",
       "name": "WW International, Inc.  - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "WWB",
+      "name": "Windward Bio Group AG - Common shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -79685,6 +79685,12 @@
     {
       "symbol": "ZYME",
       "name": "Zymeworks Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZYN",
+      "name": "PTL LTD - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
