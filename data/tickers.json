@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-16T02:33:36.255719Z",
-  "count": 13286,
+  "lastUpdated": "2026-11-17T04:57:01.107663Z",
+  "count": 13283,
   "tickers": [
     {
       "symbol": "A",
@@ -7797,12 +7797,6 @@
       "isETF": false
     },
     {
-      "symbol": "BEATW",
-      "name": "Heartbeam, Inc. - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "BEBE",
       "name": "TGE Value Creative Solutions Corp Class A Ordinary Shares",
       "exchange": "NYSE",
@@ -9024,12 +9018,6 @@
       "symbol": "BKGI",
       "name": "BNY Mellon Global Infrastructure Income ETF",
       "exchange": "BATS",
-      "isETF": false
-    },
-    {
-      "symbol": "BKH",
-      "name": "Black Hills Corporation Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -10413,8 +10401,20 @@
       "isETF": false
     },
     {
+      "symbol": "BRRK",
+      "name": "Bluerock Acquisition Corp. II - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BRRKU",
       "name": "Bluerock Acquisition Corp. II - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "BRRKW",
+      "name": "Bluerock Acquisition Corp. II - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -10925,12 +10925,6 @@
     {
       "symbol": "BTBD",
       "name": "BT Brands, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "BTBDW",
-      "name": "BT Brands, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -26860,7 +26854,7 @@
     },
     {
       "symbol": "FOFO",
-      "name": "Hang Feng Technology Innovation Co., Ltd. - Ordinary Shares",
+      "name": "Hang Feng Technology Innovation Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32115,6 +32109,12 @@
       "isETF": false
     },
     {
+      "symbol": "HCOP",
+      "name": "Hartford Hybrid and Credit Opportunities ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "HCOW",
       "name": "Amplify COWS Covered Call ETF",
       "exchange": "NASDAQ",
@@ -34068,6 +34068,12 @@
       "symbol": "HYZD",
       "name": "WisdomTree Interest Rate Hedged High Yield Bond Fund",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HZN",
+      "name": "Bright Horizon Energy Corporation Common Stock",
+      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -37326,12 +37332,6 @@
       "symbol": "ITG",
       "name": "ITG, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ITGR",
-      "name": "Integer Holdings Corporation Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -40671,12 +40671,6 @@
       "isETF": false
     },
     {
-      "symbol": "KTF",
-      "name": "DWS Municipal Income Trust",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "KTH",
       "name": "Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock",
       "exchange": "NYSE",
@@ -43041,12 +43035,6 @@
       "isETF": false
     },
     {
-      "symbol": "LVWR.W",
-      "name": "LiveWire Group, Inc. Warrants, each exercisable for one share of Common Stock at an exercise price of $11.50 per share",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "LW",
       "name": "Lamb Weston Holdings, Inc. Common Stock",
       "exchange": "NYSE",
@@ -43763,7 +43751,7 @@
     {
       "symbol": "MBSX",
       "name": "Regan Fixed Rate MBS ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -50409,12 +50397,6 @@
       "isETF": false
     },
     {
-      "symbol": "NWE",
-      "name": "NorthWestern Energy Group, Inc.  - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "NWFL",
       "name": "Norwood Financial Corp. - Common Stock",
       "exchange": "NASDAQ",
@@ -54807,12 +54789,6 @@
       "isETF": false
     },
     {
-      "symbol": "PLCE",
-      "name": "Children's Place, Inc. (The) - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PLCI",
       "name": "Pelican Acquisition II Corporation - Ordinary Shares",
       "exchange": "NASDAQ",
@@ -55533,8 +55509,20 @@
       "isETF": false
     },
     {
+      "symbol": "PORT",
+      "name": "Southport Acquisition Corp. II Class A Ordinary Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "PORT.U",
       "name": "Southport Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "PORT.W",
+      "name": "Southport Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -66725,12 +66713,6 @@
     {
       "symbol": "STLN",
       "name": "Starling Oncology, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "STLNW",
-      "name": "Starling Oncology, Inc. - Warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
