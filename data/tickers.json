@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-17T04:57:01.107663Z",
-  "count": 13283,
+  "lastUpdated": "2026-11-18T04:00:53.497554Z",
+  "count": 13289,
   "tickers": [
     {
       "symbol": "A",
@@ -714,12 +714,6 @@
       "symbol": "ACGR",
       "name": "American Century Large Cap Growth ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "ACH",
-      "name": "Accendra Health, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -5328,12 +5322,6 @@
       "symbol": "ASTM",
       "name": "Allspring Strategic Municipal Bond Fund ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "ASTN",
-      "name": "Defiance Daily Target 2X Short ASTS ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -17295,6 +17283,18 @@
       "isETF": false
     },
     {
+      "symbol": "CWPD",
+      "name": "CWP Premium Dividend ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CWPG",
+      "name": "CWP Premium Growth ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "CWS",
       "name": "AdvisorShares Focused Equity ETF",
       "exchange": "NYSE ARCA",
@@ -17627,6 +17627,12 @@
     {
       "symbol": "DASH",
       "name": "DoorDash, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "DAU",
+      "name": "GraniteShares Autocallable AMD ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -19737,6 +19743,12 @@
       "isETF": false
     },
     {
+      "symbol": "DRAC",
+      "name": "GraniteShares Autocallable DRAM ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "DRAI",
       "name": "Draco Evolution AI ETF",
       "exchange": "NYSE ARCA",
@@ -20393,12 +20405,6 @@
     {
       "symbol": "DVGR",
       "name": "DAC 3D Dividend Growth ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "DVLT",
-      "name": "Datavault AI Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30004,8 +30010,8 @@
     },
     {
       "symbol": "GM",
-      "name": "General Motors Company Common Stock",
-      "exchange": "NYSE",
+      "name": "General Motors Company - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -44157,6 +44163,12 @@
       "isETF": false
     },
     {
+      "symbol": "MEA",
+      "name": "GraniteShares Autocallable META ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "MEAR",
       "name": "iShares Short Maturity Municipal Bond Active ETF",
       "exchange": "BATS",
@@ -45742,7 +45754,7 @@
     },
     {
       "symbol": "MOD",
-      "name": "Modine Manufacturing Company Common Stock",
+      "name": "Modexus Solutions, Inc. Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -49695,6 +49707,12 @@
       "isETF": false
     },
     {
+      "symbol": "NTCR",
+      "name": "Nuveen Technology & Infrastructure Credit ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "NTCT",
       "name": "NetScout Systems, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -53511,6 +53529,12 @@
       "isETF": false
     },
     {
+      "symbol": "PCHX",
+      "name": "State Street SPDR Nasdaq MyPaycheck ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "PCI",
       "name": "PGIM Corporate Bond 5-10 Year ETF",
       "exchange": "BATS",
@@ -54612,6 +54636,12 @@
       "symbol": "PIT",
       "name": "VanEck Commodity Strategy ETF",
       "exchange": "BATS",
+      "isETF": false
+    },
+    {
+      "symbol": "PIVT",
+      "name": "VanEck Pivotal Trends ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -59889,12 +59919,6 @@
       "isETF": false
     },
     {
-      "symbol": "RKLZ",
-      "name": "Defiance Daily Target 2x Short RKLB ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "RKNG",
       "name": "Defiance Retail Kings ETF",
       "exchange": "NASDAQ",
@@ -63651,6 +63675,12 @@
       "isETF": false
     },
     {
+      "symbol": "SIMI",
+      "name": "American Beacon SiM High Income ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "SIMO",
       "name": "Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares",
       "exchange": "NASDAQ",
@@ -66864,12 +66894,6 @@
       "symbol": "STRZ",
       "name": "Starz Entertainment Corp. - Common Shares",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "STSM",
-      "name": "Defiance Daily Target 2X Short TSM ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -71505,6 +71529,12 @@
       "isETF": false
     },
     {
+      "symbol": "TXR",
+      "name": "Torex Resources Inc. Common Shares",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "TXRH",
       "name": "Texas Roadhouse, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -73479,12 +73509,6 @@
       "isETF": false
     },
     {
-      "symbol": "VBNK",
-      "name": "VersaBank - Common Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VBR",
       "name": "Vanguard Morningstar Small-Cap Value ETF",
       "exchange": "NYSE ARCA",
@@ -74813,6 +74837,12 @@
     {
       "symbol": "VRRM",
       "name": "Verra Mobility Corporation - Class A Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VRSA",
+      "name": "Versa Bancorp - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -79206,6 +79236,12 @@
       "symbol": "ZDAI",
       "name": "DirectBooking Technology Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZDAY",
+      "name": "Bitwise AI Cyber Defense ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
