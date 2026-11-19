@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-18T04:00:53.497554Z",
-  "count": 13289,
+  "lastUpdated": "2026-11-19T03:57:46.163301Z",
+  "count": 13297,
   "tickers": [
     {
       "symbol": "A",
@@ -4107,6 +4107,12 @@
       "isETF": false
     },
     {
+      "symbol": "APFS",
+      "name": "Artisan Focus Fund: ETF Class Shares",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "APG",
       "name": "APi Group Corporation Common Stock",
       "exchange": "NYSE",
@@ -4223,6 +4229,12 @@
     {
       "symbol": "APMU",
       "name": "ActivePassive Intermediate Municipal Bond ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "APNX",
+      "name": "Artisan Select Equity Fund: ETF Class Shares",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -12623,6 +12635,12 @@
     {
       "symbol": "CCHH",
       "name": "CCH Holdings Ltd - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CCHP",
+      "name": "Global X China Semiconductor ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -30093,6 +30111,12 @@
       "isETF": false
     },
     {
+      "symbol": "GMIX",
+      "name": "iShares Macro AlphaBeta Active ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GMM",
       "name": "Global Mofy AI Limited  - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -31445,6 +31469,12 @@
     {
       "symbol": "GUACW",
       "name": "Berto Acquisition Corp. II - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "GUER",
+      "name": "Guerrilla RF, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -34611,12 +34641,6 @@
       "isETF": false
     },
     {
-      "symbol": "IBO",
-      "name": "Impact BioMedical, Inc. Common Stock",
-      "exchange": "AMEX",
-      "isETF": false
-    },
-    {
       "symbol": "IBOC",
       "name": "International Bancshares Corporation Common Stock",
       "exchange": "OTHER",
@@ -36881,6 +36905,12 @@
     {
       "symbol": "IQQ",
       "name": "iShares Nasdaq 100 ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "IQQI",
+      "name": "IncomeQ Nasdaq-100 Premium Income ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -53631,12 +53661,6 @@
       "isETF": false
     },
     {
-      "symbol": "PCRX",
-      "name": "Pacira BioSciences, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PCS",
       "name": "PGIM Corporate Bond 0-5 Year ETF",
       "exchange": "BATS",
@@ -62493,6 +62517,12 @@
       "isETF": false
     },
     {
+      "symbol": "SDC",
+      "name": "KICK Space Data Center & Infrastructure Index ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "SDCI",
       "name": "USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund",
       "exchange": "NYSE ARCA",
@@ -63333,18 +63363,6 @@
       "isETF": false
     },
     {
-      "symbol": "SHFS",
-      "name": "SHF Holdings, Inc. - Class A Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SHFSW",
-      "name": "SHF Holdings, Inc. - Warrants",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SHG",
       "name": "Shinhan Financial Group Co Ltd American Depositary Shares",
       "exchange": "NYSE",
@@ -63360,6 +63378,12 @@
       "symbol": "SHIP",
       "name": "Seanergy Maritime Holdings Corp. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "SHLA",
+      "name": "Global X Asia Defense Tech ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -70407,6 +70431,12 @@
       "isETF": false
     },
     {
+      "symbol": "TRLL",
+      "name": "Direxion Trillions ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "TRLV",
       "name": "Trulieve Cannabis Corp. Subordinate Voting Shares",
       "exchange": "NYSE",
@@ -71652,12 +71682,6 @@
       "symbol": "TYRA",
       "name": "Tyra Biosciences, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "TYYY",
-      "name": "xETFs TSLA Daily Income ETF",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -73785,6 +73809,12 @@
       "isETF": false
     },
     {
+      "symbol": "VEN",
+      "name": "Teucrium Venezuela Future Opportunities ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "VENU",
       "name": "Venu Holding Corporation Common Stock",
       "exchange": "AMEX",
@@ -75246,6 +75276,12 @@
       "symbol": "VVOS",
       "name": "Vivos Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "VVPL",
+      "name": "Vulcan Value Partners ETF",
+      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -76959,12 +76995,6 @@
       "isETF": false
     },
     {
-      "symbol": "WZRD",
-      "name": "Opportunistic Trader ETF",
-      "exchange": "BATS",
-      "isETF": false
-    },
-    {
       "symbol": "XA",
       "name": "Corgi AI Cybersecurity ETF",
       "exchange": "BATS",
@@ -78645,6 +78675,12 @@
       "isETF": false
     },
     {
+      "symbol": "YASX",
+      "name": "Yorkville America Space Index ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "YB",
       "name": "Yuanbao Inc. - American Depositary Shares",
       "exchange": "NASDAQ",
@@ -78924,6 +78960,12 @@
       "symbol": "YNOT",
       "name": "Horizon Digital Frontier ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "YO",
+      "name": "Amplify S&P 500 Buffered Autocallable Yield Opportunity ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -79500,6 +79542,12 @@
       "symbol": "ZNTL",
       "name": "Zentalis Pharmaceuticals, Inc. - common stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "ZOAR",
+      "name": "Zoar Limited Ordinary Shares",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
