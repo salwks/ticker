@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-19T03:57:46.163301Z",
-  "count": 13297,
+  "lastUpdated": "2026-11-20T03:51:43.138427Z",
+  "count": 13302,
   "tickers": [
     {
       "symbol": "A",
@@ -3912,6 +3912,12 @@
       "symbol": "ANRO",
       "name": "Alto Neuroscience, Inc. Common Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "ANT",
+      "name": "Anthropic, PBC - Class A Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -13311,6 +13317,12 @@
       "isETF": false
     },
     {
+      "symbol": "CGBI",
+      "name": "Capital Group Multi-Asset Income Builder ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "CGBL",
       "name": "Capital Group Core Balanced ETF",
       "exchange": "NYSE ARCA",
@@ -13439,6 +13451,12 @@
     {
       "symbol": "CGIE",
       "name": "Capital Group International Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "CGMI",
+      "name": "Capital Group Multi-Asset Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -22431,6 +22449,12 @@
       "isETF": false
     },
     {
+      "symbol": "ENVXW",
+      "name": "Enovix Corporation - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ENZL",
       "name": "iShares MSCI New Zealand ETF",
       "exchange": "NASDAQ",
@@ -24765,6 +24789,24 @@
       "isETF": false
     },
     {
+      "symbol": "FDGX",
+      "name": "First Digital Acquisition Corp Ltd. - Class A Ordinary Shares",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FDGXU",
+      "name": "First Digital Acquisition Corp Ltd. - Units",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FDGXW",
+      "name": "First Digital Acquisition Corp Ltd. - Warrants",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "FDHY",
       "name": "Fidelity Enhanced High Yield ETF",
       "exchange": "NYSE ARCA",
@@ -26544,6 +26586,12 @@
       "symbol": "FMBH",
       "name": "First Mid Bancshares, Inc. - Common Stock",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "FMBM",
+      "name": "F&M Bank Corp. Common Stock",
+      "exchange": "AMEX",
       "isETF": false
     },
     {
@@ -30123,12 +30171,6 @@
       "isETF": false
     },
     {
-      "symbol": "GMMA",
-      "name": "GammaRoad Market Navigation ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "GMMF",
       "name": "iShares Government Money Market ETF",
       "exchange": "NYSE",
@@ -30717,6 +30759,12 @@
       "isETF": false
     },
     {
+      "symbol": "GQGG",
+      "name": "GQG Global Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "GQGU",
       "name": "GQG US Equity ETF",
       "exchange": "NYSE ARCA",
@@ -31049,6 +31097,12 @@
     {
       "symbol": "GSC",
       "name": "Goldman Sachs Small Cap Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "GSCZ",
+      "name": "Goldman Sachs Securitized Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -38001,6 +38055,12 @@
       "isETF": false
     },
     {
+      "symbol": "JALL",
+      "name": "JPMorgan All Country Research Enhanced Equity ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
       "symbol": "JAN",
       "name": "Janus Living, Inc. Class A-1 Common Stock",
       "exchange": "NYSE",
@@ -40379,24 +40439,6 @@
     {
       "symbol": "KOSS",
       "name": "Koss Corporation - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KOYN",
-      "name": "CSLM Digital Asset Acquisition Corp III - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KOYNU",
-      "name": "CSLM Digital Asset Acquisition Corp III - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KOYNW",
-      "name": "CSLM Digital Asset Acquisition Corp III - Warrants",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -43128,12 +43170,6 @@
       "symbol": "LXEO",
       "name": "Lexeo Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "LXFR",
-      "name": "Luxfer Holdings PLC Ordinary Shares",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -62295,12 +62331,6 @@
       "isETF": false
     },
     {
-      "symbol": "SCKT",
-      "name": "Socket Mobile, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SCL",
       "name": "Stepan Company Common Stock",
       "exchange": "NYSE",
@@ -66543,12 +66573,6 @@
       "isETF": false
     },
     {
-      "symbol": "SSTI",
-      "name": "SoundThinking, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "SSTK",
       "name": "Shutterstock, Inc. Common Stock",
       "exchange": "NYSE",
@@ -68742,6 +68766,12 @@
       "symbol": "TFIN$",
       "name": "Triumph Financial, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "TFIX",
+      "name": "T. Rowe Price Capital Appreciation Fixed Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -71842,7 +71872,7 @@
     },
     {
       "symbol": "UBT",
-      "name": "ProShares Ultra 20+ Year Treasury",
+      "name": "ProShares Ultra 20 Year Treasury",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
