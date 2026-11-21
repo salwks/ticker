@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-20T03:51:43.138427Z",
-  "count": 13302,
+  "lastUpdated": "2026-11-21T03:44:27.687568Z",
+  "count": 13300,
   "tickers": [
     {
       "symbol": "A",
@@ -306,6 +306,12 @@
       "symbol": "AAUC",
       "name": "Allied Gold Corporation Common Shares",
       "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "AAUD",
+      "name": "Alpha Architect US Equity 5 ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -3527,12 +3533,6 @@
     {
       "symbol": "AMPG",
       "name": "Amplitech Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "AMPGZ",
-      "name": "Amplitech Group, Inc. - Series B Right",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -17513,6 +17513,12 @@
     {
       "symbol": "CZWI",
       "name": "Citizens Community Bancorp, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "CZZL",
+      "name": "Cizzle Brands Corporation - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -37233,6 +37239,12 @@
       "isETF": false
     },
     {
+      "symbol": "ISMH",
+      "name": "xETFs International Semiconductor ETF",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "ISNR",
       "name": "Snow Rothschild Acquisition Corp. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -38866,7 +38878,7 @@
     },
     {
       "symbol": "JOET",
-      "name": "Virtus Terranova U.S. Quality Momentum ETF",
+      "name": "Virtus NYSE Terranova U.S. Quality Momentum ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -44358,12 +44370,6 @@
       "symbol": "MER$K",
       "name": "Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066",
       "exchange": "NYSE",
-      "isETF": false
-    },
-    {
-      "symbol": "MERC",
-      "name": "Mercer International Inc. - Common Stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -51897,12 +51903,6 @@
       "isETF": false
     },
     {
-      "symbol": "OPAY",
-      "name": "OPay Limited American Depositary Shares, each representing ten Ordinary Shares",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "OPBK",
       "name": "OP Bancorp - Common Stock",
       "exchange": "NASDAQ",
@@ -51917,24 +51917,6 @@
     {
       "symbol": "OPEN",
       "name": "Opendoor Technologies Inc  - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OPENL",
-      "name": "Opendoor Technologies Inc  - Series A Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $13.00 per warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OPENW",
-      "name": "Opendoor Technologies Inc  - Series K Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $9.00 per warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "OPENZ",
-      "name": "Opendoor Technologies Inc  - Series Z Warrants, each whole warrant exercisable to purchase one share of Common Stock at an exercise price of $17.00 per warrant",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -65277,6 +65259,12 @@
       "isETF": false
     },
     {
+      "symbol": "SONN",
+      "name": "Southern Company (The) 2026 Series A Corporate Units",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
       "symbol": "SONO",
       "name": "Sonos, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -73167,12 +73155,6 @@
       "isETF": false
     },
     {
-      "symbol": "UTZ",
-      "name": "Utz Brands Inc Class A Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "UUP",
       "name": "Invesco DB USD Index Bullish Fund ETF",
       "exchange": "NYSE ARCA",
@@ -78936,6 +78918,12 @@
       "symbol": "YLDE",
       "name": "Franklin ClearBridge Enhanced Income ETF",
       "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "YLDS",
+      "name": "Harbor Arena Structured Income ETF",
+      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
