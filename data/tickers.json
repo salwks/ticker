@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-24T06:44:55.314686Z",
-  "count": 13315,
+  "lastUpdated": "2026-11-25T05:13:09.262958Z",
+  "count": 13312,
   "tickers": [
     {
       "symbol": "A",
@@ -15543,12 +15543,6 @@
       "isETF": false
     },
     {
-      "symbol": "COPZ",
-      "name": "Defiance Daily Target 2X Long Copper Miners ETF",
-      "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
       "symbol": "COR",
       "name": "Cencora, Inc. Common Stock",
       "exchange": "NYSE",
@@ -15756,12 +15750,6 @@
       "symbol": "CPHI",
       "name": "China Pharma Holdings, Inc. Common Stock",
       "exchange": "AMEX",
-      "isETF": false
-    },
-    {
-      "symbol": "CPHY",
-      "name": "F/m Compoundr High Yield Bond ETF",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -20951,12 +20939,6 @@
     {
       "symbol": "EBIZ",
       "name": "Global X E-commerce ETF",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "EBMT",
-      "name": "Eagle Bancorp Montana, Inc. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -36831,24 +36813,6 @@
       "isETF": false
     },
     {
-      "symbol": "IPFX",
-      "name": "Inflection Point Acquisition Corp. VI - Class A Ordinary Shares",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPFXU",
-      "name": "Inflection Point Acquisition Corp. VI - Units",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "IPFXW",
-      "name": "Inflection Point Acquisition Corp. VI - Warrant",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "IPGP",
       "name": "IPG Photonics Corporation - Common Stock",
       "exchange": "NASDAQ",
@@ -37691,6 +37655,12 @@
     {
       "symbol": "IVE",
       "name": "iShares S&P 500 Value ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "IVEA",
+      "name": "Dan IVES Wedbush AI Autocallable Income ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -39864,12 +39834,6 @@
       "symbol": "KEEL",
       "name": "Keel Infrastructure Corp. - Common Stock",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "KEEX",
-      "name": "Defiance Daily Target 2x Long KEEL ETF",
-      "exchange": "BATS",
       "isETF": false
     },
     {
@@ -48857,7 +48821,7 @@
     {
       "symbol": "NICO",
       "name": "Hexis Active Nicotine Engagement ETF",
-      "exchange": "NYSE ARCA",
+      "exchange": "OTHER",
       "isETF": false
     },
     {
@@ -51018,6 +50982,12 @@
       "symbol": "OBK",
       "name": "Origin Bancorp, Inc. Common Stock",
       "exchange": "OTHER",
+      "isETF": false
+    },
+    {
+      "symbol": "OBMT",
+      "name": "Opportunity Bancorp, Inc. - Common Stock",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -58209,6 +58179,18 @@
       "isETF": false
     },
     {
+      "symbol": "QSPC",
+      "name": "Quantum Space, Inc. Class A-1 Common Stock",
+      "exchange": "NYSE",
+      "isETF": false
+    },
+    {
+      "symbol": "QSPC.W",
+      "name": "Quantum Space, Inc. Warrants, each whole warrant exercisable for one share of Class A-1 Common Stock at an exercise price of $11.50 per share",
+      "exchange": "AMEX",
+      "isETF": false
+    },
+    {
       "symbol": "QSPT",
       "name": "FT Vest Nasdaq-100 Buffer ETF - September",
       "exchange": "BATS",
@@ -58835,12 +58817,6 @@
     {
       "symbol": "RCAT",
       "name": "Red Cat Holdings, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "RCAX",
-      "name": "Defiance Daily Target 2x Long RCAT ETF",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -78755,6 +78731,12 @@
     {
       "symbol": "YANG",
       "name": "Direxion Daily FTSE China Bear 3X ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "YANT",
+      "name": "YieldMax ANT Option Income Strategy ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
