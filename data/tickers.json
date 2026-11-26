@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T05:13:09.262958Z",
+  "lastUpdated": "2026-11-26T04:41:51.558643Z",
   "count": 13312,
   "tickers": [
     {
@@ -8223,6 +8223,12 @@
       "isETF": false
     },
     {
+      "symbol": "BFLR",
+      "name": "BlueFlare, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "BFLX",
       "name": "iShares Flexible Equity Active ETF",
       "exchange": "NASDAQ",
@@ -15750,6 +15756,12 @@
       "symbol": "CPHI",
       "name": "China Pharma Holdings, Inc. Common Stock",
       "exchange": "AMEX",
+      "isETF": false
+    },
+    {
+      "symbol": "CPHY",
+      "name": "F/m Compoundr High Yield Bond ETF",
+      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -26910,12 +26922,6 @@
       "symbol": "FNGO",
       "name": "MicroSectors FANG  Index 2X Leveraged ETNs due January 8, 2038",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "FNGR",
-      "name": "FingerMotion, Inc. - common stock",
-      "exchange": "NASDAQ",
       "isETF": false
     },
     {
@@ -53073,12 +53079,6 @@
       "isETF": false
     },
     {
-      "symbol": "PASG",
-      "name": "Passage Bio, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "PASW",
       "name": "Ping An Biomedical Co., Ltd. - Class A Ordinary Shares",
       "exchange": "NASDAQ",
@@ -60267,6 +60267,12 @@
       "isETF": false
     },
     {
+      "symbol": "RMTX",
+      "name": "Remix Therapeutics, Inc. - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
       "symbol": "RNA",
       "name": "Atrium Therapeutics, Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -61559,12 +61565,6 @@
     {
       "symbol": "SAFT",
       "name": "Safety Insurance Group, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SAFX",
-      "name": "XCF Global, Inc. - Class A Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
