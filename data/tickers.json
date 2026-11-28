@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-27T04:46:36.163640Z",
-  "count": 13312,
+  "lastUpdated": "2026-11-28T04:30:30.078690Z",
+  "count": 13309,
   "tickers": [
     {
       "symbol": "A",
@@ -1739,6 +1739,12 @@
     {
       "symbol": "AFLG",
       "name": "First Trust Active Factor Large Cap ETF",
+      "exchange": "NYSE ARCA",
+      "isETF": false
+    },
+    {
+      "symbol": "AFLR",
+      "name": "Aligned Pathway Flourishing ETF",
       "exchange": "NYSE ARCA",
       "isETF": false
     },
@@ -10077,12 +10083,6 @@
       "isETF": false
     },
     {
-      "symbol": "BOW",
-      "name": "Bowhead Specialty Holdings Inc. Common Stock",
-      "exchange": "NYSE",
-      "isETF": false
-    },
-    {
       "symbol": "BOX",
       "name": "Box, Inc. Class A Common Stock",
       "exchange": "NYSE",
@@ -17428,7 +17428,7 @@
     },
     {
       "symbol": "CWT",
-      "name": "California Water Service Group Common Stock",
+      "name": "Watermark Utilities Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -20514,12 +20514,6 @@
       "symbol": "DUTY",
       "name": "U.S. Defense ETF",
       "exchange": "NYSE ARCA",
-      "isETF": false
-    },
-    {
-      "symbol": "DV",
-      "name": "DoubleVerify Holdings, Inc. Common Stock",
-      "exchange": "NYSE",
       "isETF": false
     },
     {
@@ -30952,7 +30946,7 @@
     },
     {
       "symbol": "GRDX",
-      "name": "GridAI Technologies Corp.  - Common Stock",
+      "name": "GridAI Power Corp. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -32325,12 +32319,6 @@
       "isETF": false
     },
     {
-      "symbol": "HCTI",
-      "name": "Healthcare Triangle, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "HCWB",
       "name": "HCW Biologics Inc. - Common Stock",
       "exchange": "NASDAQ",
@@ -33665,6 +33653,12 @@
     {
       "symbol": "HTO",
       "name": "H2O America  - Common Stock",
+      "exchange": "NASDAQ",
+      "isETF": false
+    },
+    {
+      "symbol": "HTOEU",
+      "name": "H2O America  - Equity Units",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -48052,7 +48046,7 @@
     },
     {
       "symbol": "NCA",
-      "name": "Nuveen California Municipal Value Fund",
+      "name": "Nuveen California Municipal Income Fund Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -49276,7 +49270,7 @@
     },
     {
       "symbol": "NNY",
-      "name": "Nuveen New York Municipal Value Fund Common Stock",
+      "name": "Nuveen New York Municipal Income Fund Common Stock",
       "exchange": "NYSE",
       "isETF": false
     },
@@ -63286,7 +63280,7 @@
     },
     {
       "symbol": "SGLY",
-      "name": "Singularity Future Technology Ltd. - Common Stock",
+      "name": "Compower Ltd. - Common Stock",
       "exchange": "NASDAQ",
       "isETF": false
     },
@@ -65412,12 +65406,6 @@
       "symbol": "SOUX",
       "name": "Defiance Daily Target 2X Long SOUN ETF",
       "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
-      "symbol": "SOVF",
-      "name": "Sovereign's Capital Flourish Fund",
-      "exchange": "NYSE ARCA",
       "isETF": false
     },
     {
@@ -75339,12 +75327,6 @@
       "isETF": false
     },
     {
-      "symbol": "VVOS",
-      "name": "Vivos Therapeutics, Inc. - Common Stock",
-      "exchange": "NASDAQ",
-      "isETF": false
-    },
-    {
       "symbol": "VVPL",
       "name": "Vulcan Value Partners ETF",
       "exchange": "BATS",
@@ -79810,7 +79792,7 @@
     },
     {
       "symbol": "ZWZZT",
-      "name": "NASDAQ TEST STOCK NC",
+      "name": "NASDAQ TEST STOCK despac Test",
       "exchange": "NASDAQ",
       "isETF": false
     },
